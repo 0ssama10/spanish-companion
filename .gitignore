@@ -3,3 +3,7 @@ private-audio/
 *.mp3
 *.zip
 *.transcript.json
+
+# Local tooling
+__pycache__/
+.claude/

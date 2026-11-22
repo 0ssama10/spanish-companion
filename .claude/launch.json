@@ -1,6 +1,0 @@
-{
-  "version": "0.0.1",
-  "configurations": [
-    { "name": "app", "runtimeExecutable": "python", "runtimeArgs": ["-m", "http.server", "8766", "--directory", "C:/Users/oussa/spanish lessons/app"], "port": 8766 }
-  ]
-}
