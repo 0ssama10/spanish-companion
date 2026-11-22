@@ -1,0 +1,269 @@
+{
+ "id": "03",
+ "track": 3,
+ "title": "-ant/-ent → -ante/-ente, -ly → -mente, -ible/-able",
+ "cards": [
+  {
+   "title": "-ant / -ent → add an e",
+   "body": "Many English words ending in -ant or -ent become Spanish by adding an -e. The stress falls on the second-to-last syllable.",
+   "examples": [
+    {
+     "en": "important",
+     "es": "importante",
+     "say": "eem-por-TAHN-teh"
+    }
+   ],
+   "caveat": "\"Most of them\", not all: it's a pattern to try, not a rule without exceptions.",
+   "t": 0
+  },
+  {
+   "title": "Notice the stress, don't memorise it",
+   "body": "Where a word is stressed matters as much as its sounds. Build the habit of noticing the stressed syllable each time you meet a word, rather than trying to memorise it.",
+   "t": 42.7
+  },
+  {
+   "title": "diferente, constante",
+   "body": "Two more -ent/-ant words. Note that Spanish writes diferente with a single f.",
+   "examples": [
+    {
+     "en": "It's not different.",
+     "es": "No es diferente.",
+     "say": "noh ess dee-feh-REN-teh"
+    },
+    {
+     "en": "It's constant.",
+     "es": "Es constante.",
+     "say": "ess kons-TAHN-teh"
+    }
+   ],
+   "t": 71.6
+  },
+  {
+   "title": "-ly → -mente",
+   "body": "Add -mente to an adjective to get the English -ly form. It stays one word.",
+   "examples": [
+    {
+     "en": "constantly",
+     "es": "constantemente",
+     "say": "kons-tahn-teh-MEN-teh"
+    },
+    {
+     "en": "legally",
+     "es": "legalmente",
+     "say": "leh-gahl-MEN-teh"
+    },
+    {
+     "en": "illegally",
+     "es": "ilegalmente",
+     "say": "ee-leh-gahl-MEN-teh"
+    }
+   ],
+   "t": 97.7
+  },
+  {
+   "title": "real — and a rolled r",
+   "body": "Real is the same in Spanish. An r at the start of a word is rolled. Real can also mean 'royal', as in Real Madrid.",
+   "examples": [
+    {
+     "en": "real",
+     "es": "real",
+     "say": "rreh-AHL (rolled r)"
+    },
+    {
+     "en": "really",
+     "es": "realmente",
+     "say": "rreh-ahl-MEN-teh"
+    }
+   ],
+   "t": 131.3
+  },
+  {
+   "title": "normalmente = usually",
+   "body": "Normalmente is used much like English 'usually'. You can put it at the front of a sentence.",
+   "examples": [
+    {
+     "en": "Usually it's important.",
+     "es": "Normalmente es importante.",
+     "say": "nor-mahl-MEN-teh ess eem-por-TAHN-teh"
+    }
+   ],
+   "t": 163.9
+  },
+  {
+   "title": "English 'j' sound → throaty Spanish sound",
+   "body": "When a convertible word has the English 'j' sound (as in general), Spanish turns it into a throaty sound, a bit like clearing your throat gently. Think of how Spanish says Argentina. This is about the sound, not the letter g: a hard g, as in global, stays hard.",
+   "examples": [
+    {
+     "en": "general",
+     "es": "general",
+     "say": "kheh-neh-RAHL (kh = throaty h)"
+    },
+    {
+     "en": "global",
+     "es": "global",
+     "say": "gloh-BAHL (hard g)"
+    },
+    {
+     "en": "generally",
+     "es": "generalmente",
+     "say": "kheh-neh-rahl-MEN-teh"
+    }
+   ],
+   "t": 194.6
+  },
+  {
+   "title": "original, digital, naturalmente",
+   "body": "More -al words with the same throaty sound. Naturalmente can also work a bit like 'obviously'.",
+   "examples": [
+    {
+     "en": "original",
+     "es": "original",
+     "say": "oh-ree-khee-NAHL"
+    },
+    {
+     "en": "digital",
+     "es": "digital",
+     "say": "dee-khee-TAHL"
+    },
+    {
+     "en": "Naturally, it's original.",
+     "es": "Naturalmente es original.",
+     "say": "nah-too-rahl-MEN-teh ess oh-ree-khee-NAHL"
+    }
+   ],
+   "t": 243.6
+  },
+  {
+   "title": "-ible / -able",
+   "body": "Many -ible and -able words convert too. Say them syllable by syllable, stressing the second-to-last. Possible has one s in Spanish.",
+   "examples": [
+    {
+     "en": "possible",
+     "es": "posible",
+     "say": "poh-SEE-bleh"
+    },
+    {
+     "en": "probably",
+     "es": "probablemente",
+     "say": "proh-bah-bleh-MEN-teh"
+    },
+    {
+     "en": "Possibly it's original.",
+     "es": "Posiblemente es original."
+    },
+    {
+     "en": "flexible",
+     "es": "flexible",
+     "say": "flek-SEE-bleh"
+    }
+   ],
+   "t": 274.8
+  },
+  {
+   "title": "Experiment, accept exceptions",
+   "body": "It works when -able/-ible is really part of the word ('doable' doesn't convert). Some rules have more exceptions than others. Try converting words freely, and don't let the chance of an exception stop you: that's how you find the words that work.",
+   "caveat": "Built-on English endings like do-able are not Latin words, so they won't convert.",
+   "t": 320.3
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "It's important.",
+   "es": [
+    "Es importante"
+   ],
+   "why": "-ant → -ante: importante."
+  },
+  {
+   "id": "p2",
+   "en": "It's not different.",
+   "es": [
+    "No es diferente"
+   ],
+   "why": "no es + diferente (one f)."
+  },
+  {
+   "id": "p3",
+   "en": "constantly",
+   "es": [
+    "constantemente"
+   ],
+   "why": "constante + -mente, one word."
+  },
+  {
+   "id": "p4",
+   "en": "legally",
+   "es": [
+    "legalmente"
+   ],
+   "why": "legal + -mente."
+  },
+  {
+   "id": "p5",
+   "en": "really",
+   "es": [
+    "realmente"
+   ],
+   "why": "real + -mente."
+  },
+  {
+   "id": "p6",
+   "en": "Usually it's important.",
+   "es": [
+    "Normalmente es importante"
+   ],
+   "why": "normalmente works like 'usually'."
+  },
+  {
+   "id": "p7",
+   "en": "Generally it's original.",
+   "es": [
+    "Generalmente es original"
+   ],
+   "why": "general + -mente; both have the throaty sound."
+  },
+  {
+   "id": "p8",
+   "en": "Naturally it's original.",
+   "es": [
+    "Naturalmente es original"
+   ],
+   "why": "natural + -mente, then es original."
+  },
+  {
+   "id": "p9",
+   "en": "It's possible.",
+   "es": [
+    "Es posible"
+   ],
+   "why": "-ible stays: posible, with one s."
+  },
+  {
+   "id": "p10",
+   "en": "It's probably not possible.",
+   "es": [
+    "Probablemente no es posible"
+   ],
+   "why": "probablemente first, then no es posible."
+  },
+  {
+   "id": "p11",
+   "en": "Possibly it's original.",
+   "es": [
+    "Posiblemente es original"
+   ],
+   "why": "posible + -mente."
+  },
+  {
+   "id": "p12",
+   "en": "It's not flexible.",
+   "es": [
+    "No es flexible"
+   ],
+   "why": "-ible words carry over: flexible."
+  }
+ ],
+ "duration": 374.86,
+ "scId": 161024761
+}

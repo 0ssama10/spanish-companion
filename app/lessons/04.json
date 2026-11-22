@@ -1,0 +1,289 @@
+{
+ "id": "04",
+ "track": 4,
+ "title": "quiero, -ion words, verbs from -ation",
+ "cards": [
+  {
+   "title": "urgente, urgentemente",
+   "body": "Warm-up with the last lesson's patterns: -ent → -ente, and -mente for -ly.",
+   "examples": [
+    {
+     "en": "urgent",
+     "es": "urgente",
+     "say": "oor-KHEN-teh"
+    },
+    {
+     "en": "urgently",
+     "es": "urgentemente",
+     "say": "oor-khen-teh-MEN-teh"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "quiero = I want",
+   "body": "Te quiero means 'I love you' — literally 'I want you'. It's everyday and warm, used with friends and partners. Te amo is much more serious. Drop te (you) and you're left with quiero, 'I want'. Put no in front for 'I don't want'.",
+   "examples": [
+    {
+     "en": "I love you (lit. I want you)",
+     "es": "te quiero",
+     "say": "teh KYEH-roh"
+    },
+    {
+     "en": "I want",
+     "es": "quiero"
+    },
+    {
+     "en": "I don't want",
+     "es": "no quiero"
+    }
+   ],
+   "caveat": "Te quiero vs te amo is a difference in strength, not a strict rule.",
+   "t": 14.8
+  },
+  {
+   "title": "-ion words: same word, stress on the end",
+   "body": "Words ending in -ion are shared by English and Spanish. In Spanish, say every vowel as written and stress the last syllable (that's what the accent mark on ó shows). Keep the s as an s, not 'sh'.",
+   "examples": [
+    {
+     "en": "opinion",
+     "es": "opinión",
+     "say": "oh-pee-NYOHN"
+    },
+    {
+     "en": "passion",
+     "es": "pasión",
+     "say": "pah-SYOHN (s, not sh)"
+    }
+   ],
+   "t": 49.6
+  },
+  {
+   "title": "-tion → -ción: s or th?",
+   "body": "English -tion is spelled -ción in Spanish. Most Spanish speakers (Latin America and parts of Spain) pronounce the c like s; much of Spain says 'th'. The course suggests the s sound unless you have a reason to follow Spain. A z sounds the same way: s or th.",
+   "examples": [
+    {
+     "en": "preparation",
+     "es": "preparación",
+     "say": "preh-pah-rah-SYOHN"
+    },
+    {
+     "en": "organisation",
+     "es": "organización",
+     "say": "or-gah-nee-sah-SYOHN"
+    }
+   ],
+   "caveat": "Both pronunciations are correct; pick one and be consistent.",
+   "t": 91.2
+  },
+  {
+   "title": "Syllable by syllable",
+   "body": "Going syllable by syllable stops English vowels from slipping in. Watch the i in confirmación: it's 'ee', not the English 'er' sound.",
+   "examples": [
+    {
+     "en": "generation",
+     "es": "generación",
+     "say": "kheh-neh-rah-SYOHN"
+    },
+    {
+     "en": "confirmation",
+     "es": "confirmación",
+     "say": "kon-feer-mah-SYOHN"
+    }
+   ],
+   "t": 169.0
+  },
+  {
+   "title": "Positive and negative transfer",
+   "body": "When English habits leak into your Spanish (like English vowel sounds), that's negative language transfer. When English helps you (like these shared words), that's positive transfer. The aim is to spot both and use them to your advantage.",
+   "t": 195.4
+  },
+  {
+   "title": "Words hide their meaning",
+   "body": "Spanish shows where words come from. Con = with, firma = signature, so confirmación is 'with signing'. Conversación is 'with verses'. Confrontación links to frente (forehead). In complicación, con becomes com before p, just as in English.",
+   "examples": [
+    {
+     "en": "conversation",
+     "es": "conversación"
+    },
+    {
+     "en": "confrontation",
+     "es": "confrontación"
+    },
+    {
+     "en": "complication",
+     "es": "complicación"
+    }
+   ],
+   "t": 233.0
+  },
+  {
+   "title": "-ation → verb ending in -ar",
+   "body": "Take a word ending in -ation, remove -ción and add r: you get the verb ('to …'). That's around a thousand verbs straight away.",
+   "examples": [
+    {
+     "en": "preparation → to prepare",
+     "es": "preparación → preparar"
+    },
+    {
+     "en": "to generate",
+     "es": "generar"
+    },
+    {
+     "en": "to confirm",
+     "es": "confirmar"
+    },
+    {
+     "en": "to sign",
+     "es": "firmar"
+    },
+    {
+     "en": "to complicate",
+     "es": "complicar"
+    }
+   ],
+   "t": 293.1
+  },
+  {
+   "title": "quiero + verb",
+   "body": "Put quiero before a verb to say 'I want to …'. Put no in front to say you don't want to. In cooperar, say both o's.",
+   "examples": [
+    {
+     "en": "I want to prepare.",
+     "es": "Quiero preparar."
+    },
+    {
+     "en": "I want to cooperate.",
+     "es": "Quiero cooperar.",
+     "say": "KYEH-roh koh-oh-peh-RAHR"
+    },
+    {
+     "en": "I don't want to cancel.",
+     "es": "No quiero cancelar."
+    },
+    {
+     "en": "I want to explore.",
+     "es": "Quiero explorar."
+    }
+   ],
+   "t": 358.8
+  },
+  {
+   "title": "me — attached to the verb",
+   "body": "Me means 'me' and also 'myself'. It can join onto the end of the verb as one word. Quiero prepararme — 'I want to prepare myself' — is the natural way to say 'I want to get ready'.",
+   "examples": [
+    {
+     "en": "I want to get ready.",
+     "es": "Quiero prepararme.",
+     "say": "KYEH-roh preh-pah-RAHR-meh"
+    }
+   ],
+   "t": 429.4
+  },
+  {
+   "title": "Latin words aren't formal in Spanish",
+   "body": "In English, Latin-origin words often sound formal next to their everyday Germanic equivalents ('encounter' vs 'find'). In Spanish, these Latin words are simply the normal words, so don't avoid them for sounding stiff.",
+   "t": 459.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "urgently",
+   "es": [
+    "urgentemente"
+   ],
+   "why": "urgente + -mente."
+  },
+  {
+   "id": "p2",
+   "en": "I don't want.",
+   "es": [
+    "No quiero"
+   ],
+   "why": "no goes in front: no quiero."
+  },
+  {
+   "id": "p3",
+   "en": "opinion",
+   "es": [
+    "opinión"
+   ],
+   "why": "-ion words stay the same, stressed on the end: opinión."
+  },
+  {
+   "id": "p4",
+   "en": "preparation",
+   "es": [
+    "preparación"
+   ],
+   "why": "-tion → -ción."
+  },
+  {
+   "id": "p5",
+   "en": "to generate",
+   "es": [
+    "generar"
+   ],
+   "why": "generación → drop -ción, add r: generar."
+  },
+  {
+   "id": "p6",
+   "en": "to confirm",
+   "es": [
+    "confirmar"
+   ],
+   "why": "confirmación → confirmar."
+  },
+  {
+   "id": "p7",
+   "en": "to sign",
+   "es": [
+    "firmar"
+   ],
+   "why": "From con-firmar: firma = signature, firmar = to sign."
+  },
+  {
+   "id": "p8",
+   "en": "I want to prepare.",
+   "es": [
+    "Quiero preparar"
+   ],
+   "why": "quiero + verb."
+  },
+  {
+   "id": "p9",
+   "en": "I want to cooperate.",
+   "es": [
+    "Quiero cooperar"
+   ],
+   "why": "cooperación → cooperar."
+  },
+  {
+   "id": "p10",
+   "en": "I don't want to cancel.",
+   "es": [
+    "No quiero cancelar"
+   ],
+   "why": "no quiero + cancelar."
+  },
+  {
+   "id": "p11",
+   "en": "I want to explore.",
+   "es": [
+    "Quiero explorar"
+   ],
+   "why": "exploración → explorar."
+  },
+  {
+   "id": "p12",
+   "en": "I want to get ready.",
+   "es": [
+    "Quiero prepararme"
+   ],
+   "why": "'prepare myself': me joins the end of preparar."
+  }
+ ],
+ "duration": 508.87,
+ "scId": 161024551
+}

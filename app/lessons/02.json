@@ -1,145 +1,336 @@
 {
-  "id": "02",
-  "track": 2,
-  "title": "Words ending in -al, es, and no",
-  "duration": 478.7,
-  "timingSource": "Local Whisper transcription of the official LT download, word-level anchors. Spot-check pending.",
-  "cards": [
+ "id": "02",
+ "track": 2,
+ "title": "Words ending in -al, es, and no",
+ "duration": 478.75,
+ "timingSource": "Local Whisper transcription of the official LT download, word-level anchors. Spot-check pending.",
+ "cards": [
+  {
+   "t": 0,
+   "title": "Why English gives you a head start",
+   "body": "English is a Germanic language, but a large part of its vocabulary came from Latin. Spanish grew out of everyday spoken Latin, so many of those Latin-origin English words have close Spanish relatives. A few simple patterns let you convert a lot of them; the lesson estimates around 3,000.",
+   "caveat": "This works for Latin-origin words, not for everyday Germanic words like 'house' or 'dog'."
+  },
+  {
+   "t": 48.8,
+   "title": "Pattern: English -al → Spanish -al",
+   "body": "Many English words ending in -al are spelled the same, or almost the same, in Spanish. What changes is the sound: in Spanish the stress moves to the end of the word, onto the -al.",
+   "examples": [
     {
-      "t": 0,
-      "title": "Why English gives you a head start",
-      "body": "English is a Germanic language, but a large part of its vocabulary came from Latin. Spanish grew out of everyday spoken Latin, so many of those Latin-origin English words have close Spanish relatives. A few simple patterns let you convert a lot of them; the lesson estimates around 3,000.",
-      "caveat": "This works for Latin-origin words, not for everyday Germanic words like 'house' or 'dog'."
-    },
-    {
-      "t": 48.8,
-      "title": "Pattern: English -al → Spanish -al",
-      "body": "Many English words ending in -al are spelled the same, or almost the same, in Spanish. What changes is the sound: in Spanish the stress moves to the end of the word, onto the -al.",
-      "examples": [{ "en": "normal", "es": "normal", "say": "nor-MAHL" }],
-      "caveat": "It's a strong tendency, not a guarantee — and the spelling can change slightly (you'll see illegal → ilegal, annual → anual)."
-    },
-    {
-      "t": 92.5,
-      "title": "Pronounce the vowels as they're written",
-      "body": "English vowels shift sound a lot (the 'a' in apple vs. mare). Spanish vowels don't: a, e, i, o, u always keep one clear sound each. Read the spelling, give each vowel its pure sound, and your accent improves straight away.",
-      "examples": [{ "en": "metal", "es": "metal", "say": "meh-TAHL" }],
-      "pron": "a = 'ah', e = 'eh', i = 'ee', o = 'oh', u = 'oo'"
-    },
-    {
-      "t": 136.7,
-      "title": "es = is (and more)",
-      "body": "Es means 'is'. The same word covers it is, he is, she is, and 'you are' when you're speaking to someone formally. Put it in front of an -al word and you already have a sentence.",
-      "examples": [{ "en": "It is normal. / He is normal.", "es": "Es normal.", "say": "ess nor-MAHL" }]
-    },
-    {
-      "t": 163.2,
-      "title": "Watch the S in es",
-      "body": "English often pronounces a written s as 'z' (think of 'is'). In Spanish, keep it a crisp 's': es sounds like 'ess', never 'ez'.",
-      "pron": "es → 'ess', not 'ez'"
-    },
-    {
-      "t": 182.6,
-      "title": "legal / ilegal",
-      "body": "Two more -al words. In ilegal, notice the spelling: Spanish has one l, not two. The i sounds like the i in 'ink' and the e like the e in 'elephant' — two different sounds, unlike English where both come out similar.",
-      "examples": [
-        { "en": "It is legal.", "es": "Es legal.", "say": "ess leh-GAHL" },
-        { "en": "It is illegal.", "es": "Es ilegal.", "say": "ess ee-leh-GAHL" }
-      ]
-    },
-    {
-      "t": 224.1,
-      "title": "You don't need 'he' or 'she'",
-      "body": "When it's clear who you mean, Spanish simply leaves out the word for he, she or it. Es liberal can mean 'he is liberal' — the context tells you who.",
-      "examples": [{ "en": "He is liberal.", "es": "Es liberal.", "say": "ess lee-beh-RAHL" }]
-    },
-    {
-      "t": 235.3,
-      "title": "Spanish is phonetic",
-      "body": "Each letter stands for a consistent sound, so you can usually pronounce a new word just from its spelling. The trap is to say the English word with a 'Spanish-sounding' accent; instead, read the letters and say them as written.",
-      "examples": [{ "en": "It is natural.", "es": "Es natural.", "say": "ess nah-too-RAHL" }]
-    },
-    {
-      "t": 284.4,
-      "title": "no = not",
-      "body": "To make a sentence negative, put no in front of the verb. The word is the same as English 'no', just with a Spanish 'o'. No es = it isn't, he/she isn't, you (formal) aren't.",
-      "examples": [
-        { "en": "It isn't.", "es": "No es.", "say": "noh ess" },
-        { "en": "It's not normal.", "es": "No es normal.", "say": "noh ess nor-MAHL" }
-      ],
-      "caveat": "Order matters: no goes before es, never after it."
-    },
-    {
-      "t": 322.2,
-      "title": "ideal — every vowel counts",
-      "body": "Go letter by letter: i (like ink), e (like elephant), a (like apple). Three separate vowel sounds, stress at the end.",
-      "examples": [
-        { "en": "It's ideal.", "es": "Es ideal.", "say": "ess ee-deh-AHL" },
-        { "en": "It's not ideal.", "es": "No es ideal.", "say": "noh ess ee-deh-AHL" }
-      ]
-    },
-    {
-      "t": 349,
-      "title": "More -al words",
-      "body": "The pattern keeps working. Same spelling, Spanish vowels, stress on the end.",
-      "examples": [
-        { "en": "fatal", "es": "fatal", "say": "fah-TAHL" },
-        { "en": "natal", "es": "natal", "say": "nah-TAHL" },
-        { "en": "colonial", "es": "colonial", "say": "koh-loh-NYAHL" },
-        { "en": "cultural", "es": "cultural", "say": "kool-too-RAHL" }
-      ]
-    },
-    {
-      "t": 374,
-      "title": "anual — drop the extra sounds",
-      "body": "English 'annual' slips in a 'y' sound (an-yoo-al) that isn't in the spelling. Spanish follows the letters, so there's no 'y'. Spanish also writes it with one n.",
-      "examples": [{ "en": "annual", "es": "anual", "say": "ah-NWAHL" }]
-    },
-    {
-      "t": 391,
-      "title": "Link new words to ones you know",
-      "body": "Tooth is diente. Instead of memorising it as a random word, connect it to English 'dental' (Spanish dental). Spotting the family resemblance makes new vocabulary much easier to remember.",
-      "examples": [
-        { "en": "dental", "es": "dental", "say": "den-TAHL" },
-        { "en": "tooth", "es": "diente", "say": "DYEN-teh" }
-      ]
-    },
-    {
-      "t": 414,
-      "title": "A few more",
-      "body": "More words that follow the same -al pattern.",
-      "examples": [
-        { "en": "festival", "es": "festival", "say": "fes-tee-BAHL" },
-        { "en": "personal", "es": "personal", "say": "pehr-soh-NAHL" },
-        { "en": "total", "es": "total", "say": "toh-TAHL" },
-        { "en": "verbal", "es": "verbal", "say": "behr-BAHL" }
-      ],
-      "pron": "Spanish v sounds very close to a soft b — a general pronunciation note, not covered in this lesson."
-    },
-    {
-      "t": 429.8,
-      "title": "No rule? Make a smart guess",
-      "body": "Not every word has a conversion rule. If you know verbal → verbal, you can guess that 'verb' is close too — often you just add an -o, -e or -a. It's verbo. Guessing vocabulary is fine: if you're wrong, someone will correct you and you'll learn it.",
-      "examples": [{ "en": "verb", "es": "verbo", "say": "BEHR-boh" }]
-    },
-    {
-      "t": 454.7,
-      "title": "Guess words, think through structure",
-      "body": "Two different attitudes: with vocabulary, guess freely. With sentence building, slow down and think each step through rather than guessing.",
-      "caveat": "This lesson ends here; the next lesson continues building on es and no."
+     "en": "normal",
+     "es": "normal",
+     "say": "nor-MAHL"
     }
-  ],
-  "practice": [
-    { "id": "p1", "en": "It is normal.", "es": ["Es normal"], "why": "es = it is, and normal stays normal." },
-    { "id": "p2", "en": "It's not legal.", "es": ["No es legal"], "why": "no goes in front of es: no es = it isn't." },
-    { "id": "p3", "en": "He is liberal.", "es": ["Es liberal"], "why": "Leave out 'he' — es alone covers it when context is clear." },
-    { "id": "p4", "en": "It's illegal.", "es": ["Es ilegal"], "why": "Spanish ilegal has a single l." },
-    { "id": "p5", "en": "It isn't ideal.", "es": ["No es ideal"], "why": "no + es, then ideal (spelled like English)." },
-    { "id": "p6", "en": "She is natural.", "es": ["Es natural"], "why": "No word for 'she' needed: es natural." },
-    { "id": "p7", "en": "It's cultural.", "es": ["Es cultural"], "why": "-al words carry over: cultural → cultural." },
-    { "id": "p8", "en": "It's not annual.", "es": ["No es anual"], "why": "Spanish anual has one n, and no 'y' sound." },
-    { "id": "p9", "en": "It's personal.", "es": ["Es personal"], "why": "es + personal." },
-    { "id": "p10", "en": "You (formal) are liberal.", "es": ["Es liberal"], "why": "es also means 'you are' when speaking formally." },
-    { "id": "p11", "en": "verb", "es": ["verbo"], "why": "From verbal → verbal, guess verb and add -o: verbo." },
-    { "id": "p12", "en": "tooth", "es": ["diente"], "why": "Linked to dental — diente." }
-  ]
+   ],
+   "caveat": "It's a strong tendency, not a guarantee — and the spelling can change slightly (you'll see illegal → ilegal, annual → anual)."
+  },
+  {
+   "t": 92.5,
+   "title": "Pronounce the vowels as they're written",
+   "body": "English vowels shift sound a lot (the 'a' in apple vs. mare). Spanish vowels don't: a, e, i, o, u always keep one clear sound each. Read the spelling, give each vowel its pure sound, and your accent improves straight away.",
+   "examples": [
+    {
+     "en": "metal",
+     "es": "metal",
+     "say": "meh-TAHL"
+    }
+   ],
+   "pron": "a = 'ah', e = 'eh', i = 'ee', o = 'oh', u = 'oo'"
+  },
+  {
+   "t": 136.7,
+   "title": "es = is (and more)",
+   "body": "Es means 'is'. The same word covers it is, he is, she is, and 'you are' when you're speaking to someone formally. Put it in front of an -al word and you already have a sentence.",
+   "examples": [
+    {
+     "en": "It is normal. / He is normal.",
+     "es": "Es normal.",
+     "say": "ess nor-MAHL"
+    }
+   ]
+  },
+  {
+   "t": 163.2,
+   "title": "Watch the S in es",
+   "body": "English often pronounces a written s as 'z' (think of 'is'). In Spanish, keep it a crisp 's': es sounds like 'ess', never 'ez'.",
+   "pron": "es → 'ess', not 'ez'"
+  },
+  {
+   "t": 182.6,
+   "title": "legal / ilegal",
+   "body": "Two more -al words. In ilegal, notice the spelling: Spanish has one l, not two. The i sounds like the i in 'ink' and the e like the e in 'elephant' — two different sounds, unlike English where both come out similar.",
+   "examples": [
+    {
+     "en": "It is legal.",
+     "es": "Es legal.",
+     "say": "ess leh-GAHL"
+    },
+    {
+     "en": "It is illegal.",
+     "es": "Es ilegal.",
+     "say": "ess ee-leh-GAHL"
+    }
+   ]
+  },
+  {
+   "t": 224.1,
+   "title": "You don't need 'he' or 'she'",
+   "body": "When it's clear who you mean, Spanish simply leaves out the word for he, she or it. Es liberal can mean 'he is liberal' — the context tells you who.",
+   "examples": [
+    {
+     "en": "He is liberal.",
+     "es": "Es liberal.",
+     "say": "ess lee-beh-RAHL"
+    }
+   ]
+  },
+  {
+   "t": 235.3,
+   "title": "Spanish is phonetic",
+   "body": "Each letter stands for a consistent sound, so you can usually pronounce a new word just from its spelling. The trap is to say the English word with a 'Spanish-sounding' accent; instead, read the letters and say them as written.",
+   "examples": [
+    {
+     "en": "It is natural.",
+     "es": "Es natural.",
+     "say": "ess nah-too-RAHL"
+    }
+   ]
+  },
+  {
+   "t": 284.4,
+   "title": "no = not",
+   "body": "To make a sentence negative, put no in front of the verb. The word is the same as English 'no', just with a Spanish 'o'. No es = it isn't, he/she isn't, you (formal) aren't.",
+   "examples": [
+    {
+     "en": "It isn't.",
+     "es": "No es.",
+     "say": "noh ess"
+    },
+    {
+     "en": "It's not normal.",
+     "es": "No es normal.",
+     "say": "noh ess nor-MAHL"
+    }
+   ],
+   "caveat": "Order matters: no goes before es, never after it."
+  },
+  {
+   "t": 322.2,
+   "title": "ideal — every vowel counts",
+   "body": "Go letter by letter: i (like ink), e (like elephant), a (like apple). Three separate vowel sounds, stress at the end.",
+   "examples": [
+    {
+     "en": "It's ideal.",
+     "es": "Es ideal.",
+     "say": "ess ee-deh-AHL"
+    },
+    {
+     "en": "It's not ideal.",
+     "es": "No es ideal.",
+     "say": "noh ess ee-deh-AHL"
+    }
+   ]
+  },
+  {
+   "t": 349,
+   "title": "More -al words",
+   "body": "The pattern keeps working. Same spelling, Spanish vowels, stress on the end.",
+   "examples": [
+    {
+     "en": "fatal",
+     "es": "fatal",
+     "say": "fah-TAHL"
+    },
+    {
+     "en": "natal",
+     "es": "natal",
+     "say": "nah-TAHL"
+    },
+    {
+     "en": "colonial",
+     "es": "colonial",
+     "say": "koh-loh-NYAHL"
+    },
+    {
+     "en": "cultural",
+     "es": "cultural",
+     "say": "kool-too-RAHL"
+    }
+   ]
+  },
+  {
+   "t": 374,
+   "title": "anual — drop the extra sounds",
+   "body": "English 'annual' slips in a 'y' sound (an-yoo-al) that isn't in the spelling. Spanish follows the letters, so there's no 'y'. Spanish also writes it with one n.",
+   "examples": [
+    {
+     "en": "annual",
+     "es": "anual",
+     "say": "ah-NWAHL"
+    }
+   ]
+  },
+  {
+   "t": 391,
+   "title": "Link new words to ones you know",
+   "body": "Tooth is diente. Instead of memorising it as a random word, connect it to English 'dental' (Spanish dental). Spotting the family resemblance makes new vocabulary much easier to remember.",
+   "examples": [
+    {
+     "en": "dental",
+     "es": "dental",
+     "say": "den-TAHL"
+    },
+    {
+     "en": "tooth",
+     "es": "diente",
+     "say": "DYEN-teh"
+    }
+   ]
+  },
+  {
+   "t": 414,
+   "title": "A few more",
+   "body": "More words that follow the same -al pattern.",
+   "examples": [
+    {
+     "en": "festival",
+     "es": "festival",
+     "say": "fes-tee-BAHL"
+    },
+    {
+     "en": "personal",
+     "es": "personal",
+     "say": "pehr-soh-NAHL"
+    },
+    {
+     "en": "total",
+     "es": "total",
+     "say": "toh-TAHL"
+    },
+    {
+     "en": "verbal",
+     "es": "verbal",
+     "say": "behr-BAHL"
+    }
+   ],
+   "pron": "Spanish v sounds very close to a soft b — a general pronunciation note, not covered in this lesson."
+  },
+  {
+   "t": 429.8,
+   "title": "No rule? Make a smart guess",
+   "body": "Not every word has a conversion rule. If you know verbal → verbal, you can guess that 'verb' is close too — often you just add an -o, -e or -a. It's verbo. Guessing vocabulary is fine: if you're wrong, someone will correct you and you'll learn it.",
+   "examples": [
+    {
+     "en": "verb",
+     "es": "verbo",
+     "say": "BEHR-boh"
+    }
+   ]
+  },
+  {
+   "t": 454.7,
+   "title": "Guess words, think through structure",
+   "body": "Two different attitudes: with vocabulary, guess freely. With sentence building, slow down and think each step through rather than guessing.",
+   "caveat": "This lesson ends here; the next lesson continues building on es and no."
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "It is normal.",
+   "es": [
+    "Es normal"
+   ],
+   "why": "es = it is, and normal stays normal."
+  },
+  {
+   "id": "p2",
+   "en": "It's not legal.",
+   "es": [
+    "No es legal"
+   ],
+   "why": "no goes in front of es: no es = it isn't."
+  },
+  {
+   "id": "p3",
+   "en": "He is liberal.",
+   "es": [
+    "Es liberal"
+   ],
+   "why": "Leave out 'he' — es alone covers it when context is clear."
+  },
+  {
+   "id": "p4",
+   "en": "It's illegal.",
+   "es": [
+    "Es ilegal"
+   ],
+   "why": "Spanish ilegal has a single l."
+  },
+  {
+   "id": "p5",
+   "en": "It isn't ideal.",
+   "es": [
+    "No es ideal"
+   ],
+   "why": "no + es, then ideal (spelled like English)."
+  },
+  {
+   "id": "p6",
+   "en": "She is natural.",
+   "es": [
+    "Es natural"
+   ],
+   "why": "No word for 'she' needed: es natural."
+  },
+  {
+   "id": "p7",
+   "en": "It's cultural.",
+   "es": [
+    "Es cultural"
+   ],
+   "why": "-al words carry over: cultural → cultural."
+  },
+  {
+   "id": "p8",
+   "en": "It's not annual.",
+   "es": [
+    "No es anual"
+   ],
+   "why": "Spanish anual has one n, and no 'y' sound."
+  },
+  {
+   "id": "p9",
+   "en": "It's personal.",
+   "es": [
+    "Es personal"
+   ],
+   "why": "es + personal."
+  },
+  {
+   "id": "p10",
+   "en": "You (formal) are liberal.",
+   "es": [
+    "Es liberal"
+   ],
+   "why": "es also means 'you are' when speaking formally."
+  },
+  {
+   "id": "p11",
+   "en": "verb",
+   "es": [
+    "verbo"
+   ],
+   "why": "From verbal → verbal, guess verb and add -o: verbo."
+  },
+  {
+   "id": "p12",
+   "en": "tooth",
+   "es": [
+    "diente"
+   ],
+   "why": "Linked to dental — diente."
+  }
+ ],
+ "scId": 161024229
 }
