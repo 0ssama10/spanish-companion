@@ -2,10 +2,7 @@
 // Audio is streamed only through the official SoundCloud embed. Progress lives in this browser.
 
 const PLAYLIST = 'https://api.soundcloud.com/playlists/45266314';
-const LESSONS = [
-  { id: '01', track: 1, title: 'How to use this course' },
-  { id: '02', track: 2, title: 'Words ending in -al, es, and no' },
-];
+let LESSONS = []; // loaded from lessons/index.json at boot
 const IDLE_MS = 120000;
 const view = document.getElementById('view');
 
@@ -104,7 +101,7 @@ function homeView() {
     const st = S.lessons[l.id];
     const badge = st?.finished ? '<span class="badge done">listened</span>' : st?.position > 10 ? `<span class="badge">at ${mmss(st.position)}</span>` : '';
     const score = st?.practice ? `<span class="badge ${st.practice.score === st.practice.total ? 'done' : ''}">practice ${st.practice.score}/${st.practice.total}</span>` : '';
-    const hasPractice = l.id !== '01';
+    const hasPractice = l.practice > 0;
     return `<div class="panel lesson-row">
       <span class="num">${l.track}</span><span class="ttl">${esc(l.title)} ${badge} ${score}</span>
       <a class="btn primary" href="#/lesson/${l.id}">Listen</a>
@@ -125,7 +122,7 @@ function homeView() {
     </div>
     <h2>Lessons</h2>
     <div class="lessons">${rows}</div>
-    <p class="sub" style="margin-top:10px">More tracks will be added as their notes are prepared.</p>
+    ${LESSONS.length < 90 ? `<p class="sub" style="margin-top:10px">${LESSONS.length} of 90 tracks prepared so far; more are on the way.</p>` : ''}
     <h2>Your progress file</h2>
     <div class="panel">
       <p class="sub">Progress is saved in this browser only. To move it between your PC and iPhone, export here and import on the other device. Importing merges, keeping the newer data for each lesson.</p>
@@ -190,7 +187,7 @@ async function lessonView(id, params) {
     <div class="lesson-grid">
       <div class="player-col">
         <iframe class="sc" id="sc" allow="autoplay" title="Lesson audio"
-          src="https://w.soundcloud.com/player/?url=${encodeURIComponent(PLAYLIST)}&start_track=${lesson.track - 1}&visual=false&show_artwork=false&show_comments=false&sharing=false&download=false&buying=false"></iframe>
+          src="https://w.soundcloud.com/player/?url=${encodeURIComponent(lesson.scId ? 'https://api.soundcloud.com/tracks/' + lesson.scId : PLAYLIST)}${lesson.scId ? '' : '&start_track=' + (lesson.track - 1)}&visual=false&show_artwork=false&show_comments=false&sharing=false&download=false&buying=false"></iframe>
         <div class="status" id="status">Loading player…</div>
         <div id="warns"></div>
         <div class="row">
@@ -326,8 +323,9 @@ function check(item, answer) {
   if (noPron !== ab && item.es.some(exp => noPron === bare(exp)))
     return { ok: true, accent: 'Also correct Spanish — but as this lesson shows, you can drop the pronoun when it’s clear who you mean.' };
   const exp = bare(item.es[0]), ew = exp.split(' '), aw = ab.split(' '), tips = [];
-  if (aw.includes('es') && aw.includes('no') && aw.indexOf('no') > aw.indexOf('es')) tips.push('no goes before es: "no es …".');
-  else if (ew[0] === 'no' && !aw.includes('no')) tips.push('This sentence is negative: put no in front of es.');
+  const verb = ew[ew.indexOf('no') + 1];
+  if (ew.includes('no') && aw.includes('no') && verb && aw.includes(verb) && aw.indexOf('no') > aw.indexOf(verb)) tips.push(`no goes before the verb: "no ${verb} …".`);
+  else if (ew.includes('no') && !aw.includes('no')) tips.push(`This sentence is negative: put no in front of ${verb || 'the verb'}.`);
   else if (ew[0] !== 'no' && aw.includes('no')) tips.push('This one is positive, so no "no" is needed.');
   if (aw.some(w => ['el', 'ella', 'eso', 'esto', 'usted', 'he', 'she', 'it'].includes(w))) tips.push('Spanish usually leaves out he / she / it / you here — es on its own is enough.');
   if (aw.includes('is') || aw.includes('its')) tips.push('Use es for "is".');
@@ -456,5 +454,7 @@ async function reviewView(id) {
 
 /* ---------- boot ---------- */
 renderToday();
-route();
+fetch('lessons/index.json').then(r => r.json()).then(list => { LESSONS = list; }).catch(() => {
+  view.innerHTML = '<div class="panel">Couldn’t load the lesson list. Check your connection and reload.</div>';
+}).finally(() => { if (LESSONS.length) route(); });
 if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});

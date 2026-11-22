@@ -1,0 +1,227 @@
+{
+ "id": "06",
+ "track": 6,
+ "title": "intento, silent h, ahora, voy, v as soft b",
+ "cards": [
+  {
+   "title": "intento = I try / I'm trying",
+   "body": "The -o ending shows 'I', just as in quiero. Intento relates to 'intention' and means 'I try' or 'I'm trying'. There's no -ation rule here, but recognising the family helps you understand it.",
+   "examples": [
+    {
+     "en": "I'm trying to publish it.",
+     "es": "Intento publicarlo."
+    },
+    {
+     "en": "I'm trying to administrate it.",
+     "es": "Intento administrarlo."
+    },
+    {
+     "en": "I'm trying to imitate it / him.",
+     "es": "Intento imitarlo."
+    }
+   ],
+   "caveat": "One Spanish present-tense form covers both 'I try' and 'I am trying'.",
+   "t": 0
+  },
+  {
+   "title": "h is silent",
+   "body": "Spanish h is never pronounced. Don't even think it: imagine hospital starts with o.",
+   "examples": [
+    {
+     "en": "hospital",
+     "es": "hospital",
+     "say": "ohs-pee-TAHL"
+    },
+    {
+     "en": "horrible",
+     "es": "horrible",
+     "say": "oh-RREE-bleh"
+    },
+    {
+     "en": "habitually",
+     "es": "habitualmente",
+     "say": "ah-bee-twahl-MEN-teh"
+    }
+   ],
+   "caveat": "Except in ch, which sounds like English 'ch'.",
+   "t": 87.8
+  },
+  {
+   "title": "ahora = now",
+   "body": "Ahora (h silent) is a + hora, 'to the hour'. That gives you two more words: a (to, towards) and hora (hour).",
+   "examples": [
+    {
+     "en": "now",
+     "es": "ahora",
+     "say": "ah-OH-rah"
+    }
+   ],
+   "t": 153.9
+  },
+  {
+   "title": "Build long sentences piece by piece",
+   "body": "A long sentence is just blocks: quiero / cancelarlo / pero / no quiero / cancelarlo / ahora.",
+   "examples": [
+    {
+     "en": "I want to cancel it, but I don't want to cancel it now.",
+     "es": "Quiero cancelarlo, pero no quiero cancelarlo ahora."
+    }
+   ],
+   "t": 191.2
+  },
+  {
+   "title": "voy = I go / I'm going",
+   "body": "Link voy to 'voyage'. Spanish v usually sounds like a soft b (vamos, 'let's go', sounds like 'bamos'); in some areas, such as around Argentina and Chile, you'll hear more of a v. Either is understood.",
+   "examples": [
+    {
+     "en": "I'm going now.",
+     "es": "Voy ahora.",
+     "say": "boy ah-OH-rah"
+    },
+    {
+     "en": "I'm not going now.",
+     "es": "No voy ahora."
+    }
+   ],
+   "t": 231.6
+  },
+  {
+   "title": "visitar",
+   "body": "'Visitation' exists in English (as in visitation rights), so the -ation rule gives visitar.",
+   "examples": [
+    {
+     "en": "I want to visit him.",
+     "es": "Quiero visitarlo."
+    }
+   ],
+   "t": 304.7
+  },
+  {
+   "title": "Soft b and a real s",
+   "body": "Keep the s as s, not English z. The soft b has no puff of air, unlike English b in 'bucket'; a paper in front of your mouth shouldn't move. Using a v is fine too.",
+   "examples": [
+    {
+     "en": "visible",
+     "es": "visible",
+     "say": "bee-SEE-bleh"
+    },
+    {
+     "en": "viral",
+     "es": "viral",
+     "say": "bee-RAHL"
+    },
+    {
+     "en": "virus",
+     "es": "virus",
+     "say": "BEE-roos"
+    },
+    {
+     "en": "convenient",
+     "es": "conveniente",
+     "say": "kon-beh-NYEN-teh"
+    }
+   ],
+   "t": 349.3
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I'm trying to publish it.",
+   "es": [
+    "Intento publicarlo"
+   ],
+   "why": "intento + publicar + lo."
+  },
+  {
+   "id": "p2",
+   "en": "I'm trying to imitate him.",
+   "es": [
+    "Intento imitarlo"
+   ],
+   "why": "imitación → imitar; lo = him."
+  },
+  {
+   "id": "p3",
+   "en": "hospital",
+   "es": [
+    "hospital"
+   ],
+   "why": "Same word; the h is silent."
+  },
+  {
+   "id": "p4",
+   "en": "habitually",
+   "es": [
+    "habitualmente"
+   ],
+   "why": "habitual + -mente."
+  },
+  {
+   "id": "p5",
+   "en": "now",
+   "es": [
+    "ahora"
+   ],
+   "why": "a (to) + hora (hour)."
+  },
+  {
+   "id": "p6",
+   "en": "I'm going now.",
+   "es": [
+    "Voy ahora"
+   ],
+   "why": "voy = I go / I'm going."
+  },
+  {
+   "id": "p7",
+   "en": "I'm not going now.",
+   "es": [
+    "No voy ahora"
+   ],
+   "why": "no before voy."
+  },
+  {
+   "id": "p8",
+   "en": "I want to visit him.",
+   "es": [
+    "Quiero visitarlo"
+   ],
+   "why": "visitation → visitar, + lo."
+  },
+  {
+   "id": "p9",
+   "en": "I want to cancel it, but not now.",
+   "es": [
+    "Quiero cancelarlo pero no ahora"
+   ],
+   "why": "quiero cancelarlo + pero + no ahora."
+  },
+  {
+   "id": "p10",
+   "en": "convenient",
+   "es": [
+    "conveniente"
+   ],
+   "why": "-ent → -ente."
+  },
+  {
+   "id": "p11",
+   "en": "It's not visible.",
+   "es": [
+    "No es visible"
+   ],
+   "why": "no es + visible."
+  },
+  {
+   "id": "p12",
+   "en": "I'm trying to administrate it.",
+   "es": [
+    "Intento administrarlo"
+   ],
+   "why": "administración → administrar + lo."
+  }
+ ],
+ "duration": 424.93,
+ "scId": 161024576
+}
