@@ -1,0 +1,233 @@
+{
+ "id": "26",
+ "track": 26,
+ "title": "quedarse with other verbs, siete, poder, ¿cómo te llamas?",
+ "cards": [
+  {
+   "title": "Staying: questions and negatives",
+   "body": "",
+   "examples": [
+    {
+     "en": "You're not staying here.",
+     "es": "No te quedas aquí."
+    },
+    {
+     "en": "Why aren't you staying here?",
+     "es": "¿Por qué no te quedas aquí?"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "quedarme after another verb",
+   "body": "With a 'to' form, the little word attaches to the end. Siete (seven) is like the 'set-' in setiembre/septiembre, with the e split.",
+   "examples": [
+    {
+     "en": "I'm going to stay until seven.",
+     "es": "Voy a quedarme hasta las siete."
+    },
+    {
+     "en": "Do you want to stay?",
+     "es": "¿Quieres quedarte?"
+    }
+   ],
+   "t": 36.9
+  },
+  {
+   "title": "deber → debemos",
+   "body": "Match the little word to the person: debemos quedarnos (ourselves).",
+   "examples": [
+    {
+     "en": "We must stay.",
+     "es": "Debemos quedarnos. / Nos debemos quedar."
+    }
+   ],
+   "t": 112.7
+  },
+  {
+   "title": "tener que: less serious than deber",
+   "body": "",
+   "examples": [
+    {
+     "en": "You have to stay here.",
+     "es": "Tienes que quedarte aquí."
+    },
+    {
+     "en": "I want to know why you have to stay here.",
+     "es": "Quiero saber por qué tienes que quedarte aquí."
+    }
+   ],
+   "t": 154.9
+  },
+  {
+   "title": "poder: puedo, podemos",
+   "body": "No split in the we form.",
+   "examples": [
+    {
+     "en": "I can't stay tonight.",
+     "es": "No puedo quedarme esta noche."
+    },
+    {
+     "en": "We can't stay tonight.",
+     "es": "No podemos quedarnos esta noche."
+    }
+   ],
+   "t": 230.9
+  },
+  {
+   "title": "piensas + verb = plan to",
+   "body": "",
+   "examples": [
+    {
+     "en": "Do you plan on staying here tonight?",
+     "es": "¿Piensas quedarte aquí esta noche?"
+    }
+   ],
+   "t": 325.0
+  },
+  {
+   "title": "Use logic, not feel",
+   "body": "Place the little word by the rule (before the changed verb), not by what sounds good. A mistake made through logic fixes the logic.",
+   "examples": [
+    {
+     "en": "I have stayed.",
+     "es": "Me he quedado."
+    },
+    {
+     "en": "We haven't stayed.",
+     "es": "No nos hemos quedado."
+    },
+    {
+     "en": "Haven't YOU stayed?",
+     "es": "¿Tú no te has quedado?"
+    }
+   ],
+   "t": 347.5
+  },
+  {
+   "title": "llamar; me llamo = my name is",
+   "body": "Llamar = to call / phone. Introducing yourself, Spanish says 'I call myself'.",
+   "examples": [
+    {
+     "en": "My name is …",
+     "es": "Me llamo …"
+    },
+    {
+     "en": "What's your name?",
+     "es": "¿Cómo te llamas?"
+    }
+   ],
+   "t": 459.3
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "Why aren't you (informal) staying here?",
+   "es": [
+    "Por qué no te quedas aquí",
+    "Por qué no te quedas acá",
+    "Porque no te quedas aquí"
+   ],
+   "why": "no te quedas."
+  },
+  {
+   "id": "p2",
+   "en": "I'm going to stay until seven.",
+   "es": [
+    "Voy a quedarme hasta las siete",
+    "Me voy a quedar hasta las siete"
+   ],
+   "why": "voy a quedarme + hasta las siete."
+  },
+  {
+   "id": "p3",
+   "en": "Do you (informal) want to stay?",
+   "es": [
+    "Quieres quedarte",
+    "Te quieres quedar"
+   ],
+   "why": "quedarte = stay (yourself)."
+  },
+  {
+   "id": "p4",
+   "en": "We must stay.",
+   "es": [
+    "Debemos quedarnos",
+    "Nos debemos quedar"
+   ],
+   "why": "debemos + quedarnos."
+  },
+  {
+   "id": "p5",
+   "en": "You (informal) have to stay here.",
+   "es": [
+    "Tienes que quedarte aquí",
+    "Tienes que quedarte acá",
+    "Te tienes que quedar aquí"
+   ],
+   "why": "tienes que + quedarte."
+  },
+  {
+   "id": "p6",
+   "en": "I can't stay tonight.",
+   "es": [
+    "No puedo quedarme esta noche",
+    "No me puedo quedar esta noche"
+   ],
+   "why": "no puedo quedarme."
+  },
+  {
+   "id": "p7",
+   "en": "We can stay.",
+   "es": [
+    "Podemos quedarnos",
+    "Nos podemos quedar"
+   ],
+   "why": "poder → podemos."
+  },
+  {
+   "id": "p8",
+   "en": "Do you (informal) plan on staying here tonight?",
+   "es": [
+    "Piensas quedarte aquí esta noche",
+    "Piensas quedarte acá esta noche"
+   ],
+   "why": "piensas + quedarte."
+  },
+  {
+   "id": "p9",
+   "en": "I have stayed.",
+   "es": [
+    "Me he quedado"
+   ],
+   "why": "me before he."
+  },
+  {
+   "id": "p10",
+   "en": "We haven't stayed.",
+   "es": [
+    "No nos hemos quedado"
+   ],
+   "why": "no nos hemos quedado."
+  },
+  {
+   "id": "p11",
+   "en": "My name is Ana.",
+   "es": [
+    "Me llamo Ana"
+   ],
+   "why": "'I call myself'."
+  },
+  {
+   "id": "p12",
+   "en": "What's your (informal) name?",
+   "es": [
+    "Cómo te llamas"
+   ],
+   "why": "¿Cómo te llamas? — how do you call yourself?"
+  }
+ ],
+ "duration": 524.46,
+ "scId": 162399125
+}

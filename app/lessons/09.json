@@ -1,0 +1,226 @@
+{
+ "id": "09",
+ "track": 9,
+ "title": "saber, sí / si, long sentences, explicar",
+ "cards": [
+  {
+   "title": "saber = to know",
+   "body": "Link it to British slang 'savvy', which comes from the same Latin root. Note the b in saber sounds close to the v in savvy.",
+   "examples": [
+    {
+     "en": "I want to know.",
+     "es": "Quiero saber."
+    },
+    {
+     "en": "He doesn't want to know.",
+     "es": "No quiere saber."
+    },
+    {
+     "en": "I want to know why he doesn't want to know.",
+     "es": "Quiero saber por qué no quiere saber."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "sí = yes, si = if",
+   "body": "Same sound: with an accent (sí) it means yes, without (si) it means if.",
+   "examples": [
+    {
+     "en": "I want to know if you (formal) want to know.",
+     "es": "Quiero saber si quiere saber."
+    },
+    {
+     "en": "I want to know if he wants to invite me.",
+     "es": "Quiero saber si quiere invitarme."
+    }
+   ],
+   "t": 75.7
+  },
+  {
+   "title": "imaginar",
+   "body": "One more -ation verb.",
+   "examples": [
+    {
+     "en": "I don't want to imagine it.",
+     "es": "No quiero imaginarlo."
+    }
+   ],
+   "t": 135.0
+  },
+  {
+   "title": "The a stays with venir",
+   "body": "Even with a la casa in between, venir still connects to the next verb with a.",
+   "examples": [
+    {
+     "en": "I want to know if she wants to come to the house to visit me.",
+     "es": "Quiero saber si quiere venir a la casa a visitarme."
+    },
+    {
+     "en": "… why she doesn't want to come …",
+     "es": "Quiero saber por qué no quiere venir a la casa a visitarme."
+    }
+   ],
+   "t": 156.8
+  },
+  {
+   "title": "Try what you think you can't say",
+   "body": "English gives you a lot of vocabulary that converts to Spanish; you only discover it by trying.",
+   "t": 254.5
+  },
+  {
+   "title": "Listening: work out the meaning",
+   "body": "When listening, lo could be him, it or formal you; pick the meaning that fits. Translate into natural English: '¿Por qué no quiere informarme?' can be 'Why doesn't he want to let me know?'.",
+   "examples": [
+    {
+     "en": "I'm going to invite him, but I'm not going to invite him now.",
+     "es": "Voy a invitarlo, pero no voy a invitarlo ahora."
+    },
+    {
+     "en": "I want to start it now.",
+     "es": "Quiero iniciarlo ahora."
+    }
+   ],
+   "t": 277.3
+  },
+  {
+   "title": "justificar — throaty j",
+   "body": "Justification has the English 'j' sound, so it becomes the throaty sound.",
+   "examples": [
+    {
+     "en": "I'm not trying to justify myself.",
+     "es": "No intento justificarme.",
+     "say": "khoos-tee-fee-KAHR-meh"
+    }
+   ],
+   "t": 371.9
+  },
+  {
+   "title": "explicar — an exception",
+   "body": "Explanation is explicación, not 'explanación' (compare English inexplicable). So 'to explain' is explicar. Spanish can say 'explain you something'.",
+   "examples": [
+    {
+     "en": "to explain",
+     "es": "explicar"
+    },
+    {
+     "en": "But I want to explain something to you.",
+     "es": "Pero quiero explicarte algo."
+    }
+   ],
+   "t": 415.2
+  },
+  {
+   "title": "Focus on one block at a time",
+   "body": "Put all your attention on the current block, say it, then let it go and move to the next.",
+   "examples": [
+    {
+     "en": "I'm not trying to justify myself, but I want to explain something to you.",
+     "es": "No intento justificarme, pero quiero explicarte algo."
+    }
+   ],
+   "t": 493.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I want to know.",
+   "es": [
+    "Quiero saber"
+   ],
+   "why": "saber = to know."
+  },
+  {
+   "id": "p2",
+   "en": "He doesn't want to know.",
+   "es": [
+    "No quiere saber"
+   ],
+   "why": "no quiere + saber."
+  },
+  {
+   "id": "p3",
+   "en": "I want to know why he doesn't want to know.",
+   "es": [
+    "Quiero saber por qué no quiere saber",
+    "Quiero saber porque no quiere saber"
+   ],
+   "why": "quiero saber + por qué + no quiere saber."
+  },
+  {
+   "id": "p4",
+   "en": "yes",
+   "es": [
+    "sí"
+   ],
+   "why": "sí with an accent = yes; si = if."
+  },
+  {
+   "id": "p5",
+   "en": "I want to know if he wants to invite me.",
+   "es": [
+    "Quiero saber si quiere invitarme"
+   ],
+   "why": "si = if."
+  },
+  {
+   "id": "p6",
+   "en": "I don't want to imagine it.",
+   "es": [
+    "No quiero imaginarlo"
+   ],
+   "why": "imaginación → imaginar + lo."
+  },
+  {
+   "id": "p7",
+   "en": "I want to know if she wants to come to the house to visit me.",
+   "es": [
+    "Quiero saber si quiere venir a la casa a visitarme"
+   ],
+   "why": "Keep the a after venir: a la casa a visitarme."
+  },
+  {
+   "id": "p8",
+   "en": "I'm not trying to justify myself.",
+   "es": [
+    "No intento justificarme"
+   ],
+   "why": "justificación → justificar + me."
+  },
+  {
+   "id": "p9",
+   "en": "to explain",
+   "es": [
+    "explicar"
+   ],
+   "why": "Exception: explicación → explicar."
+  },
+  {
+   "id": "p10",
+   "en": "But I want to explain something to you.",
+   "es": [
+    "Pero quiero explicarte algo"
+   ],
+   "why": "explicar + te + algo."
+  },
+  {
+   "id": "p11",
+   "en": "I want to start it now.",
+   "es": [
+    "Quiero iniciarlo ahora"
+   ],
+   "why": "iniciar + lo + ahora."
+  },
+  {
+   "id": "p12",
+   "en": "I'm going to invite him, but not now.",
+   "es": [
+    "Voy a invitarlo pero no ahora"
+   ],
+   "why": "voy a invitarlo + pero no ahora."
+  }
+ ],
+ "duration": 548.02,
+ "scId": 161024415
+}

@@ -1,0 +1,269 @@
+{
+ "id": "22",
+ "track": 22,
+ "title": "terminar, -ido, subject pronouns: yo, tú, usted, nosotros, ellos",
+ "cards": [
+  {
+   "title": "terminar = to finish",
+   "body": "'Terminate' is the link; in everyday English, 'finish'.",
+   "examples": [
+    {
+     "en": "I have finished.",
+     "es": "He terminado."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Where little words go: the precise rule",
+   "body": "Not 'beginning or end'. Little words go after a complete 'to' form or before the changed verb. In he terminado both verbs are changed, so there's only one place: before he.",
+   "examples": [
+    {
+     "en": "I have finished it.",
+     "es": "Lo he terminado."
+    },
+    {
+     "en": "I have finished them.",
+     "es": "Los he terminado."
+    }
+   ],
+   "caveat": "Not 'he lo terminado'.",
+   "t": 86.0
+  },
+  {
+   "title": "-er / -ir → -ido",
+   "body": "Both -er and -ir verbs take -ido; there's no '-edo'. Bienvenido = well-come.",
+   "examples": [
+    {
+     "en": "sold",
+     "es": "vendido"
+    },
+    {
+     "en": "come",
+     "es": "venido"
+    },
+    {
+     "en": "I have lost.",
+     "es": "(Yo) he perdido."
+    }
+   ],
+   "t": 176.1
+  },
+  {
+   "title": "nosotros / nosotras = we",
+   "body": "Nosotras for an all-female group. Say s, not z.",
+   "examples": [
+    {
+     "en": "WE have lost.",
+     "es": "Nosotros hemos perdido.",
+     "say": "noh-SOH-trohs"
+    }
+   ],
+   "t": 293.9
+  },
+  {
+   "title": "él / ella: he / she vs him / her",
+   "body": "Decide first: is it she (ella) or her (la)?",
+   "examples": [
+    {
+     "en": "HE has lost.",
+     "es": "Él ha perdido."
+    },
+    {
+     "en": "SHE has lost.",
+     "es": "Ella ha perdido."
+    }
+   ],
+   "t": 358.8
+  },
+  {
+   "title": "tú vs te",
+   "body": "Tú is 'you' as the one doing the action, in the group with yo, él, ella. Te is 'you' as the one receiving it, with me, lo, la. English uses 'you' for both, but notice he/him and she/her.",
+   "examples": [
+    {
+     "en": "YOU have lost.",
+     "es": "Tú has perdido."
+    },
+    {
+     "en": "I love you.",
+     "es": "Te quiero."
+    }
+   ],
+   "t": 409.8
+  },
+  {
+   "title": "The object set: me, te, lo, la, los, las, nos",
+   "body": "Lo covers him, masculine it, formal you, and neutral 'it' (a situation). Change o → a for feminine, add -s for plural.",
+   "examples": [
+    {
+     "en": "I see him / it.",
+     "es": "Lo veo."
+    },
+    {
+     "en": "I see her.",
+     "es": "La veo."
+    },
+    {
+     "en": "I see them.",
+     "es": "Los veo. / Las veo."
+    }
+   ],
+   "t": 473.2
+  },
+  {
+   "title": "usted = you (formal)",
+   "body": "From vuestra merced, 'your grace'. Word order is flexible for usted, but the little words still go before the changed verb.",
+   "examples": [
+    {
+     "en": "You (formal) see it.",
+     "es": "Usted lo ve. / Lo ve usted."
+    },
+    {
+     "en": "You (formal) see them.",
+     "es": "Usted los ve."
+    }
+   ],
+   "t": 607.6
+  },
+  {
+   "title": "ellos / ellas = they",
+   "body": "Ll is 'y' in most places; Buenos Aires and Montevideo say 'zh', and you may hear a 'j'-like sound in Colombia.",
+   "examples": [
+    {
+     "en": "They see them.",
+     "es": "Ellos los ven."
+    },
+    {
+     "en": "They see me.",
+     "es": "Ellos me ven."
+    }
+   ],
+   "t": 675.1
+  },
+  {
+   "title": "Two sets of words",
+   "body": "Doers: yo, tú, usted, él, ella, nosotros, ellos/ellas. Receivers: me, te, lo, la, nos, los, las.",
+   "examples": [
+    {
+     "en": "I see · you see · he sees · they see · we see",
+     "es": "yo veo · tú ves · él ve · ellos ven · nosotros vemos"
+    }
+   ],
+   "t": 756.6
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I have finished it.",
+   "es": [
+    "Lo he terminado",
+    "La he terminado"
+   ],
+   "why": "lo before he."
+  },
+  {
+   "id": "p2",
+   "en": "I have finished them.",
+   "es": [
+    "Los he terminado",
+    "Las he terminado"
+   ],
+   "why": "los before he."
+  },
+  {
+   "id": "p3",
+   "en": "sold",
+   "es": [
+    "vendido"
+   ],
+   "why": "-er → -ido."
+  },
+  {
+   "id": "p4",
+   "en": "I have lost.",
+   "es": [
+    "He perdido",
+    "Yo he perdido"
+   ],
+   "why": "perder → perdido."
+  },
+  {
+   "id": "p5",
+   "en": "WE have lost.",
+   "es": [
+    "Nosotros hemos perdido",
+    "Nosotras hemos perdido"
+   ],
+   "why": "nosotros = we."
+  },
+  {
+   "id": "p6",
+   "en": "SHE has lost.",
+   "es": [
+    "Ella ha perdido"
+   ],
+   "why": "ella (she), not la (her)."
+  },
+  {
+   "id": "p7",
+   "en": "YOU (informal) have lost.",
+   "es": [
+    "Tú has perdido"
+   ],
+   "why": "tú = you (doer)."
+  },
+  {
+   "id": "p8",
+   "en": "I see her.",
+   "es": [
+    "La veo"
+   ],
+   "why": "la = her."
+  },
+  {
+   "id": "p9",
+   "en": "You (formal) see them.",
+   "es": [
+    "Usted los ve",
+    "Los ve usted",
+    "Usted las ve",
+    "Las ve usted"
+   ],
+   "why": "usted + los ve."
+  },
+  {
+   "id": "p10",
+   "en": "They see them.",
+   "es": [
+    "Ellos los ven",
+    "Ellas los ven",
+    "Ellos las ven",
+    "Ellas las ven"
+   ],
+   "why": "ellos + los ven."
+  },
+  {
+   "id": "p11",
+   "en": "They see me.",
+   "es": [
+    "Ellos me ven",
+    "Ellas me ven",
+    "Me ven"
+   ],
+   "why": "me before ven."
+  },
+  {
+   "id": "p12",
+   "en": "We see.",
+   "es": [
+    "Nosotros vemos",
+    "Vemos",
+    "Nosotras vemos"
+   ],
+   "why": "ver → vemos."
+  }
+ ],
+ "duration": 790.7,
+ "scId": 162399119
+}

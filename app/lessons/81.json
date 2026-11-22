@@ -1,0 +1,200 @@
+{
+ "id": "81",
+ "track": 81,
+ "title": "volver a = again, the past mood tense (hablara, comiera), quería que, esperaba que",
+ "cards": [
+  {
+   "title": "no quiero que se me cierre",
+   "body": "Puerta (door) is related to puerto (port).",
+   "examples": [
+    {
+     "en": "I don't want the door to close on me again.",
+     "es": "No quiero que la puerta se me cierre otra vez."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "volver a + verb = do again",
+   "body": "'It returns to close' = it closes again. Volver is movement, so it takes a. Happen = pasar (also ocurrir, suceder).",
+   "examples": [
+    {
+     "en": "I don't want the door to close again.",
+     "es": "No quiero que la puerta vuelva a cerrarse."
+    },
+    {
+     "en": "I don't want it to happen again.",
+     "es": "No quiero que vuelva a pasar."
+    }
+   ],
+   "t": 88.1
+  },
+  {
+   "title": "The past mood tense: from the 'they' dot past",
+   "body": "There's no future mood tense today. One past mood tense covers both the line and the dot. Take the 'they' dot form, change the last o to a, then work backwards.",
+   "examples": [
+    {
+     "en": "hablaron →",
+     "es": "hablaran, hablara, hablaras, habláramos"
+    },
+    {
+     "en": "comieron →",
+     "es": "comieran, comiera, comieras, comiéramos"
+    }
+   ],
+   "t": 205.5
+  },
+  {
+   "title": "quería que / esperaba que + past mood",
+   "body": "English 'I was hoping he would call me' = Spanish 'I was hoping that he called me'.",
+   "examples": [
+    {
+     "en": "I wanted them to eat with us.",
+     "es": "Quería que comieran con nosotros."
+    },
+    {
+     "en": "I was hoping he'd call me.",
+     "es": "Esperaba que me llamara."
+    }
+   ],
+   "t": 365.5
+  },
+  {
+   "title": "With or without que",
+   "body": "No que, no mood tense. Que often signals that the mood tense may follow.",
+   "examples": [
+    {
+     "en": "We needed to talk to him.",
+     "es": "Necesitábamos hablar con él."
+    },
+    {
+     "en": "We needed him to talk to us.",
+     "es": "Necesitábamos que hablara con nosotros."
+    }
+   ],
+   "t": 488.8
+  },
+  {
+   "title": "volví a llamarte; para que + past mood",
+   "body": "A 'to' form (para organizar) avoids the mood tense; para que needs it.",
+   "examples": [
+    {
+     "en": "I called you again to organise.",
+     "es": "Volví a llamarte para organizar."
+    },
+    {
+     "en": "I called you again so that we'd organise.",
+     "es": "Volví a llamarte para que organizáramos."
+    }
+   ],
+   "t": 559.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I don't want the door to close on me.",
+   "es": [
+    "No quiero que la puerta se me cierre",
+    "No quiero que se me cierre la puerta"
+   ],
+   "why": "cierre (mood)."
+  },
+  {
+   "id": "p2",
+   "en": "I don't want the door to close again.",
+   "es": [
+    "No quiero que la puerta vuelva a cerrarse",
+    "No quiero que vuelva a cerrarse la puerta"
+   ],
+   "why": "volver a."
+  },
+  {
+   "id": "p3",
+   "en": "I don't want it to happen again.",
+   "es": [
+    "No quiero que vuelva a pasar",
+    "No quiero que pase otra vez"
+   ],
+   "why": "vuelva a pasar."
+  },
+  {
+   "id": "p4",
+   "en": "they spoke → past mood tense",
+   "es": [
+    "hablaran"
+   ],
+   "why": "hablaron → hablaran."
+  },
+  {
+   "id": "p5",
+   "en": "we spoke → past mood tense",
+   "es": [
+    "habláramos"
+   ],
+   "why": "-áramos."
+  },
+  {
+   "id": "p6",
+   "en": "he ate → past mood tense",
+   "es": [
+    "comiera"
+   ],
+   "why": "comieron → comiera."
+  },
+  {
+   "id": "p7",
+   "en": "I wanted them to eat with us.",
+   "es": [
+    "Quería que comieran con nosotros",
+    "Quería que comieran con nosotras"
+   ],
+   "why": "comieran."
+  },
+  {
+   "id": "p8",
+   "en": "I was hoping he'd call me.",
+   "es": [
+    "Esperaba que me llamara"
+   ],
+   "why": "llamara."
+  },
+  {
+   "id": "p9",
+   "en": "We needed to talk to him.",
+   "es": [
+    "Necesitábamos hablar con él"
+   ],
+   "why": "No que, no mood."
+  },
+  {
+   "id": "p10",
+   "en": "We needed him to talk to us.",
+   "es": [
+    "Necesitábamos que hablara con nosotros",
+    "Necesitábamos que hablara con nosotras"
+   ],
+   "why": "hablara."
+  },
+  {
+   "id": "p11",
+   "en": "I called you (informal) again.",
+   "es": [
+    "Volví a llamarte",
+    "Te volví a llamar"
+   ],
+   "why": "volví a."
+  },
+  {
+   "id": "p12",
+   "en": "I called you (informal) again so that we'd organise.",
+   "es": [
+    "Volví a llamarte para que organizáramos",
+    "Te volví a llamar para que organizáramos"
+   ],
+   "why": "organizáramos."
+  }
+ ],
+ "duration": 716.36,
+ "scId": 164985895
+}

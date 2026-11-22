@@ -1,0 +1,200 @@
+{
+ "id": "80",
+ "track": 80,
+ "title": "The uses of se, and se me … = 'on me' (se me quemó la cena)",
+ "cards": [
+  {
+   "title": "Recap: sé and se",
+   "body": "Sé (with accent) = I know (lo sé). Se without an accent = -self (se queda) or the replacement for le before lo (se lo preparo).",
+   "examples": [
+    {
+     "en": "He stays.",
+     "es": "Se queda."
+    },
+    {
+     "en": "I prepare it for them.",
+     "es": "Se lo preparo."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "se me … = '… on me'",
+   "body": "Like English 'it died on me', but much more common in Spanish and possible with many verbs: se + me / te / le / nos / les.",
+   "examples": [
+    {
+     "en": "The door closes (by itself).",
+     "es": "La puerta se cierra."
+    },
+    {
+     "en": "The door closes on me.",
+     "es": "Se me cierra la puerta."
+    }
+   ],
+   "t": 103.4
+  },
+  {
+   "title": "se me quema la cena",
+   "body": "You don't need to produce this yet; just recognise it when you hear it.",
+   "examples": [
+    {
+     "en": "The dinner is burning.",
+     "es": "La cena se quema."
+    },
+    {
+     "en": "The dinner is burning on me.",
+     "es": "La cena se me quema."
+    }
+   ],
+   "t": 189.9
+  },
+  {
+   "title": "acabar = to finish / run out",
+   "body": "",
+   "examples": [
+    {
+     "en": "The battery runs out.",
+     "es": "La batería se acaba."
+    },
+    {
+     "en": "My battery always runs out on me.",
+     "es": "La batería siempre se me acaba."
+    },
+    {
+     "en": "Does your battery run out? (informal / formal / all)",
+     "es": "¿Se te acaba? / ¿Se le acaba? / ¿Se les acaba?"
+    }
+   ],
+   "t": 270.7
+  },
+  {
+   "title": "In the past",
+   "body": "",
+   "examples": [
+    {
+     "en": "The dinner got burnt.",
+     "es": "La cena se quemó."
+    },
+    {
+     "en": "I burnt the dinner (it burnt on me).",
+     "es": "Se me quemó la cena."
+    },
+    {
+     "en": "We burnt the dinner.",
+     "es": "Se nos quemó la cena."
+    }
+   ],
+   "t": 385.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I know it.",
+   "es": [
+    "Lo sé"
+   ],
+   "why": "sé from saber."
+  },
+  {
+   "id": "p2",
+   "en": "I prepare it for them.",
+   "es": [
+    "Se lo preparo"
+   ],
+   "why": "les lo → se lo."
+  },
+  {
+   "id": "p3",
+   "en": "The door closes (by itself).",
+   "es": [
+    "La puerta se cierra",
+    "Se cierra la puerta"
+   ],
+   "why": "se cierra."
+  },
+  {
+   "id": "p4",
+   "en": "The door closes on me.",
+   "es": [
+    "Se me cierra la puerta",
+    "La puerta se me cierra"
+   ],
+   "why": "se me."
+  },
+  {
+   "id": "p5",
+   "en": "The dinner is burning on me.",
+   "es": [
+    "La cena se me quema",
+    "Se me quema la cena"
+   ],
+   "why": "se me quema."
+  },
+  {
+   "id": "p6",
+   "en": "to run out",
+   "es": [
+    "acabar",
+    "acabarse"
+   ],
+   "why": "acabar."
+  },
+  {
+   "id": "p7",
+   "en": "The battery runs out.",
+   "es": [
+    "La batería se acaba",
+    "Se acaba la batería"
+   ],
+   "why": "se acaba."
+  },
+  {
+   "id": "p8",
+   "en": "My battery always runs out on me.",
+   "es": [
+    "La batería siempre se me acaba",
+    "Siempre se me acaba la batería"
+   ],
+   "why": "se me acaba."
+  },
+  {
+   "id": "p9",
+   "en": "Does your battery run out? (informal)",
+   "es": [
+    "La batería se te acaba",
+    "Se te acaba la batería"
+   ],
+   "why": "se te."
+  },
+  {
+   "id": "p10",
+   "en": "The dinner got burnt.",
+   "es": [
+    "La cena se quemó",
+    "Se quemó la cena"
+   ],
+   "why": "se quemó."
+  },
+  {
+   "id": "p11",
+   "en": "The dinner burnt on me.",
+   "es": [
+    "La cena se me quemó",
+    "Se me quemó la cena"
+   ],
+   "why": "se me quemó."
+  },
+  {
+   "id": "p12",
+   "en": "The dinner burnt on us.",
+   "es": [
+    "La cena se nos quemó",
+    "Se nos quemó la cena"
+   ],
+   "why": "se nos."
+  }
+ ],
+ "duration": 429.58,
+ "scId": 164759823
+}

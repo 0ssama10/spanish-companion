@@ -1,0 +1,288 @@
+{
+ "id": "10",
+ "track": 10,
+ "title": "-ar/-er/-ir, the I form, comer, tener, vengo",
+ "cards": [
+  {
+   "title": "Warm-up: more -ar verbs",
+   "body": "Read the spelling, not the English sound: separate has an a, so separar.",
+   "examples": [
+    {
+     "en": "to ventilate",
+     "es": "ventilar"
+    },
+    {
+     "en": "to separate",
+     "es": "separar"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Memory hooks",
+   "body": "Saber (to know) links to savvy and Homo sapiens (the 'wise' one). Venir links to conveniente, 'with coming'.",
+   "t": 31.4
+  },
+  {
+   "title": "'To' forms end in r; 'I' forms usually in o",
+   "body": "Quiero, debo, intento end in -o for 'I'. Irregular verbs, like voy, break the pattern.",
+   "t": 53.4
+  },
+  {
+   "title": "Three verb types: -ar, -er, -ir",
+   "body": "Every 'to' form ends in -ar, -er or -ir. The -ation rule gives you many -ar verbs; saber is an -er verb and venir an -ir verb.",
+   "examples": [
+    {
+     "en": "to simulate",
+     "es": "simular"
+    },
+    {
+     "en": "to reveal",
+     "es": "revelar"
+    },
+    {
+     "en": "to breathe (respire)",
+     "es": "respirar"
+    }
+   ],
+   "t": 111.3
+  },
+  {
+   "title": "What is a verb?",
+   "body": "A verb is a word you can put 'to' in front of: to be, to stay, to go. 'Doing word' doesn't fit 'is', which comes from 'to be'. In Spanish, these 'to' forms end in r.",
+   "t": 186.3
+  },
+  {
+   "title": "Making the I form: drop the ending, add -o, move the stress",
+   "body": "Remove -ar/-er/-ir and add -o. The stress moves to the second-to-last syllable: inTENto. This matters: stressing the end (intentó) means 'he tried', a past form you'll meet later.",
+   "examples": [
+    {
+     "en": "to try → I try",
+     "es": "intentar → intento",
+     "say": "een-TEN-toh"
+    },
+    {
+     "en": "I don't donate.",
+     "es": "No dono."
+    },
+    {
+     "en": "I create",
+     "es": "creo"
+    }
+   ],
+   "t": 227.0
+  },
+  {
+   "title": "comer = to eat",
+   "body": "",
+   "examples": [
+    {
+     "en": "I eat / I'm eating",
+     "es": "como"
+    },
+    {
+     "en": "I'm going to eat.",
+     "es": "Voy a comer."
+    }
+   ],
+   "t": 328.3
+  },
+  {
+   "title": "tarde = late, mañana = tomorrow",
+   "body": "Link tarde to 'tardy'.",
+   "examples": [
+    {
+     "en": "I'm going to eat late.",
+     "es": "Voy a comer tarde."
+    },
+    {
+     "en": "I'm going to eat tomorrow.",
+     "es": "Voy a comer mañana.",
+     "say": "mah-NYAH-nah"
+    }
+   ],
+   "t": 345.7
+  },
+  {
+   "title": "Present for the future",
+   "body": "If something like mañana already shows it's future, you can just use the present: 'I eat tomorrow' is perfect Spanish. Con (with) comes from confirmar.",
+   "examples": [
+    {
+     "en": "I'm eating tomorrow.",
+     "es": "Como mañana."
+    },
+    {
+     "en": "I'm eating with Pablo tomorrow.",
+     "es": "Como con Pablo mañana."
+    },
+    {
+     "en": "(same meaning)",
+     "es": "Voy a comer con Pablo mañana."
+    }
+   ],
+   "t": 381.5
+  },
+  {
+   "title": "organizar → organizo",
+   "body": "The z is s in most places, th in much of Spain.",
+   "examples": [
+    {
+     "en": "I organise / I'm organising",
+     "es": "organizo",
+     "say": "or-gah-NEE-soh"
+    }
+   ],
+   "t": 480.0
+  },
+  {
+   "title": "tener = to have; más = more",
+   "body": "Later = 'more late' = más tarde (link más to massive).",
+   "examples": [
+    {
+     "en": "I want to have it.",
+     "es": "Quiero tenerlo."
+    },
+    {
+     "en": "I'm going to have it later.",
+     "es": "Voy a tenerlo más tarde."
+    }
+   ],
+   "t": 505.2
+  },
+  {
+   "title": "-tain = tener",
+   "body": "English -tain matches Spanish tener: contain → contener, obtain → obtener, sustain → sostener (sus → sos), maintain → mantener, entertain → entretener. Entre means 'between'.",
+   "examples": [
+    {
+     "en": "to obtain",
+     "es": "obtener"
+    },
+    {
+     "en": "to maintain",
+     "es": "mantener"
+    },
+    {
+     "en": "between you and me",
+     "es": "entre tú y yo"
+    }
+   ],
+   "t": 551.2
+  },
+  {
+   "title": "tengo, vengo — irregular in a group",
+   "body": "I have is tengo (a g appears instead of 'teno'). Irregular verbs come in groups: venir does the same, so 'I come' is vengo.",
+   "examples": [
+    {
+     "en": "I have",
+     "es": "tengo"
+    },
+    {
+     "en": "I'm coming tomorrow.",
+     "es": "Vengo mañana."
+    }
+   ],
+   "t": 684.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "to separate",
+   "es": [
+    "separar"
+   ],
+   "why": "separation → separar (written with a)."
+  },
+  {
+   "id": "p2",
+   "en": "to breathe",
+   "es": [
+    "respirar"
+   ],
+   "why": "respiration → respirar."
+  },
+  {
+   "id": "p3",
+   "en": "I don't donate.",
+   "es": [
+    "No dono"
+   ],
+   "why": "donar → dono."
+  },
+  {
+   "id": "p4",
+   "en": "I eat.",
+   "es": [
+    "Como"
+   ],
+   "why": "comer → como."
+  },
+  {
+   "id": "p5",
+   "en": "I'm going to eat late.",
+   "es": [
+    "Voy a comer tarde"
+   ],
+   "why": "voy a comer + tarde."
+  },
+  {
+   "id": "p6",
+   "en": "I'm eating with Pablo tomorrow.",
+   "es": [
+    "Como con Pablo mañana",
+    "Voy a comer con Pablo mañana"
+   ],
+   "why": "Future context lets you use the present: como … mañana."
+  },
+  {
+   "id": "p7",
+   "en": "I'm organising.",
+   "es": [
+    "Organizo"
+   ],
+   "why": "organizar → organizo."
+  },
+  {
+   "id": "p8",
+   "en": "I'm going to have it later.",
+   "es": [
+    "Voy a tenerlo más tarde"
+   ],
+   "why": "later = más tarde."
+  },
+  {
+   "id": "p9",
+   "en": "to obtain",
+   "es": [
+    "obtener"
+   ],
+   "why": "-tain → tener."
+  },
+  {
+   "id": "p10",
+   "en": "to maintain",
+   "es": [
+    "mantener"
+   ],
+   "why": "main- → man-, + tener."
+  },
+  {
+   "id": "p11",
+   "en": "I have",
+   "es": [
+    "tengo"
+   ],
+   "why": "Irregular: tengo."
+  },
+  {
+   "id": "p12",
+   "en": "I'm coming tomorrow.",
+   "es": [
+    "Vengo mañana"
+   ],
+   "why": "venir → vengo, like tener → tengo."
+  }
+ ],
+ "duration": 747.89,
+ "scId": 161024438
+}

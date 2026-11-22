@@ -1,0 +1,195 @@
+{
+ "id": "70",
+ "track": 70,
+ "title": "lo que, necesitar que, faltar / hace falta que, preferir que",
+ "cards": [
+  {
+   "title": "lo que = what (not a question)",
+   "body": "",
+   "examples": [
+    {
+     "en": "I cooked what they're eating.",
+     "es": "Cociné lo que comen."
+    },
+    {
+     "en": "I don't want you to talk about what we talked about.",
+     "es": "No quiero que hables sobre lo que hablamos."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Remove ambiguity",
+   "body": "Hablamos can be present or past. Add el otro día, or use the line past.",
+   "examples": [
+    {
+     "en": "… about what we were talking about.",
+     "es": "No quiero que hables sobre lo que hablábamos."
+    }
+   ],
+   "t": 108.2
+  },
+  {
+   "title": "necesitar que + mood tense",
+   "body": "Like quiero que: a verb expressing what you want to happen, then que, then the mood tense.",
+   "examples": [
+    {
+     "en": "I need you (formal) to prepare it.",
+     "es": "Necesito que (usted) lo prepare."
+    }
+   ],
+   "t": 208.1
+  },
+  {
+   "title": "faltar = to be missing / lacking",
+   "body": "La falta = lack: falta de respeto (lack of respect).",
+   "examples": [
+    {
+     "en": "I need you to prepare what's missing.",
+     "es": "Necesito que prepare lo que falta."
+    },
+    {
+     "en": "lack of consideration",
+     "es": "falta de consideración"
+    }
+   ],
+   "t": 299.4
+  },
+  {
+   "title": "hace falta que = it's necessary that",
+   "body": "Literally 'it makes lack'. A fixed, very common expression followed by the mood tense. Pronto = soon (in Italian it means 'ready').",
+   "examples": [
+    {
+     "en": "We need to eat soon.",
+     "es": "Hace falta que comamos pronto."
+    }
+   ],
+   "t": 370.8
+  },
+  {
+   "title": "preferir que + mood tense",
+   "body": "Focus on the feeling of the mood tense, not only the structures.",
+   "examples": [
+    {
+     "en": "I'd prefer him to stay.",
+     "es": "Prefiero que se quede."
+    },
+    {
+     "en": "I'd prefer them not to stay here.",
+     "es": "Prefiero que no se queden aquí."
+    },
+    {
+     "en": "I'd prefer you to give it to her.",
+     "es": "Prefiero que se lo des a ella."
+    }
+   ],
+   "t": 495.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I saw what you're doing.",
+   "es": [
+    "Vi lo que haces",
+    "Vi lo que estás haciendo"
+   ],
+   "why": "lo que (not a question)."
+  },
+  {
+   "id": "p2",
+   "en": "I don't want you (informal) to talk about what we were talking about.",
+   "es": [
+    "No quiero que hables sobre lo que hablábamos",
+    "No quiero que hables de lo que hablábamos"
+   ],
+   "why": "hables (mood) + lo que hablábamos."
+  },
+  {
+   "id": "p3",
+   "en": "to need",
+   "es": [
+    "necesitar"
+   ],
+   "why": "necesidad → necesitar."
+  },
+  {
+   "id": "p4",
+   "en": "I need you (formal) to prepare it.",
+   "es": [
+    "Necesito que lo prepare",
+    "Necesito que usted lo prepare",
+    "Necesito que lo prepare usted"
+   ],
+   "why": "necesito que + prepare."
+  },
+  {
+   "id": "p5",
+   "en": "I need you (formal) to prepare what's missing.",
+   "es": [
+    "Necesito que prepare lo que falta"
+   ],
+   "why": "lo que falta."
+  },
+  {
+   "id": "p6",
+   "en": "lack of respect",
+   "es": [
+    "falta de respeto"
+   ],
+   "why": "la falta."
+  },
+  {
+   "id": "p7",
+   "en": "We need to eat soon.",
+   "es": [
+    "Hace falta que comamos pronto"
+   ],
+   "why": "hace falta que + comamos."
+  },
+  {
+   "id": "p8",
+   "en": "I prefer.",
+   "es": [
+    "Prefiero"
+   ],
+   "why": "e → ie."
+  },
+  {
+   "id": "p9",
+   "en": "I'd prefer him to stay.",
+   "es": [
+    "Prefiero que se quede"
+   ],
+   "why": "quede (mood)."
+  },
+  {
+   "id": "p10",
+   "en": "I'd prefer them not to stay here.",
+   "es": [
+    "Prefiero que no se queden aquí",
+    "Prefiero que no se queden acá"
+   ],
+   "why": "no se queden."
+  },
+  {
+   "id": "p11",
+   "en": "I'd prefer you (informal) to give it to him.",
+   "es": [
+    "Prefiero que se lo des",
+    "Prefiero que se lo des a él"
+   ],
+   "why": "des (mood of dar)."
+  },
+  {
+   "id": "p12",
+   "en": "I'd prefer you (informal) to give it to her.",
+   "es": [
+    "Prefiero que se lo des a ella"
+   ],
+   "why": "a ella clarifies."
+  }
+ ],
+ "duration": 658.44,
+ "scId": 164202755
+}

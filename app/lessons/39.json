@@ -1,0 +1,219 @@
+{
+ "id": "39",
+ "track": 39,
+ "title": "Prepositions: con, para, de + él/ella…, mí / ti; hacer un favor; decir",
+ "cards": [
+  {
+   "title": "con él, con ella… ('with he')",
+   "body": "Con is a Latin building block in English too (consequence). After it, Spanish uses él, ella, ellos, nosotros, usted, ustedes.",
+   "examples": [
+    {
+     "en": "with him / her / them",
+     "es": "con él / con ella / con ellos"
+    },
+    {
+     "en": "with us / with you all",
+     "es": "con nosotros / con ustedes"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "para = for; prepositions",
+   "body": "Con, para and de are prepositions: small words of movement or position. Exceptions after prepositions: mí (me) and ti (informal you).",
+   "examples": [
+    {
+     "en": "for him / for us",
+     "es": "para él / para nosotros"
+    },
+    {
+     "en": "for me / for you",
+     "es": "para mí / para ti"
+    },
+    {
+     "en": "from me / from you",
+     "es": "de mí / de ti"
+    }
+   ],
+   "t": 81.3
+  },
+  {
+   "title": "es de / es para vs está con",
+   "body": "'From you' or 'for you' describes the thing: ser. 'With you' is its location, a state: estar.",
+   "examples": [
+    {
+     "en": "Is it from you guys?",
+     "es": "¿Es de ustedes?"
+    },
+    {
+     "en": "It's for you guys.",
+     "es": "Es para ustedes."
+    },
+    {
+     "en": "It's with you guys.",
+     "es": "Está con ustedes."
+    }
+   ],
+   "t": 251.3
+  },
+  {
+   "title": "hacer un favor",
+   "body": "La hace would mean 'he makes it'. For 'to/for her', use le.",
+   "examples": [
+    {
+     "en": "He's doing me a favour.",
+     "es": "Me hace un favor."
+    },
+    {
+     "en": "He's doing her a favour.",
+     "es": "Le hace un favor."
+    }
+   ],
+   "t": 342.0
+  },
+  {
+   "title": "decir = to say / to tell",
+   "body": "Hablar = to speak or talk; decir = to say or tell.",
+   "examples": [
+    {
+     "en": "I want to tell him.",
+     "es": "Le quiero decir. / Quiero decirle."
+    },
+    {
+     "en": "I want to say it.",
+     "es": "Lo quiero decir."
+    }
+   ],
+   "t": 395.3
+  },
+  {
+   "title": "le / les replace a hidden preposition",
+   "body": "Les compro = I buy for them (the natural way). Compro para ellos is possible too.",
+   "examples": [
+    {
+     "en": "I buy them (the things).",
+     "es": "Los compro."
+    },
+    {
+     "en": "I buy for them.",
+     "es": "Les compro."
+    },
+    {
+     "en": "They buy them for me.",
+     "es": "Me los compran."
+    }
+   ],
+   "t": 447.9
+  },
+  {
+   "title": "Shed your prepositions",
+   "body": "Me lo compra can mean 'for me' or 'from me'; context decides. Spanish uses fewer prepositions than English; listen and you'll start dropping them.",
+   "t": 589.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "with him",
+   "es": [
+    "con él"
+   ],
+   "why": "'with he'."
+  },
+  {
+   "id": "p2",
+   "en": "with us (women)",
+   "es": [
+    "con nosotras"
+   ],
+   "why": "con + nosotras."
+  },
+  {
+   "id": "p3",
+   "en": "for me",
+   "es": [
+    "para mí"
+   ],
+   "why": "mí after prepositions."
+  },
+  {
+   "id": "p4",
+   "en": "from you (informal)",
+   "es": [
+    "de ti"
+   ],
+   "why": "ti after prepositions."
+  },
+  {
+   "id": "p5",
+   "en": "Is it from you guys?",
+   "es": [
+    "Es de ustedes"
+   ],
+   "why": "¿Es de ustedes?"
+  },
+  {
+   "id": "p6",
+   "en": "It's with you guys.",
+   "es": [
+    "Está con ustedes"
+   ],
+   "why": "Location → estar."
+  },
+  {
+   "id": "p7",
+   "en": "He's doing me a favour.",
+   "es": [
+    "Me hace un favor"
+   ],
+   "why": "me hace un favor."
+  },
+  {
+   "id": "p8",
+   "en": "He's doing her a favour.",
+   "es": [
+    "Le hace un favor"
+   ],
+   "why": "for her → le."
+  },
+  {
+   "id": "p9",
+   "en": "I want to tell him.",
+   "es": [
+    "Le quiero decir",
+    "Quiero decirle"
+   ],
+   "why": "decir = to tell."
+  },
+  {
+   "id": "p10",
+   "en": "I want to say it.",
+   "es": [
+    "Lo quiero decir",
+    "Quiero decirlo"
+   ],
+   "why": "lo = it."
+  },
+  {
+   "id": "p11",
+   "en": "I'm buying for them.",
+   "es": [
+    "Les compro",
+    "Compro para ellos",
+    "Compro para ellas"
+   ],
+   "why": "les = for them."
+  },
+  {
+   "id": "p12",
+   "en": "They buy them for me.",
+   "es": [
+    "Me los compran",
+    "Me las compran"
+   ],
+   "why": "me los compran."
+  }
+ ],
+ "duration": 635.12,
+ "scId": 162794259
+}

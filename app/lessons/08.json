@@ -1,0 +1,218 @@
+{
+ "id": "08",
+ "track": 8,
+ "title": "la, quiere, questions, venir, debo",
+ "cards": [
+  {
+   "title": "la = her / it (feminine word)",
+   "body": "Change lo's o to a and you get la: 'her', or 'it' for a feminine word. Gender belongs to the word, not the object; words ending in -a are usually feminine, like casa (house).",
+   "examples": [
+    {
+     "en": "I want to see it (the house).",
+     "es": "Quiero verla."
+    },
+    {
+     "en": "I want to see her.",
+     "es": "Quiero verla."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Formal or informal you?",
+   "body": "La can also be formal 'you' to a woman (lo to a man). How much formal speech is used varies a lot: in Spain people often start formally with strangers, while in Buenos Aires the formal form is rare. The safe default: start formal and adjust to how people speak to you.",
+   "caveat": "This varies by region and situation; there's no single rule.",
+   "t": 73.9
+  },
+  {
+   "title": "quiere = he / she / it wants, you (formal) want",
+   "body": "Just like es, these four meanings go together. The -e ending is the 'he/she/it/you formal' form.",
+   "examples": [
+    {
+     "en": "You (formal) want to visit me.",
+     "es": "Quiere visitarme."
+    }
+   ],
+   "t": 141.4
+  },
+  {
+   "title": "Questions: just use your voice",
+   "body": "Spanish doesn't need 'do'. Keep the same words and raise your voice like a question. In writing, questions open with ¿.",
+   "examples": [
+    {
+     "en": "Do you want to visit me?",
+     "es": "¿Quiere visitarme?"
+    },
+    {
+     "en": "Don't you want to visit me?",
+     "es": "¿No quiere visitarme?"
+    }
+   ],
+   "t": 178.3
+  },
+  {
+   "title": "por qué = why (and porque = because)",
+   "body": "The same sounds also mean 'because'. Written as two words with an accent for 'why' (por qué) and one word for 'because' (porque).",
+   "examples": [
+    {
+     "en": "Why don't you want to visit me?",
+     "es": "¿Por qué no quiere visitarme?"
+    }
+   ],
+   "caveat": "The spelling difference (por qué vs porque) is standard Spanish; the lesson only says they sound the same.",
+   "t": 223.7
+  },
+  {
+   "title": "venir = to come",
+   "body": "Usually said with a soft b. Link it to conveniente ('coming together') and bienvenido (welcome: bien = well + venido = come).",
+   "examples": [
+    {
+     "en": "Do you want to come?",
+     "es": "¿Quiere venir?",
+     "say": "KYEH-reh beh-NEER"
+    }
+   ],
+   "t": 240.5
+  },
+  {
+   "title": "la casa, a la casa",
+   "body": "La also means 'the' before a feminine word. Venir is a verb of movement, so it takes a before another verb.",
+   "examples": [
+    {
+     "en": "to the house",
+     "es": "a la casa"
+    },
+    {
+     "en": "Do you want to come to the house?",
+     "es": "¿Quiere venir a la casa?"
+    },
+    {
+     "en": "Why don't you want to come to visit me?",
+     "es": "¿Por qué no quiere venir a visitarme?"
+    }
+   ],
+   "t": 285.9
+  },
+  {
+   "title": "debo = I owe → I must",
+   "body": "Debo means 'I owe' (the silent b in English 'debt' comes from it). Followed by a verb, it means 'I must'.",
+   "examples": [
+    {
+     "en": "I must continue.",
+     "es": "Debo continuar."
+    },
+    {
+     "en": "I must identify them.",
+     "es": "Debo identificarlos."
+    },
+    {
+     "en": "… (feminine things)",
+     "es": "Debo identificarlas."
+    }
+   ],
+   "t": 362.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I want to see her.",
+   "es": [
+    "Quiero verla"
+   ],
+   "why": "la = her."
+  },
+  {
+   "id": "p2",
+   "en": "You (formal) want to visit me.",
+   "es": [
+    "Quiere visitarme"
+   ],
+   "why": "quiere = he/she/it wants, you (formal) want."
+  },
+  {
+   "id": "p3",
+   "en": "Do you (formal) want to visit me?",
+   "es": [
+    "Quiere visitarme"
+   ],
+   "why": "Same words, question intonation: ¿Quiere visitarme?"
+  },
+  {
+   "id": "p4",
+   "en": "Don't you (formal) want to visit me?",
+   "es": [
+    "No quiere visitarme"
+   ],
+   "why": "¿No quiere visitarme? — no 'do' needed."
+  },
+  {
+   "id": "p5",
+   "en": "Why don't you (formal) want to visit me?",
+   "es": [
+    "Por qué no quiere visitarme",
+    "Porque no quiere visitarme"
+   ],
+   "why": "por qué + no quiere visitarme."
+  },
+  {
+   "id": "p6",
+   "en": "Does she want to come?",
+   "es": [
+    "Quiere venir"
+   ],
+   "why": "¿Quiere venir? — quiere covers she."
+  },
+  {
+   "id": "p7",
+   "en": "to the house",
+   "es": [
+    "a la casa"
+   ],
+   "why": "a (to) + la casa (the house)."
+  },
+  {
+   "id": "p8",
+   "en": "Do you (formal) want to come to the house?",
+   "es": [
+    "Quiere venir a la casa"
+   ],
+   "why": "¿Quiere venir a la casa?"
+  },
+  {
+   "id": "p9",
+   "en": "Do you (formal) want to come to visit me?",
+   "es": [
+    "Quiere venir a visitarme"
+   ],
+   "why": "venir is movement: venir a visitarme."
+  },
+  {
+   "id": "p10",
+   "en": "I must continue.",
+   "es": [
+    "Debo continuar"
+   ],
+   "why": "debo (I owe) = I must."
+  },
+  {
+   "id": "p11",
+   "en": "I must identify it.",
+   "es": [
+    "Debo identificarlo",
+    "Debo identificarla"
+   ],
+   "why": "identificación → identificar + lo."
+  },
+  {
+   "id": "p12",
+   "en": "I must identify them (feminine).",
+   "es": [
+    "Debo identificarlas"
+   ],
+   "why": "la → las for feminine 'them'."
+  }
+ ],
+ "duration": 453.3,
+ "scId": 161024407
+}

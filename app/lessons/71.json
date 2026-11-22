@@ -1,0 +1,209 @@
+{
+ "id": "71",
+ "track": 71,
+ "title": "contar (cuento), contar con, espero que, vean, the personal a, al",
+ "cards": [
+  {
+   "title": "contar = to count / to tell (a story)",
+   "body": "Like English 'recount'. Cuento = I tell, and un cuento = a story.",
+   "examples": [
+    {
+     "en": "I want you to tell me.",
+     "es": "Quiero que me cuentes."
+    },
+    {
+     "en": "I want you (all) to tell me something.",
+     "es": "Quiero que me cuenten algo."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "contar con = to count on",
+   "body": "Spanish says 'count with'. Spanish speakers saying 'count with me' in English is a clue.",
+   "examples": [
+    {
+     "en": "I want you to count on me.",
+     "es": "Quiero que cuentes conmigo."
+    }
+   ],
+   "t": 80.8
+  },
+  {
+   "title": "espero que + mood tense",
+   "body": "",
+   "examples": [
+    {
+     "en": "I hope you can count on me.",
+     "es": "Espero que cuentes conmigo."
+    },
+    {
+     "en": "We hope they tell it to María.",
+     "es": "Esperamos que lo cuenten a María."
+    }
+   ],
+   "t": 160.2
+  },
+  {
+   "title": "ver → vea (from veo)",
+   "body": "Swapping ven would give 'van' (they go), so the mood tense builds on veo: vea, vean.",
+   "examples": [
+    {
+     "en": "I hope they see.",
+     "es": "Espero que vean."
+    }
+   ],
+   "t": 271.5
+  },
+  {
+   "title": "The personal a",
+   "body": "When a specific person receives the action (and no other preposition is there), add a. Word order is flexible, so without it 'comprenda David' would mean 'David understands'.",
+   "examples": [
+    {
+     "en": "I hope they see María.",
+     "es": "Espero que vean a María."
+    },
+    {
+     "en": "I hope you understand David.",
+     "es": "Espero que comprendas a David."
+    }
+   ],
+   "t": 320.7
+  },
+  {
+   "title": "a + el = al",
+   "body": "",
+   "examples": [
+    {
+     "en": "I want him to see the man.",
+     "es": "Quiero que vea al hombre."
+    },
+    {
+     "en": "I want the man to see.",
+     "es": "Quiero que el hombre vea."
+    }
+   ],
+   "t": 467.6
+  },
+  {
+   "title": "me gusta que + mood tense",
+   "body": "The personal a is for specific people (find THE plumber vs A plumber). It can also personify things (escapar a la muerte).",
+   "examples": [
+    {
+     "en": "I like that the teacher visits.",
+     "es": "Me gusta que la profesora visite."
+    },
+    {
+     "en": "I like that he visits the teacher.",
+     "es": "Me gusta que visite a la profesora."
+    }
+   ],
+   "t": 552.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I tell (a story).",
+   "es": [
+    "Cuento"
+   ],
+   "why": "contar → cuento."
+  },
+  {
+   "id": "p2",
+   "en": "a story",
+   "es": [
+    "un cuento"
+   ],
+   "why": "un cuento."
+  },
+  {
+   "id": "p3",
+   "en": "I want you (informal) to tell me something.",
+   "es": [
+    "Quiero que me cuentes algo"
+   ],
+   "why": "cuentes (mood)."
+  },
+  {
+   "id": "p4",
+   "en": "I want you (informal) to count on me.",
+   "es": [
+    "Quiero que cuentes conmigo"
+   ],
+   "why": "contar con."
+  },
+  {
+   "id": "p5",
+   "en": "We hope they count on María.",
+   "es": [
+    "Esperamos que cuenten con María"
+   ],
+   "why": "con, no personal a."
+  },
+  {
+   "id": "p6",
+   "en": "I hope they see.",
+   "es": [
+    "Espero que vean"
+   ],
+   "why": "From veo: vean."
+  },
+  {
+   "id": "p7",
+   "en": "I hope they see María.",
+   "es": [
+    "Espero que vean a María"
+   ],
+   "why": "Personal a."
+  },
+  {
+   "id": "p8",
+   "en": "I hope you (informal) understand David.",
+   "es": [
+    "Espero que comprendas a David",
+    "Espero que entiendas a David"
+   ],
+   "why": "a David."
+  },
+  {
+   "id": "p9",
+   "en": "I want him to see the man.",
+   "es": [
+    "Quiero que vea al hombre"
+   ],
+   "why": "a + el = al."
+  },
+  {
+   "id": "p10",
+   "en": "I want the man to see.",
+   "es": [
+    "Quiero que el hombre vea",
+    "Quiero que vea el hombre"
+   ],
+   "why": "No a — the man does the seeing."
+  },
+  {
+   "id": "p11",
+   "en": "I like that the teacher visits.",
+   "es": [
+    "Me gusta que la profesora visite",
+    "Me gusta que el profesor visite",
+    "Me gusta que visite la profesora"
+   ],
+   "why": "me gusta que + visite."
+  },
+  {
+   "id": "p12",
+   "en": "I like that he visits the teacher.",
+   "es": [
+    "Me gusta que visite a la profesora",
+    "Me gusta que visite al profesor"
+   ],
+   "why": "Personal a."
+  }
+ ],
+ "duration": 760.48,
+ "scId": 164759813
+}

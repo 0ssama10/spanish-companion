@@ -5,7 +5,7 @@ from faster_whisper import WhisperModel
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "private-audio")
 z = zipfile.ZipFile(os.path.join(ROOT, "spanish.zip"))
 W, N = (int(sys.argv[1]), int(sys.argv[2])) if len(sys.argv) > 2 else (0, 1)
-model = WhisperModel("small.en", device="cpu", compute_type="int8", cpu_threads=6)
+model = WhisperModel(os.environ.get("WHISPER_MODEL", "base.en"), device="cpu", compute_type="int8", cpu_threads=4)
 names = sorted(n for n in z.namelist() if n.lower().endswith(".mp3"))
 for n in names:
     num = int(re.search(r"Lesson (\d+)", n).group(1))

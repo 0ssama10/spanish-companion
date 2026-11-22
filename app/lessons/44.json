@@ -1,0 +1,218 @@
+{
+ "id": "44",
+ "track": 44,
+ "title": "More -ma words, este / ese, la mano, manejar, la foto",
+ "cards": [
+  {
+   "title": "Greek -ma words: masculine",
+   "body": "Esquema (from 'scheme') means outline or diagram; note the extra e before sc-.",
+   "examples": [
+    {
+     "en": "the paradigm / the outline",
+     "es": "el paradigma / el esquema"
+    },
+    {
+     "en": "the diagram",
+     "es": "el diagrama"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "el planeta: masculine with -a",
+   "body": "Most -o words are masculine and -a words feminine, with some exceptions.",
+   "examples": [
+    {
+     "en": "the planets",
+     "es": "los planetas"
+    }
+   ],
+   "t": 92.6
+  },
+  {
+   "title": "este / esta = this",
+   "body": "",
+   "examples": [
+    {
+     "en": "this car",
+     "es": "este auto"
+    },
+    {
+     "en": "this night",
+     "es": "esta noche"
+    }
+   ],
+   "t": 145.9
+  },
+  {
+   "title": "ese / esa = that",
+   "body": "Remove the t from este / esta.",
+   "examples": [
+    {
+     "en": "I don't want that car because it's very big.",
+     "es": "No quiero ese auto porque es muy grande."
+    },
+    {
+     "en": "those nights",
+     "es": "esas noches"
+    }
+   ],
+   "t": 189.3
+  },
+  {
+   "title": "la mano = the hand",
+   "body": "Feminine despite the -o. Man- means hand in English words too: manual, manuscript, maintain (mantener), manage.",
+   "examples": [
+    {
+     "en": "these hands / that hand",
+     "es": "estas manos / esa mano"
+    }
+   ],
+   "t": 259.9
+  },
+  {
+   "title": "manejar = to manage / handle / drive",
+   "body": "'Manage' once meant handling horses; in some Latin American countries manejar means to drive.",
+   "examples": [
+    {
+     "en": "Can you give me a hand?",
+     "es": "¿Me puedes dar una mano?"
+    },
+    {
+     "en": "You should give me a hand.",
+     "es": "Deberías darme una mano."
+    },
+    {
+     "en": "I'm managing the problem (now).",
+     "es": "Estoy manejando el problema."
+    }
+   ],
+   "t": 310.7
+  },
+  {
+   "title": "la foto, la moto",
+   "body": "These are short for la fotografía and la motocicleta, so they keep la. Tomar (or sacar) una foto = take a photo.",
+   "examples": [
+    {
+     "en": "I'm taking a photo.",
+     "es": "Estoy tomando una foto."
+    },
+    {
+     "en": "I'd like to take a photo, but I don't have my camera.",
+     "es": "Me gustaría tomar una foto, pero no tengo mi cámara."
+    }
+   ],
+   "t": 490.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "the outline / diagram",
+   "es": [
+    "el esquema",
+    "el diagrama"
+   ],
+   "why": "Greek -ma → masculine."
+  },
+  {
+   "id": "p2",
+   "en": "the planets",
+   "es": [
+    "los planetas"
+   ],
+   "why": "Masculine despite -a."
+  },
+  {
+   "id": "p3",
+   "en": "this car",
+   "es": [
+    "este auto",
+    "este coche",
+    "este carro"
+   ],
+   "why": "este for masculine."
+  },
+  {
+   "id": "p4",
+   "en": "that car",
+   "es": [
+    "ese auto",
+    "ese coche",
+    "ese carro"
+   ],
+   "why": "Drop the t: ese."
+  },
+  {
+   "id": "p5",
+   "en": "I don't want that car because it's very big.",
+   "es": [
+    "No quiero ese auto porque es muy grande",
+    "No quiero ese coche porque es muy grande",
+    "No quiero ese carro porque es muy grande"
+   ],
+   "why": "ese auto + porque es muy grande."
+  },
+  {
+   "id": "p6",
+   "en": "those nights",
+   "es": [
+    "esas noches"
+   ],
+   "why": "esa + s."
+  },
+  {
+   "id": "p7",
+   "en": "the hand",
+   "es": [
+    "la mano"
+   ],
+   "why": "Feminine -o word."
+  },
+  {
+   "id": "p8",
+   "en": "these hands",
+   "es": [
+    "estas manos"
+   ],
+   "why": "estas manos."
+  },
+  {
+   "id": "p9",
+   "en": "Could you (informal) give me a hand?",
+   "es": [
+    "Me podrías dar una mano",
+    "Podrías darme una mano"
+   ],
+   "why": "una mano."
+  },
+  {
+   "id": "p10",
+   "en": "I'm managing the problem (right now).",
+   "es": [
+    "Estoy manejando el problema"
+   ],
+   "why": "manejando."
+  },
+  {
+   "id": "p11",
+   "en": "I'm taking a photo (right now).",
+   "es": [
+    "Estoy tomando una foto",
+    "Estoy sacando una foto"
+   ],
+   "why": "la foto (short for fotografía)."
+  },
+  {
+   "id": "p12",
+   "en": "I'd like to take a photo, but I don't have my camera.",
+   "es": [
+    "Me gustaría tomar una foto pero no tengo mi cámara",
+    "Me gustaría sacar una foto pero no tengo mi cámara"
+   ],
+   "why": "me gustaría + tomar una foto + pero no tengo mi cámara."
+  }
+ ],
+ "duration": 607.01,
+ "scId": 163139516
+}

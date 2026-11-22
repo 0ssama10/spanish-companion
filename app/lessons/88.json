@@ -1,0 +1,201 @@
+{
+ "id": "88",
+ "track": 88,
+ "title": "puse, hice, vine, traje; fui (ser and ir); fueron; past mood from irregulars",
+ "cards": [
+  {
+   "title": "poner → pus-",
+   "body": "The -pose of compose / expose shows up here. Irregular endings are not stressed: puse, not 'pusé'.",
+   "examples": [
+    {
+     "en": "I was putting / I put",
+     "es": "ponía / puse"
+    },
+    {
+     "en": "Where did you put it?",
+     "es": "¿Dónde lo pusiste?"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "hacer → hic-",
+   "body": "Hizo is spelled with z (hico would sound wrong).",
+   "examples": [
+    {
+     "en": "I did / he did / they did",
+     "es": "hice / hizo / hicieron"
+    }
+   ],
+   "t": 74.7
+  },
+  {
+   "title": "venir → vin-; traer → traj-",
+   "body": "Un traje = a suit.",
+   "examples": [
+    {
+     "en": "He came with wine.",
+     "es": "Vino con vino."
+    },
+    {
+     "en": "I brought a suit.",
+     "es": "Traje un traje."
+    },
+    {
+     "en": "we brought",
+     "es": "trajimos"
+    }
+   ],
+   "t": 122.1
+  },
+  {
+   "title": "fui = I was / I went",
+   "body": "Ser and ir share the same dot past: fui, fue, fuimos, fuiste, fueron. The i drops in fueron, as in dijeron and trajeron, just for ease of saying.",
+   "examples": [
+    {
+     "en": "I didn't go. / He didn't go.",
+     "es": "No fui. / No fue."
+    },
+    {
+     "en": "we went / you went / they went",
+     "es": "fuimos / fuiste / fueron"
+    }
+   ],
+   "t": 184.0
+  },
+  {
+   "title": "Si yo fuera tú = if I were you",
+   "body": "Building the past mood tense from the 'they' form carries the irregularity over: fueron → fuera, dijeron → dijera, tuvieron → tuviera.",
+   "examples": [
+    {
+     "en": "If I were you …",
+     "es": "Si yo fuera tú … / Si yo fuera usted …"
+    },
+    {
+     "en": "If I had it, I'd tell you.",
+     "es": "Si lo tuviera, te lo contaría."
+    }
+   ],
+   "t": 320.4
+  },
+  {
+   "title": "quería que lo hicieran",
+   "body": "Don't fear mistakes: build verbs as usual and, if you suspect an irregular, check with the person you're talking to.",
+   "examples": [
+    {
+     "en": "I wanted them to do it.",
+     "es": "Quería que lo hicieran."
+    },
+    {
+     "en": "I wanted us to do it.",
+     "es": "Quería que lo hiciéramos."
+    }
+   ],
+   "t": 512.6
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I put (past).",
+   "es": [
+    "Puse"
+   ],
+   "why": "pus- + e."
+  },
+  {
+   "id": "p2",
+   "en": "Where did you (informal) put it?",
+   "es": [
+    "Dónde lo pusiste",
+    "Dónde la pusiste"
+   ],
+   "why": "pusiste."
+  },
+  {
+   "id": "p3",
+   "en": "I did.",
+   "es": [
+    "Hice"
+   ],
+   "why": "hic- + e."
+  },
+  {
+   "id": "p4",
+   "en": "He did.",
+   "es": [
+    "Hizo"
+   ],
+   "why": "hizo (z)."
+  },
+  {
+   "id": "p5",
+   "en": "He came with wine.",
+   "es": [
+    "Vino con vino"
+   ],
+   "why": "vin- + o."
+  },
+  {
+   "id": "p6",
+   "en": "I brought a suit.",
+   "es": [
+    "Traje un traje"
+   ],
+   "why": "traj- + e."
+  },
+  {
+   "id": "p7",
+   "en": "I went. / I was.",
+   "es": [
+    "Fui"
+   ],
+   "why": "fui."
+  },
+  {
+   "id": "p8",
+   "en": "He didn't go.",
+   "es": [
+    "No fue"
+   ],
+   "why": "fue."
+  },
+  {
+   "id": "p9",
+   "en": "They went.",
+   "es": [
+    "Fueron"
+   ],
+   "why": "fueron (no i)."
+  },
+  {
+   "id": "p10",
+   "en": "If I were you (informal) …",
+   "es": [
+    "Si yo fuera tú",
+    "Si fuera tú"
+   ],
+   "why": "fuera + tú."
+  },
+  {
+   "id": "p11",
+   "en": "If I had it, I'd tell you (informal).",
+   "es": [
+    "Si lo tuviera te lo contaría",
+    "Si lo tuviera te contaría",
+    "Si lo tuviera te lo diría"
+   ],
+   "why": "tuviera + contaría."
+  },
+  {
+   "id": "p12",
+   "en": "I wanted them to do it.",
+   "es": [
+    "Quería que lo hicieran"
+   ],
+   "why": "hicieron → hicieran."
+  }
+ ],
+ "duration": 577.78,
+ "scId": 165004821
+}

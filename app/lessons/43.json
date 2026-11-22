@@ -1,0 +1,203 @@
+{
+ "id": "43",
+ "track": 43,
+ "title": "habría = would have, me habría gustado, debería = should",
+ "cards": [
+  {
+   "title": "habría = would have",
+   "body": "Haber + -ía loses its e, like podría: habría (I / he / she / you formal would have).",
+   "examples": [
+    {
+     "en": "I would have gone.",
+     "es": "Habría ido."
+    },
+    {
+     "en": "We would have eaten.",
+     "es": "Habríamos comido."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Long sentences, block by block",
+   "body": "Same structure as English. Venir is movement, so it takes a.",
+   "examples": [
+    {
+     "en": "We would have been able to go.",
+     "es": "Habríamos podido ir."
+    },
+    {
+     "en": "They would have been able to eat.",
+     "es": "Habrían podido comer."
+    },
+    {
+     "en": "They would have come to eat.",
+     "es": "Habrían venido a comer."
+    }
+   ],
+   "t": 96.4
+  },
+  {
+   "title": "me habría gustado = I'd have liked it",
+   "body": "Go via literal 'Spanglish': it would have pleased me. Don't hunt for English 'liked'; just make the form that follows haber (-ado / -ido).",
+   "examples": [
+    {
+     "en": "I would have liked it.",
+     "es": "Me habría gustado."
+    },
+    {
+     "en": "We would have liked them.",
+     "es": "Nos habrían gustado."
+    }
+   ],
+   "t": 198.0
+  },
+  {
+   "title": "debería = should",
+   "body": "'Would owe' = should. In Spanish the next verb is always the 'to' form (English drops 'to' after should / can / must).",
+   "examples": [
+    {
+     "en": "You should come to my house to eat.",
+     "es": "Deberías venir a mi casa a comer."
+    },
+    {
+     "en": "We should speak.",
+     "es": "Deberíamos hablar."
+    },
+    {
+     "en": "We should talk about it.",
+     "es": "Deberíamos hablarlo."
+    }
+   ],
+   "t": 350.1
+  },
+  {
+   "title": "hablarle vs hablar con él",
+   "body": "Le could be him, her or formal you; con él / con ella removes the ambiguity.",
+   "examples": [
+    {
+     "en": "We should speak to him / them.",
+     "es": "Deberíamos hablarle. / Deberíamos hablarles."
+    },
+    {
+     "en": "We should speak with her.",
+     "es": "Deberíamos hablar con ella."
+    }
+   ],
+   "t": 461.2
+  },
+  {
+   "title": "daría",
+   "body": "",
+   "examples": [
+    {
+     "en": "They would give it to me.",
+     "es": "Me lo darían."
+    }
+   ],
+   "t": 526.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I would have gone.",
+   "es": [
+    "Habría ido"
+   ],
+   "why": "habría + ido."
+  },
+  {
+   "id": "p2",
+   "en": "We would have eaten.",
+   "es": [
+    "Habríamos comido"
+   ],
+   "why": "habríamos + comido."
+  },
+  {
+   "id": "p3",
+   "en": "We would have been able to go.",
+   "es": [
+    "Habríamos podido ir"
+   ],
+   "why": "habríamos podido + ir."
+  },
+  {
+   "id": "p4",
+   "en": "They would have come to eat.",
+   "es": [
+    "Habrían venido a comer"
+   ],
+   "why": "venir + a."
+  },
+  {
+   "id": "p5",
+   "en": "I would have liked it.",
+   "es": [
+    "Me habría gustado"
+   ],
+   "why": "'It would have pleased me'."
+  },
+  {
+   "id": "p6",
+   "en": "We would have liked them.",
+   "es": [
+    "Nos habrían gustado"
+   ],
+   "why": "'They would have pleased us'."
+  },
+  {
+   "id": "p7",
+   "en": "I should.",
+   "es": [
+    "Debería"
+   ],
+   "why": "deber + ía."
+  },
+  {
+   "id": "p8",
+   "en": "You (informal) should come to my house.",
+   "es": [
+    "Deberías venir a mi casa"
+   ],
+   "why": "deberías + venir."
+  },
+  {
+   "id": "p9",
+   "en": "We should speak.",
+   "es": [
+    "Deberíamos hablar"
+   ],
+   "why": "'To' form after should."
+  },
+  {
+   "id": "p10",
+   "en": "We should talk about it.",
+   "es": [
+    "Deberíamos hablarlo",
+    "Lo deberíamos hablar"
+   ],
+   "why": "hablarlo."
+  },
+  {
+   "id": "p11",
+   "en": "We should speak with her.",
+   "es": [
+    "Deberíamos hablar con ella"
+   ],
+   "why": "con ella is clear."
+  },
+  {
+   "id": "p12",
+   "en": "They would give it to me.",
+   "es": [
+    "Me lo darían",
+    "Me la darían"
+   ],
+   "why": "me lo + darían."
+  }
+ ],
+ "duration": 545.49,
+ "scId": 163139515
+}

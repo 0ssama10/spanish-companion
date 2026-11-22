@@ -1,0 +1,173 @@
+{
+ "id": "66",
+ "track": 66,
+ "title": "Body parts without 'my' (me duele la pierna), dolor de cabeza, la casa de José, solo",
+ "cards": [
+  {
+   "title": "Fewer possessives than English",
+   "body": "Spanish doesn't say 'my leg hurts' but 'it hurts me the leg'. Doler = to hurt, and the o splits: duele.",
+   "examples": [
+    {
+     "en": "It hurts (me).",
+     "es": "Me duele."
+    },
+    {
+     "en": "My leg hurts.",
+     "es": "Me duele la pierna."
+    },
+    {
+     "en": "My leg doesn't hurt anymore.",
+     "es": "No me duele la pierna más."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "dolor de cabeza = headache",
+   "body": "'Pain of head.'",
+   "examples": [
+    {
+     "en": "I have a headache.",
+     "es": "Tengo dolor de cabeza. / Me duele la cabeza."
+    },
+    {
+     "en": "I had a headache.",
+     "es": "Tenía dolor de cabeza. / Me dolía la cabeza."
+    }
+   ],
+   "t": 116.1
+  },
+  {
+   "title": "José's house = la casa de José",
+   "body": "",
+   "examples": [
+    {
+     "en": "We're going to José's house.",
+     "es": "Vamos a la casa de José."
+    },
+    {
+     "en": "We're going to María's party.",
+     "es": "Vamos a la fiesta de María."
+    }
+   ],
+   "t": 164.1
+  },
+  {
+   "title": "solo = only / just",
+   "body": "Solo usually goes before the verb; at the end it sounds more emphatic.",
+   "examples": [
+    {
+     "en": "I didn't talk to anyone else at María's party; I only talked to you.",
+     "es": "No hablé con nadie más en la fiesta de María, solo hablé contigo."
+    }
+   ],
+   "t": 220.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "It hurts (me).",
+   "es": [
+    "Me duele"
+   ],
+   "why": "doler → duele."
+  },
+  {
+   "id": "p2",
+   "en": "My leg hurts.",
+   "es": [
+    "Me duele la pierna"
+   ],
+   "why": "'It hurts me the leg'."
+  },
+  {
+   "id": "p3",
+   "en": "My leg doesn't hurt anymore.",
+   "es": [
+    "No me duele la pierna más",
+    "Ya no me duele la pierna"
+   ],
+   "why": "más = anymore."
+  },
+  {
+   "id": "p4",
+   "en": "pain",
+   "es": [
+    "dolor",
+    "el dolor"
+   ],
+   "why": "el dolor."
+  },
+  {
+   "id": "p5",
+   "en": "I have a headache.",
+   "es": [
+    "Tengo dolor de cabeza",
+    "Me duele la cabeza"
+   ],
+   "why": "'pain of head'."
+  },
+  {
+   "id": "p6",
+   "en": "I had a headache.",
+   "es": [
+    "Tenía dolor de cabeza",
+    "Me dolía la cabeza"
+   ],
+   "why": "Line past."
+  },
+  {
+   "id": "p7",
+   "en": "José's house",
+   "es": [
+    "la casa de José"
+   ],
+   "why": "'the house of José'."
+  },
+  {
+   "id": "p8",
+   "en": "We're going to José's house.",
+   "es": [
+    "Vamos a la casa de José"
+   ],
+   "why": "a la casa de José."
+  },
+  {
+   "id": "p9",
+   "en": "We're going to María's party.",
+   "es": [
+    "Vamos a la fiesta de María"
+   ],
+   "why": "la fiesta de María."
+  },
+  {
+   "id": "p10",
+   "en": "I didn't talk to anyone else.",
+   "es": [
+    "No hablé con nadie más"
+   ],
+   "why": "Double negative."
+  },
+  {
+   "id": "p11",
+   "en": "I only talked to you (informal).",
+   "es": [
+    "Solo hablé contigo",
+    "Hablé solo contigo",
+    "Hablé contigo solo"
+   ],
+   "why": "solo = only."
+  },
+  {
+   "id": "p12",
+   "en": "the leg",
+   "es": [
+    "la pierna"
+   ],
+   "why": "la pierna."
+  }
+ ],
+ "duration": 297.9,
+ "scId": 164195192
+}

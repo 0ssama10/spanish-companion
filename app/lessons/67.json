@@ -1,0 +1,179 @@
+{
+ "id": "67",
+ "track": 67,
+ "title": "Reading and writing: spelling from convertible words, the stress rule, written accents",
+ "cards": [
+  {
+   "title": "Use convertible words to read",
+   "body": "Unsure how a spelling sounds? Look at a convertible word you know: general shows ge = 'khe'; concentración shows ce = 'se'.",
+   "examples": [
+    {
+     "en": "general / concentration",
+     "es": "general / concentración"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "The natural stress rule",
+   "body": "Words ending in a vowel, n or s (like most verb forms) are stressed on the second-to-last syllable: habla, hablan, importante. Words ending in any other consonant are stressed on the last syllable: comer, estar, salud.",
+   "examples": [
+    {
+     "en": "examples",
+     "es": "diferente, hablamos · comer, encontrar, salud"
+    }
+   ],
+   "t": 101.5
+  },
+  {
+   "title": "Written accent = the rule is broken",
+   "body": "A written accent only shows stress; it doesn't change the vowel sound (unlike French). Tradición ends in n but is stressed at the end, so it gets an accent.",
+   "examples": [
+    {
+     "en": "I find / he found",
+     "es": "encuentro / encontró"
+    },
+    {
+     "en": "he lives / he lived",
+     "es": "vive / vivió"
+    },
+    {
+     "en": "lemon",
+     "es": "limón"
+    }
+   ],
+   "t": 231.4
+  },
+  {
+   "title": "Accents that tell twins apart",
+   "body": "One-syllable words that look alike are distinguished by an accent: sí (yes) / si (if), mí (after prepositions) / mi (my), tú (you) / tu (your), sé (I know) / se.",
+   "examples": [
+    {
+     "en": "for me / my house",
+     "es": "para mí / mi casa"
+    },
+    {
+     "en": "you / your house",
+     "es": "tú / tu casa"
+    }
+   ],
+   "t": 438.9
+  },
+  {
+   "title": "Question words take accents",
+   "body": "¿Dónde estás? has an accent; donde in a non-question doesn't. Same with cómo (how) vs como (like). Many native speakers skip these too.",
+   "examples": [
+    {
+     "en": "Where are you?",
+     "es": "¿Dónde estás?"
+    }
+   ],
+   "t": 575.3
+  },
+  {
+   "title": "Hook: the present tense",
+   "body": "Present-tense verbs end in a vowel, n or s and are stressed on the second-to-last syllable with no written accent; only estar breaks this (estás, está, están).",
+   "t": 653.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "tradition",
+   "es": [
+    "tradición"
+   ],
+   "why": "Ends in n, stressed on the end → accent."
+  },
+  {
+   "id": "p2",
+   "en": "he found",
+   "es": [
+    "encontró"
+   ],
+   "why": "Ends in a vowel, stressed on the end → accent."
+  },
+  {
+   "id": "p3",
+   "en": "I find",
+   "es": [
+    "encuentro"
+   ],
+   "why": "Follows the rule → no accent."
+  },
+  {
+   "id": "p4",
+   "en": "he lived",
+   "es": [
+    "vivió"
+   ],
+   "why": "Accent on the final o."
+  },
+  {
+   "id": "p5",
+   "en": "lemon",
+   "es": [
+    "limón"
+   ],
+   "why": "li-MÓN breaks the rule."
+  },
+  {
+   "id": "p6",
+   "en": "health / cheers",
+   "es": [
+    "salud"
+   ],
+   "why": "Ends in d → stress on the end, no accent."
+  },
+  {
+   "id": "p7",
+   "en": "yes",
+   "es": [
+    "sí"
+   ],
+   "why": "Accent distinguishes it from si (if)."
+  },
+  {
+   "id": "p8",
+   "en": "for me",
+   "es": [
+    "para mí"
+   ],
+   "why": "mí after prepositions."
+  },
+  {
+   "id": "p9",
+   "en": "your house (informal)",
+   "es": [
+    "tu casa"
+   ],
+   "why": "tu = your (no accent)."
+  },
+  {
+   "id": "p10",
+   "en": "I know.",
+   "es": [
+    "Sé"
+   ],
+   "why": "sé from saber."
+  },
+  {
+   "id": "p11",
+   "en": "Where are you? (informal)",
+   "es": [
+    "Dónde estás"
+   ],
+   "why": "Question word + estás."
+  },
+  {
+   "id": "p12",
+   "en": "How are you? (informal)",
+   "es": [
+    "Cómo estás"
+   ],
+   "why": "cómo with accent in questions."
+  }
+ ],
+ "duration": 703.09,
+ "scId": 164195193
+}

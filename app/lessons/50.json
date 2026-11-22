@@ -1,0 +1,193 @@
+{
+ "id": "50",
+ "track": 50,
+ "title": "para vs por, razón, el día, todos los días, trabajar",
+ "cards": [
+  {
+   "title": "Gracias por venir",
+   "body": "'Thanks for coming.' This phrase is a hook: Spanish has two words for 'for'.",
+   "examples": [
+    {
+     "en": "Thanks for coming.",
+     "es": "Gracias por venir."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "para = for (someone)",
+   "body": "When you can't recall a word, find it through a phrase you know (esta noche → este).",
+   "examples": [
+    {
+     "en": "This one is for you.",
+     "es": "Este es para ti."
+    },
+    {
+     "en": "These are for you.",
+     "es": "Estos son para ti."
+    }
+   ],
+   "t": 57.8
+  },
+  {
+   "title": "por = because of",
+   "body": "Por qué = 'because of what' (why); porque = because. Razón (reason) is feminine.",
+   "examples": [
+    {
+     "en": "For this reason, I don't want to go.",
+     "es": "Por esta razón, no quiero ir."
+    }
+   ],
+   "t": 151.8
+  },
+  {
+   "title": "para ti vs por ti",
+   "body": "An ashtray bought for a smoker friend: lo he comprado para ti means it's theirs to take home; por ti means you bought it because of them.",
+   "examples": [
+    {
+     "en": "I'm buying it for you.",
+     "es": "Lo compro para ti."
+    },
+    {
+     "en": "I'm buying it because of you.",
+     "es": "Lo compro por ti."
+    }
+   ],
+   "t": 245.1
+  },
+  {
+   "title": "por + period of time; el día",
+   "body": "Día (from an old root meaning light, like 'deity' and 'Jupiter') is masculine despite the -a. Every day = 'all the days'. Tres = three.",
+   "examples": [
+    {
+     "en": "every day",
+     "es": "todos los días"
+    },
+    {
+     "en": "I'm staying for three days.",
+     "es": "Me quedo por tres días."
+    },
+    {
+     "en": "I'll stay for three days.",
+     "es": "Me quedaré por tres días."
+    }
+   ],
+   "t": 303.1
+  },
+  {
+   "title": "Hook for 'would': me gustaría",
+   "body": "Pull the -ía ending from me gustaría. Trabajar = to work (j = throaty h).",
+   "examples": [
+    {
+     "en": "I'd stay for three days, but I have to work.",
+     "es": "Me quedaría por tres días, pero tengo que trabajar."
+    }
+   ],
+   "t": 471.4
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "Thanks for coming.",
+   "es": [
+    "Gracias por venir"
+   ],
+   "why": "por + venir."
+  },
+  {
+   "id": "p2",
+   "en": "This one is for you (informal).",
+   "es": [
+    "Este es para ti",
+    "Esta es para ti"
+   ],
+   "why": "para = for someone."
+  },
+  {
+   "id": "p3",
+   "en": "These are for you (informal).",
+   "es": [
+    "Estos son para ti",
+    "Estas son para ti"
+   ],
+   "why": "estos son para ti."
+  },
+  {
+   "id": "p4",
+   "en": "For this reason, I don't want to go.",
+   "es": [
+    "Por esta razón no quiero ir"
+   ],
+   "why": "por = because of; razón is feminine."
+  },
+  {
+   "id": "p5",
+   "en": "I'm buying it for you (informal).",
+   "es": [
+    "Lo compro para ti",
+    "La compro para ti"
+   ],
+   "why": "para ti = it's for you."
+  },
+  {
+   "id": "p6",
+   "en": "I'm buying it because of you (informal).",
+   "es": [
+    "Lo compro por ti",
+    "La compro por ti"
+   ],
+   "why": "por ti = because of you."
+  },
+  {
+   "id": "p7",
+   "en": "the day",
+   "es": [
+    "el día"
+   ],
+   "why": "Masculine despite -a."
+  },
+  {
+   "id": "p8",
+   "en": "every day",
+   "es": [
+    "todos los días"
+   ],
+   "why": "'all the days'."
+  },
+  {
+   "id": "p9",
+   "en": "I'm staying for three days.",
+   "es": [
+    "Me quedo por tres días"
+   ],
+   "why": "por + time period."
+  },
+  {
+   "id": "p10",
+   "en": "I'll stay for three days.",
+   "es": [
+    "Me quedaré por tres días"
+   ],
+   "why": "quedar + é."
+  },
+  {
+   "id": "p11",
+   "en": "I'd stay for three days, but I have to work.",
+   "es": [
+    "Me quedaría por tres días pero tengo que trabajar"
+   ],
+   "why": "quedaría + pero tengo que trabajar."
+  },
+  {
+   "id": "p12",
+   "en": "to work",
+   "es": [
+    "trabajar"
+   ],
+   "why": "trabajar."
+  }
+ ],
+ "duration": 563.3,
+ "scId": 163253012
+}

@@ -1,0 +1,206 @@
+{
+ "id": "31",
+ "track": 31,
+ "title": "s+consonant → es-, ser: soy, es, son, somos, eres; ¿cómo es?",
+ "cards": [
+  {
+   "title": "st-, sp-, sc- → est-, esp-, esc-",
+   "body": "Spanish words can't begin with s + consonant, so related words gain an e: state ↔ estar.",
+   "examples": [
+    {
+     "en": "Spanish / Spain",
+     "es": "español / España"
+    },
+    {
+     "en": "student / school",
+     "es": "estudiante / escuela"
+    },
+    {
+     "en": "special / strict",
+     "es": "especial / estricto"
+    },
+    {
+     "en": "spectacular",
+     "es": "espectacular"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "ser: el humano vs el ser humano",
+   "body": "Humano is a noun in el humano and an adjective (after the noun) in el ser humano.",
+   "t": 104.7
+  },
+  {
+   "title": "soy = I am (ser)",
+   "body": "Only four verbs end in -oy for 'I': voy, doy, estoy, soy. Your occupation is a characteristic, so it takes ser.",
+   "examples": [
+    {
+     "en": "I'm a student.",
+     "es": "Soy estudiante."
+    }
+   ],
+   "t": 138.6
+  },
+  {
+   "title": "es, son → somos (working backwards)",
+   "body": "From son (they are), swap the they ending for the we ending: somos.",
+   "examples": [
+    {
+     "en": "It's possible.",
+     "es": "Es posible."
+    },
+    {
+     "en": "we are",
+     "es": "somos"
+    }
+   ],
+   "t": 192.6
+  },
+  {
+   "title": "eres = you are (informal)",
+   "body": "The oddest form; link it to es.",
+   "examples": [
+    {
+     "en": "you are",
+     "es": "(tú) eres"
+    }
+   ],
+   "t": 239.1
+  },
+  {
+   "title": "ser in full",
+   "body": "Ustedes is just 'you guys' almost everywhere: it doesn't sound formal in the plural (except in parts of Spain).",
+   "examples": [
+    {
+     "en": "I am · he/she is · they are · you all are · we are · you are",
+     "es": "yo soy · él/ella es · ellos son · ustedes son · nosotros somos · tú eres"
+    }
+   ],
+   "t": 307.1
+  },
+  {
+   "title": "¿Cómo está? vs ¿Cómo es?",
+   "body": "¿Cómo está? asks about someone's state (how are they doing). ¿Cómo es? asks about their characteristics (what are they like).",
+   "examples": [
+    {
+     "en": "How is he (doing)?",
+     "es": "¿Cómo está?"
+    },
+    {
+     "en": "What is he like?",
+     "es": "¿Cómo es?"
+    }
+   ],
+   "t": 374.3
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "Spain",
+   "es": [
+    "España"
+   ],
+   "why": "Extra e before sp-."
+  },
+  {
+   "id": "p2",
+   "en": "strict",
+   "es": [
+    "estricto"
+   ],
+   "why": "st- → est-."
+  },
+  {
+   "id": "p3",
+   "en": "I'm a student.",
+   "es": [
+    "Soy estudiante",
+    "Yo soy estudiante"
+   ],
+   "why": "Occupation = characteristic → ser."
+  },
+  {
+   "id": "p4",
+   "en": "It's possible.",
+   "es": [
+    "Es posible"
+   ],
+   "why": "es from ser."
+  },
+  {
+   "id": "p5",
+   "en": "They are (ser).",
+   "es": [
+    "Son",
+    "Ellos son",
+    "Ellas son"
+   ],
+   "why": "son."
+  },
+  {
+   "id": "p6",
+   "en": "We are (ser).",
+   "es": [
+    "Somos",
+    "Nosotros somos",
+    "Nosotras somos"
+   ],
+   "why": "son → somos."
+  },
+  {
+   "id": "p7",
+   "en": "You (informal) are (ser).",
+   "es": [
+    "Eres",
+    "Tú eres"
+   ],
+   "why": "eres."
+  },
+  {
+   "id": "p8",
+   "en": "You guys are (ser).",
+   "es": [
+    "Ustedes son",
+    "Son"
+   ],
+   "why": "ustedes son."
+  },
+  {
+   "id": "p9",
+   "en": "How is he doing?",
+   "es": [
+    "Cómo está"
+   ],
+   "why": "State → estar."
+  },
+  {
+   "id": "p10",
+   "en": "What is she like?",
+   "es": [
+    "Cómo es"
+   ],
+   "why": "Characteristic → ser."
+  },
+  {
+   "id": "p11",
+   "en": "special",
+   "es": [
+    "especial"
+   ],
+   "why": "sp- → esp-."
+  },
+  {
+   "id": "p12",
+   "en": "We're students.",
+   "es": [
+    "Somos estudiantes",
+    "Nosotros somos estudiantes"
+   ],
+   "why": "somos + estudiantes."
+  }
+ ],
+ "duration": 420.08,
+ "scId": 162790503
+}

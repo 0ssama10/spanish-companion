@@ -1,0 +1,172 @@
+{
+ "id": "82",
+ "track": 82,
+ "title": "es + adjective + que with past mood, era, avoiding the mood tense with lo + adjective + es que",
+ "cards": [
+  {
+   "title": "Present main verb, past event",
+   "body": "After a present 'it's not relevant that…', you can refer back to the past with the past mood tense, or use the present mood tense.",
+   "examples": [
+    {
+     "en": "It's not very relevant that they found it.",
+     "es": "No es muy relevante que lo encontraran."
+    },
+    {
+     "en": "It's not very relevant that they find it.",
+     "es": "No es muy relevante que lo encuentren."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "era (think 'an era')",
+   "body": "",
+   "examples": [
+    {
+     "en": "It was very relevant that they found it.",
+     "es": "Era muy relevante que lo encontraran."
+    }
+   ],
+   "t": 88.6
+  },
+  {
+   "title": "Shortcut: lo + adjective + es que",
+   "body": "In a fast conversation, sidestep the mood tense: 'the important thing is that…' (lo importante es que) takes the normal tense. Increíble = 'un-believe-able' (creer = to believe).",
+   "examples": [
+    {
+     "en": "It's incredible that they come back.",
+     "es": "Es increíble que vuelvan."
+    },
+    {
+     "en": "The incredible thing is that they come back.",
+     "es": "Lo increíble es que vuelven."
+    }
+   ],
+   "t": 134.4
+  },
+  {
+   "title": "volver a + verb",
+   "body": "",
+   "examples": [
+    {
+     "en": "The incredible thing is that they do it again.",
+     "es": "Lo increíble es que vuelven a hacerlo."
+    },
+    {
+     "en": "It's incredible that they do it again.",
+     "es": "Es increíble que vuelvan a hacerlo."
+    },
+    {
+     "en": "It's incredible that they did it again.",
+     "es": "Es increíble que volvieran a hacerlo."
+    }
+   ],
+   "t": 324.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "It's not very relevant that they found it.",
+   "es": [
+    "No es muy relevante que lo encontraran",
+    "No es muy relevante que la encontraran"
+   ],
+   "why": "encontraran."
+  },
+  {
+   "id": "p2",
+   "en": "It's not very relevant that they find it.",
+   "es": [
+    "No es muy relevante que lo encuentren",
+    "No es muy relevante que la encuentren"
+   ],
+   "why": "encuentren."
+  },
+  {
+   "id": "p3",
+   "en": "It was very relevant.",
+   "es": [
+    "Era muy relevante"
+   ],
+   "why": "era."
+  },
+  {
+   "id": "p4",
+   "en": "It was very relevant that they found it.",
+   "es": [
+    "Era muy relevante que lo encontraran"
+   ],
+   "why": "era + encontraran."
+  },
+  {
+   "id": "p5",
+   "en": "the important thing",
+   "es": [
+    "lo importante"
+   ],
+   "why": "lo + adjective."
+  },
+  {
+   "id": "p6",
+   "en": "incredible",
+   "es": [
+    "increíble"
+   ],
+   "why": "no d."
+  },
+  {
+   "id": "p7",
+   "en": "It's incredible that they come back.",
+   "es": [
+    "Es increíble que vuelvan"
+   ],
+   "why": "vuelvan."
+  },
+  {
+   "id": "p8",
+   "en": "The incredible thing is that they come back.",
+   "es": [
+    "Lo increíble es que vuelven"
+   ],
+   "why": "No mood after es que."
+  },
+  {
+   "id": "p9",
+   "en": "The incredible thing is that they do it again.",
+   "es": [
+    "Lo increíble es que vuelven a hacerlo",
+    "Lo increíble es que lo vuelven a hacer"
+   ],
+   "why": "vuelven a hacerlo."
+  },
+  {
+   "id": "p10",
+   "en": "It's incredible that they do it again.",
+   "es": [
+    "Es increíble que vuelvan a hacerlo",
+    "Es increíble que lo vuelvan a hacer"
+   ],
+   "why": "vuelvan."
+  },
+  {
+   "id": "p11",
+   "en": "It's incredible that they did it again.",
+   "es": [
+    "Es increíble que volvieran a hacerlo",
+    "Es increíble que lo volvieran a hacer"
+   ],
+   "why": "volvieran."
+  },
+  {
+   "id": "p12",
+   "en": "The important thing is that they come.",
+   "es": [
+    "Lo importante es que vienen"
+   ],
+   "why": "es que + normal tense."
+  }
+ ],
+ "duration": 404.01,
+ "scId": 164986165
+}

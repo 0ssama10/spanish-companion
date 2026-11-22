@@ -1,0 +1,306 @@
+{
+ "id": "14",
+ "track": 14,
+ "title": "sé, él, ella, tengo que, -pose → poner, cuándo",
+ "cards": [
+  {
+   "title": "sé = I know (irregular)",
+   "body": "Saber's I form is sé, not 'sabo'. It's short, so people often say lo sé (I know it). The other forms are regular.",
+   "examples": [
+    {
+     "en": "I know (it).",
+     "es": "Lo sé."
+    },
+    {
+     "en": "he / she knows",
+     "es": "sabe"
+    },
+    {
+     "en": "I don't know.",
+     "es": "No sé."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "'he' is inside the verb",
+   "body": "Quiere already includes 'he'. Lo means him (object), not he. Get used to two English words becoming one Spanish word.",
+   "examples": [
+    {
+     "en": "I don't know what he wants.",
+     "es": "No sé qué quiere."
+    }
+   ],
+   "t": 50.9
+  },
+  {
+   "title": "él = he; ella = she",
+   "body": "Add él or ella for emphasis, to clarify, or to contrast. Ll sounds like 'y'. Emphasis is best learned live, through tone and gesture.",
+   "examples": [
+    {
+     "en": "I don't know what HE wants.",
+     "es": "No sé qué él quiere. / No sé qué quiere él."
+    },
+    {
+     "en": "she sees",
+     "es": "ella ve",
+     "say": "EH-yah beh"
+    }
+   ],
+   "t": 94.2
+  },
+  {
+   "title": "Contrast: pero ella sí",
+   "body": "'She does' can be just 'she yes'.",
+   "examples": [
+    {
+     "en": "I don't want to invite him, but she does.",
+     "es": "(Yo) no quiero invitarlo, pero ella sí."
+    }
+   ],
+   "t": 228.4
+  },
+  {
+   "title": "salir: only the I form is irregular",
+   "body": "Check the verb type first (salir: -ir) to avoid 'sele'. Salir is a movement verb, so it takes a before another verb.",
+   "examples": [
+    {
+     "en": "he leaves",
+     "es": "sale"
+    },
+    {
+     "en": "they leave / you (informal) leave",
+     "es": "salen / sales"
+    },
+    {
+     "en": "I'm going out to eat.",
+     "es": "Salgo a comer."
+    }
+   ],
+   "t": 291.6
+  },
+  {
+   "title": "tengo que = I have to",
+   "body": "Tengo = I have; add que and it means 'I have to'. Que (also 'that' / 'what') has no neat translation here.",
+   "examples": [
+    {
+     "en": "I have them.",
+     "es": "Los tengo."
+    },
+    {
+     "en": "I have to do it.",
+     "es": "Tengo que hacerlo. / Lo tengo que hacer."
+    }
+   ],
+   "t": 409.6
+  },
+  {
+   "title": "tiene, viene — the g only in the I form",
+   "body": "Tener: tengo, tiene, tienen, tienes. Venir: vengo, viene, vienen, vienes.",
+   "examples": [
+    {
+     "en": "they have",
+     "es": "tienen"
+    },
+    {
+     "en": "you (informal) come",
+     "es": "vienes"
+    }
+   ],
+   "t": 484.4
+  },
+  {
+   "title": "cuándo = when",
+   "body": "Don't let English 'are you coming' confuse you: just when + you come.",
+   "examples": [
+    {
+     "en": "When are you coming?",
+     "es": "¿Cuándo vienes?"
+    },
+    {
+     "en": "When are you coming to eat?",
+     "es": "¿Cuándo vienes a comer?"
+    },
+    {
+     "en": "I want to know what she has.",
+     "es": "Quiero saber qué tiene."
+    }
+   ],
+   "t": 510.7
+  },
+  {
+   "title": "Irregularities spread to related verbs",
+   "body": "Tengo → obtengo. Obtener is often used like 'get'.",
+   "examples": [
+    {
+     "en": "I get it.",
+     "es": "Lo obtengo."
+    }
+   ],
+   "t": 596.6
+  },
+  {
+   "title": "poner = to put; -pose → -poner",
+   "body": "I put = pongo. English -pose verbs become -poner and share its irregularity. Supongo que sí = I suppose so.",
+   "examples": [
+    {
+     "en": "to compose",
+     "es": "componer"
+    },
+    {
+     "en": "I suppose so.",
+     "es": "Supongo que sí."
+    },
+    {
+     "en": "to impose / to expose",
+     "es": "imponer / exponer"
+    },
+    {
+     "en": "I oppose it.",
+     "es": "Lo opongo."
+    }
+   ],
+   "t": 616.7
+  },
+  {
+   "title": "tengo que vs debo",
+   "body": "Like English: debo (must) is more serious; tengo que (have to) is everyday.",
+   "examples": [
+    {
+     "en": "I have to see her.",
+     "es": "Tengo que verla."
+    },
+    {
+     "en": "I must see her.",
+     "es": "Debo verla. / La debo ver."
+    }
+   ],
+   "t": 757.2
+  },
+  {
+   "title": "Verbs + 'to' form",
+   "body": "Put a 'to' form straight after these: voy a, puedo (think 'power'), tengo que, debo, quiero.",
+   "examples": [
+    {
+     "en": "I can eat.",
+     "es": "Puedo comer."
+    },
+    {
+     "en": "I have to eat now.",
+     "es": "Tengo que comer ahora."
+    },
+    {
+     "en": "I'm going to try to eat later.",
+     "es": "Voy a intentar comer más tarde."
+    }
+   ],
+   "t": 849.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I know it.",
+   "es": [
+    "Lo sé"
+   ],
+   "why": "Irregular: sé."
+  },
+  {
+   "id": "p2",
+   "en": "I don't know what he wants.",
+   "es": [
+    "No sé qué quiere",
+    "No sé qué él quiere",
+    "No sé qué quiere él"
+   ],
+   "why": "quiere already contains 'he'."
+  },
+  {
+   "id": "p3",
+   "en": "She sees.",
+   "es": [
+    "Ella ve",
+    "Ve"
+   ],
+   "why": "ella = she; ver → ve."
+  },
+  {
+   "id": "p4",
+   "en": "I don't want to invite him, but she does.",
+   "es": [
+    "No quiero invitarlo pero ella sí",
+    "Yo no quiero invitarlo pero ella sí"
+   ],
+   "why": "'she does' = ella sí."
+  },
+  {
+   "id": "p5",
+   "en": "They leave.",
+   "es": [
+    "Salen"
+   ],
+   "why": "Only the I form is irregular: salen."
+  },
+  {
+   "id": "p6",
+   "en": "I'm going out to eat.",
+   "es": [
+    "Salgo a comer"
+   ],
+   "why": "Movement verb → a."
+  },
+  {
+   "id": "p7",
+   "en": "I have to do it.",
+   "es": [
+    "Tengo que hacerlo",
+    "Lo tengo que hacer"
+   ],
+   "why": "tengo que + verb."
+  },
+  {
+   "id": "p8",
+   "en": "When are you (informal) coming?",
+   "es": [
+    "Cuándo vienes"
+   ],
+   "why": "¿Cuándo vienes?"
+  },
+  {
+   "id": "p9",
+   "en": "They have.",
+   "es": [
+    "Tienen"
+   ],
+   "why": "tener → tienen."
+  },
+  {
+   "id": "p10",
+   "en": "I suppose so.",
+   "es": [
+    "Supongo que sí"
+   ],
+   "why": "suponer → supongo, like pongo."
+  },
+  {
+   "id": "p11",
+   "en": "I must see her.",
+   "es": [
+    "Debo verla",
+    "La debo ver"
+   ],
+   "why": "debo = must (more serious than tengo que)."
+  },
+  {
+   "id": "p12",
+   "en": "I can eat.",
+   "es": [
+    "Puedo comer"
+   ],
+   "why": "puedo + 'to' form."
+  }
+ ],
+ "duration": 910.37,
+ "scId": 161498079
+}

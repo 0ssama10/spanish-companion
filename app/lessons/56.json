@@ -1,0 +1,225 @@
+{
+ "id": "56",
+ "track": 56,
+ "title": "No prepositions at the end, working backwards (unir), con que, cuál, quién / quiénes",
+ "cards": [
+  {
+   "title": "Prepositions never end a sentence",
+   "body": "'Where are you from?' becomes 'from where are you?'. No 'the' before Estados Unidos.",
+   "examples": [
+    {
+     "en": "Where are you from?",
+     "es": "¿De dónde eres?"
+    },
+    {
+     "en": "Where are you going?",
+     "es": "¿A dónde vas?"
+    },
+    {
+     "en": "We're going to the United States.",
+     "es": "Vamos a Estados Unidos."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Working backwards: unidos → unir",
+   "body": "Strip the ending that was added (-ido means -er or -ir), then try both. Intuition for what sounds Spanish grows with listening.",
+   "examples": [
+    {
+     "en": "to unite",
+     "es": "unir"
+    }
+   ],
+   "t": 118.4
+  },
+  {
+   "title": "la chica con que trabajo",
+   "body": "'The girl I work with' = 'the girl with that I work'. Que works for all of these; you'll also hear con quien, con la que, con la cual. La chica / el chico = the girl / guy (informal).",
+   "examples": [
+    {
+     "en": "the girl I work with",
+     "es": "la chica con que trabajo"
+    },
+    {
+     "en": "It's the girl I used to work with.",
+     "es": "Es la chica con que trabajaba."
+    },
+    {
+     "en": "the girl I was going to the party with",
+     "es": "la chica con que iba a la fiesta"
+    }
+   ],
+   "t": 232.3
+  },
+  {
+   "title": "iba: like va with an i",
+   "body": "Iba blends -aba and -ía, or think of it as the present va with an i in front (spelled with b).",
+   "t": 438.7
+  },
+  {
+   "title": "cuál = which (one)",
+   "body": "Don't repeat the preposition at the end; that's negative transfer from English.",
+   "examples": [
+    {
+     "en": "Which one do you want?",
+     "es": "¿Cuál quieres?"
+    },
+    {
+     "en": "I don't know which one he wants to see.",
+     "es": "No sé cuál quiere ver."
+    },
+    {
+     "en": "I don't know which one he wants to do it with.",
+     "es": "No sé con cuál quiere hacerlo."
+    }
+   ],
+   "t": 501.5
+  },
+  {
+   "title": "quién / quiénes = who",
+   "body": "Who goes with the he/she form; use quiénes when you expect more than one person. Location = estar, so '¿Quién está?' means 'who's there?'.",
+   "examples": [
+    {
+     "en": "Who's going?",
+     "es": "¿Quién va? / ¿Quiénes van?"
+    },
+    {
+     "en": "Who's here?",
+     "es": "¿Quién está (aquí)?"
+    }
+   ],
+   "t": 618.4
+  },
+  {
+   "title": "con / para / por quién",
+   "body": "",
+   "examples": [
+    {
+     "en": "I don't know who I have to do it with.",
+     "es": "No sé con quién tengo que hacerlo."
+    },
+    {
+     "en": "… who I have to do it for.",
+     "es": "No sé para quién tengo que hacerlo."
+    },
+    {
+     "en": "… who I have to do it because of.",
+     "es": "No sé por quién tengo que hacerlo."
+    }
+   ],
+   "t": 724.6
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "Where are you (informal) from?",
+   "es": [
+    "De dónde eres"
+   ],
+   "why": "'From where are you?'"
+  },
+  {
+   "id": "p2",
+   "en": "Where are you (informal) going?",
+   "es": [
+    "A dónde vas",
+    "Adónde vas"
+   ],
+   "why": "'To where…'."
+  },
+  {
+   "id": "p3",
+   "en": "We're going to the United States.",
+   "es": [
+    "Vamos a Estados Unidos",
+    "Vamos a los Estados Unidos"
+   ],
+   "why": "No 'the' needed."
+  },
+  {
+   "id": "p4",
+   "en": "to unite",
+   "es": [
+    "unir"
+   ],
+   "why": "Work back from unidos."
+  },
+  {
+   "id": "p5",
+   "en": "the girl I work with",
+   "es": [
+    "la chica con que trabajo",
+    "la chica con quien trabajo",
+    "la chica con la que trabajo",
+    "la chica con la cual trabajo"
+   ],
+   "why": "Preposition first: con que."
+  },
+  {
+   "id": "p6",
+   "en": "It's the girl I used to work with.",
+   "es": [
+    "Es la chica con que trabajaba",
+    "Es la chica con quien trabajaba",
+    "Es la chica con la que trabajaba"
+   ],
+   "why": "trabajaba."
+  },
+  {
+   "id": "p7",
+   "en": "Which one do you (informal) want?",
+   "es": [
+    "Cuál quieres"
+   ],
+   "why": "¿Cuál quieres?"
+  },
+  {
+   "id": "p8",
+   "en": "I don't know which one he wants to do it with.",
+   "es": [
+    "No sé con cuál quiere hacerlo",
+    "No sé con cuál lo quiere hacer"
+   ],
+   "why": "con cuál … hacerlo (no preposition at the end)."
+  },
+  {
+   "id": "p9",
+   "en": "Who's going? (one person)",
+   "es": [
+    "Quién va"
+   ],
+   "why": "¿Quién va?"
+  },
+  {
+   "id": "p10",
+   "en": "Who's going? (several people)",
+   "es": [
+    "Quiénes van"
+   ],
+   "why": "quiénes + van."
+  },
+  {
+   "id": "p11",
+   "en": "Who's here?",
+   "es": [
+    "Quién está aquí",
+    "Quién está acá",
+    "Quién está"
+   ],
+   "why": "Location → estar."
+  },
+  {
+   "id": "p12",
+   "en": "I don't know who I have to do it for.",
+   "es": [
+    "No sé para quién tengo que hacerlo",
+    "No sé para quién lo tengo que hacer"
+   ],
+   "why": "para quién."
+  }
+ ],
+ "duration": 824.16,
+ "scId": 163946861
+}

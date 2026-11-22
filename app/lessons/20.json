@@ -1,0 +1,221 @@
+{
+ "id": "20",
+ "track": 20,
+ "title": "pronto, veo, going to + vernos, la semana que viene, nos vemos",
+ "cards": [
+  {
+   "title": "Future context words",
+   "body": "With a future word, the present tense talks about the future: mañana, más tarde, esta noche, and pronto (soon, as in English 'get here pronto').",
+   "examples": [
+    {
+     "en": "soon",
+     "es": "pronto"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "ver: veo, ve, ven, ves, vemos",
+   "body": "The I form is slightly irregular: veo (vo would be too short).",
+   "examples": [
+    {
+     "en": "I'm seeing her later.",
+     "es": "La veo más tarde."
+    },
+    {
+     "en": "I'm seeing her tonight.",
+     "es": "La veo esta noche."
+    }
+   ],
+   "t": 50.7
+  },
+  {
+   "title": "No guessing: rebuild from the 'to' form",
+   "body": "Ver → vemos (not 'venemos'). Keep 'who sees' and 'who is seen' as separate thoughts.",
+   "examples": [
+    {
+     "en": "We're seeing her soon.",
+     "es": "La vemos pronto."
+    },
+    {
+     "en": "He's seeing them (females) soon.",
+     "es": "Las ve pronto."
+    },
+    {
+     "en": "Why aren't you seeing them soon?",
+     "es": "¿Por qué no las ves pronto?"
+    }
+   ],
+   "t": 120.3
+  },
+  {
+   "title": "Going to + verb",
+   "body": "Without a future word, use ir a + verb, as in English. Work backwards from vamos to get vas.",
+   "examples": [
+    {
+     "en": "We're going to see her.",
+     "es": "Vamos a verla."
+    },
+    {
+     "en": "Are you going to see him soon?",
+     "es": "¿Vas a verlo pronto?"
+    }
+   ],
+   "t": 199.5
+  },
+  {
+   "title": "nos with going to",
+   "body": "Nos can go on the end of ver or before the changed verb.",
+   "examples": [
+    {
+     "en": "Are you going to see us soon?",
+     "es": "¿Vas a vernos pronto? / ¿Nos vas a ver pronto?"
+    },
+    {
+     "en": "Why aren't you going to see us soon?",
+     "es": "¿Por qué no vas a vernos pronto?"
+    }
+   ],
+   "t": 257.5
+  },
+  {
+   "title": "la semana que viene = next week",
+   "body": "Literally 'the week that comes'. The we form also works as 'let's'.",
+   "examples": [
+    {
+     "en": "next week",
+     "es": "la semana que viene"
+    },
+    {
+     "en": "Let's talk next week.",
+     "es": "Hablamos la semana que viene."
+    }
+   ],
+   "t": 322.4
+  },
+  {
+   "title": "Strengthen the process, not the word",
+   "body": "Forgetting is fine: finding the word again (venir → vene → viene) strengthens the process. Build the sentence in the smallest pieces, one at a time, rather than translating the whole sentence at once.",
+   "t": 378.1
+  },
+  {
+   "title": "nos vemos = see you",
+   "body": "Nos means us, ourselves or each other. Nos vemos ('we see each other') is a common goodbye; saying goodbye is the future context.",
+   "examples": [
+    {
+     "en": "See you.",
+     "es": "Nos vemos."
+    },
+    {
+     "en": "See you next week.",
+     "es": "Nos vemos la semana que viene."
+    }
+   ],
+   "t": 455.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "soon",
+   "es": [
+    "pronto"
+   ],
+   "why": "pronto = soon."
+  },
+  {
+   "id": "p2",
+   "en": "I see.",
+   "es": [
+    "Veo"
+   ],
+   "why": "Slightly irregular: veo."
+  },
+  {
+   "id": "p3",
+   "en": "I'm seeing her later.",
+   "es": [
+    "La veo más tarde"
+   ],
+   "why": "la before veo; más tarde = later."
+  },
+  {
+   "id": "p4",
+   "en": "We're seeing her soon.",
+   "es": [
+    "La vemos pronto"
+   ],
+   "why": "ver → vemos."
+  },
+  {
+   "id": "p5",
+   "en": "Why aren't you (informal) seeing them (females) soon?",
+   "es": [
+    "Por qué no las ves pronto",
+    "Porque no las ves pronto"
+   ],
+   "why": "las + ves."
+  },
+  {
+   "id": "p6",
+   "en": "We're going to see her.",
+   "es": [
+    "Vamos a verla",
+    "La vamos a ver"
+   ],
+   "why": "vamos a + ver + la."
+  },
+  {
+   "id": "p7",
+   "en": "Are you (informal) going to see him soon?",
+   "es": [
+    "Vas a verlo pronto",
+    "Lo vas a ver pronto"
+   ],
+   "why": "¿Vas a verlo pronto?"
+  },
+  {
+   "id": "p8",
+   "en": "Are you (informal) going to see us soon?",
+   "es": [
+    "Vas a vernos pronto",
+    "Nos vas a ver pronto"
+   ],
+   "why": "nos = us."
+  },
+  {
+   "id": "p9",
+   "en": "next week",
+   "es": [
+    "la semana que viene"
+   ],
+   "why": "'the week that comes'."
+  },
+  {
+   "id": "p10",
+   "en": "Let's talk next week.",
+   "es": [
+    "Hablamos la semana que viene"
+   ],
+   "why": "we form = let's."
+  },
+  {
+   "id": "p11",
+   "en": "See you.",
+   "es": [
+    "Nos vemos"
+   ],
+   "why": "'we see each other'."
+  },
+  {
+   "id": "p12",
+   "en": "See you next week.",
+   "es": [
+    "Nos vemos la semana que viene"
+   ],
+   "why": "nos vemos + la semana que viene."
+  }
+ ],
+ "duration": 561.82,
+ "scId": 161633809
+}

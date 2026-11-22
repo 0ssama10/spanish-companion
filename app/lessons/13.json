@@ -1,0 +1,255 @@
+{
+ "id": "13",
+ "track": 13,
+ "title": "hacer, qué, puedo, salgo, esperar, -ary → -ario",
+ "cards": [
+  {
+   "title": "hacer = to do / to make",
+   "body": "Silent h; the c sounds like s (th in much of Spain). Each time you meet a new verb, note its type: hacer is an -er verb, so it uses e.",
+   "examples": [
+    {
+     "en": "He's doing it.",
+     "es": "Lo hace."
+    },
+    {
+     "en": "They're doing it.",
+     "es": "Lo hacen."
+    },
+    {
+     "en": "You (informal) are doing it.",
+     "es": "Lo haces."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "qué = what",
+   "body": "¿Qué haces? means 'what are you doing?' and is also a casual 'how are you? / what are you up to?'. The -s (informal you) and -n (they / you all) endings appear throughout Spanish verbs.",
+   "examples": [
+    {
+     "en": "What are you doing?",
+     "es": "¿Qué haces?",
+     "say": "keh AH-ses"
+    }
+   ],
+   "t": 87.8
+  },
+  {
+   "title": "Remembering ≠ memorising",
+   "body": "You do need to remember Spanish, but forced memorising blocks it. Using the language from many angles while building sentences makes it truly yours rather than borrowed.",
+   "t": 143.2
+  },
+  {
+   "title": "puedo = I can (poder)",
+   "body": "An -er verb. A d between vowels is soft. Spanish keeps the 'to' idea after it: puedes venir = 'can you (to) come'. The informal -s is the same as in ¿cómo estás?",
+   "examples": [
+    {
+     "en": "he / she can",
+     "es": "puede"
+    },
+    {
+     "en": "Can you come? (informal)",
+     "es": "¿Puedes venir?"
+    },
+    {
+     "en": "Why can't you come?",
+     "es": "¿Por qué no puedes venir?"
+    },
+    {
+     "en": "I want to know why you can't come.",
+     "es": "Quiero saber por qué no puedes venir."
+    }
+   ],
+   "t": 183.6
+  },
+  {
+   "title": "More verbs for the I form",
+   "body": "Drop the ending, add -o.",
+   "examples": [
+    {
+     "en": "I buy (comprar)",
+     "es": "compro"
+    },
+    {
+     "en": "I arrive (llegar)",
+     "es": "llego",
+     "say": "YEH-goh"
+    }
+   ],
+   "t": 320.0
+  },
+  {
+   "title": "salgo — another -go verb",
+   "body": "Salir (to leave, go out) gives salgo, not 'salo', like tengo and vengo. Common verbs tend to be the irregular ones in any language.",
+   "examples": [
+    {
+     "en": "I'm going out.",
+     "es": "Salgo."
+    }
+   ],
+   "t": 365.1
+  },
+  {
+   "title": "esperar = to wait / to hope",
+   "body": "Waiting and hoping share one verb. English 'desperate' (des- = un-) contains it: without hope.",
+   "examples": [
+    {
+     "en": "I'm waiting / I hope",
+     "es": "espero"
+    }
+   ],
+   "t": 388.9
+  },
+  {
+   "title": "Check the verb type first",
+   "body": "The e sounds in espe- tempt you to say 'espere'. Before changing a verb, go back to the 'to' form (esperar → -ar) and take control: espera.",
+   "examples": [
+    {
+     "en": "he / she waits",
+     "es": "espera"
+    },
+    {
+     "en": "they wait",
+     "es": "esperan"
+    }
+   ],
+   "t": 424.2
+  },
+  {
+   "title": "No 'for' needed",
+   "body": "Esperar already means 'wait for' (like 'await').",
+   "examples": [
+    {
+     "en": "They're waiting for me.",
+     "es": "Me esperan."
+    },
+    {
+     "en": "I want to know why they're not waiting for me.",
+     "es": "Quiero saber por qué no me esperan."
+    }
+   ],
+   "t": 495.2
+  },
+  {
+   "title": "v ↔ b, and -ary → -ario",
+   "body": "V and b shift between languages: vocabulario comes from boca (mouth). English -ary becomes -ario.",
+   "examples": [
+    {
+     "en": "vocabulary",
+     "es": "vocabulario"
+    },
+    {
+     "en": "necessary",
+     "es": "necesario"
+    },
+    {
+     "en": "contrary",
+     "es": "contrario"
+    }
+   ],
+   "t": 543.3
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "They're doing it.",
+   "es": [
+    "Lo hacen"
+   ],
+   "why": "hacer → hacen; lo before the verb."
+  },
+  {
+   "id": "p2",
+   "en": "What are you (informal) doing?",
+   "es": [
+    "Qué haces"
+   ],
+   "why": "¿Qué haces?"
+  },
+  {
+   "id": "p3",
+   "en": "Can you (informal) come?",
+   "es": [
+    "Puedes venir"
+   ],
+   "why": "¿Puedes venir? — informal -s."
+  },
+  {
+   "id": "p4",
+   "en": "Why can't you (informal) come?",
+   "es": [
+    "Por qué no puedes venir",
+    "Porque no puedes venir"
+   ],
+   "why": "por qué + no puedes venir."
+  },
+  {
+   "id": "p5",
+   "en": "She can.",
+   "es": [
+    "Puede"
+   ],
+   "why": "-er verb: puede."
+  },
+  {
+   "id": "p6",
+   "en": "I buy.",
+   "es": [
+    "Compro"
+   ],
+   "why": "comprar → compro."
+  },
+  {
+   "id": "p7",
+   "en": "I arrive.",
+   "es": [
+    "Llego"
+   ],
+   "why": "llegar → llego."
+  },
+  {
+   "id": "p8",
+   "en": "I'm going out.",
+   "es": [
+    "Salgo"
+   ],
+   "why": "Irregular: salgo, like tengo / vengo."
+  },
+  {
+   "id": "p9",
+   "en": "He's waiting.",
+   "es": [
+    "Espera"
+   ],
+   "why": "esperar is -ar: espera, not 'espere'."
+  },
+  {
+   "id": "p10",
+   "en": "They're not waiting for me.",
+   "es": [
+    "No me esperan"
+   ],
+   "why": "No 'for' needed: no me esperan."
+  },
+  {
+   "id": "p11",
+   "en": "I want to know why they're not waiting for me.",
+   "es": [
+    "Quiero saber por qué no me esperan",
+    "Quiero saber porque no me esperan"
+   ],
+   "why": "quiero saber + por qué + no me esperan."
+  },
+  {
+   "id": "p12",
+   "en": "necessary",
+   "es": [
+    "necesario"
+   ],
+   "why": "-ary → -ario."
+  }
+ ],
+ "duration": 577.93,
+ "scId": 161498052
+}

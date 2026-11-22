@@ -1,0 +1,220 @@
+{
+ "id": "15",
+ "track": 15,
+ "title": "qué pasa, e → ie stem change, pensar, entender, perder",
+ "cards": [
+  {
+   "title": "pasar = to happen",
+   "body": "Pasar also means 'to happen' (to pass in the sense of occur). ¿Qué pasó? (stress on the end) is the past, 'what happened?', which comes later.",
+   "examples": [
+    {
+     "en": "What's happening? / What's going on?",
+     "es": "¿Qué pasa?"
+    },
+    {
+     "en": "I want to know what's going on.",
+     "es": "Quiero saber qué pasa."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Stressed e splits into ie",
+   "body": "When an e in the verb's root (not its ending) gets the stress, it often splits into ie: querer → quiero, tener → tiene, venir → viene. Tengo and vengo keep the e, possibly because the g 'holds it up'.",
+   "examples": [
+    {
+     "en": "to want → I want",
+     "es": "querer → quiero"
+    },
+    {
+     "en": "to have → he has",
+     "es": "tener → tiene"
+    }
+   ],
+   "caveat": "Most of the time, not always: llego and espero don't change.",
+   "t": 73.0
+  },
+  {
+   "title": "You can see it between languages",
+   "body": "English 'tempo' vs Spanish tiempo (time). The same split appears in other related words.",
+   "examples": [
+    {
+     "en": "time",
+     "es": "tiempo"
+    },
+    {
+     "en": "concert",
+     "es": "concierto"
+    },
+    {
+     "en": "November",
+     "es": "noviembre"
+    }
+   ],
+   "t": 211.1
+  },
+  {
+   "title": "pensar = to think",
+   "body": "Decide what type of word it is first (a verb), then check its type (pensar: -ar). That stops 'piense' vowel harmony: it's piensa.",
+   "examples": [
+    {
+     "en": "I think",
+     "es": "pienso"
+    },
+    {
+     "en": "he / she thinks",
+     "es": "piensa"
+    },
+    {
+     "en": "What do you think?",
+     "es": "¿Qué piensas?"
+    }
+   ],
+   "t": 290.5
+  },
+  {
+   "title": "pienso + verb = I plan to",
+   "body": "'I think to eat' means 'I plan on eating'.",
+   "examples": [
+    {
+     "en": "I plan on eating later.",
+     "es": "Pienso comer más tarde."
+    }
+   ],
+   "t": 389.9
+  },
+  {
+   "title": "entender = to understand",
+   "body": "Comprender (like 'comprehend') also works and doesn't split, but entender is more common, and it splits.",
+   "examples": [
+    {
+     "en": "I understand",
+     "es": "entiendo"
+    },
+    {
+     "en": "he understands / they understand",
+     "es": "entiende / entienden"
+    }
+   ],
+   "t": 459.0
+  },
+  {
+   "title": "perder = to lose",
+   "body": "Related to 'perish' and 'perishable'. Perder → pierdo.",
+   "examples": [
+    {
+     "en": "I lose it.",
+     "es": "Lo pierdo."
+    },
+    {
+     "en": "I lose them.",
+     "es": "Los pierdo."
+    }
+   ],
+   "t": 506.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "What's going on?",
+   "es": [
+    "Qué pasa"
+   ],
+   "why": "¿Qué pasa? — pasar = to happen."
+  },
+  {
+   "id": "p2",
+   "en": "I want to know what's happening.",
+   "es": [
+    "Quiero saber qué pasa"
+   ],
+   "why": "quiero saber + qué pasa."
+  },
+  {
+   "id": "p3",
+   "en": "time",
+   "es": [
+    "tiempo"
+   ],
+   "why": "tempo → tiempo: the e splits."
+  },
+  {
+   "id": "p4",
+   "en": "concert",
+   "es": [
+    "concierto"
+   ],
+   "why": "e → ie, plus an -o."
+  },
+  {
+   "id": "p5",
+   "en": "I think.",
+   "es": [
+    "Pienso"
+   ],
+   "why": "pensar → pienso."
+  },
+  {
+   "id": "p6",
+   "en": "She thinks.",
+   "es": [
+    "Piensa"
+   ],
+   "why": "pensar is -ar: piensa."
+  },
+  {
+   "id": "p7",
+   "en": "What do you (informal) think?",
+   "es": [
+    "Qué piensas"
+   ],
+   "why": "¿Qué piensas?"
+  },
+  {
+   "id": "p8",
+   "en": "I plan on eating later.",
+   "es": [
+    "Pienso comer más tarde"
+   ],
+   "why": "pienso + verb = I plan to."
+  },
+  {
+   "id": "p9",
+   "en": "They come.",
+   "es": [
+    "Vienen"
+   ],
+   "why": "venir → vienen."
+  },
+  {
+   "id": "p10",
+   "en": "I understand.",
+   "es": [
+    "Entiendo",
+    "Comprendo"
+   ],
+   "why": "entender → entiendo."
+  },
+  {
+   "id": "p11",
+   "en": "He understands.",
+   "es": [
+    "Entiende",
+    "Comprende"
+   ],
+   "why": "entiende."
+  },
+  {
+   "id": "p12",
+   "en": "I lose it.",
+   "es": [
+    "Lo pierdo",
+    "La pierdo"
+   ],
+   "why": "perder → pierdo; lo before."
+  }
+ ],
+ "duration": 540.0,
+ "scId": 161498055
+}

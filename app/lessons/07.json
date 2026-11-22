@@ -1,0 +1,241 @@
+{
+ "id": "07",
+ "track": 7,
+ "title": "voy a + verb, los, ver, verbs of movement",
+ "cards": [
+  {
+   "title": "Find the Latin equivalent",
+   "body": "When an English phrase like 'carry on' has no direct conversion, look for a Latin-origin word with the same meaning: continue → continuation → continuar.",
+   "examples": [
+    {
+     "en": "I want to continue.",
+     "es": "Quiero continuar."
+    },
+    {
+     "en": "I want to continue it.",
+     "es": "Quiero continuarlo."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Don't test yourself — find it",
+   "body": "When a word doesn't come back, don't freeze on 'do I remember it or not?'. Ask what it was connected to (intento ↔ intention) and let it come back.",
+   "examples": [
+    {
+     "en": "I'm trying to continue.",
+     "es": "Intento continuar."
+    }
+   ],
+   "t": 51.2
+  },
+  {
+   "title": "demostrar, mostrar = to show",
+   "body": "Demostración has no n (demonstration → demostración). Remove de- from demostrar and you get mostrar, 'to show'.",
+   "examples": [
+    {
+     "en": "to demonstrate",
+     "es": "demostrar"
+    },
+    {
+     "en": "to show",
+     "es": "mostrar"
+    }
+   ],
+   "t": 102.0
+  },
+  {
+   "title": "algo = something",
+   "body": "Combine it with te attached to the verb.",
+   "examples": [
+    {
+     "en": "I want to show you something.",
+     "es": "Quiero mostrarte algo."
+    }
+   ],
+   "t": 152.0
+  },
+  {
+   "title": "voy a + verb = I'm going to …",
+   "body": "As in English, 'I'm going to' talks about the future. Spanish adds a ('to') after voy because voy is a verb of movement, even when nobody is actually moving.",
+   "examples": [
+    {
+     "en": "I'm going to continue.",
+     "es": "Voy a continuar."
+    },
+    {
+     "en": "I'm going to confiscate it.",
+     "es": "Voy a confiscarlo."
+    },
+    {
+     "en": "I'm going to examine it.",
+     "es": "Voy a examinarlo."
+    }
+   ],
+   "t": 198.7
+  },
+  {
+   "title": "los = them",
+   "body": "'Them' is the plural of 'him', and Spanish shows it: lo + s = los.",
+   "examples": [
+    {
+     "en": "them",
+     "es": "los"
+    }
+   ],
+   "t": 283.5
+  },
+  {
+   "title": "ver = to see — a only after movement",
+   "body": "Ver (think 'view') means to see. Only verbs of movement take the extra a: voy a verlos, but quiero verlos and intento verlos. Intentar is 'to try'.",
+   "examples": [
+    {
+     "en": "I want to see them.",
+     "es": "Quiero verlos."
+    },
+    {
+     "en": "I'm going to see them.",
+     "es": "Voy a verlos."
+    },
+    {
+     "en": "I'm going to try to see them.",
+     "es": "Voy a intentar verlos."
+    }
+   ],
+   "caveat": "Not 'quiero a verlos': quiero isn't a verb of movement.",
+   "t": 311.0
+  },
+  {
+   "title": "pasar = to pass (by) — also takes a",
+   "body": "Pasar is another verb of movement, so it's followed by a. Lo can also mean formal 'you'.",
+   "examples": [
+    {
+     "en": "I'm going to pass by to visit you.",
+     "es": "Voy a pasar a visitarte."
+    },
+    {
+     "en": "… (formal you)",
+     "es": "Voy a pasar a visitarlo."
+    },
+    {
+     "en": "I'm going to try to pass by to visit you.",
+     "es": "Voy a intentar pasar a visitarte."
+    }
+   ],
+   "t": 406.0
+  },
+  {
+   "title": "Putting it together",
+   "body": "Quiero (no a) + pasar (movement, so a) + mostrarte algo.",
+   "examples": [
+    {
+     "en": "I want to pass by to show you something.",
+     "es": "Quiero pasar a mostrarte algo."
+    }
+   ],
+   "t": 582.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I want to continue it.",
+   "es": [
+    "Quiero continuarlo"
+   ],
+   "why": "continuation → continuar, + lo."
+  },
+  {
+   "id": "p2",
+   "en": "to show",
+   "es": [
+    "mostrar"
+   ],
+   "why": "demostrar without de-."
+  },
+  {
+   "id": "p3",
+   "en": "I want to show you something.",
+   "es": [
+    "Quiero mostrarte algo"
+   ],
+   "why": "mostrar + te, then algo."
+  },
+  {
+   "id": "p4",
+   "en": "I'm going to examine it.",
+   "es": [
+    "Voy a examinarlo"
+   ],
+   "why": "voy a + verb for the future."
+  },
+  {
+   "id": "p5",
+   "en": "I'm going to confiscate it.",
+   "es": [
+    "Voy a confiscarlo"
+   ],
+   "why": "voy a + confiscar + lo."
+  },
+  {
+   "id": "p6",
+   "en": "I want to see them.",
+   "es": [
+    "Quiero verlos"
+   ],
+   "why": "No a after quiero; los = them."
+  },
+  {
+   "id": "p7",
+   "en": "I'm going to see them.",
+   "es": [
+    "Voy a verlos"
+   ],
+   "why": "voy is movement: voy a."
+  },
+  {
+   "id": "p8",
+   "en": "I'm trying to see them.",
+   "es": [
+    "Intento verlos"
+   ],
+   "why": "No a after intento."
+  },
+  {
+   "id": "p9",
+   "en": "I'm going to try.",
+   "es": [
+    "Voy a intentar"
+   ],
+   "why": "intentar = to try."
+  },
+  {
+   "id": "p10",
+   "en": "I'm going to try to see them.",
+   "es": [
+    "Voy a intentar verlos"
+   ],
+   "why": "a after voy, but not after intentar."
+  },
+  {
+   "id": "p11",
+   "en": "I'm going to pass by to visit you.",
+   "es": [
+    "Voy a pasar a visitarte",
+    "Voy a pasar a visitarlo"
+   ],
+   "why": "pasar is movement too: pasar a visitarte."
+  },
+  {
+   "id": "p12",
+   "en": "I want to pass by to show you something.",
+   "es": [
+    "Quiero pasar a mostrarte algo",
+    "Quiero pasar a mostrarlo algo"
+   ],
+   "why": "quiero pasar a + mostrarte algo."
+  }
+ ],
+ "duration": 615.13,
+ "scId": 161024456
+}

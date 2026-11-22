@@ -1,0 +1,201 @@
+{
+ "id": "59",
+ "track": 59,
+ "title": "-er/-ir dot past: -í, -ió; más que yo; nada, nadie; durar, durante, sin parar",
+ "cards": [
+  {
+   "title": "-er / -ir dot past: comí, comió",
+   "body": "-í for I, -ió for he/she/it/formal you, both stressed.",
+   "examples": [
+    {
+     "en": "I ate / he ate",
+     "es": "comí / comió"
+    },
+    {
+     "en": "I don't know why she hasn't left yet.",
+     "es": "No sé por qué no salió todavía."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "que = than; más que yo",
+   "body": "Spanish is literal: 'more than he (ate)', 'more than I'. English 'me!' for 'I do!' is negative transfer to watch for.",
+   "examples": [
+    {
+     "en": "I ate more than him.",
+     "es": "Comí más que él."
+    },
+    {
+     "en": "He ate more than me.",
+     "es": "Comió más que yo."
+    }
+   ],
+   "t": 102.5
+  },
+  {
+   "title": "vi, vio",
+   "body": "",
+   "examples": [
+    {
+     "en": "I saw him, but he didn't see me.",
+     "es": "(Yo) lo vi, pero (él) no me vio."
+    }
+   ],
+   "t": 234.0
+  },
+  {
+   "title": "nada, nadie — double negatives",
+   "body": "Spanish uses double negatives: 'I didn't see nothing'.",
+   "examples": [
+    {
+     "en": "I didn't see anything.",
+     "es": "No vi nada."
+    },
+    {
+     "en": "Why didn't you eat anything?",
+     "es": "¿Por qué no comió nada?"
+    },
+    {
+     "en": "Nobody saw anything.",
+     "es": "Nadie vio nada."
+    }
+   ],
+   "t": 305.4
+  },
+  {
+   "title": "durar; durante = during / for",
+   "body": "Endure, duration, even 'Duracell': brand names use Latin to appeal to you. Durante works like the -ante adjectives and can mean 'for' a time. Media hora = half an hour.",
+   "examples": [
+    {
+     "en": "It lasted two minutes.",
+     "es": "Duró dos minutos."
+    },
+    {
+     "en": "He ate for half an hour.",
+     "es": "Comió durante media hora."
+    }
+   ],
+   "t": 366.3
+  },
+  {
+   "title": "sin parar = without stopping",
+   "body": "Sin = without; after it, use the 'to' form. Parar (to stop) links to par (a pair): com-parar, pre-parar, re-pair, se-parar ('pair apart').",
+   "examples": [
+    {
+     "en": "He talked for half an hour without stopping.",
+     "es": "Habló durante media hora sin parar."
+    },
+    {
+     "en": "a pair of shoes",
+     "es": "un par de zapatos"
+    }
+   ],
+   "t": 531.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I ate.",
+   "es": [
+    "Comí"
+   ],
+   "why": "-er → -í."
+  },
+  {
+   "id": "p2",
+   "en": "She went out.",
+   "es": [
+    "Salió"
+   ],
+   "why": "-ir → -ió."
+  },
+  {
+   "id": "p3",
+   "en": "I don't know why she hasn't left yet.",
+   "es": [
+    "No sé por qué no salió todavía",
+    "No sé por qué todavía no salió"
+   ],
+   "why": "salió + todavía."
+  },
+  {
+   "id": "p4",
+   "en": "I ate more than him.",
+   "es": [
+    "Comí más que él"
+   ],
+   "why": "que = than; él."
+  },
+  {
+   "id": "p5",
+   "en": "He ate more than me.",
+   "es": [
+    "Comió más que yo"
+   ],
+   "why": "'more than I'."
+  },
+  {
+   "id": "p6",
+   "en": "I saw him, but he didn't see me.",
+   "es": [
+    "Lo vi pero no me vio",
+    "Yo lo vi pero él no me vio",
+    "Lo vi pero él no me vio"
+   ],
+   "why": "vi / vio."
+  },
+  {
+   "id": "p7",
+   "en": "I didn't eat anything.",
+   "es": [
+    "No comí nada"
+   ],
+   "why": "Double negative."
+  },
+  {
+   "id": "p8",
+   "en": "Nobody saw anything.",
+   "es": [
+    "Nadie vio nada"
+   ],
+   "why": "nadie + nada."
+  },
+  {
+   "id": "p9",
+   "en": "It lasted two minutes.",
+   "es": [
+    "Duró dos minutos"
+   ],
+   "why": "durar → duró."
+  },
+  {
+   "id": "p10",
+   "en": "He ate for half an hour.",
+   "es": [
+    "Comió durante media hora",
+    "Comió por media hora"
+   ],
+   "why": "durante media hora."
+  },
+  {
+   "id": "p11",
+   "en": "without stopping",
+   "es": [
+    "sin parar"
+   ],
+   "why": "sin + 'to' form."
+  },
+  {
+   "id": "p12",
+   "en": "a pair of shoes",
+   "es": [
+    "un par de zapatos"
+   ],
+   "why": "un par."
+  }
+ ],
+ "duration": 643.11,
+ "scId": 163740706
+}

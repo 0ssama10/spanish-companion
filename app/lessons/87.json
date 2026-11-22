@@ -1,0 +1,189 @@
+{
+ "id": "87",
+ "track": 87,
+ "title": "Irregular line past recap; the irregular dot-past group: tuve, estuve, dije",
+ "cards": [
+  {
+   "title": "Line past: only three irregulars",
+   "body": "Ser → era (an era), ir → iba (-aba + -ía), ver → veía (keeps veo's e). Everything else is regular.",
+   "examples": [
+    {
+     "en": "we were / they were going / they were seeing",
+     "es": "éramos / iban / veían"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "The irregular dot-past group",
+   "body": "Mostly -go verbs. Three features: a changed stem (pod- → pud-); a fixed mix of endings (-e and -o from the -ar set, the rest from -er/-ir); and no stress on the endings.",
+   "t": 139.0
+  },
+  {
+   "title": "Recap: regular dot-past endings",
+   "body": "",
+   "examples": [
+    {
+     "en": "hablar",
+     "es": "hablé, habló, hablamos, hablaron, hablaste"
+    },
+    {
+     "en": "comer",
+     "es": "comí, comió, comimos, comieron, comiste"
+    }
+   ],
+   "t": 226.5
+  },
+  {
+   "title": "tener → tuv-",
+   "body": "Tuve, tuvo (unstressed endings, from -ar), then tuvimos, tuviste, tuvieron (from -er/-ir).",
+   "examples": [
+    {
+     "en": "I had / he had / we had / you had / they had",
+     "es": "tuve / tuvo / tuvimos / tuviste / tuvieron"
+    }
+   ],
+   "t": 323.5
+  },
+  {
+   "title": "estar → estuv-",
+   "body": "Pair it with tuve.",
+   "examples": [
+    {
+     "en": "I wasn't.",
+     "es": "No estuve."
+    },
+    {
+     "en": "Where were you? / Where were you guys?",
+     "es": "¿Dónde estuviste? / ¿Dónde estuvieron?"
+    }
+   ],
+   "t": 407.4
+  },
+  {
+   "title": "Escape hatch: the line past",
+   "body": "In a live conversation, the regular line past (¿dónde estabas?, tenía que ir) gets the meaning across. Don't avoid the irregulars forever, though: whatever you don't take control of ends up controlling you.",
+   "examples": [
+    {
+     "en": "I had to go (at that moment).",
+     "es": "Tuve que ir. / Tenía que ir."
+    }
+   ],
+   "t": 462.9
+  },
+  {
+   "title": "decir → dij-",
+   "body": "",
+   "examples": [
+    {
+     "en": "I said / he said / we said",
+     "es": "dije / dijo / dijimos"
+    }
+   ],
+   "t": 574.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "We were (line past, ser).",
+   "es": [
+    "Éramos"
+   ],
+   "why": "era → éramos."
+  },
+  {
+   "id": "p2",
+   "en": "They were going.",
+   "es": [
+    "Iban"
+   ],
+   "why": "iba → iban."
+  },
+  {
+   "id": "p3",
+   "en": "I had (dot past).",
+   "es": [
+    "Tuve"
+   ],
+   "why": "tuv- + e."
+  },
+  {
+   "id": "p4",
+   "en": "He had (dot past).",
+   "es": [
+    "Tuvo"
+   ],
+   "why": "tuv- + o (no accent)."
+  },
+  {
+   "id": "p5",
+   "en": "We had (dot past).",
+   "es": [
+    "Tuvimos"
+   ],
+   "why": "-imos."
+  },
+  {
+   "id": "p6",
+   "en": "I wasn't (dot past, estar).",
+   "es": [
+    "No estuve"
+   ],
+   "why": "estuve."
+  },
+  {
+   "id": "p7",
+   "en": "Where were you (informal)?",
+   "es": [
+    "Dónde estuviste",
+    "Dónde estabas"
+   ],
+   "why": "estuviste / estabas."
+  },
+  {
+   "id": "p8",
+   "en": "Where were you guys?",
+   "es": [
+    "Dónde estuvieron",
+    "Dónde estaban"
+   ],
+   "why": "estuvieron."
+  },
+  {
+   "id": "p9",
+   "en": "I had to go.",
+   "es": [
+    "Tuve que ir",
+    "Tenía que ir"
+   ],
+   "why": "tuve que / tenía que."
+  },
+  {
+   "id": "p10",
+   "en": "I said.",
+   "es": [
+    "Dije"
+   ],
+   "why": "dij- + e."
+  },
+  {
+   "id": "p11",
+   "en": "He said.",
+   "es": [
+    "Dijo"
+   ],
+   "why": "dij- + o."
+  },
+  {
+   "id": "p12",
+   "en": "We said.",
+   "es": [
+    "Dijimos"
+   ],
+   "why": "dijimos."
+  }
+ ],
+ "duration": 617.8,
+ "scId": 165004820
+}

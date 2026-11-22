@@ -1,0 +1,199 @@
+{
+ "id": "54",
+ "track": 54,
+ "title": "haber ido, -ado / -ido as adjectives with estar, cansarse, es una silla mojada",
+ "cards": [
+  {
+   "title": "After any form of haber, even 'to have'",
+   "body": "",
+   "examples": [
+    {
+     "en": "I'll have lost it.",
+     "es": "Lo habré perdido."
+    },
+    {
+     "en": "I'd like to have gone.",
+     "es": "Me gustaría haber ido."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "-ado / -ido as adjectives",
+   "body": "Like English (sold, lost), the haber form also works as an adjective, which gives you hundreds of adjectives. After haber it never changes; as an adjective it agrees. These adjectives almost always go with estar.",
+   "examples": [
+    {
+     "en": "I've closed it (the door).",
+     "es": "La he cerrado."
+    },
+    {
+     "en": "It's closed (the door).",
+     "es": "Está cerrada."
+    },
+    {
+     "en": "I'm lost.",
+     "es": "Estoy perdido. / Estoy perdida."
+    },
+    {
+     "en": "It's finished (the film).",
+     "es": "Está terminada."
+    },
+    {
+     "en": "They're sold (the houses).",
+     "es": "Están vendidas."
+    }
+   ],
+   "t": 60.7
+  },
+  {
+   "title": "cansado comes from cansar",
+   "body": "Cansar = to tire. Me canso = I get tired / fed up. Me he cansado = I've had enough.",
+   "examples": [
+    {
+     "en": "I get tired.",
+     "es": "Me canso."
+    },
+    {
+     "en": "I've got tired.",
+     "es": "Me he cansado."
+    }
+   ],
+   "t": 276.0
+  },
+  {
+   "title": "está cerrado vs es una persona cerrada",
+   "body": "Idea is feminine. 'Es cerrado' sounds wrong; with persona, ser is fine.",
+   "examples": [
+    {
+     "en": "He's closed to the idea.",
+     "es": "Está cerrado a la idea."
+    },
+    {
+     "en": "He's a closed person.",
+     "es": "Es una persona cerrada."
+    }
+   ],
+   "t": 370.8
+  },
+  {
+   "title": "Naming something always takes ser",
+   "body": "'It's a chair' is about as characteristic as it gets, so ser, even with a state adjective added. Describing the chair's state on its own takes estar. Mojar = to wet.",
+   "examples": [
+    {
+     "en": "The chair is wet.",
+     "es": "La silla está mojada."
+    },
+    {
+     "en": "It's a wet chair.",
+     "es": "Es una silla mojada."
+    },
+    {
+     "en": "She's a lost person.",
+     "es": "Es una persona perdida."
+    }
+   ],
+   "t": 466.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I'd like to have gone.",
+   "es": [
+    "Me gustaría haber ido"
+   ],
+   "why": "haber + ido."
+  },
+  {
+   "id": "p2",
+   "en": "I've closed it (the door).",
+   "es": [
+    "La he cerrado"
+   ],
+   "why": "la + he cerrado."
+  },
+  {
+   "id": "p3",
+   "en": "It's closed (the door).",
+   "es": [
+    "Está cerrada"
+   ],
+   "why": "Adjective agrees; estar."
+  },
+  {
+   "id": "p4",
+   "en": "I'm lost.",
+   "es": [
+    "Estoy perdido",
+    "Estoy perdida"
+   ],
+   "why": "perdido as an adjective."
+  },
+  {
+   "id": "p5",
+   "en": "It's finished (the film).",
+   "es": [
+    "Está terminada"
+   ],
+   "why": "la película → terminada."
+  },
+  {
+   "id": "p6",
+   "en": "They're sold (the houses).",
+   "es": [
+    "Están vendidas"
+   ],
+   "why": "vendidas."
+  },
+  {
+   "id": "p7",
+   "en": "I get tired.",
+   "es": [
+    "Me canso"
+   ],
+   "why": "cansarse."
+  },
+  {
+   "id": "p8",
+   "en": "I've had enough (got tired).",
+   "es": [
+    "Me he cansado"
+   ],
+   "why": "me he cansado."
+  },
+  {
+   "id": "p9",
+   "en": "He's closed to the idea.",
+   "es": [
+    "Está cerrado a la idea"
+   ],
+   "why": "la idea."
+  },
+  {
+   "id": "p10",
+   "en": "He's a closed person.",
+   "es": [
+    "Es una persona cerrada"
+   ],
+   "why": "persona → cerrada."
+  },
+  {
+   "id": "p11",
+   "en": "The chair is wet.",
+   "es": [
+    "La silla está mojada"
+   ],
+   "why": "State → estar."
+  },
+  {
+   "id": "p12",
+   "en": "It's a wet chair.",
+   "es": [
+    "Es una silla mojada"
+   ],
+   "why": "Naming it → ser."
+  }
+ ],
+ "duration": 582.95,
+ "scId": 163737220
+}

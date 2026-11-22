@@ -1,0 +1,176 @@
+{
+ "id": "83",
+ "track": 83,
+ "title": "que + mood = the fact that; si + past mood (if I could…); hubiera; the -ase / -iese form",
+ "cards": [
+  {
+   "title": "que + mood = 'the fact that'",
+   "body": "Starting a sentence with que + mood tense gives the feeling of 'the fact that you might have…'.",
+   "examples": [
+    {
+     "en": "That you bought it isn't my problem.",
+     "es": "Que lo compraras no es mi problema."
+    },
+    {
+     "en": "That you told him isn't my problem.",
+     "es": "Que le contaras no es mi problema."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Hypothetical si → past mood tense",
+   "body": "English does it too ('if I WERE you'). Poder's dot-past stem becomes pud-: pudieron → pudiera.",
+   "examples": [
+    {
+     "en": "If I could cook, I would.",
+     "es": "Si pudiera cocinar, cocinaría."
+    },
+    {
+     "en": "If I could cancel it, I would.",
+     "es": "Si pudiera cancelarlo, lo cancelaría."
+    }
+   ],
+   "t": 116.1
+  },
+  {
+   "title": "haber → hub-: hubiera = had (hypothetical)",
+   "body": "Si + hubiera + -ado / -ido, then habría + -ido.",
+   "examples": [
+    {
+     "en": "If you'd told me, I would have gone.",
+     "es": "Si me lo hubieras contado, habría ido."
+    },
+    {
+     "en": "If we'd known, we'd have gone.",
+     "es": "Si hubiéramos sabido, habríamos ido."
+    }
+   ],
+   "t": 252.1
+  },
+  {
+   "title": "si vieras …",
+   "body": "",
+   "examples": [
+    {
+     "en": "If you saw their house …",
+     "es": "Si vieras su casa …"
+    },
+    {
+     "en": "If you saw it, you'd understand it. (formal)",
+     "es": "Si lo viera, lo comprendería / entendería."
+    }
+   ],
+   "t": 394.1
+  },
+  {
+   "title": "The alternative form: -ase / -iese",
+   "body": "Hablase = hablara, comiese = comiera, comiésemos = comiéramos. Same meaning; how much it's used depends on dialect. Recognise it, but you don't need to use it.",
+   "t": 435.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "That you (informal) bought it isn't my problem.",
+   "es": [
+    "Que lo compraras no es mi problema",
+    "Que la compraras no es mi problema"
+   ],
+   "why": "que + compraras."
+  },
+  {
+   "id": "p2",
+   "en": "That you (informal) told him isn't my problem.",
+   "es": [
+    "Que le contaras no es mi problema",
+    "Que le dijeras no es mi problema"
+   ],
+   "why": "contaras."
+  },
+  {
+   "id": "p3",
+   "en": "they could (dot past)",
+   "es": [
+    "pudieron"
+   ],
+   "why": "pod- → pud-."
+  },
+  {
+   "id": "p4",
+   "en": "if I could",
+   "es": [
+    "si pudiera"
+   ],
+   "why": "pudieron → pudiera."
+  },
+  {
+   "id": "p5",
+   "en": "If I could cook, I would.",
+   "es": [
+    "Si pudiera cocinar cocinaría"
+   ],
+   "why": "pudiera + cocinaría."
+  },
+  {
+   "id": "p6",
+   "en": "If I could cancel it, I would.",
+   "es": [
+    "Si pudiera cancelarlo lo cancelaría"
+   ],
+   "why": "lo cancelaría."
+  },
+  {
+   "id": "p7",
+   "en": "they had (dot past of haber)",
+   "es": [
+    "hubieron"
+   ],
+   "why": "hab- → hub-."
+  },
+  {
+   "id": "p8",
+   "en": "If you'd told me (informal), I would have gone.",
+   "es": [
+    "Si me lo hubieras contado habría ido",
+    "Si me lo hubieras dicho habría ido"
+   ],
+   "why": "hubieras contado + habría ido."
+  },
+  {
+   "id": "p9",
+   "en": "If we'd known, we'd have gone.",
+   "es": [
+    "Si hubiéramos sabido habríamos ido"
+   ],
+   "why": "hubiéramos + habríamos."
+  },
+  {
+   "id": "p10",
+   "en": "If you (informal) saw their house …",
+   "es": [
+    "Si vieras su casa"
+   ],
+   "why": "vieran → vieras."
+  },
+  {
+   "id": "p11",
+   "en": "If you (formal) saw it, you'd understand it.",
+   "es": [
+    "Si lo viera lo comprendería",
+    "Si lo viera lo entendería"
+   ],
+   "why": "viera + comprendería."
+  },
+  {
+   "id": "p12",
+   "en": "the alternative form of 'hablara'",
+   "es": [
+    "hablase"
+   ],
+   "why": "-ase form."
+  }
+ ],
+ "duration": 491.21,
+ "scId": 165004816
+}

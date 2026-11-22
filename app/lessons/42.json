@@ -1,0 +1,200 @@
+{
+ "id": "42",
+ "track": 42,
+ "title": "gustar = to please (me gusta), me gustaría, podría",
+ "cards": [
+  {
+   "title": "Recap: would",
+   "body": "",
+   "examples": [
+    {
+     "en": "I would speak.",
+     "es": "Hablaría."
+    },
+    {
+     "en": "They wouldn't speak.",
+     "es": "No hablarían."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "gustar = to be pleasing",
+   "body": "Think of gustar as 'to please'. 'I like it' is 'it pleases me': me gusta.",
+   "examples": [
+    {
+     "en": "I like it.",
+     "es": "Me gusta."
+    }
+   ],
+   "caveat": "Me gusto means 'I like myself'!",
+   "t": 55.3
+  },
+  {
+   "title": "me gustan = I like them",
+   "body": "Think it through literally: 'they please me'.",
+   "examples": [
+    {
+     "en": "I like them.",
+     "es": "Me gustan."
+    }
+   ],
+   "t": 155.8
+  },
+  {
+   "title": "me gustaría = I would like",
+   "body": "Start with the verb: it would please (gustaría), then who it pleases (nos). The thing liked here is 'to eat', which is singular, so it's gustaría, not gustarían.",
+   "examples": [
+    {
+     "en": "I'd like to eat now.",
+     "es": "Me gustaría comer ahora."
+    },
+    {
+     "en": "We'd like to eat now.",
+     "es": "Nos gustaría comer ahora."
+    },
+    {
+     "en": "I'd like to see you.",
+     "es": "Me gustaría verte."
+    }
+   ],
+   "t": 185.8
+  },
+  {
+   "title": "podría = could",
+   "body": "Common verbs get worn down: podería lost its e and became podría.",
+   "examples": [
+    {
+     "en": "I / he could",
+     "es": "podría"
+    },
+    {
+     "en": "they / you / we could",
+     "es": "podrían / podrías / podríamos"
+    }
+   ],
+   "t": 277.2
+  },
+  {
+   "title": "Polite requests with podrías",
+   "body": "Mi casa = my house. Decir = to say / tell.",
+   "examples": [
+    {
+     "en": "Could you come to my house?",
+     "es": "¿Podrías venir a mi casa?"
+    },
+    {
+     "en": "Could you tell me something?",
+     "es": "¿Me podrías decir algo? / ¿Podrías decirme algo?"
+    },
+    {
+     "en": "Could you tell me if you want to come?",
+     "es": "¿Podrías decirme si quieres venir?"
+    }
+   ],
+   "t": 351.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "We would speak.",
+   "es": [
+    "Hablaríamos"
+   ],
+   "why": "hablar + íamos."
+  },
+  {
+   "id": "p2",
+   "en": "I like it.",
+   "es": [
+    "Me gusta"
+   ],
+   "why": "'It pleases me'."
+  },
+  {
+   "id": "p3",
+   "en": "I like them.",
+   "es": [
+    "Me gustan"
+   ],
+   "why": "'They please me'."
+  },
+  {
+   "id": "p4",
+   "en": "I would like.",
+   "es": [
+    "Me gustaría"
+   ],
+   "why": "gustar + ía."
+  },
+  {
+   "id": "p5",
+   "en": "I'd like to eat now.",
+   "es": [
+    "Me gustaría comer ahora"
+   ],
+   "why": "me gustaría + comer ahora."
+  },
+  {
+   "id": "p6",
+   "en": "We'd like to eat now.",
+   "es": [
+    "Nos gustaría comer ahora"
+   ],
+   "why": "'It would please us': gustaría, singular."
+  },
+  {
+   "id": "p7",
+   "en": "I'd like to see you (informal).",
+   "es": [
+    "Me gustaría verte"
+   ],
+   "why": "verte."
+  },
+  {
+   "id": "p8",
+   "en": "I could.",
+   "es": [
+    "Podría"
+   ],
+   "why": "poder → podría."
+  },
+  {
+   "id": "p9",
+   "en": "They could.",
+   "es": [
+    "Podrían"
+   ],
+   "why": "podrían."
+  },
+  {
+   "id": "p10",
+   "en": "Could you (informal) come to my house?",
+   "es": [
+    "Podrías venir a mi casa"
+   ],
+   "why": "¿Podrías venir a mi casa?"
+  },
+  {
+   "id": "p11",
+   "en": "Could you (informal) tell me something?",
+   "es": [
+    "Me podrías decir algo",
+    "Podrías decirme algo"
+   ],
+   "why": "decir = to tell."
+  },
+  {
+   "id": "p12",
+   "en": "Could you (informal) tell me if you want to come?",
+   "es": [
+    "Podrías decirme si quieres venir",
+    "Me podrías decir si quieres venir"
+   ],
+   "why": "si = if."
+  }
+ ],
+ "duration": 424.36,
+ "scId": 163139514
+}

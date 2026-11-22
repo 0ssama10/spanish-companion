@@ -1,0 +1,207 @@
+{
+ "id": "49",
+ "track": 49,
+ "title": "¿Cómo se llamaba?, tenía, tenía que, ayer; irregular: veía, era, iba",
+ "cards": [
+  {
+   "title": "Names in the line past",
+   "body": "",
+   "examples": [
+    {
+     "en": "What's her name?",
+     "es": "¿Cómo se llama?"
+    },
+    {
+     "en": "What was her name?",
+     "es": "¿Cómo se llamaba?"
+    },
+    {
+     "en": "What were their names?",
+     "es": "¿Cómo se llamaban?"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "tenía = I used to have",
+   "body": "Watch the small words too: una casa grande. Cuatro = four (think 'quarter').",
+   "examples": [
+    {
+     "en": "We used to have a big house.",
+     "es": "Teníamos una casa grande."
+    },
+    {
+     "en": "I used to have four, but now I don't have any left.",
+     "es": "Tenía cuatro, pero ahora no me queda(n)."
+    }
+   ],
+   "t": 153.2
+  },
+  {
+   "title": "tenía que = had to; ayer = yesterday",
+   "body": "The line past works for 'had to'. ¿No tenías que…? can mean 'weren't you supposed to…?'.",
+   "examples": [
+    {
+     "en": "I had to see you yesterday.",
+     "es": "Tenía que verte ayer."
+    },
+    {
+     "en": "Weren't you supposed to do it yesterday?",
+     "es": "¿No tenías que hacerlo ayer?"
+    }
+   ],
+   "t": 274.8
+  },
+  {
+   "title": "Only three irregulars: ver → veía",
+   "body": "This tense is very regular. Ver keeps the extra e, as in veo.",
+   "examples": [
+    {
+     "en": "I was seeing / we were seeing",
+     "es": "veía / veíamos"
+    }
+   ],
+   "t": 351.4
+  },
+  {
+   "title": "ser → era (think 'an era')",
+   "body": "A line in the past, like an era. The stress stays put: éramos.",
+   "examples": [
+    {
+     "en": "I used to be a student.",
+     "es": "Era estudiante."
+    },
+    {
+     "en": "We were students.",
+     "es": "Éramos estudiantes."
+    },
+    {
+     "en": "What were they?",
+     "es": "¿Qué eran?"
+    }
+   ],
+   "t": 416.0
+  },
+  {
+   "title": "ir → iba",
+   "body": "A blend of -aba and -ía. Iba a = 'was going to', and it takes a (movement); in fast speech the a's blend together.",
+   "examples": [
+    {
+     "en": "Why were you going?",
+     "es": "¿Por qué ibas?"
+    },
+    {
+     "en": "I was going to call you.",
+     "es": "Iba a llamarte."
+    },
+    {
+     "en": "We were going to do them.",
+     "es": "Íbamos a hacerlos."
+    }
+   ],
+   "t": 503.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "What was her name?",
+   "es": [
+    "Cómo se llamaba"
+   ],
+   "why": "llamaba + se."
+  },
+  {
+   "id": "p2",
+   "en": "We used to have a big house.",
+   "es": [
+    "Teníamos una casa grande"
+   ],
+   "why": "teníamos + una casa grande."
+  },
+  {
+   "id": "p3",
+   "en": "four",
+   "es": [
+    "cuatro"
+   ],
+   "why": "cuatro (quarter)."
+  },
+  {
+   "id": "p4",
+   "en": "I had to see you (informal) yesterday.",
+   "es": [
+    "Tenía que verte ayer"
+   ],
+   "why": "tenía que + verte + ayer."
+  },
+  {
+   "id": "p5",
+   "en": "Didn't you (informal) have to do it yesterday?",
+   "es": [
+    "No tenías que hacerlo ayer"
+   ],
+   "why": "¿No tenías que hacerlo ayer?"
+  },
+  {
+   "id": "p6",
+   "en": "I used to see.",
+   "es": [
+    "Veía"
+   ],
+   "why": "Irregular: veía."
+  },
+  {
+   "id": "p7",
+   "en": "I used to be a student.",
+   "es": [
+    "Era estudiante"
+   ],
+   "why": "ser → era."
+  },
+  {
+   "id": "p8",
+   "en": "We were students.",
+   "es": [
+    "Éramos estudiantes"
+   ],
+   "why": "éramos."
+  },
+  {
+   "id": "p9",
+   "en": "We were going.",
+   "es": [
+    "Íbamos"
+   ],
+   "why": "ir → íbamos."
+  },
+  {
+   "id": "p10",
+   "en": "I was going to call you (informal).",
+   "es": [
+    "Iba a llamarte",
+    "Te iba a llamar"
+   ],
+   "why": "iba a + llamarte."
+  },
+  {
+   "id": "p11",
+   "en": "I was going to do it.",
+   "es": [
+    "Iba a hacerlo",
+    "Lo iba a hacer"
+   ],
+   "why": "Don't forget the a."
+  },
+  {
+   "id": "p12",
+   "en": "yesterday",
+   "es": [
+    "ayer"
+   ],
+   "why": "ayer."
+  }
+ ],
+ "duration": 649.56,
+ "scId": 163253011
+}

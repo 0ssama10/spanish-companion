@@ -1,0 +1,243 @@
+{
+ "id": "18",
+ "track": 18,
+ "title": "we: -emos / -imos, vivir, aquí, dónde, siempre",
+ "cards": [
+  {
+   "title": "we: -amos, -emos, -imos",
+   "body": "-ar → -amos, -er → -emos, -ir → -imos. This is the only place in the whole language where -er and -ir verbs differ.",
+   "examples": [
+    {
+     "en": "we take",
+     "es": "tomamos"
+    },
+    {
+     "en": "we understand",
+     "es": "entendemos"
+    },
+    {
+     "en": "we live",
+     "es": "vivimos"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "preferir = to prefer",
+   "body": "Think of any verb ending in r as 'to …'. Preferir splits when stressed, but not in the we form.",
+   "examples": [
+    {
+     "en": "I prefer",
+     "es": "prefiero"
+    },
+    {
+     "en": "they prefer",
+     "es": "prefieren"
+    },
+    {
+     "en": "we prefer",
+     "es": "preferimos"
+    },
+    {
+     "en": "we're coming",
+     "es": "venimos"
+    }
+   ],
+   "t": 32.0
+  },
+  {
+   "title": "vivir = to live",
+   "body": "As in ¡viva la revolución! ('long live …').",
+   "examples": [
+    {
+     "en": "I live",
+     "es": "vivo",
+     "say": "BEE-boh"
+    }
+   ],
+   "t": 101.5
+  },
+  {
+   "title": "aquí / acá = here",
+   "body": "Aquí is more common in Spain, acá in Latin America; everyone understands both.",
+   "examples": [
+    {
+     "en": "I don't live here.",
+     "es": "No vivo aquí."
+    },
+    {
+     "en": "I don't live here, but he lives here.",
+     "es": "No vivo aquí, pero él vive aquí."
+    }
+   ],
+   "t": 127.2
+  },
+  {
+   "title": "Copy the accent around you",
+   "body": "V is often a soft b: verano (summer) may sound like 'berano'. Saber is written with b. Pick up the accent of the people you practise with (Colombian, Rioplatense, Madrid…); it makes them easier to understand.",
+   "t": 183.2
+  },
+  {
+   "title": "vivir in full",
+   "body": "Take off the ending, see what's left (viv-), then add the new ending, so vowel harmony doesn't turn it into 'veve'.",
+   "examples": [
+    {
+     "en": "he lives",
+     "es": "vive"
+    },
+    {
+     "en": "They live here.",
+     "es": "Viven aquí."
+    }
+   ],
+   "t": 246.2
+  },
+  {
+   "title": "dónde = where",
+   "body": "",
+   "examples": [
+    {
+     "en": "Where do they live?",
+     "es": "¿Dónde viven?"
+    },
+    {
+     "en": "I want to know where they live.",
+     "es": "Quiero saber dónde viven."
+    }
+   ],
+   "t": 290.8
+  },
+  {
+   "title": "entender again",
+   "body": "",
+   "examples": [
+    {
+     "en": "I want to know why he doesn't understand.",
+     "es": "Quiero saber por qué no entiende."
+    },
+    {
+     "en": "we understand",
+     "es": "entendemos"
+    }
+   ],
+   "t": 311.6
+  },
+  {
+   "title": "siempre = always",
+   "body": "It can go before or after the verb.",
+   "examples": [
+    {
+     "en": "We always lose.",
+     "es": "Siempre perdemos. / Perdemos siempre."
+    }
+   ],
+   "t": 391.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I prefer.",
+   "es": [
+    "Prefiero"
+   ],
+   "why": "preferir → prefiero."
+  },
+  {
+   "id": "p2",
+   "en": "We prefer.",
+   "es": [
+    "Preferimos"
+   ],
+   "why": "-ir → -imos, no split."
+  },
+  {
+   "id": "p3",
+   "en": "We're coming.",
+   "es": [
+    "Venimos"
+   ],
+   "why": "venir → venimos."
+  },
+  {
+   "id": "p4",
+   "en": "I live here.",
+   "es": [
+    "Vivo aquí",
+    "Vivo acá"
+   ],
+   "why": "vivo + aquí / acá."
+  },
+  {
+   "id": "p5",
+   "en": "But HE lives here.",
+   "es": [
+    "Pero él vive aquí",
+    "Pero él vive acá"
+   ],
+   "why": "él for contrast; vive."
+  },
+  {
+   "id": "p6",
+   "en": "We live here.",
+   "es": [
+    "Vivimos aquí",
+    "Vivimos acá"
+   ],
+   "why": "-ir → -imos."
+  },
+  {
+   "id": "p7",
+   "en": "Where do they live?",
+   "es": [
+    "Dónde viven"
+   ],
+   "why": "¿Dónde viven?"
+  },
+  {
+   "id": "p8",
+   "en": "I want to know where they live.",
+   "es": [
+    "Quiero saber dónde viven"
+   ],
+   "why": "quiero saber + dónde viven."
+  },
+  {
+   "id": "p9",
+   "en": "Why doesn't he understand?",
+   "es": [
+    "Por qué no entiende",
+    "Porque no entiende"
+   ],
+   "why": "entender → entiende."
+  },
+  {
+   "id": "p10",
+   "en": "We understand.",
+   "es": [
+    "Entendemos",
+    "Comprendemos"
+   ],
+   "why": "-er → -emos."
+  },
+  {
+   "id": "p11",
+   "en": "We lose.",
+   "es": [
+    "Perdemos"
+   ],
+   "why": "perder → perdemos (no split)."
+  },
+  {
+   "id": "p12",
+   "en": "We always lose.",
+   "es": [
+    "Siempre perdemos",
+    "Perdemos siempre"
+   ],
+   "why": "siempre before or after."
+  }
+ ],
+ "duration": 410.88,
+ "scId": 161633807
+}

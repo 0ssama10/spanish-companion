@@ -1,0 +1,222 @@
+{
+ "id": "52",
+ "track": 52,
+ "title": "para = in order to, -ando in the past, no -ing as a subject, -ante / -iente, days of the week",
+ "cards": [
+  {
+   "title": "para = in order to",
+   "body": "When English 'to' means 'in order to', Spanish needs para; the 'to' form alone isn't enough.",
+   "examples": [
+    {
+     "en": "We've talked in order to resolve it.",
+     "es": "Hemos hablado para resolverlo."
+    },
+    {
+     "en": "… to try to resolve it.",
+     "es": "Hemos hablado para intentar resolverlo."
+    },
+    {
+     "en": "I'm here to see you.",
+     "es": "Estoy aquí para verte."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Learn from Spanish speakers' English",
+   "body": "'I am here for see you' is negative transfer from Spanish. Mistakes you keep hearing often reveal the Spanish structure.",
+   "examples": [
+    {
+     "en": "I've called you to talk about it.",
+     "es": "Te he llamado para hablarlo."
+    }
+   ],
+   "t": 151.3
+  },
+  {
+   "title": "Recap: estar + -ando / -iendo",
+   "body": "The little word can attach to the -ando form. Explicar comes from plicare, 'to fold': explaining is unfolding.",
+   "examples": [
+    {
+     "en": "I'm explaining it.",
+     "es": "Estoy explicándolo. / Lo estoy explicando."
+    }
+   ],
+   "t": 238.3
+  },
+  {
+   "title": "Ongoing periods use -ing too",
+   "body": "'I'm taking a course' covers an ongoing period. In the past, estaba + -ando and the line past are mostly interchangeable.",
+   "examples": [
+    {
+     "en": "I'm taking a Spanish course.",
+     "es": "Estoy tomando un curso de español."
+    },
+    {
+     "en": "I was taking a Spanish course.",
+     "es": "Estaba tomando / Tomaba un curso de español."
+    },
+    {
+     "en": "I was eating.",
+     "es": "Comía. / Estaba comiendo."
+    }
+   ],
+   "t": 368.5
+  },
+  {
+   "title": "'Swimming is healthy' = to swim is healthy",
+   "body": "Use the 'to' form as a subject. Salud (health) is also the word for 'cheers!'.",
+   "examples": [
+    {
+     "en": "Dancing is healthy.",
+     "es": "Bailar es saludable."
+    },
+    {
+     "en": "Swimming is healthy.",
+     "es": "Nadar es saludable."
+    }
+   ],
+   "t": 526.8
+  },
+  {
+   "title": "-ing adjectives: -ante / -iente",
+   "body": "-ar → -ante, -er/-ir → -iente.",
+   "examples": [
+    {
+     "en": "interesting / irritating / frustrating",
+     "es": "interesante / irritante / frustrante"
+    },
+    {
+     "en": "the waning moon",
+     "es": "la luna menguante"
+    },
+    {
+     "en": "a living being",
+     "es": "un ser viviente"
+    },
+    {
+     "en": "salient / protruding",
+     "es": "saliente"
+    }
+   ],
+   "t": 575.8
+  },
+  {
+   "title": "Days of the week = planets",
+   "body": "Spanish shows the planets clearly: lunes (moon), martes (Mars), miércoles (Mercury), jueves (Jupiter), viernes (Venus).",
+   "examples": [
+    {
+     "en": "Monday – Friday",
+     "es": "lunes, martes, miércoles, jueves, viernes"
+    }
+   ],
+   "t": 708.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "We've talked in order to resolve it.",
+   "es": [
+    "Hemos hablado para resolverlo"
+   ],
+   "why": "para = in order to."
+  },
+  {
+   "id": "p2",
+   "en": "I'm here to see you (informal).",
+   "es": [
+    "Estoy aquí para verte",
+    "Estoy acá para verte"
+   ],
+   "why": "para verte."
+  },
+  {
+   "id": "p3",
+   "en": "I've called you (informal) to talk about it.",
+   "es": [
+    "Te he llamado para hablarlo"
+   ],
+   "why": "para + hablarlo."
+  },
+  {
+   "id": "p4",
+   "en": "I'm explaining it (right now).",
+   "es": [
+    "Estoy explicándolo",
+    "Lo estoy explicando",
+    "Estoy explicandolo"
+   ],
+   "why": "explicando."
+  },
+  {
+   "id": "p5",
+   "en": "I'm taking a Spanish course.",
+   "es": [
+    "Estoy tomando un curso de español"
+   ],
+   "why": "un curso de español."
+  },
+  {
+   "id": "p6",
+   "en": "I was taking a Spanish course.",
+   "es": [
+    "Estaba tomando un curso de español",
+    "Tomaba un curso de español"
+   ],
+   "why": "Both work."
+  },
+  {
+   "id": "p7",
+   "en": "Dancing is healthy.",
+   "es": [
+    "Bailar es saludable"
+   ],
+   "why": "'To dance is healthy'."
+  },
+  {
+   "id": "p8",
+   "en": "Swimming is healthy.",
+   "es": [
+    "Nadar es saludable"
+   ],
+   "why": "nadar."
+  },
+  {
+   "id": "p9",
+   "en": "It's irritating.",
+   "es": [
+    "Es irritante"
+   ],
+   "why": "-ar → -ante."
+  },
+  {
+   "id": "p10",
+   "en": "frustrating",
+   "es": [
+    "frustrante"
+   ],
+   "why": "frustrar → frustrante."
+  },
+  {
+   "id": "p11",
+   "en": "a living being",
+   "es": [
+    "un ser viviente",
+    "un ser vivo"
+   ],
+   "why": "vivir → viviente."
+  },
+  {
+   "id": "p12",
+   "en": "Monday",
+   "es": [
+    "lunes",
+    "el lunes"
+   ],
+   "why": "luna → lunes."
+  }
+ ],
+ "duration": 870.48,
+ "scId": 163736681
+}

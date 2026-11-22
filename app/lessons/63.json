@@ -1,0 +1,158 @@
+{
+ "id": "63",
+ "track": 63,
+ "title": "acordarse (me acuerdo), clarifying with gustar: le gusta a ella",
+ "cards": [
+  {
+   "title": "acordarse = to remember",
+   "body": "'I remember myself.' The o splits when stressed: me acuerdo. In the we form it doesn't: nos acordamos.",
+   "examples": [
+    {
+     "en": "I remember. / I don't remember.",
+     "es": "Me acuerdo. / No me acuerdo."
+    },
+    {
+     "en": "I don't remember if I gave it to him or to her.",
+     "es": "No me acuerdo si se lo di a él o a ella."
+    },
+    {
+     "en": "We don't remember if we gave it to him or to them.",
+     "es": "No nos acordamos si se lo dimos a él o a ellas."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "gustar: take the middle road",
+   "body": "Until gustar feels automatic, go through 'it is pleasing to him/her': le gusta (never 'la gusta').",
+   "t": 159.1
+  },
+  {
+   "title": "Clarify: le gusta a ella",
+   "body": "Le could be him, her or formal you; add a ella / a él. 'Ella le gusta' would mean SHE is pleasing to someone (someone likes her).",
+   "examples": [
+    {
+     "en": "She likes it.",
+     "es": "Le gusta a ella. / A ella le gusta."
+    },
+    {
+     "en": "She liked it.",
+     "es": "Le gustó a ella."
+    }
+   ],
+   "t": 214.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I remember.",
+   "es": [
+    "Me acuerdo"
+   ],
+   "why": "acordarse → me acuerdo."
+  },
+  {
+   "id": "p2",
+   "en": "I don't remember.",
+   "es": [
+    "No me acuerdo"
+   ],
+   "why": "no me acuerdo."
+  },
+  {
+   "id": "p3",
+   "en": "We don't remember.",
+   "es": [
+    "No nos acordamos"
+   ],
+   "why": "No split in the we form."
+  },
+  {
+   "id": "p4",
+   "en": "I don't remember if I gave it to him or to her.",
+   "es": [
+    "No me acuerdo si se lo di a él o a ella",
+    "No me acuerdo de si se lo di a él o a ella"
+   ],
+   "why": "se lo di + a él o a ella."
+  },
+  {
+   "id": "p5",
+   "en": "We don't remember if we gave it to him or to them (women).",
+   "es": [
+    "No nos acordamos si se lo dimos a él o a ellas",
+    "No nos acordamos de si se lo dimos a él o a ellas"
+   ],
+   "why": "dimos; a ellas."
+  },
+  {
+   "id": "p6",
+   "en": "He likes it.",
+   "es": [
+    "Le gusta",
+    "Le gusta a él",
+    "A él le gusta"
+   ],
+   "why": "le gusta."
+  },
+  {
+   "id": "p7",
+   "en": "She likes it (clarified).",
+   "es": [
+    "Le gusta a ella",
+    "A ella le gusta"
+   ],
+   "why": "a ella."
+  },
+  {
+   "id": "p8",
+   "en": "She liked it (clarified).",
+   "es": [
+    "Le gustó a ella",
+    "A ella le gustó"
+   ],
+   "why": "gustó + a ella."
+  },
+  {
+   "id": "p9",
+   "en": "You (formal) like it (clarified).",
+   "es": [
+    "Le gusta a usted",
+    "A usted le gusta"
+   ],
+   "why": "a usted."
+  },
+  {
+   "id": "p10",
+   "en": "He liked it.",
+   "es": [
+    "Le gustó",
+    "Le gustó a él",
+    "A él le gustó"
+   ],
+   "why": "le gustó."
+  },
+  {
+   "id": "p11",
+   "en": "I remember (myself) — the 'to' form",
+   "es": [
+    "acordarse"
+   ],
+   "why": "Dictionary form."
+  },
+  {
+   "id": "p12",
+   "en": "They like it (clarified).",
+   "es": [
+    "Les gusta a ellos",
+    "A ellos les gusta",
+    "Les gusta a ellas",
+    "A ellas les gusta"
+   ],
+   "why": "les + a ellos."
+  }
+ ],
+ "duration": 298.32,
+ "scId": 163962851
+}

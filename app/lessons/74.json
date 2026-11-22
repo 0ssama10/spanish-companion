@@ -1,0 +1,193 @@
+{
+ "id": "74",
+ "track": 74,
+ "title": "elegir (e → i), por mí, no quiero que se rompa, encontrarse, para que + mood, volver, también",
+ "cards": [
+  {
+   "title": "elegir: stressed e → i",
+   "body": "Related to 'elect' (elección). Some verbs turn a stressed e into i instead of splitting it: elijo, eliges, but elegimos.",
+   "examples": [
+    {
+     "en": "I choose / you choose / we choose",
+     "es": "elijo / eliges / elegimos"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "por mí = on my behalf",
+   "body": "Por = on behalf of; para = intended for.",
+   "examples": [
+    {
+     "en": "I don't want you to choose for me.",
+     "es": "No quiero que elijas por mí."
+    }
+   ],
+   "t": 76.7
+  },
+  {
+   "title": "que se rompa vs que lo rompa",
+   "body": "Romper links to rupture, corrupt, disrupt. With se, you don't say who breaks it.",
+   "examples": [
+    {
+     "en": "I don't want it to break.",
+     "es": "No quiero que se rompa."
+    },
+    {
+     "en": "I don't want him to break it.",
+     "es": "No quiero que lo rompa."
+    }
+   ],
+   "t": 151.3
+  },
+  {
+   "title": "encontrarse = to meet up",
+   "body": "",
+   "examples": [
+    {
+     "en": "We've met up to talk.",
+     "es": "Nos hemos encontrado para hablar."
+    }
+   ],
+   "t": 215.6
+  },
+  {
+   "title": "para que + mood tense = so that",
+   "body": "'Para comer' would mean so that WE eat; para que coman means so that THEY eat. Para is sometimes shortened to pa in speech.",
+   "examples": [
+    {
+     "en": "We've cooked so they can eat.",
+     "es": "Hemos cocinado para que coman."
+    }
+   ],
+   "t": 268.7
+  },
+  {
+   "title": "volver = to come / go back",
+   "body": "As in 'revolve'; Spanish revolver means to stir. The o splits: vuelvo.",
+   "examples": [
+    {
+     "en": "I've done it so that you come back.",
+     "es": "Lo he hecho para que vuelvas."
+    },
+    {
+     "en": "They've done it so that we come back.",
+     "es": "Lo han hecho para que volvamos."
+    }
+   ],
+   "t": 305.0
+  },
+  {
+   "title": "también = as well / too",
+   "body": "Tan (as) + bien (well): a direct match for English 'as well'.",
+   "examples": [
+    {
+     "en": "We've done everything so that you come back too.",
+     "es": "Hemos hecho todo para que tú también vuelvas."
+    }
+   ],
+   "t": 455.6
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I choose.",
+   "es": [
+    "Elijo"
+   ],
+   "why": "e → i when stressed."
+  },
+  {
+   "id": "p2",
+   "en": "We choose.",
+   "es": [
+    "Elegimos"
+   ],
+   "why": "Unstressed: no change."
+  },
+  {
+   "id": "p3",
+   "en": "I don't want you (informal) to choose for me.",
+   "es": [
+    "No quiero que elijas por mí"
+   ],
+   "why": "elijas; por mí."
+  },
+  {
+   "id": "p4",
+   "en": "I don't want it to break.",
+   "es": [
+    "No quiero que se rompa"
+   ],
+   "why": "se rompa."
+  },
+  {
+   "id": "p5",
+   "en": "We've met up.",
+   "es": [
+    "Nos hemos encontrado"
+   ],
+   "why": "encontrarse."
+  },
+  {
+   "id": "p6",
+   "en": "We've met up to talk.",
+   "es": [
+    "Nos hemos encontrado para hablar"
+   ],
+   "why": "para = in order to."
+  },
+  {
+   "id": "p7",
+   "en": "We've cooked so they can eat.",
+   "es": [
+    "Hemos cocinado para que coman"
+   ],
+   "why": "para que + coman."
+  },
+  {
+   "id": "p8",
+   "en": "I come back.",
+   "es": [
+    "Vuelvo"
+   ],
+   "why": "volver → vuelvo."
+  },
+  {
+   "id": "p9",
+   "en": "I've done it so that you (informal) come back.",
+   "es": [
+    "Lo he hecho para que vuelvas"
+   ],
+   "why": "vuelvas."
+  },
+  {
+   "id": "p10",
+   "en": "They've done it so that we come back.",
+   "es": [
+    "Lo han hecho para que volvamos"
+   ],
+   "why": "volvamos."
+  },
+  {
+   "id": "p11",
+   "en": "also / as well",
+   "es": [
+    "también"
+   ],
+   "why": "tan + bien."
+  },
+  {
+   "id": "p12",
+   "en": "We've done everything so that you (informal) come back too.",
+   "es": [
+    "Hemos hecho todo para que tú también vuelvas",
+    "Hemos hecho todo para que vuelvas tú también"
+   ],
+   "why": "también."
+  }
+ ],
+ "duration": 547.79,
+ "scId": 164759816
+}

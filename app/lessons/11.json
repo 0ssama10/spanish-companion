@@ -1,0 +1,276 @@
+{
+ "id": "11",
+ "track": 11,
+ "title": "-ar verbs: -o, -a, -an, -as; hablar; where lo goes",
+ "cards": [
+  {
+   "title": "Review: the I form",
+   "body": "Take off -ar/-er/-ir, add -o, stress the second-to-last syllable. Comer → como (not 'comero'). Como also means 'how' or 'like', as in ¿cómo estás? (how are you?).",
+   "examples": [
+    {
+     "en": "I tolerate",
+     "es": "tolero",
+     "say": "toh-LEH-roh"
+    },
+    {
+     "en": "I eat",
+     "es": "como"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "-ar verbs: the biggest group",
+   "body": "Most Spanish verbs end in -ar, and every new verb joins this group: tuitear (to tweet), googlear. For forms other than 'I', -ar verbs follow one pattern and -er/-ir verbs another.",
+   "examples": [
+    {
+     "en": "to tweet",
+     "es": "tuitear"
+    }
+   ],
+   "t": 111.0
+  },
+  {
+   "title": "-a = he / she / it / you (formal)",
+   "body": "-ar verbs are built around the 'a' sound. For he/she/it/formal you, end the verb in -a. Take long words syllable by syllable.",
+   "examples": [
+    {
+     "en": "I delete",
+     "es": "elimino"
+    },
+    {
+     "en": "he / she deletes",
+     "es": "elimina"
+    }
+   ],
+   "t": 169.8
+  },
+  {
+   "title": "durar = to last; mucho = a lot",
+   "body": "No obvious link from 'last', but duration → durar. 'It lasts a long time' is 'it lasts much'.",
+   "examples": [
+    {
+     "en": "It lasts a long time.",
+     "es": "Dura mucho."
+    },
+    {
+     "en": "It doesn't last long.",
+     "es": "No dura mucho."
+    }
+   ],
+   "t": 228.9
+  },
+  {
+   "title": "exagerar",
+   "body": "The English 'j' sound in exaggeration becomes the throaty g sound.",
+   "examples": [
+    {
+     "en": "I exaggerate",
+     "es": "exagero"
+    },
+    {
+     "en": "He's not exaggerating.",
+     "es": "No exagera."
+    }
+   ],
+   "t": 292.5
+  },
+  {
+   "title": "Spanish can teach you English",
+   "body": "Masticar (to chew) explains English 'mastication'. Morder (to bite) explains 'mordant'. Learning Spanish Latin can grow your English vocabulary too.",
+   "examples": [
+    {
+     "en": "I chew",
+     "es": "mastico"
+    },
+    {
+     "en": "he / she chews",
+     "es": "mastica"
+    }
+   ],
+   "t": 324.8
+  },
+  {
+   "title": "-an = they / you (plural)",
+   "body": "Add n to the -a form for 'they' and plural 'you' (you all).",
+   "examples": [
+    {
+     "en": "I collaborate",
+     "es": "colaboro"
+    },
+    {
+     "en": "he / she collaborates",
+     "es": "colabora"
+    },
+    {
+     "en": "they / you all collaborate",
+     "es": "colaboran"
+    }
+   ],
+   "t": 389.0
+  },
+  {
+   "title": "hablar = to speak",
+   "body": "The h is silent. Voy a hablar: the two a sounds blend together when spoken quickly.",
+   "examples": [
+    {
+     "en": "I speak",
+     "es": "hablo"
+    },
+    {
+     "en": "They don't speak with Pablo.",
+     "es": "No hablan con Pablo."
+    },
+    {
+     "en": "I'm going to speak.",
+     "es": "Voy a hablar."
+    }
+   ],
+   "t": 437.9
+  },
+  {
+   "title": "-as = you (informal)",
+   "body": "Add s to the -a form to speak to one person informally.",
+   "examples": [
+    {
+     "en": "you speak (informal)",
+     "es": "hablas"
+    }
+   ],
+   "t": 521.4
+  },
+  {
+   "title": "Where me, te, lo, la go",
+   "body": "With a conjugated verb (one not ending in r), the little word goes in front: lo quiero. With a 'to' form after it, you can attach it to the end or put it in front. Both mean the same.",
+   "examples": [
+    {
+     "en": "I want it.",
+     "es": "Lo quiero."
+    },
+    {
+     "en": "I want to see it.",
+     "es": "Quiero verlo. / Lo quiero ver."
+    },
+    {
+     "en": "I must invite him.",
+     "es": "Debo invitarlo. / Lo debo invitar."
+    }
+   ],
+   "t": 535.0
+  },
+  {
+   "title": "hablarlo = to talk about it",
+   "body": "No word for 'about' needed: 'speak it' is understood as 'speak about it'.",
+   "examples": [
+    {
+     "en": "It's important to talk about it.",
+     "es": "Es importante hablarlo."
+    }
+   ],
+   "t": 604.7
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I tolerate.",
+   "es": [
+    "Tolero"
+   ],
+   "why": "tolerar → tolero."
+  },
+  {
+   "id": "p2",
+   "en": "She deletes it.",
+   "es": [
+    "Lo elimina",
+    "La elimina"
+   ],
+   "why": "elimina = she deletes; the little word goes before: lo elimina."
+  },
+  {
+   "id": "p3",
+   "en": "It doesn't last long.",
+   "es": [
+    "No dura mucho"
+   ],
+   "why": "durar → dura; 'long' = mucho."
+  },
+  {
+   "id": "p4",
+   "en": "He's not exaggerating.",
+   "es": [
+    "No exagera"
+   ],
+   "why": "exagerar → exagera."
+  },
+  {
+   "id": "p5",
+   "en": "I chew.",
+   "es": [
+    "Mastico"
+   ],
+   "why": "masticar → mastico."
+  },
+  {
+   "id": "p6",
+   "en": "They collaborate.",
+   "es": [
+    "Colaboran"
+   ],
+   "why": "-a + n = they."
+  },
+  {
+   "id": "p7",
+   "en": "I speak.",
+   "es": [
+    "Hablo"
+   ],
+   "why": "hablar → hablo (silent h)."
+  },
+  {
+   "id": "p8",
+   "en": "They don't speak with Pablo.",
+   "es": [
+    "No hablan con Pablo"
+   ],
+   "why": "hablan = they speak."
+  },
+  {
+   "id": "p9",
+   "en": "You (informal) speak.",
+   "es": [
+    "Hablas"
+   ],
+   "why": "-a + s = you (informal)."
+  },
+  {
+   "id": "p10",
+   "en": "I want it.",
+   "es": [
+    "Lo quiero",
+    "La quiero"
+   ],
+   "why": "With a changed verb, lo goes in front."
+  },
+  {
+   "id": "p11",
+   "en": "It's important to talk about it.",
+   "es": [
+    "Es importante hablarlo"
+   ],
+   "why": "hablarlo = talk about it."
+  },
+  {
+   "id": "p12",
+   "en": "I must invite him.",
+   "es": [
+    "Debo invitarlo",
+    "Lo debo invitar"
+   ],
+   "why": "Both positions are fine with a 'to' form."
+  }
+ ],
+ "duration": 652.25,
+ "scId": 161498056
+}

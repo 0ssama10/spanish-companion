@@ -1,0 +1,195 @@
+{
+ "id": "57",
+ "track": 57,
+ "title": "lo + adjective ('the … thing'), juntos, fácil, así, lo de",
+ "cards": [
+  {
+   "title": "Recap: -emos vs -imos",
+   "body": "The only -er / -ir difference is the we form; everything else is shared.",
+   "examples": [
+    {
+     "en": "we eat / we live",
+     "es": "comemos / vivimos"
+    },
+    {
+     "en": "Where do you guys live?",
+     "es": "¿Dónde viven?"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "lo + adjective = the … thing",
+   "body": "Lo interesante = the interesting thing. Junto (together, linked to 'junction') agrees: juntos / juntas.",
+   "examples": [
+    {
+     "en": "The interesting thing is that they live here.",
+     "es": "Lo interesante es que viven aquí."
+    },
+    {
+     "en": "… that they live together.",
+     "es": "Lo interesante es que viven juntos."
+    }
+   ],
+   "t": 118.6
+  },
+  {
+   "title": "lo fácil, lo complicado, lo bueno, lo malo",
+   "body": "Fácil = easy (facilitate). Malo = bad (as in 'mal-nutrition').",
+   "examples": [
+    {
+     "en": "The easy thing is that they come together.",
+     "es": "Lo fácil es que vienen juntos."
+    },
+    {
+     "en": "The complicated thing is …",
+     "es": "Lo complicado es …"
+    }
+   ],
+   "t": 235.8
+  },
+  {
+   "title": "Live with some uncertainty",
+   "body": "Build only the form you need (venir → vienen) instead of chasing other forms. If you wait to master everything before speaking, you'll never start.",
+   "t": 273.6
+  },
+  {
+   "title": "así = like this / like that",
+   "body": "A shortcut for de esta manera / de esta forma.",
+   "examples": [
+    {
+     "en": "We don't speak like that.",
+     "es": "No hablamos así."
+    },
+    {
+     "en": "We don't live like that.",
+     "es": "No vivimos así."
+    }
+   ],
+   "t": 415.9
+  },
+  {
+   "title": "lo de = the thing / business about",
+   "body": "Mañana means both 'tomorrow' and (la mañana) 'the morning'.",
+   "examples": [
+    {
+     "en": "the business about the party",
+     "es": "lo de la fiesta"
+    },
+    {
+     "en": "I don't want to talk about Juan's business like this.",
+     "es": "No quiero hablar de lo de Juan así."
+    },
+    {
+     "en": "I want to organise that thing for tomorrow, but not like this.",
+     "es": "Quiero organizar lo de mañana, pero no quiero organizarlo así."
+    }
+   ],
+   "t": 476.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "We live.",
+   "es": [
+    "Vivimos"
+   ],
+   "why": "-ir → -imos."
+  },
+  {
+   "id": "p2",
+   "en": "Where do you guys live?",
+   "es": [
+    "Dónde viven"
+   ],
+   "why": "viven."
+  },
+  {
+   "id": "p3",
+   "en": "The interesting thing is that they live here.",
+   "es": [
+    "Lo interesante es que viven aquí",
+    "Lo interesante es que viven acá"
+   ],
+   "why": "lo interesante."
+  },
+  {
+   "id": "p4",
+   "en": "The interesting thing is that they live together.",
+   "es": [
+    "Lo interesante es que viven juntos",
+    "Lo interesante es que viven juntas"
+   ],
+   "why": "juntos agrees."
+  },
+  {
+   "id": "p5",
+   "en": "easy",
+   "es": [
+    "fácil"
+   ],
+   "why": "facilitate → fácil."
+  },
+  {
+   "id": "p6",
+   "en": "The easy thing is that they come together.",
+   "es": [
+    "Lo fácil es que vienen juntos",
+    "Lo fácil es que vienen juntas"
+   ],
+   "why": "venir → vienen."
+  },
+  {
+   "id": "p7",
+   "en": "the bad thing",
+   "es": [
+    "lo malo"
+   ],
+   "why": "lo + malo."
+  },
+  {
+   "id": "p8",
+   "en": "We don't speak like that.",
+   "es": [
+    "No hablamos así"
+   ],
+   "why": "así."
+  },
+  {
+   "id": "p9",
+   "en": "We don't eat like that.",
+   "es": [
+    "No comemos así"
+   ],
+   "why": "así."
+  },
+  {
+   "id": "p10",
+   "en": "the business about Juan",
+   "es": [
+    "lo de Juan"
+   ],
+   "why": "lo de."
+  },
+  {
+   "id": "p11",
+   "en": "I want to organise that thing for tomorrow.",
+   "es": [
+    "Quiero organizar lo de mañana"
+   ],
+   "why": "lo de mañana (not la mañana)."
+  },
+  {
+   "id": "p12",
+   "en": "But I don't want to organise it like this.",
+   "es": [
+    "Pero no quiero organizarlo así",
+    "Pero no lo quiero organizar así"
+   ],
+   "why": "organizarlo + así."
+  }
+ ],
+ "duration": 689.97,
+ "scId": 163738735
+}

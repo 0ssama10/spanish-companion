@@ -34,19 +34,46 @@ def locate(anchor, words, after):
     return best
 
 
+MIN_SCORE = 0.72
+
+
+def increasing_subset(cands):
+    """Indices of the highest-total-score subset of (idx, t, score) with strictly increasing t."""
+    best = []  # best[k] = (total, chain)
+    for k, (i, t, s) in enumerate(cands):
+        prev = max((best[j] for j in range(k) if cands[j][1] < t), key=lambda b: b[0], default=(0, []))
+        best.append((prev[0] + s, prev[1] + [k]))
+    return {cands[k][0] for k in max(best, key=lambda b: b[0], default=(0, []))[1]}
+
+
 def build(num):
     src = json.load(open(os.path.join(PRIV, "src", f"{num}.json"), encoding="utf-8"))
     words, duration = words_of(src["track"])
-    after, problems = 0, []
-    for c in src["cards"]:
-        if "t" in c and "anchor" not in c:
-            after = c["t"]; continue
-        score, t = locate(c.pop("anchor"), words, after)
-        if t is None or score < 0.6:
-            problems.append(f"  card '{c['title']}': anchor not found (best {score:.2f})")
-            t = after
-        c["t"] = round(max(0, t - 0.4), 1)
-        after = c["t"]
+    cards, problems = src["cards"], []
+    # 1) match every anchor independently over the whole track
+    found = {}
+    for i, c in enumerate(cards):
+        if "anchor" in c:
+            score, t = locate(c.pop("anchor"), words, 0)
+            if t is not None and score >= MIN_SCORE:
+                found[i] = (t, score)
+            else:
+                problems.append(f"  card '{c['title']}': anchor weak (best {score:.2f}), interpolated")
+        elif "t" in c:
+            found[i] = (c["t"], 2.0)
+    # 2) keep only matches that are in card order
+    keep = increasing_subset([(i, t, s) for i, (t, s) in sorted(found.items())])
+    for i in set(found) - keep:
+        problems.append(f"  card '{cards[i]['title']}': match out of order, interpolated")
+    anchors = sorted((i, found[i][0]) for i in keep)
+    anchors = [(-1, 0.0)] + anchors + [(len(cards), duration)]
+    # 3) interpolate any card without a reliable time between its neighbours
+    for (i0, t0), (i1, t1) in zip(anchors, anchors[1:]):
+        for i in range(max(i0, 0), i1):
+            if i == i0:
+                cards[i]["t"] = round(max(0, t0 - 0.4), 1)
+            else:
+                cards[i]["t"] = round(t0 + (t1 - t0) * (i - i0) / (i1 - i0), 1)
     if src["cards"]:
         src["cards"][0]["t"] = 0  # first card covers the lesson opening
     src["duration"] = duration

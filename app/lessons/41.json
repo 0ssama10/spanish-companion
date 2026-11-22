@@ -1,0 +1,210 @@
+{
+ "id": "41",
+ "track": 41,
+ "title": "bailar, will vs would (-ía), 'gets' = se",
+ "cards": [
+  {
+   "title": "Three ways to talk about the future",
+   "body": "Present + future context, ir a + verb (used even more than in English), or the future tense. Bailar = to dance (bailarín = dancer, hence 'ballerina').",
+   "examples": [
+    {
+     "en": "We're going to dance.",
+     "es": "Vamos a bailar."
+    },
+    {
+     "en": "We'll dance later.",
+     "es": "Bailamos más tarde. / Vamos a bailar más tarde."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Future: bailaré",
+   "body": "Add the haber sounds to the whole verb and stress the ending.",
+   "examples": [
+    {
+     "en": "I / we / he / they / you will dance",
+     "es": "bailaré / bailaremos / bailará / bailarán / bailarás"
+    }
+   ],
+   "t": 235.2
+  },
+  {
+   "title": "'Would' = whole verb + -ía",
+   "body": "-ía covers I and he/she/it/formal you. Then -íamos, -ían, -ías, with the stress always on the í. One set of endings for all verb types, as with 'will'.",
+   "examples": [
+    {
+     "en": "I / he would dance",
+     "es": "bailaría"
+    },
+    {
+     "en": "we / they / you would dance",
+     "es": "bailaríamos / bailarían / bailarías"
+    }
+   ],
+   "t": 324.7
+  },
+  {
+   "title": "iría, comería",
+   "body": "",
+   "examples": [
+    {
+     "en": "She wouldn't go.",
+     "es": "No iría."
+    },
+    {
+     "en": "I'd eat, but I don't have time.",
+     "es": "Comería, pero no tengo tiempo."
+    }
+   ],
+   "t": 491.0
+  },
+  {
+   "title": "'Gets transformed' = transforms itself",
+   "body": "Spanish has no 'get' for 'gets done'. It uses se ('itself'), which doesn't mean the thing does it to itself.",
+   "examples": [
+    {
+     "en": "It would transform the situation.",
+     "es": "Transformaría la situación."
+    },
+    {
+     "en": "It would get transformed.",
+     "es": "Se transformaría."
+    }
+   ],
+   "t": 537.7
+  },
+  {
+   "title": "se contamina = it gets contaminated",
+   "body": "The river 'contaminates itself' simply means it gets contaminated.",
+   "examples": [
+    {
+     "en": "It contaminates (the factory).",
+     "es": "Contamina."
+    },
+    {
+     "en": "It gets contaminated (the river).",
+     "es": "Se contamina."
+    },
+    {
+     "en": "It would get contaminated.",
+     "es": "Se contaminaría."
+    }
+   ],
+   "t": 636.0
+  },
+  {
+   "title": "me imagino",
+   "body": "Sometimes adding -self barely changes the meaning: imagino = me imagino.",
+   "examples": [
+    {
+     "en": "I'd imagine he doesn't want to go.",
+     "es": "Me imaginaría que no quiere ir."
+    }
+   ],
+   "t": 721.3
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "We're going to dance.",
+   "es": [
+    "Vamos a bailar"
+   ],
+   "why": "vamos a + bailar."
+  },
+  {
+   "id": "p2",
+   "en": "I will dance.",
+   "es": [
+    "Bailaré"
+   ],
+   "why": "bailar + é."
+  },
+  {
+   "id": "p3",
+   "en": "They will dance.",
+   "es": [
+    "Bailarán"
+   ],
+   "why": "bailar + án."
+  },
+  {
+   "id": "p4",
+   "en": "I would dance.",
+   "es": [
+    "Bailaría"
+   ],
+   "why": "bailar + ía."
+  },
+  {
+   "id": "p5",
+   "en": "We would dance.",
+   "es": [
+    "Bailaríamos"
+   ],
+   "why": "bailar + íamos."
+  },
+  {
+   "id": "p6",
+   "en": "She wouldn't go.",
+   "es": [
+    "No iría",
+    "Ella no iría"
+   ],
+   "why": "ir + ía."
+  },
+  {
+   "id": "p7",
+   "en": "I'd eat, but I don't have time.",
+   "es": [
+    "Comería pero no tengo tiempo"
+   ],
+   "why": "comería + pero no tengo tiempo."
+  },
+  {
+   "id": "p8",
+   "en": "It would transform the situation.",
+   "es": [
+    "Transformaría la situación"
+   ],
+   "why": "transformar + ía."
+  },
+  {
+   "id": "p9",
+   "en": "It would get transformed.",
+   "es": [
+    "Se transformaría"
+   ],
+   "why": "se for 'gets'."
+  },
+  {
+   "id": "p10",
+   "en": "It gets contaminated.",
+   "es": [
+    "Se contamina"
+   ],
+   "why": "'contaminates itself'."
+  },
+  {
+   "id": "p11",
+   "en": "It would get contaminated.",
+   "es": [
+    "Se contaminaría"
+   ],
+   "why": "se + contaminaría."
+  },
+  {
+   "id": "p12",
+   "en": "I'd imagine he doesn't want to go.",
+   "es": [
+    "Me imaginaría que no quiere ir",
+    "Imaginaría que no quiere ir"
+   ],
+   "why": "me imaginaría + que + no quiere ir."
+  }
+ ],
+ "duration": 786.7,
+ "scId": 163139513
+}

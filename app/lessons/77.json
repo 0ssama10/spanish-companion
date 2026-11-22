@@ -1,0 +1,179 @@
+{
+ "id": "77",
+ "track": 77,
+ "title": "debería haber, es + adjective + que + mood, qué fuerte que, está bien que, es necesario que",
+ "cards": [
+  {
+   "title": "debería haber = there should be",
+   "body": "If neither ser nor estar fits, ask: does 'be' mean 'exist'? Then it's haber.",
+   "examples": [
+    {
+     "en": "There should be something to eat.",
+     "es": "Debería haber algo para comer."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "es + adjective + que → mood tense",
+   "body": "With si (if) instead of que, there's no mood tense.",
+   "examples": [
+    {
+     "en": "It's terrible that you eat this.",
+     "es": "Es terrible que comas esto."
+    },
+    {
+     "en": "It's terrible if you eat this.",
+     "es": "Es terrible si comes esto."
+    },
+    {
+     "en": "It's possible that we'll go later.",
+     "es": "Es posible que vayamos más tarde."
+    }
+   ],
+   "t": 64.2
+  },
+  {
+   "title": "¡Qué fuerte! = That's full-on!",
+   "body": "Fuerte = strong, and colloquially 'heavy / full-on'. Qué + adjective = how …: qué lindo, qué bueno. English sometimes uses 'should' for this mood feeling: 'how incredible that he should come'.",
+   "examples": [
+    {
+     "en": "How crazy that he's here!",
+     "es": "¡Qué fuerte que esté aquí!"
+    }
+   ],
+   "t": 174.7
+  },
+  {
+   "title": "está bien que = it's OK that",
+   "body": "Preguntar = to ask; responder = to reply.",
+   "examples": [
+    {
+     "en": "It's fine that you ask, but I don't need to answer.",
+     "es": "Está bien que preguntes, pero no es necesario que responda."
+    },
+    {
+     "en": "… I don't have to answer.",
+     "es": "No hace falta que responda."
+    }
+   ],
+   "t": 267.0
+  },
+  {
+   "title": "es importante que",
+   "body": "",
+   "examples": [
+    {
+     "en": "It's important that we find it soon.",
+     "es": "Es importante que lo encontremos pronto."
+    }
+   ],
+   "t": 393.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "There should be something to eat.",
+   "es": [
+    "Debería haber algo para comer",
+    "Debería haber algo de comer"
+   ],
+   "why": "debería haber."
+  },
+  {
+   "id": "p2",
+   "en": "It's terrible that you (informal) eat this.",
+   "es": [
+    "Es terrible que comas esto"
+   ],
+   "why": "es + adj + que → comas."
+  },
+  {
+   "id": "p3",
+   "en": "It's terrible if you (informal) eat this.",
+   "es": [
+    "Es terrible si comes esto"
+   ],
+   "why": "si → normal present."
+  },
+  {
+   "id": "p4",
+   "en": "It's possible that we'll go later.",
+   "es": [
+    "Es posible que vayamos más tarde"
+   ],
+   "why": "vayamos."
+  },
+  {
+   "id": "p5",
+   "en": "How crazy that he's here!",
+   "es": [
+    "Qué fuerte que esté aquí",
+    "Qué fuerte que esté acá"
+   ],
+   "why": "esté (mood of estar)."
+  },
+  {
+   "id": "p6",
+   "en": "It's OK.",
+   "es": [
+    "Está bien"
+   ],
+   "why": "está bien."
+  },
+  {
+   "id": "p7",
+   "en": "to ask",
+   "es": [
+    "preguntar"
+   ],
+   "why": "preguntar."
+  },
+  {
+   "id": "p8",
+   "en": "It's fine that you (informal) ask.",
+   "es": [
+    "Está bien que preguntes"
+   ],
+   "why": "preguntes."
+  },
+  {
+   "id": "p9",
+   "en": "It's not necessary that I answer.",
+   "es": [
+    "No es necesario que responda",
+    "No hace falta que responda"
+   ],
+   "why": "responda."
+  },
+  {
+   "id": "p10",
+   "en": "It's important that we find it soon.",
+   "es": [
+    "Es importante que lo encontremos pronto",
+    "Es importante que la encontremos pronto"
+   ],
+   "why": "encontremos."
+  },
+  {
+   "id": "p11",
+   "en": "How beautiful!",
+   "es": [
+    "Qué lindo",
+    "Qué bonito"
+   ],
+   "why": "qué + adjective."
+  },
+  {
+   "id": "p12",
+   "en": "strong",
+   "es": [
+    "fuerte"
+   ],
+   "why": "fuerte."
+  }
+ ],
+ "duration": 415.24,
+ "scId": 164759820
+}

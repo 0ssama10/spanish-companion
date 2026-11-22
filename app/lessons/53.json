@@ -1,0 +1,190 @@
+{
+ "id": "53",
+ "track": 53,
+ "title": "podía, había + -ido (had done), ya, quería, buscar",
+ "cards": [
+  {
+   "title": "Two 'could's: podría vs podía",
+   "body": "Future/conditional 'could' = podría. Past 'could' (was able to) is usually the line past: podía.",
+   "examples": [
+    {
+     "en": "I could (in the past)",
+     "es": "podía"
+    },
+    {
+     "en": "I couldn't do it because I didn't have the time.",
+     "es": "No podía hacerlo porque no tenía el tiempo."
+    },
+    {
+     "en": "I couldn't do it yesterday.",
+     "es": "No podía hacerlo ayer."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Line or dot? Decide by context",
+   "body": "Whether to use the line or the dot past depends on the context, not on which form English uses. Sometimes both work.",
+   "t": 105.5
+  },
+  {
+   "title": "había + -ido = had done (always the line past)",
+   "body": "Ya (already) usually goes first.",
+   "examples": [
+    {
+     "en": "I had eaten.",
+     "es": "Había comido."
+    },
+    {
+     "en": "I had already eaten.",
+     "es": "Ya había comido."
+    }
+   ],
+   "t": 168.8
+  },
+  {
+   "title": "quería: wanting is ongoing",
+   "body": "Querer works in the line past even where English uses a simple past. Add él / yo to make clear who did what.",
+   "examples": [
+    {
+     "en": "He wanted to have dinner with me, but I'd already eaten.",
+     "es": "Él quería cenar conmigo, pero yo ya había cenado."
+    }
+   ],
+   "t": 237.2
+  },
+  {
+   "title": "buscar = to look for",
+   "body": "No 'for' needed. 'Had' vs 'have' works just like English.",
+   "examples": [
+    {
+     "en": "He was looking for it because I had lost it.",
+     "es": "(Él) lo buscaba porque yo lo había perdido."
+    }
+   ],
+   "t": 394.0
+  },
+  {
+   "title": "habría: the e naturally drops out",
+   "body": "",
+   "examples": [
+    {
+     "en": "I would have lost it.",
+     "es": "Lo habría perdido."
+    },
+    {
+     "en": "I would have got lost.",
+     "es": "Me habría perdido."
+    }
+   ],
+   "t": 432.7
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I could (past, was able to).",
+   "es": [
+    "Podía"
+   ],
+   "why": "Line past: podía."
+  },
+  {
+   "id": "p2",
+   "en": "We could (past).",
+   "es": [
+    "Podíamos"
+   ],
+   "why": "podíamos."
+  },
+  {
+   "id": "p3",
+   "en": "I couldn't do it because I didn't have the time.",
+   "es": [
+    "No podía hacerlo porque no tenía el tiempo",
+    "No podía hacerlo porque no tenía tiempo"
+   ],
+   "why": "Both in the line past."
+  },
+  {
+   "id": "p4",
+   "en": "I couldn't do it yesterday.",
+   "es": [
+    "No podía hacerlo ayer",
+    "No lo podía hacer ayer"
+   ],
+   "why": "ayer = yesterday."
+  },
+  {
+   "id": "p5",
+   "en": "I had eaten.",
+   "es": [
+    "Había comido"
+   ],
+   "why": "había + comido."
+  },
+  {
+   "id": "p6",
+   "en": "I had already eaten.",
+   "es": [
+    "Ya había comido"
+   ],
+   "why": "ya first."
+  },
+  {
+   "id": "p7",
+   "en": "He wanted to have dinner with me.",
+   "es": [
+    "Quería cenar conmigo",
+    "Él quería cenar conmigo"
+   ],
+   "why": "quería + cenar conmigo."
+  },
+  {
+   "id": "p8",
+   "en": "… but I had already had dinner.",
+   "es": [
+    "Pero yo ya había cenado",
+    "Pero ya había cenado"
+   ],
+   "why": "yo for contrast."
+  },
+  {
+   "id": "p9",
+   "en": "to look for",
+   "es": [
+    "buscar"
+   ],
+   "why": "No 'for' needed."
+  },
+  {
+   "id": "p10",
+   "en": "He was looking for it because I had lost it.",
+   "es": [
+    "Lo buscaba porque yo lo había perdido",
+    "Él lo buscaba porque yo lo había perdido",
+    "Lo buscaba porque lo había perdido"
+   ],
+   "why": "buscaba + porque + lo había perdido."
+  },
+  {
+   "id": "p11",
+   "en": "I would have lost it.",
+   "es": [
+    "Lo habría perdido",
+    "La habría perdido"
+   ],
+   "why": "habría."
+  },
+  {
+   "id": "p12",
+   "en": "I would have got lost.",
+   "es": [
+    "Me habría perdido"
+   ],
+   "why": "me + habría perdido."
+  }
+ ],
+ "duration": 498.96,
+ "scId": 163736682
+}
