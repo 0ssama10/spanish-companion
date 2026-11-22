@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SoundCloud Sync Test</title>
+<style>
+  :root { --bg:#fafaf7; --fg:#1d1d1b; --muted:#6b6b66; --card:#fff; --line:#e3e2dc; --ok:#1f7a4d; --bad:#b3261e; --accent:#c2410c; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#151514; --fg:#ecebe6; --muted:#9a998f; --card:#1f1f1d; --line:#33322e; --ok:#5cc98f; --bad:#ff8a80; --accent:#fb923c; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  main { max-width:720px; margin:0 auto; padding:16px; }
+  h1 { font-size:1.25rem; margin:0 0 4px; }
+  p.sub { color:var(--muted); margin:0 0 16px; font-size:.9rem; }
+  iframe { width:100%; height:166px; border:0; border-radius:8px; background:var(--card); }
+  .pos { font:600 2.2rem/1 ui-monospace,Consolas,monospace; margin:16px 0 4px; }
+  .row { display:flex; flex-wrap:wrap; gap:8px; margin:12px 0; }
+  button { font:inherit; padding:10px 14px; border-radius:8px; border:1px solid var(--line); background:var(--card); color:var(--fg); cursor:pointer; }
+  button:active { transform:translateY(1px); }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px; margin:12px 0; }
+  .card b { color:var(--accent); }
+  ul.checks { list-style:none; padding:0; margin:0; }
+  ul.checks li { padding:4px 0; }
+  .ok { color:var(--ok); } .bad { color:var(--bad); }
+  #log { font:12px/1.4 ui-monospace,Consolas,monospace; max-height:220px; overflow:auto; white-space:pre-wrap; color:var(--muted); }
+  #copy { margin-top:8px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>SoundCloud sync test</h1>
+  <p class="sub">Checks whether this browser gives the app the lesson position it needs to keep cards in sync. Uses the official SoundCloud player for track 1 of Complete Spanish.</p>
+
+  <iframe id="sc" allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F45266314&visual=false&show_artwork=false&start_track=0"></iframe>
+
+  <div class="pos" id="pos">–:–</div>
+  <div class="sub" id="state">Waiting for player…</div>
+
+  <div class="row">
+    <button id="play">Play / pause</button>
+    <button id="back">−10 s</button>
+    <button id="fwd">+30 s</button>
+    <button id="jump">Jump to 2:00</button>
+  </div>
+
+  <div class="card">Fake card for this second: <b id="fakecard">—</b><br>
+    <span class="sub">Changes every 30 s of audio. If it follows pause, seek and the scrubber, sync works.</span></div>
+
+  <div class="card">
+    <b>Try each, then check the results below:</b>
+    <ol>
+      <li>Press play (tap the player itself if the button does nothing).</li>
+      <li>Pause, then resume.</li>
+      <li>Use −10 s, +30 s and Jump to 2:00.</li>
+      <li>Drag the player's own scrubber.</li>
+      <li>On iPhone: lock the screen for 20 s, unlock. Switch to another app and back.</li>
+    </ol>
+    <ul class="checks" id="checks"></ul>
+    <button id="copy">Copy results</button>
+  </div>
+
+  <div class="card"><b>Event log</b><div id="log"></div></div>
+</main>
+
+<script src="https://w.soundcloud.com/player/api.js"></script>
+<script>
+(function () {
+  const $ = id => document.getElementById(id);
+  const fmt = ms => { const s = Math.floor(ms/1000); return Math.floor(s/60) + ':' + String(s%60).padStart(2,'0'); };
+  const log = msg => { const t = new Date().toLocaleTimeString(); $('log').textContent = t + '  ' + msg + '\n' + $('log').textContent; };
+  const checks = {
+    ready: ['Player API loaded', false],
+    progress: ['Position updates while playing', false],
+    pause: ['Pause detected', false],
+    seekBtn: ['Seek from app buttons works', false],
+    seekUser: ['Seek from player scrubber detected', false],
+    resume: ['Position correct after hide/lock and return', null]
+  };
+  const render = () => { $('checks').innerHTML = Object.values(checks).map(([label, v]) =>
+    `<li class="${v===true?'ok':v===false?'bad':''}">${v===true?'✔':v===false?'✘':'…'} ${label}</li>`).join(''); };
+  render();
+  const mark = k => { if (checks[k][1] !== true) { checks[k][1] = true; render(); log('PASS ' + checks[k][0]); } };
+
+  if (!window.SC || !SC.Widget) { $('state').textContent = 'Player API script blocked or offline.'; return; }
+  const w = SC.Widget($('sc'));
+  const E = SC.Widget.Events;
+  let lastPos = 0, lastTick = 0, expectSeek = false, hiddenAt = null;
+
+  function show(pos) {
+    lastPos = pos; $('pos').textContent = fmt(pos);
+    $('fakecard').textContent = 'Card #' + (Math.floor(pos/30000) + 1) + ' (from ' + fmt(Math.floor(pos/30000)*30000) + ')';
+  }
+
+  w.bind(E.READY, () => {
+    mark('ready'); $('state').textContent = 'Ready. Press play.';
+    w.getCurrentSound(s => s && log('Loaded: ' + s.title + ' (' + fmt(s.duration) + ')'));
+  });
+  w.bind(E.PLAY, () => { $('state').textContent = 'Playing'; log('PLAY'); });
+  w.bind(E.PAUSE, e => { $('state').textContent = 'Paused'; log('PAUSE at ' + fmt(e.currentPosition)); mark('pause'); });
+  w.bind(E.FINISH, () => log('FINISH'));
+  w.bind(E.PLAY_PROGRESS, e => {
+    const now = Date.now();
+    if (lastTick && e.currentPosition > lastPos && e.currentPosition - lastPos < 3000) mark('progress');
+    lastTick = now; show(e.currentPosition);
+  });
+  w.bind(E.SEEK, e => {
+    if (!expectSeek && Math.abs(e.currentPosition - lastPos) < 2000) return; // widget also fires SEEK on pause
+    log('SEEK to ' + fmt(e.currentPosition) + (expectSeek ? ' (app)' : ' (scrubber)'));
+    show(e.currentPosition);
+    if (expectSeek) { mark('seekBtn'); expectSeek = false; } else mark('seekUser');
+  });
+
+  const seekTo = ms => { expectSeek = true; w.seekTo(Math.max(0, ms)); setTimeout(() => w.getPosition(p => { show(p); if (Math.abs(p - ms) < 3000) mark('seekBtn'); }), 800); };
+  $('play').onclick = () => w.toggle();
+  $('back').onclick = () => w.getPosition(p => seekTo(p - 10000));
+  $('fwd').onclick = () => w.getPosition(p => seekTo(p + 30000));
+  $('jump').onclick = () => seekTo(120000);
+
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) { hiddenAt = { t: Date.now(), pos: lastPos }; log('Page hidden at ' + fmt(lastPos)); return; }
+    if (!hiddenAt) return;
+    const away = Date.now() - hiddenAt.t;
+    w.isPaused(paused => w.getPosition(p => {
+      log('Page visible after ' + Math.round(away/1000) + ' s; position ' + fmt(p) + (paused ? ' (paused)' : ' (playing)'));
+      show(p);
+      const expected = paused ? null : hiddenAt.pos + away;
+      checks.resume[1] = paused ? (Math.abs(p - hiddenAt.pos) < 3000 || p > hiddenAt.pos) : Math.abs(p - expected) < 5000;
+      render(); hiddenAt = null;
+    }));
+  });
+
+  $('copy').onclick = () => {
+    const txt = navigator.userAgent + '\n' + Object.values(checks).map(([l,v]) => (v===true?'PASS':v===false?'FAIL':'n/a') + ' ' + l).join('\n') + '\n--- log ---\n' + $('log').textContent;
+    (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(() => $('copy').textContent = 'Copied ✔', () => { prompt('Copy this:', txt); });
+  };
+})();
+</script>
+</body>
+</html>

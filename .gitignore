@@ -1,0 +1,5 @@
+# Lesson audio and transcripts: personal use only, never published
+private-audio/
+*.mp3
+*.zip
+*.transcript.json

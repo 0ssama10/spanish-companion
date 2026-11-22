@@ -1,0 +1,16 @@
+{
+  "id": "01",
+  "track": 1,
+  "title": "How to use this course",
+  "duration": 334.1,
+  "intro": true,
+  "timingSource": "Local Whisper transcription of the official LT download (segment level). Spot-check pending.",
+  "cards": [
+    { "t": 0, "title": "What this course is", "body": "The aim isn't only to teach Spanish quickly but to build the thinking habits that make you a confident, self-directed learner. You'll rebuild the language step by step, with a real student learning alongside you." },
+    { "t": 82.8, "title": "Pause and answer yourself", "body": "Whenever the teacher asks the student something, pause the audio, work out your own answer (out loud), then press play to compare. These are exercises, not tests — take as long as you need.", "caveat": "This is the single most important habit. Without it you'll learn about Spanish rather than learn to speak it." },
+    { "t": 118.3, "title": "Don't memorise, don't take notes", "body": "Focus on understanding the explanations, not on memorising. Forgetting some things is expected and fine — you can always repeat the course. Keep the language in your head rather than a notebook." },
+    { "t": 157.3, "title": "Set yourself up to focus", "body": "Study somewhere calm, ideally with headphones, and when you're rested. A tired mind takes careless shortcuts." },
+    { "t": 239.9, "title": "Little and often", "body": "About 20 minutes a day works far better than a few crammed hours at the weekend. If you drift during explanations, take a break and come back. Think slowly to learn quickly." }
+  ],
+  "practice": []
+}
