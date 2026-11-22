@@ -1,0 +1,201 @@
+{
+ "id": "34",
+ "track": 34,
+ "title": "desayunar, the -ing form: estoy + -ando / -iendo",
+ "cards": [
+  {
+   "title": "Warm-up",
+   "body": "",
+   "examples": [
+    {
+     "en": "I speak · I sleep · I fall asleep · I eat",
+     "es": "hablo · duermo · me duermo · como"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "desayunar = to have breakfast",
+   "body": "Literally 'un-fast' (des = un, ayunar = to fast), just like English break-fast. El desayuno = breakfast.",
+   "examples": [
+    {
+     "en": "I'm having breakfast.",
+     "es": "Desayuno."
+    }
+   ],
+   "t": 56.1
+  },
+  {
+   "title": "Present = 'I speak' and 'I'm speaking'",
+   "body": "English overuses -ing, even for the future ('he's doing it tomorrow'). Spanish uses the plain present there: lo hace mañana. Spanish -ing exists, but only for what's happening right now.",
+   "t": 140.1
+  },
+  {
+   "title": "estar + -ando = right now",
+   "body": "What you're doing is a state, so it's always estar. For -ar verbs, drop -r … add -ando: hablando.",
+   "examples": [
+    {
+     "en": "I'm speaking (right now).",
+     "es": "Estoy hablando."
+    },
+    {
+     "en": "I'm waiting here.",
+     "es": "Estoy esperando aquí."
+    }
+   ],
+   "caveat": "Never for the future: not 'estoy comiendo con ella mañana'.",
+   "t": 202.1
+  },
+  {
+   "title": "Future plan vs right now",
+   "body": "Lo can go before estoy or attach to the -ando form (which then takes an accent).",
+   "examples": [
+    {
+     "en": "I'm preparing it tomorrow / later.",
+     "es": "Lo preparo mañana. / Lo preparo más tarde."
+    },
+    {
+     "en": "I'm preparing it (right now).",
+     "es": "Lo estoy preparando. / Estoy preparándolo."
+    },
+    {
+     "en": "We're having breakfast (now).",
+     "es": "Estamos desayunando."
+    }
+   ],
+   "t": 313.1
+  },
+  {
+   "title": "-er / -ir → -iendo",
+   "body": "",
+   "examples": [
+    {
+     "en": "I'm eating (right now).",
+     "es": "Estoy comiendo."
+    },
+    {
+     "en": "He's eating (can't come to the phone).",
+     "es": "Está comiendo."
+    },
+    {
+     "en": "They're selling it (right now).",
+     "es": "Lo están vendiendo. / Están vendiéndolo."
+    },
+    {
+     "en": "They're selling it tomorrow.",
+     "es": "Lo venden mañana."
+    }
+   ],
+   "t": 460.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "to have breakfast",
+   "es": [
+    "desayunar"
+   ],
+   "why": "'to un-fast'."
+  },
+  {
+   "id": "p2",
+   "en": "I'm having breakfast (habitually / soon).",
+   "es": [
+    "Desayuno"
+   ],
+   "why": "Plain present."
+  },
+  {
+   "id": "p3",
+   "en": "I'm speaking (right now).",
+   "es": [
+    "Estoy hablando"
+   ],
+   "why": "estar + -ando."
+  },
+  {
+   "id": "p4",
+   "en": "I'm waiting here (right now).",
+   "es": [
+    "Estoy esperando aquí",
+    "Estoy esperando acá"
+   ],
+   "why": "esperando."
+  },
+  {
+   "id": "p5",
+   "en": "I'm preparing it tomorrow.",
+   "es": [
+    "Lo preparo mañana",
+    "La preparo mañana"
+   ],
+   "why": "Future → plain present, not -ando."
+  },
+  {
+   "id": "p6",
+   "en": "I'm preparing it (right now).",
+   "es": [
+    "Lo estoy preparando",
+    "Estoy preparándolo",
+    "Estoy preparandolo"
+   ],
+   "why": "estar + preparando."
+  },
+  {
+   "id": "p7",
+   "en": "We're having breakfast (right now).",
+   "es": [
+    "Estamos desayunando"
+   ],
+   "why": "desayunando."
+  },
+  {
+   "id": "p8",
+   "en": "I'm eating (right now).",
+   "es": [
+    "Estoy comiendo"
+   ],
+   "why": "-er → -iendo."
+  },
+  {
+   "id": "p9",
+   "en": "She's eating (right now).",
+   "es": [
+    "Está comiendo",
+    "Ella está comiendo"
+   ],
+   "why": "está comiendo."
+  },
+  {
+   "id": "p10",
+   "en": "They sell it.",
+   "es": [
+    "Lo venden",
+    "La venden"
+   ],
+   "why": "Plain present."
+  },
+  {
+   "id": "p11",
+   "en": "They're selling it tomorrow.",
+   "es": [
+    "Lo venden mañana",
+    "La venden mañana"
+   ],
+   "why": "Future → present."
+  },
+  {
+   "id": "p12",
+   "en": "They're selling it (right now).",
+   "es": [
+    "Lo están vendiendo",
+    "Están vendiéndolo",
+    "Están vendiendolo"
+   ],
+   "why": "estar + vendiendo."
+  }
+ ],
+ "duration": 546.87,
+ "scId": 162792607
+}

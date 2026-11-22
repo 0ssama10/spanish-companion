@@ -1,0 +1,192 @@
+{
+ "id": "29",
+ "track": 29,
+ "title": "Two verbs for 'to be': ser and estar",
+ "cards": [
+  {
+   "title": "A new way of seeing",
+   "body": "Each language both allows and obliges you to perceive and express the world in a certain way. Spanish has two verbs for 'to be' and makes you choose between them.",
+   "t": 0
+  },
+  {
+   "title": "ser = characteristics",
+   "body": "Ser (source of es and son) describes what something is like. Un ser = a being.",
+   "examples": [
+    {
+     "en": "a human being",
+     "es": "un ser humano"
+    }
+   ],
+   "t": 55.1
+  },
+  {
+   "title": "estar = states",
+   "body": "Estar (related to 'state') describes a state you're in. Being tired and where you are are states; being a good or bad person is a characteristic.",
+   "t": 107.4
+  },
+  {
+   "title": "Not 'temporary vs permanent'",
+   "body": "Ask 'state or characteristic?', not 'temporary or permanent?'. That shortcut works most of the time but misleads: your job (even for five minutes) counts as a characteristic, so it takes ser. Some adjectives work with both verbs, with different meanings.",
+   "t": 168.6
+  },
+  {
+   "title": "estar: estoy, está, están, estás, estamos",
+   "body": "Estoy ends in -oy like voy. Estar is the only present-tense verb stressed on the ending: esTOY, esTÁ, esTÁN, esTÁS. Estamos is stressed as normal.",
+   "examples": [
+    {
+     "en": "I am / he is / they are / you are / we are",
+     "es": "estoy / está / están / estás / estamos"
+    }
+   ],
+   "t": 257.7
+  },
+  {
+   "title": "cansado = tired (a state)",
+   "body": "The ending agrees with who is tired.",
+   "examples": [
+    {
+     "en": "I'm tired.",
+     "es": "Estoy cansado. / Estoy cansada."
+    },
+    {
+     "en": "We're tired.",
+     "es": "Estamos cansados. / Estamos cansadas."
+    }
+   ],
+   "t": 361.1
+  },
+  {
+   "title": "Always tired — still estar",
+   "body": "Tiredness is a state however often it happens. Siempre can go almost anywhere.",
+   "examples": [
+    {
+     "en": "I'm always tired.",
+     "es": "Siempre estoy cansado. / Estoy siempre cansado."
+    }
+   ],
+   "t": 404.9
+  },
+  {
+   "title": "Death is a state: estoy muerto",
+   "body": "Spanish treats 'dead' as a state, so it uses estar. 'Estoy muerto' is also slang for 'I'm exhausted'.",
+   "examples": [
+    {
+     "en": "I'm dead (exhausted).",
+     "es": "Estoy muerto. / Estoy muerta."
+    }
+   ],
+   "t": 491.6
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "a human being",
+   "es": [
+    "un ser humano"
+   ],
+   "why": "ser as a noun: a being."
+  },
+  {
+   "id": "p2",
+   "en": "I am (estar).",
+   "es": [
+    "Estoy"
+   ],
+   "why": "estar → estoy."
+  },
+  {
+   "id": "p3",
+   "en": "They are (estar).",
+   "es": [
+    "Están"
+   ],
+   "why": "Stress on the ending: están."
+  },
+  {
+   "id": "p4",
+   "en": "You (informal) are (estar).",
+   "es": [
+    "Estás"
+   ],
+   "why": "estás."
+  },
+  {
+   "id": "p5",
+   "en": "We are (estar).",
+   "es": [
+    "Estamos"
+   ],
+   "why": "estamos."
+  },
+  {
+   "id": "p6",
+   "en": "I'm tired.",
+   "es": [
+    "Estoy cansado",
+    "Estoy cansada"
+   ],
+   "why": "A state → estar."
+  },
+  {
+   "id": "p7",
+   "en": "We're tired (mixed group).",
+   "es": [
+    "Estamos cansados"
+   ],
+   "why": "cansado + s."
+  },
+  {
+   "id": "p8",
+   "en": "We're tired (women).",
+   "es": [
+    "Estamos cansadas"
+   ],
+   "why": "cansada + s."
+  },
+  {
+   "id": "p9",
+   "en": "I'm always tired.",
+   "es": [
+    "Siempre estoy cansado",
+    "Estoy siempre cansado",
+    "Estoy cansado siempre",
+    "Siempre estoy cansada",
+    "Estoy siempre cansada",
+    "Estoy cansada siempre"
+   ],
+   "why": "Still estar: it's a state."
+  },
+  {
+   "id": "p10",
+   "en": "She's tired.",
+   "es": [
+    "Está cansada",
+    "Ella está cansada"
+   ],
+   "why": "está + cansada."
+  },
+  {
+   "id": "p11",
+   "en": "I'm exhausted (lit. dead).",
+   "es": [
+    "Estoy muerto",
+    "Estoy muerta"
+   ],
+   "why": "Dead is a state in Spanish."
+  },
+  {
+   "id": "p12",
+   "en": "They're tired.",
+   "es": [
+    "Están cansados",
+    "Están cansadas",
+    "Ellos están cansados",
+    "Ellas están cansadas"
+   ],
+   "why": "están + plural."
+  }
+ ],
+ "duration": 527.18,
+ "scId": 162399127
+}

@@ -1,0 +1,219 @@
+{
+ "id": "48",
+ "track": 48,
+ "title": "Line past for -er/-ir: -ía; se vende, ¿cómo se dice?, me queda uno",
+ "cards": [
+  {
+   "title": "-er / -ir line past: -ía",
+   "body": "Same ending as 'would', but 'would' adds to the whole verb, while the past drops the ending first: comería (would eat) vs comía (was eating).",
+   "examples": [
+    {
+     "en": "I was eating",
+     "es": "comía"
+    },
+    {
+     "en": "I'd sell it / I was selling it",
+     "es": "lo vendería / lo vendía"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "se vende = for sale",
+   "body": "'It sells itself' means it's for sale; you'll see it on houses and cars.",
+   "examples": [
+    {
+     "en": "for sale / it was for sale / it would be for sale",
+     "es": "se vende / se vendía / se vendería"
+    }
+   ],
+   "t": 72.7
+  },
+  {
+   "title": "would vs was: romper",
+   "body": "",
+   "examples": [
+    {
+     "en": "It was breaking.",
+     "es": "Se rompía."
+    },
+    {
+     "en": "They would break it / they were breaking it",
+     "es": "lo romperían / lo rompían"
+    }
+   ],
+   "t": 121.6
+  },
+  {
+   "title": "Se va a romper",
+   "body": "Se completes the sentence, so you're not left wondering 'break what?'.",
+   "examples": [
+    {
+     "en": "It's going to break.",
+     "es": "Se va a romper. / Va a romperse."
+    }
+   ],
+   "t": 242.0
+  },
+  {
+   "title": "¿Cómo se dice? = How do you say …?",
+   "body": "'How does it say itself?' Decir: dice, dices, dicen, decimos. '¿Cómo dices?' asks how YOU say it personally.",
+   "examples": [
+    {
+     "en": "How do you say …?",
+     "es": "¿Cómo se dice …?"
+    }
+   ],
+   "t": 281.6
+  },
+  {
+   "title": "The many jobs of se",
+   "body": "Completing a sentence (se rompe), changing the meaning (quedar → quedarse), or creatively making things impersonal: se habla español = Spanish spoken.",
+   "t": 371.5
+  },
+  {
+   "title": "me queda uno = I have one left",
+   "body": "'It remains to me one.' Uno / una = one, dos = two (duo). Me quedo would mean 'I stay'.",
+   "examples": [
+    {
+     "en": "I have one / two left.",
+     "es": "Me queda uno. / Me quedan dos."
+    },
+    {
+     "en": "He has two left.",
+     "es": "Le quedan dos."
+    },
+    {
+     "en": "I don't have any left.",
+     "es": "No me queda. / No me quedan."
+    }
+   ],
+   "t": 414.1
+  },
+  {
+   "title": "quedarse in the line past",
+   "body": "",
+   "examples": [
+    {
+     "en": "They weren't staying here.",
+     "es": "No se quedaban aquí."
+    },
+    {
+     "en": "We weren't staying here.",
+     "es": "No nos quedábamos aquí."
+    },
+    {
+     "en": "We had none left.",
+     "es": "No nos quedaba. / No nos quedaban."
+    }
+   ],
+   "t": 595.4
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I was eating.",
+   "es": [
+    "Comía"
+   ],
+   "why": "-er → -ía (ending removed)."
+  },
+  {
+   "id": "p2",
+   "en": "I was selling it.",
+   "es": [
+    "Lo vendía",
+    "La vendía"
+   ],
+   "why": "vendía."
+  },
+  {
+   "id": "p3",
+   "en": "I would sell it.",
+   "es": [
+    "Lo vendería",
+    "La vendería"
+   ],
+   "why": "whole verb + ía."
+  },
+  {
+   "id": "p4",
+   "en": "For sale.",
+   "es": [
+    "Se vende"
+   ],
+   "why": "'It sells itself'."
+  },
+  {
+   "id": "p5",
+   "en": "It was breaking.",
+   "es": [
+    "Se rompía"
+   ],
+   "why": "se + rompía."
+  },
+  {
+   "id": "p6",
+   "en": "They would break it.",
+   "es": [
+    "Lo romperían",
+    "La romperían"
+   ],
+   "why": "romper + ían."
+  },
+  {
+   "id": "p7",
+   "en": "It's going to break.",
+   "es": [
+    "Se va a romper",
+    "Va a romperse"
+   ],
+   "why": "se + va a romper."
+  },
+  {
+   "id": "p8",
+   "en": "How do you say …?",
+   "es": [
+    "Cómo se dice"
+   ],
+   "why": "¿Cómo se dice?"
+  },
+  {
+   "id": "p9",
+   "en": "Spanish spoken.",
+   "es": [
+    "Se habla español"
+   ],
+   "why": "se habla."
+  },
+  {
+   "id": "p10",
+   "en": "I have one left.",
+   "es": [
+    "Me queda uno",
+    "Me queda una"
+   ],
+   "why": "'It remains to me one'."
+  },
+  {
+   "id": "p11",
+   "en": "He has two left.",
+   "es": [
+    "Le quedan dos"
+   ],
+   "why": "le quedan dos."
+  },
+  {
+   "id": "p12",
+   "en": "We weren't staying here.",
+   "es": [
+    "No nos quedábamos aquí",
+    "No nos quedábamos acá"
+   ],
+   "why": "-ábamos."
+  }
+ ],
+ "duration": 660.09,
+ "scId": 163248929
+}

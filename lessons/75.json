@@ -1,0 +1,190 @@
+{
+ "id": "75",
+ "track": 75,
+ "title": "haz (hazlo), wherever / however / whatever with the mood tense, seguir, sea",
+ "cards": [
+  {
+   "title": "haz = do! (irregular)",
+   "body": "Not 'hace'. Z sounds like th in much of Spain.",
+   "examples": [
+    {
+     "en": "Do it!",
+     "es": "¡Hazlo!"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Mood tense turns where → wherever",
+   "body": "Donde quieres = where you want; donde quieras = wherever you want.",
+   "examples": [
+    {
+     "en": "Do it wherever you want.",
+     "es": "Hazlo donde quieras."
+    }
+   ],
+   "t": 34.7
+  },
+  {
+   "title": "how → however; what → whatever",
+   "body": "This use is optional: the plain present is fine Spanish too, just without the '-ever' feeling.",
+   "examples": [
+    {
+     "en": "Do it however you like.",
+     "es": "Hazlo como te guste."
+    },
+    {
+     "en": "Do whatever you prefer.",
+     "es": "Haz lo que prefieras."
+    }
+   ],
+   "t": 108.7
+  },
+  {
+   "title": "Two mood tenses in one sentence",
+   "body": "Comes lo que prefieras ('you eat whatever…') sounds softer; the command is come.",
+   "examples": [
+    {
+     "en": "Eat whatever you prefer (informal / formal / all).",
+     "es": "Come lo que prefieras. / Coma lo que prefiera. / Coman lo que prefieran."
+    },
+    {
+     "en": "whenever you need",
+     "es": "cuando necesites"
+    }
+   ],
+   "t": 197.6
+  },
+  {
+   "title": "seguir = to follow / continue (e → i)",
+   "body": "Like elegir: sigo, sigue, siguen, but seguimos. The same pattern in conseguir (to get / manage to) and perseguir (to chase).",
+   "examples": [
+    {
+     "en": "I'll follow you wherever you go.",
+     "es": "Te sigo adonde vayas."
+    },
+    {
+     "en": "I get / I chase",
+     "es": "consigo / persigo"
+    }
+   ],
+   "t": 339.2
+  },
+  {
+   "title": "ser → sea; o sea; sea lo que sea",
+   "body": "O sea ('or it might be') is a filler, like 'I mean…'.",
+   "examples": [
+    {
+     "en": "I'd prefer it to be like this.",
+     "es": "Prefiero que sea así."
+    },
+    {
+     "en": "Whatever it is / whatever will be",
+     "es": "Sea lo que sea."
+    }
+   ],
+   "t": 477.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "Do it! (informal)",
+   "es": [
+    "Hazlo"
+   ],
+   "why": "Irregular: haz."
+  },
+  {
+   "id": "p2",
+   "en": "Do it wherever you want. (informal)",
+   "es": [
+    "Hazlo donde quieras"
+   ],
+   "why": "quieras → wherever."
+  },
+  {
+   "id": "p3",
+   "en": "Do it however you like. (informal)",
+   "es": [
+    "Hazlo como te guste"
+   ],
+   "why": "guste → however."
+  },
+  {
+   "id": "p4",
+   "en": "Do whatever you prefer. (informal)",
+   "es": [
+    "Haz lo que prefieras"
+   ],
+   "why": "prefieras → whatever."
+  },
+  {
+   "id": "p5",
+   "en": "Eat whatever you prefer. (formal)",
+   "es": [
+    "Coma lo que prefiera"
+   ],
+   "why": "coma + prefiera."
+  },
+  {
+   "id": "p6",
+   "en": "Eat whatever you prefer. (you all)",
+   "es": [
+    "Coman lo que prefieran"
+   ],
+   "why": "coman + prefieran."
+  },
+  {
+   "id": "p7",
+   "en": "whenever you need (informal)",
+   "es": [
+    "cuando necesites"
+   ],
+   "why": "necesites."
+  },
+  {
+   "id": "p8",
+   "en": "I follow.",
+   "es": [
+    "Sigo"
+   ],
+   "why": "seguir → sigo."
+  },
+  {
+   "id": "p9",
+   "en": "We continue.",
+   "es": [
+    "Seguimos"
+   ],
+   "why": "Unstressed: seguimos."
+  },
+  {
+   "id": "p10",
+   "en": "I'll follow you wherever you go. (informal)",
+   "es": [
+    "Te sigo adonde vayas",
+    "Te sigo a donde vayas"
+   ],
+   "why": "adonde + vayas."
+  },
+  {
+   "id": "p11",
+   "en": "I'd prefer it to be like this.",
+   "es": [
+    "Prefiero que sea así"
+   ],
+   "why": "ser → sea."
+  },
+  {
+   "id": "p12",
+   "en": "Whatever it is.",
+   "es": [
+    "Sea lo que sea"
+   ],
+   "why": "sea lo que sea."
+  }
+ ],
+ "duration": 560.17,
+ "scId": 164759817
+}

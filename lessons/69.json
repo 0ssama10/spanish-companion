@@ -1,0 +1,161 @@
+{
+ "id": "69",
+ "track": 69,
+ "title": "The mood tense (subjunctive): swap the endings; quiero que esperes",
+ "cards": [
+  {
+   "title": "One more tense: the mood tense",
+   "body": "The subjunctive (here called the 'mood tense') shows mood. English has traces of it: 'it's important that you BE here', 'had I gone, I would know', 'not only is it…'. Spanish uses it far more.",
+   "t": 0
+  },
+  {
+   "title": "Form it by swapping groups",
+   "body": "-ar verbs take -er/-ir endings; -er/-ir verbs take -ar endings. The I form matches the he/she form. We form: -emos (never -imos) for -ar verbs.",
+   "examples": [
+    {
+     "en": "habla → (mood) / hablan → / hablamos →",
+     "es": "hable / hablen / hablemos"
+    },
+    {
+     "en": "como, come → (mood) / comen →",
+     "es": "coma / coman"
+    }
+   ],
+   "t": 188.1
+  },
+  {
+   "title": "Obligatory vs optional",
+   "body": "In some places the mood tense is required, and using the normal present sounds wrong. Elsewhere it's optional and adds a different shade of meaning, which is the more exciting part.",
+   "t": 362.1
+  },
+  {
+   "title": "quiero que + mood tense",
+   "body": "'I want you to wait' = 'I want that you wait'. After quiero que, the mood tense is obligatory: you're imposing your wishes on the world.",
+   "examples": [
+    {
+     "en": "I want you to wait.",
+     "es": "Quiero que esperes."
+    },
+    {
+     "en": "I want you to wait for him.",
+     "es": "Quiero que lo esperes."
+    }
+   ],
+   "caveat": "'Quiero que esperas' is an error.",
+   "t": 404.4
+  },
+  {
+   "title": "¿Quieres que te espere?",
+   "body": "Espere could be me, him or her, so add yo to clarify.",
+   "examples": [
+    {
+     "en": "Do you want me to wait for you?",
+     "es": "¿Quieres que (yo) te espere?"
+    }
+   ],
+   "t": 510.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "he speaks → mood tense",
+   "es": [
+    "hable"
+   ],
+   "why": "-ar takes e: hable."
+  },
+  {
+   "id": "p2",
+   "en": "they speak → mood tense",
+   "es": [
+    "hablen"
+   ],
+   "why": "hablan → hablen."
+  },
+  {
+   "id": "p3",
+   "en": "we speak → mood tense",
+   "es": [
+    "hablemos"
+   ],
+   "why": "-emos."
+  },
+  {
+   "id": "p4",
+   "en": "he eats → mood tense",
+   "es": [
+    "coma"
+   ],
+   "why": "-er takes a: coma."
+  },
+  {
+   "id": "p5",
+   "en": "they eat → mood tense",
+   "es": [
+    "coman"
+   ],
+   "why": "comen → coman."
+  },
+  {
+   "id": "p6",
+   "en": "I want you (informal) to wait.",
+   "es": [
+    "Quiero que esperes"
+   ],
+   "why": "quiero que + esperes."
+  },
+  {
+   "id": "p7",
+   "en": "I want you (informal) to wait for him.",
+   "es": [
+    "Quiero que lo esperes"
+   ],
+   "why": "lo before esperes."
+  },
+  {
+   "id": "p8",
+   "en": "Do you (informal) want me to wait?",
+   "es": [
+    "Quieres que espere",
+    "Quieres que yo espere"
+   ],
+   "why": "espere (I form)."
+  },
+  {
+   "id": "p9",
+   "en": "Do you (informal) want me to wait for you?",
+   "es": [
+    "Quieres que te espere",
+    "Quieres que yo te espere"
+   ],
+   "why": "te espere."
+  },
+  {
+   "id": "p10",
+   "en": "I want him to speak.",
+   "es": [
+    "Quiero que hable"
+   ],
+   "why": "hable."
+  },
+  {
+   "id": "p11",
+   "en": "I want them to eat.",
+   "es": [
+    "Quiero que coman"
+   ],
+   "why": "coman."
+  },
+  {
+   "id": "p12",
+   "en": "I want us to speak.",
+   "es": [
+    "Quiero que hablemos"
+   ],
+   "why": "hablemos."
+  }
+ ],
+ "duration": 569.78,
+ "scId": 164200119
+}

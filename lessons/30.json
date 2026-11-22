@@ -1,0 +1,210 @@
+{
+ "id": "30",
+ "track": 30,
+ "title": "¿Cómo estás?, ¿dónde estás?, estar with other verbs, debe = must (probably)",
+ "cards": [
+  {
+   "title": "¿Cómo estás? = How are you?",
+   "body": "Asking how someone is asks about their state, so it uses estar.",
+   "examples": [
+    {
+     "en": "How are you? (informal / formal / plural)",
+     "es": "¿Cómo estás? / ¿Cómo está? / ¿Cómo están?"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Location is a state: estar",
+   "body": "",
+   "examples": [
+    {
+     "en": "Where are you?",
+     "es": "¿Dónde estás?"
+    },
+    {
+     "en": "I don't know where we are.",
+     "es": "No sé dónde estamos."
+    },
+    {
+     "en": "I'm here.",
+     "es": "Estoy aquí."
+    }
+   ],
+   "t": 28.7
+  },
+  {
+   "title": "estar after other verbs",
+   "body": "",
+   "examples": [
+    {
+     "en": "I want to be here.",
+     "es": "Quiero estar aquí."
+    },
+    {
+     "en": "I'm going to be here later.",
+     "es": "Voy a estar aquí más tarde."
+    },
+    {
+     "en": "Where are you going to be?",
+     "es": "¿Dónde vas a estar?"
+    }
+   ],
+   "t": 65.5
+  },
+  {
+   "title": "With the subject words",
+   "body": "",
+   "examples": [
+    {
+     "en": "I am · he is · she is · you (formal) are · they are · we are · you are",
+     "es": "yo estoy · él está · ella está · usted está · ellos/ellas están · nosotros/nosotras estamos · tú estás"
+    }
+   ],
+   "t": 124.2
+  },
+  {
+   "title": "tienen que estar",
+   "body": "Build tienen from tener, then add que for 'have to'.",
+   "examples": [
+    {
+     "en": "Where do you (all) have to be later?",
+     "es": "¿Dónde tienen que estar más tarde?"
+    }
+   ],
+   "t": 189.8
+  },
+  {
+   "title": "debe = must (probability)",
+   "body": "As in English, 'must' can mean 'probably'. Deber doesn't split.",
+   "examples": [
+    {
+     "en": "He must be here.",
+     "es": "Debe estar aquí."
+    },
+    {
+     "en": "They must be tired.",
+     "es": "Deben estar cansados."
+    }
+   ],
+   "t": 273.3
+  },
+  {
+   "title": "porque = because",
+   "body": "Build block by block. Rushing makes you trip, and tripping costs more time.",
+   "examples": [
+    {
+     "en": "We're not going to stay because we're very tired.",
+     "es": "No vamos a quedarnos porque estamos muy cansados."
+    }
+   ],
+   "t": 361.3
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "How are you? (informal)",
+   "es": [
+    "Cómo estás"
+   ],
+   "why": "¿Cómo estás? — a state."
+  },
+  {
+   "id": "p2",
+   "en": "How are you? (formal)",
+   "es": [
+    "Cómo está",
+    "Cómo está usted"
+   ],
+   "why": "¿Cómo está?"
+  },
+  {
+   "id": "p3",
+   "en": "Where are you? (informal)",
+   "es": [
+    "Dónde estás"
+   ],
+   "why": "Location → estar."
+  },
+  {
+   "id": "p4",
+   "en": "I don't know where we are.",
+   "es": [
+    "No sé dónde estamos"
+   ],
+   "why": "no sé + dónde estamos."
+  },
+  {
+   "id": "p5",
+   "en": "I want to be here.",
+   "es": [
+    "Quiero estar aquí",
+    "Quiero estar acá"
+   ],
+   "why": "quiero + estar."
+  },
+  {
+   "id": "p6",
+   "en": "I'm going to be here later.",
+   "es": [
+    "Voy a estar aquí más tarde",
+    "Voy a estar acá más tarde"
+   ],
+   "why": "voy a estar + más tarde."
+  },
+  {
+   "id": "p7",
+   "en": "Where are you (informal) going to be?",
+   "es": [
+    "Dónde vas a estar"
+   ],
+   "why": "¿Dónde vas a estar?"
+  },
+  {
+   "id": "p8",
+   "en": "Where do you (all) have to be later?",
+   "es": [
+    "Dónde tienen que estar más tarde"
+   ],
+   "why": "tienen que estar."
+  },
+  {
+   "id": "p9",
+   "en": "He must be here (probably).",
+   "es": [
+    "Debe estar aquí",
+    "Debe estar acá"
+   ],
+   "why": "debe = must."
+  },
+  {
+   "id": "p10",
+   "en": "They must be tired (women).",
+   "es": [
+    "Deben estar cansadas"
+   ],
+   "why": "deben + estar + cansadas."
+  },
+  {
+   "id": "p11",
+   "en": "because",
+   "es": [
+    "porque"
+   ],
+   "why": "porque = because."
+  },
+  {
+   "id": "p12",
+   "en": "We're not going to stay because we're very tired.",
+   "es": [
+    "No vamos a quedarnos porque estamos muy cansados",
+    "No nos vamos a quedar porque estamos muy cansados",
+    "No vamos a quedarnos porque estamos muy cansadas"
+   ],
+   "why": "Block by block."
+  }
+ ],
+ "duration": 450.56,
+ "scId": 162399128
+}

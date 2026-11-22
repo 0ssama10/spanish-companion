@@ -1,0 +1,258 @@
+{
+ "id": "28",
+ "track": 28,
+ "title": "Money words, caro, son, profesor/a, plurals -es, -ive → -ivo, muy",
+ "cards": [
+  {
+   "title": "Dialects vs slang",
+   "body": "Spanish varieties are mutually intelligible; slang is what varies. Money: dinero (standard), plata (lit. silver), pasta (Spain).",
+   "examples": [
+    {
+     "en": "money",
+     "es": "dinero / plata / pasta"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "caro = expensive (vs carro)",
+   "body": "One r: caro (expensive). Two r's: carro (car), like pero / perro. The ending follows the gender of the noun you have in mind.",
+   "examples": [
+    {
+     "en": "The car is expensive.",
+     "es": "El carro es caro."
+    },
+    {
+     "en": "It's expensive (feminine noun).",
+     "es": "Es cara."
+    }
+   ],
+   "t": 78.2
+  },
+  {
+   "title": "son = they are / you all are",
+   "body": "",
+   "examples": [
+    {
+     "en": "The cars are expensive.",
+     "es": "Los carros son caros."
+    },
+    {
+     "en": "The cars (máquinas) are expensive.",
+     "es": "Las máquinas son caras."
+    }
+   ],
+   "t": 155.0
+  },
+  {
+   "title": "profesor / profesora",
+   "body": "No 'a' needed: 'he is teacher'. Nouns for people can take a feminine -a.",
+   "examples": [
+    {
+     "en": "He's a teacher.",
+     "es": "Es profesor."
+    },
+    {
+     "en": "She's a teacher.",
+     "es": "Es profesora."
+    }
+   ],
+   "t": 211.0
+  },
+  {
+   "title": "Know your word type",
+   "body": "Adjectives only change for gender if they end in -o (global stays global). Nouns for people can change too (doctor → doctora). Knowing whether a word is a noun, adjective or verb tells you how it behaves.",
+   "examples": [
+    {
+     "en": "She's a doctor.",
+     "es": "Es doctora."
+    }
+   ],
+   "t": 259.5
+  },
+  {
+   "title": "Ending in a consonant? Add -es",
+   "body": "",
+   "examples": [
+    {
+     "en": "They're teachers.",
+     "es": "Son profesores. / Son profesoras."
+    },
+    {
+     "en": "They're doctors.",
+     "es": "Son doctores. / Son doctoras."
+    }
+   ],
+   "t": 352.3
+  },
+  {
+   "title": "-ive → -ivo",
+   "body": "Start from the masculine singular, which is also used for a general 'it' (like a lifestyle). Keep s as s: positivo, not 'pozitivo'.",
+   "examples": [
+    {
+     "en": "It's addictive.",
+     "es": "Es adictivo."
+    },
+    {
+     "en": "She's positive.",
+     "es": "Es positiva."
+    },
+    {
+     "en": "They're intuitive.",
+     "es": "Son intuitivos."
+    }
+   ],
+   "t": 415.0
+  },
+  {
+   "title": "muy = very; ella vs la",
+   "body": "Don't guess between ella (she) and la (her): decide.",
+   "examples": [
+    {
+     "en": "She's very attractive.",
+     "es": "(Ella) es muy atractiva.",
+     "say": "mwee"
+    },
+    {
+     "en": "She's very creative.",
+     "es": "Ella es muy creativa."
+    }
+   ],
+   "t": 510.1
+  },
+  {
+   "title": "English double letters become single",
+   "body": "Double letters like gg, ss, ff become single in Spanish. Only rr and nn carry over (connotación).",
+   "examples": [
+    {
+     "en": "They're aggressive.",
+     "es": "(Ellos) son agresivos."
+    },
+    {
+     "en": "He's very negative.",
+     "es": "Es muy negativo."
+    },
+    {
+     "en": "They're natives (women).",
+     "es": "Son nativas."
+    }
+   ],
+   "t": 589.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "money (standard word)",
+   "es": [
+    "dinero",
+    "el dinero"
+   ],
+   "why": "dinero."
+  },
+  {
+   "id": "p2",
+   "en": "The car is expensive.",
+   "es": [
+    "El carro es caro",
+    "El coche es caro",
+    "El auto es caro",
+    "La máquina es cara"
+   ],
+   "why": "caro (one r)."
+  },
+  {
+   "id": "p3",
+   "en": "The cars are expensive.",
+   "es": [
+    "Los carros son caros",
+    "Los coches son caros",
+    "Los autos son caros",
+    "Las máquinas son caras"
+   ],
+   "why": "son + plural adjective."
+  },
+  {
+   "id": "p4",
+   "en": "She's a teacher.",
+   "es": [
+    "Es profesora",
+    "Ella es profesora"
+   ],
+   "why": "No 'a' needed."
+  },
+  {
+   "id": "p5",
+   "en": "They're teachers (women).",
+   "es": [
+    "Son profesoras",
+    "Ellas son profesoras"
+   ],
+   "why": "profesora + s."
+  },
+  {
+   "id": "p6",
+   "en": "They're doctors (mixed group).",
+   "es": [
+    "Son doctores",
+    "Ellos son doctores"
+   ],
+   "why": "Consonant ending → -es."
+  },
+  {
+   "id": "p7",
+   "en": "It's addictive.",
+   "es": [
+    "Es adictivo"
+   ],
+   "why": "-ive → -ivo; one d."
+  },
+  {
+   "id": "p8",
+   "en": "She's positive.",
+   "es": [
+    "Es positiva",
+    "Ella es positiva"
+   ],
+   "why": "-iva for feminine."
+  },
+  {
+   "id": "p9",
+   "en": "She's very attractive.",
+   "es": [
+    "Es muy atractiva",
+    "Ella es muy atractiva"
+   ],
+   "why": "muy = very."
+  },
+  {
+   "id": "p10",
+   "en": "They're aggressive.",
+   "es": [
+    "Son agresivos",
+    "Ellos son agresivos",
+    "Son agresivas"
+   ],
+   "why": "Single g and s."
+  },
+  {
+   "id": "p11",
+   "en": "He's very negative.",
+   "es": [
+    "Es muy negativo",
+    "Él es muy negativo"
+   ],
+   "why": "muy negativo."
+  },
+  {
+   "id": "p12",
+   "en": "It's intensive.",
+   "es": [
+    "Es intensivo"
+   ],
+   "why": "Masculine singular for a general 'it'."
+  }
+ ],
+ "duration": 682.48,
+ "scId": 162399754
+}

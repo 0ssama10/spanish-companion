@@ -1,0 +1,175 @@
+{
+ "id": "84",
+ "track": 84,
+ "title": "Tidying irregulars: the '-go' verbs and their mood tense (-ga); venga, dígame, traer",
+ "cards": [
+  {
+   "title": "The full panorama",
+   "body": "Every tense and mood is now covered. Half the course was content, half was how to manage it and find what you've forgotten. Keep listening actively; even recognising verb endings in songs and films helps.",
+   "t": 0
+  },
+  {
+   "title": "The '-go' verbs",
+   "body": "Older languages collect irregularities, but they come in groups. These verbs use -go only for I in the present: tener (tengo, but tiene, tenemos), venir (vengo), salir (salgo), poner (pongo), decir (digo), hacer (hago), oír (oigo, I hear), traer (traigo, I bring).",
+   "examples": [
+    {
+     "en": "I have / come / go out / put / say / do / hear / bring",
+     "es": "tengo / vengo / salgo / pongo / digo / hago / oigo / traigo"
+    }
+   ],
+   "t": 121.1
+  },
+  {
+   "title": "traer = to bring; -tract = -traer",
+   "body": "",
+   "examples": [
+    {
+     "en": "to extract / attract / contract / distract",
+     "es": "extraer / atraer / contraer / distraer"
+    },
+    {
+     "en": "I get distracted.",
+     "es": "Me distraigo."
+    }
+   ],
+   "t": 255.3
+  },
+  {
+   "title": "Mood tense: -go → -ga for everyone",
+   "body": "Instead of swapping vowels, these verbs build the mood tense on -ga, for every person.",
+   "examples": [
+    {
+     "en": "tener → (mood)",
+     "es": "tenga, tengas, tengan, tengamos"
+    },
+    {
+     "en": "I want you to come.",
+     "es": "Quiero que vengas."
+    }
+   ],
+   "t": 290.4
+  },
+  {
+   "title": "¡Venga! · ¡Dígame!",
+   "body": "In Spain, venga means 'come on' (and 'venga, vale' ends phone calls). Dígame ('tell me') is how people in Spain answer the phone.",
+   "t": 368.9
+  },
+  {
+   "title": "traes vs traigas",
+   "body": "Plain present: traes. Mood tense: traigas.",
+   "examples": [
+    {
+     "en": "I want you to bring it.",
+     "es": "Quiero que lo traigas."
+    },
+    {
+     "en": "I don't want you to distract me.",
+     "es": "No quiero que me distraigas."
+    }
+   ],
+   "t": 417.6
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I have.",
+   "es": [
+    "Tengo"
+   ],
+   "why": "-go verb."
+  },
+  {
+   "id": "p2",
+   "en": "We have.",
+   "es": [
+    "Tenemos"
+   ],
+   "why": "-go only for I."
+  },
+  {
+   "id": "p3",
+   "en": "I hear.",
+   "es": [
+    "Oigo"
+   ],
+   "why": "oír → oigo."
+  },
+  {
+   "id": "p4",
+   "en": "I bring.",
+   "es": [
+    "Traigo"
+   ],
+   "why": "traer → traigo."
+  },
+  {
+   "id": "p5",
+   "en": "to attract",
+   "es": [
+    "atraer"
+   ],
+   "why": "-tract → -traer."
+  },
+  {
+   "id": "p6",
+   "en": "I get distracted.",
+   "es": [
+    "Me distraigo"
+   ],
+   "why": "distraigo."
+  },
+  {
+   "id": "p7",
+   "en": "I want you (informal) to come.",
+   "es": [
+    "Quiero que vengas"
+   ],
+   "why": "venga + s."
+  },
+  {
+   "id": "p8",
+   "en": "Come on! (Spain)",
+   "es": [
+    "Venga"
+   ],
+   "why": "venga."
+  },
+  {
+   "id": "p9",
+   "en": "Tell me! (formal, answering the phone)",
+   "es": [
+    "Dígame",
+    "Digame"
+   ],
+   "why": "diga + me."
+  },
+  {
+   "id": "p10",
+   "en": "You (informal) bring.",
+   "es": [
+    "Traes"
+   ],
+   "why": "Plain present."
+  },
+  {
+   "id": "p11",
+   "en": "I want you (informal) to bring it.",
+   "es": [
+    "Quiero que lo traigas",
+    "Quiero que la traigas"
+   ],
+   "why": "traigas."
+  },
+  {
+   "id": "p12",
+   "en": "I don't want you (informal) to distract me.",
+   "es": [
+    "No quiero que me distraigas"
+   ],
+   "why": "distraigas."
+  }
+ ],
+ "duration": 472.35,
+ "scId": 165004817
+}

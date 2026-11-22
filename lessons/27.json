@@ -1,0 +1,240 @@
+{
+ "id": "27",
+ "track": 27,
+ "title": "Adjectives after nouns, un / una, words for car, grande, rojo, en",
+ "cards": [
+  {
+   "title": "Describing words go after the noun",
+   "body": "Adjectives (words you can put 'is' in front of: big, yellow) normally come after the noun in Spanish. There's some flexibility for emphasis.",
+   "examples": [
+    {
+     "en": "the global situation",
+     "es": "la situación global"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "una / la cámara digital",
+   "body": "Una = a (feminine), la = the.",
+   "examples": [
+    {
+     "en": "I want to buy a digital camera.",
+     "es": "Quiero comprar una cámara digital."
+    },
+    {
+     "en": "I want to buy it (the camera).",
+     "es": "Quiero comprarla."
+    }
+   ],
+   "t": 59.6
+  },
+  {
+   "title": "Words for 'car'",
+   "body": "It varies by region, but most people understand all of them: coche, carro, auto, máquina. Un = a (masculine). Gender belongs to the word, so the same object can be masculine or feminine.",
+   "examples": [
+    {
+     "en": "a car",
+     "es": "un coche / un carro / un auto"
+    },
+    {
+     "en": "a machine",
+     "es": "una máquina",
+     "say": "MAH-kee-nah"
+    }
+   ],
+   "t": 122.2
+  },
+  {
+   "title": "grande; plurals agree",
+   "body": "Grande = big (think 'grand'). In the plural, the, the noun and the adjective all become plural.",
+   "examples": [
+    {
+     "en": "the big car",
+     "es": "el auto grande / la máquina grande"
+    },
+    {
+     "en": "the big houses",
+     "es": "las casas grandes"
+    },
+    {
+     "en": "the big cars",
+     "es": "los autos grandes"
+    }
+   ],
+   "t": 230.0
+  },
+  {
+   "title": "'Do you see?' vs 'Can you see?'",
+   "body": "Spanish more often says '¿ves…?' (do you see). 'Can you…' with puedes plus a 'to' form is a handy thinking shortcut while you're building fluency.",
+   "examples": [
+    {
+     "en": "Do you see the big car?",
+     "es": "¿Ves el coche grande?"
+    },
+    {
+     "en": "Can you see the big car?",
+     "es": "¿Puedes ver el coche grande?"
+    }
+   ],
+   "t": 309.8
+  },
+  {
+   "title": "Shortcut verbs: puedo, debo, quiero…",
+   "body": "Using these with a 'to' form is easier to build, even if natives might say it differently: 'I don't find it'. You'll notice and adapt over time.",
+   "examples": [
+    {
+     "en": "I can't find it.",
+     "es": "No puedo encontrarlo."
+    },
+    {
+     "en": "I don't find it.",
+     "es": "No lo encuentro."
+    }
+   ],
+   "t": 415.9
+  },
+  {
+   "title": "Start with the verb",
+   "body": "The verb is the backbone: first work out who's doing it (quedo), then add the little word (me quedo).",
+   "t": 503.6
+  },
+  {
+   "title": "rojo = red; en = in",
+   "body": "J is the throaty sound; the initial r is rolled.",
+   "examples": [
+    {
+     "en": "I'm staying in the red car.",
+     "es": "Me quedo en el auto rojo.",
+     "say": "RROH-khoh"
+    },
+    {
+     "en": "I've bought a red car.",
+     "es": "He comprado un auto rojo."
+    },
+    {
+     "en": "I've bought myself a red car.",
+     "es": "Me he comprado un auto rojo."
+    }
+   ],
+   "t": 523.3
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "the global situation",
+   "es": [
+    "la situación global"
+   ],
+   "why": "Adjective after the noun."
+  },
+  {
+   "id": "p2",
+   "en": "I want to buy a digital camera.",
+   "es": [
+    "Quiero comprar una cámara digital"
+   ],
+   "why": "una cámara digital."
+  },
+  {
+   "id": "p3",
+   "en": "I want to buy it (the camera).",
+   "es": [
+    "Quiero comprarla",
+    "La quiero comprar"
+   ],
+   "why": "la = it (feminine)."
+  },
+  {
+   "id": "p4",
+   "en": "a car",
+   "es": [
+    "un coche",
+    "un carro",
+    "un auto"
+   ],
+   "why": "un for masculine."
+  },
+  {
+   "id": "p5",
+   "en": "the big car",
+   "es": [
+    "el coche grande",
+    "el carro grande",
+    "el auto grande",
+    "la máquina grande"
+   ],
+   "why": "grande after the noun."
+  },
+  {
+   "id": "p6",
+   "en": "the big houses",
+   "es": [
+    "las casas grandes"
+   ],
+   "why": "Everything plural."
+  },
+  {
+   "id": "p7",
+   "en": "the big cars",
+   "es": [
+    "los coches grandes",
+    "los carros grandes",
+    "los autos grandes"
+   ],
+   "why": "el → los."
+  },
+  {
+   "id": "p8",
+   "en": "Do you (informal) see the big car?",
+   "es": [
+    "Ves el coche grande",
+    "Ves el carro grande",
+    "Ves el auto grande"
+   ],
+   "why": "¿Ves …?"
+  },
+  {
+   "id": "p9",
+   "en": "I can't find it.",
+   "es": [
+    "No puedo encontrarlo",
+    "No lo puedo encontrar",
+    "No puedo encontrarla"
+   ],
+   "why": "no puedo + encontrarlo."
+  },
+  {
+   "id": "p10",
+   "en": "I don't find it.",
+   "es": [
+    "No lo encuentro",
+    "No la encuentro"
+   ],
+   "why": "no lo encuentro."
+  },
+  {
+   "id": "p11",
+   "en": "I'm staying in the red car.",
+   "es": [
+    "Me quedo en el auto rojo",
+    "Me quedo en el coche rojo",
+    "Me quedo en el carro rojo"
+   ],
+   "why": "en = in; rojo after the noun."
+  },
+  {
+   "id": "p12",
+   "en": "I've bought myself a red car.",
+   "es": [
+    "Me he comprado un auto rojo",
+    "Me he comprado un coche rojo",
+    "Me he comprado un carro rojo"
+   ],
+   "why": "me he comprado + un auto rojo."
+  }
+ ],
+ "duration": 645.49,
+ "scId": 162399126
+}

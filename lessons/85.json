@@ -1,0 +1,174 @@
+{
+ "id": "85",
+ "track": 85,
+ "title": "-go verbs in commands: salga, póngalo; informal shortcut drops -go (ten, ven, sal, dime)",
+ "cards": [
+  {
+   "title": "Formal / plural commands: -ga",
+   "body": "With positive commands, lo goes after the verb; with negative ones, before.",
+   "examples": [
+    {
+     "en": "Leave! / Don't leave! (you all)",
+     "es": "¡Salgan! / ¡No salgan!"
+    },
+    {
+     "en": "Put it here. (formal)",
+     "es": "Póngalo aquí."
+    },
+    {
+     "en": "Don't put it here. (formal)",
+     "es": "No lo ponga aquí."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Informal shortcut: drop the -go",
+   "body": "Regular verbs drop the s (come, encuéntralo). The -go verbs drop -go: tengo → ten, vengo → ven, salgo → sal, digo → di.",
+   "examples": [
+    {
+     "en": "Have it! (informal / formal)",
+     "es": "¡Tenlo! / ¡Téngalo!"
+    },
+    {
+     "en": "Come! (informal)",
+     "es": "¡Ven!"
+    },
+    {
+     "en": "Leave! (informal)",
+     "es": "¡Sal!"
+    }
+   ],
+   "t": 93.0
+  },
+  {
+   "title": "venga vs ven",
+   "body": "Venga ('come on', in Spain) has lost its formal feel as a fixed expression; ven means 'come here'.",
+   "t": 171.3
+  },
+  {
+   "title": "dígame / dime",
+   "body": "Both are used to answer the phone. After a future cuando, use the mood tense.",
+   "examples": [
+    {
+     "en": "Tell me (formal / informal)",
+     "es": "Dígame / Dime"
+    },
+    {
+     "en": "Tell me when you come.",
+     "es": "Dime cuando vengas."
+    },
+    {
+     "en": "Tell me when you do it. (formal)",
+     "es": "Dígame cuando lo haga."
+    }
+   ],
+   "t": 210.6
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "Leave! (formal)",
+   "es": [
+    "Salga"
+   ],
+   "why": "salgo → salga."
+  },
+  {
+   "id": "p2",
+   "en": "Don't leave! (you all)",
+   "es": [
+    "No salgan"
+   ],
+   "why": "salgan."
+  },
+  {
+   "id": "p3",
+   "en": "Put it here! (formal)",
+   "es": [
+    "Póngalo aquí",
+    "Pongalo aquí",
+    "Póngalo acá"
+   ],
+   "why": "ponga + lo."
+  },
+  {
+   "id": "p4",
+   "en": "Don't put it here! (formal)",
+   "es": [
+    "No lo ponga aquí",
+    "No lo ponga acá"
+   ],
+   "why": "lo before."
+  },
+  {
+   "id": "p5",
+   "en": "Have it! (informal)",
+   "es": [
+    "Tenlo"
+   ],
+   "why": "tengo − go = ten."
+  },
+  {
+   "id": "p6",
+   "en": "Have it! (formal)",
+   "es": [
+    "Téngalo",
+    "Tengalo"
+   ],
+   "why": "tenga + lo."
+  },
+  {
+   "id": "p7",
+   "en": "Come! (informal)",
+   "es": [
+    "Ven"
+   ],
+   "why": "vengo − go."
+  },
+  {
+   "id": "p8",
+   "en": "Come! (formal)",
+   "es": [
+    "Venga"
+   ],
+   "why": "venga."
+  },
+  {
+   "id": "p9",
+   "en": "Leave! (informal)",
+   "es": [
+    "Sal"
+   ],
+   "why": "salgo − go."
+  },
+  {
+   "id": "p10",
+   "en": "Tell me! (informal)",
+   "es": [
+    "Dime"
+   ],
+   "why": "digo − go = di."
+  },
+  {
+   "id": "p11",
+   "en": "Tell me when you come. (informal)",
+   "es": [
+    "Dime cuando vengas"
+   ],
+   "why": "vengas (future)."
+  },
+  {
+   "id": "p12",
+   "en": "Tell me when you do it. (formal)",
+   "es": [
+    "Dígame cuando lo haga",
+    "Digame cuando lo haga"
+   ],
+   "why": "haga."
+  }
+ ],
+ "duration": 291.66,
+ "scId": 165004818
+}

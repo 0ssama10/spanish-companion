@@ -1,0 +1,178 @@
+{
+ "id": "35",
+ "track": 35,
+ "title": "sincero, 'being' = estar siendo, -ing only for right now",
+ "cards": [
+  {
+   "title": "sincero — guessing from -idad",
+   "body": "From sinceridad you can guess sincero. Spanish decides ser vs estar by the concept, not the situation: sincerity is a characteristic, so ser.",
+   "examples": [
+    {
+     "en": "I'm sincere.",
+     "es": "Soy sincero. / Soy sincera."
+    },
+    {
+     "en": "We're sincere.",
+     "es": "Somos sinceros."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "estoy siendo = I'm being",
+   "body": "To say you're being sincere right now, use estar + siendo (from ser, like vendiendo).",
+   "examples": [
+    {
+     "en": "I'm being sincere.",
+     "es": "Estoy siendo sincero. / Estoy siendo sincera."
+    },
+    {
+     "en": "We're being honest.",
+     "es": "Estamos siendo honestos."
+    }
+   ],
+   "t": 112.2
+  },
+  {
+   "title": "salgo pronto vs estoy saliendo",
+   "body": "Only 'right now' takes the -ing form. Watch out for negative transfer from English, which puts -ing everywhere.",
+   "examples": [
+    {
+     "en": "I'm leaving soon / tomorrow.",
+     "es": "Salgo pronto. / Salgo mañana."
+    },
+    {
+     "en": "I'm leaving (right now).",
+     "es": "Estoy saliendo."
+    }
+   ],
+   "t": 200.7
+  },
+  {
+   "title": "Buying: now vs next week",
+   "body": "",
+   "examples": [
+    {
+     "en": "I'm buying them tomorrow.",
+     "es": "Los compro mañana."
+    },
+    {
+     "en": "I'm buying them next week.",
+     "es": "Los compro la semana que viene."
+    },
+    {
+     "en": "I'm buying them now.",
+     "es": "Estoy comprándolos ahora. / Los estoy comprando ahora."
+    }
+   ],
+   "t": 263.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "sincere",
+   "es": [
+    "sincero"
+   ],
+   "why": "sinceridad → sincero."
+  },
+  {
+   "id": "p2",
+   "en": "I'm sincere.",
+   "es": [
+    "Soy sincero",
+    "Soy sincera"
+   ],
+   "why": "Characteristic → ser."
+  },
+  {
+   "id": "p3",
+   "en": "I'm being sincere.",
+   "es": [
+    "Estoy siendo sincero",
+    "Estoy siendo sincera"
+   ],
+   "why": "estar + siendo."
+  },
+  {
+   "id": "p4",
+   "en": "We're being honest.",
+   "es": [
+    "Estamos siendo honestos",
+    "Estamos siendo honestas"
+   ],
+   "why": "estamos siendo + honestos."
+  },
+  {
+   "id": "p5",
+   "en": "I'm leaving soon.",
+   "es": [
+    "Salgo pronto"
+   ],
+   "why": "Not right now → present."
+  },
+  {
+   "id": "p6",
+   "en": "I'm leaving tomorrow.",
+   "es": [
+    "Salgo mañana"
+   ],
+   "why": "Future context → present."
+  },
+  {
+   "id": "p7",
+   "en": "I'm leaving (right now).",
+   "es": [
+    "Estoy saliendo"
+   ],
+   "why": "-ir → saliendo."
+  },
+  {
+   "id": "p8",
+   "en": "I'm buying them tomorrow.",
+   "es": [
+    "Los compro mañana",
+    "Las compro mañana"
+   ],
+   "why": "los compro + mañana."
+  },
+  {
+   "id": "p9",
+   "en": "I'm buying them next week.",
+   "es": [
+    "Los compro la semana que viene",
+    "Las compro la semana que viene"
+   ],
+   "why": "la semana que viene."
+  },
+  {
+   "id": "p10",
+   "en": "I'm buying them now.",
+   "es": [
+    "Estoy comprándolos ahora",
+    "Los estoy comprando ahora",
+    "Estoy comprandolos ahora"
+   ],
+   "why": "estar + comprando."
+  },
+  {
+   "id": "p11",
+   "en": "We're sincere (women).",
+   "es": [
+    "Somos sinceras"
+   ],
+   "why": "somos + sinceras."
+  },
+  {
+   "id": "p12",
+   "en": "honest",
+   "es": [
+    "honesto"
+   ],
+   "why": "honesto (silent h)."
+  }
+ ],
+ "duration": 341.76,
+ "scId": 162792822
+}

@@ -1,0 +1,212 @@
+{
+ "id": "19",
+ "track": 19,
+ "title": "bien, bueno, ir: voy/va/vas/van, esta noche, carne, y",
+ "cards": [
+  {
+   "title": "Splits across Latin languages",
+   "body": "Italian sempre → siempre, bene → bien (well, as in bienvenido), French bon → bueno (good). Spotting the split helps new words stick.",
+   "examples": [
+    {
+     "en": "well",
+     "es": "bien"
+    },
+    {
+     "en": "good",
+     "es": "bueno"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Work backwards from a form you hear",
+   "body": "From vamos (we go / let's go), the -amos tells you the key vowel is a. Take off the we ending and add the others.",
+   "examples": [
+    {
+     "en": "he / she goes",
+     "es": "va"
+    },
+    {
+     "en": "you (informal) go",
+     "es": "vas"
+    },
+    {
+     "en": "they go",
+     "es": "van"
+    },
+    {
+     "en": "Where are you going?",
+     "es": "¿A dónde vas?"
+    }
+   ],
+   "t": 62.0
+  },
+  {
+   "title": "ir = to go (very irregular)",
+   "body": "Ir is two old verbs fused together, which is why its forms look so different. Full set: voy, va, vas, van, vamos.",
+   "examples": [
+    {
+     "en": "I want to go.",
+     "es": "Quiero ir."
+    },
+    {
+     "en": "I can go.",
+     "es": "Puedo ir."
+    },
+    {
+     "en": "I must go.",
+     "es": "Debo ir."
+    },
+    {
+     "en": "I have to go now.",
+     "es": "Tengo que ir ahora."
+    }
+   ],
+   "t": 169.1
+  },
+  {
+   "title": "esta noche = tonight",
+   "body": "Literally 'this night'. Esta ends in a, which shows noche is feminine: la noche.",
+   "examples": [
+    {
+     "en": "I have to go tonight.",
+     "es": "Tengo que ir esta noche."
+    }
+   ],
+   "t": 283.7
+  },
+  {
+   "title": "Words ending in -e: check the context",
+   "body": "A word ending in -e could be either gender; look at the words around it or check a dictionary. Carne (meat, as in 'carnage') is feminine.",
+   "examples": [
+    {
+     "en": "the meat",
+     "es": "la carne"
+    },
+    {
+     "en": "I don't eat meat.",
+     "es": "No como carne."
+    }
+   ],
+   "t": 317.6
+  },
+  {
+   "title": "y = and",
+   "body": "",
+   "examples": [
+    {
+     "en": "I don't eat meat and I don't drink alcohol.",
+     "es": "No como carne y no tomo alcohol."
+    },
+    {
+     "en": "I eat meat and I drink alcohol.",
+     "es": "Como carne y tomo alcohol."
+    }
+   ],
+   "t": 362.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "good",
+   "es": [
+    "bueno"
+   ],
+   "why": "French bon → bueno."
+  },
+  {
+   "id": "p2",
+   "en": "He's going.",
+   "es": [
+    "Va"
+   ],
+   "why": "Work back from vamos: va."
+  },
+  {
+   "id": "p3",
+   "en": "Where are you (informal) going?",
+   "es": [
+    "A dónde vas",
+    "Adónde vas",
+    "Dónde vas"
+   ],
+   "why": "¿A dónde vas? — 'to where'."
+  },
+  {
+   "id": "p4",
+   "en": "They're going.",
+   "es": [
+    "Van"
+   ],
+   "why": "va + n."
+  },
+  {
+   "id": "p5",
+   "en": "I want to go.",
+   "es": [
+    "Quiero ir"
+   ],
+   "why": "ir = to go."
+  },
+  {
+   "id": "p6",
+   "en": "I have to go now.",
+   "es": [
+    "Tengo que ir ahora"
+   ],
+   "why": "tengo que + ir."
+  },
+  {
+   "id": "p7",
+   "en": "I have to go tonight.",
+   "es": [
+    "Tengo que ir esta noche"
+   ],
+   "why": "tonight = esta noche."
+  },
+  {
+   "id": "p8",
+   "en": "the night",
+   "es": [
+    "la noche"
+   ],
+   "why": "Feminine: esta noche → la noche."
+  },
+  {
+   "id": "p9",
+   "en": "I don't eat meat.",
+   "es": [
+    "No como carne"
+   ],
+   "why": "carne = meat."
+  },
+  {
+   "id": "p10",
+   "en": "I don't eat meat and I don't drink alcohol.",
+   "es": [
+    "No como carne y no tomo alcohol",
+    "No como carne y no bebo alcohol"
+   ],
+   "why": "y = and."
+  },
+  {
+   "id": "p11",
+   "en": "We're going.",
+   "es": [
+    "Vamos"
+   ],
+   "why": "vamos = we go / let's go."
+  },
+  {
+   "id": "p12",
+   "en": "well",
+   "es": [
+    "bien"
+   ],
+   "why": "bene → bien."
+  }
+ ],
+ "duration": 422.01,
+ "scId": 161633808
+}

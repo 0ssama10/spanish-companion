@@ -1,0 +1,187 @@
+{
+ "id": "86",
+ "track": 86,
+ "title": "-go verbs in the futures: tendré, vendría, pondré, saldrás; haré, diré; podría vs pondría",
+ "cards": [
+  {
+   "title": "Recap: future endings",
+   "body": "Will: -é, -emos, -á, -án, -ás (like haber). Would: -ía (+ -mos / -n / -s), with me gustaría as the hook.",
+   "t": 0
+  },
+  {
+   "title": "-go verbs contract: -dré / -dría",
+   "body": "'Teneré' becomes tendré: the e turns into d, saving a syllable. The same base serves both futures.",
+   "examples": [
+    {
+     "en": "I will have / I will come",
+     "es": "tendré / vendré"
+    },
+    {
+     "en": "We'd come later, but we don't have time.",
+     "es": "Vendríamos más tarde, pero no tenemos tiempo."
+    }
+   ],
+   "t": 96.8
+  },
+  {
+   "title": "pondré, saldré",
+   "body": "A -go form rings an alarm bell: probably irregular in the futures too. With esta noche you could just use the present.",
+   "examples": [
+    {
+     "en": "I'll put it here. / We'd put it here.",
+     "es": "Lo pondré aquí. / Lo pondríamos aquí."
+    },
+    {
+     "en": "Will you go out tonight?",
+     "es": "¿Saldrás esta noche? / ¿Sales esta noche?"
+    }
+   ],
+   "t": 196.0
+  },
+  {
+   "title": "Exception: traer stays regular",
+   "body": "",
+   "examples": [
+    {
+     "en": "I'll bring / attract / distract",
+     "es": "traeré / atraeré / distraeré"
+    }
+   ],
+   "t": 310.6
+  },
+  {
+   "title": "haré, diré (extra irregular)",
+   "body": "Find one form and you have the base for every person in both futures.",
+   "examples": [
+    {
+     "en": "We'd do it, but we're busy now.",
+     "es": "Lo haríamos, pero estamos ocupados ahora."
+    },
+    {
+     "en": "They'll do it.",
+     "es": "Lo harán."
+    },
+    {
+     "en": "I'll tell you later.",
+     "es": "Te diré más tarde. / Te digo más tarde."
+    }
+   ],
+   "t": 328.1
+  },
+  {
+   "title": "podría (could) vs pondría (would put)",
+   "body": "Podría lost its e (not a -go verb); pondría is the -go contraction.",
+   "examples": [
+    {
+     "en": "we could / we would put",
+     "es": "podríamos / pondríamos"
+    }
+   ],
+   "t": 511.4
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I will have.",
+   "es": [
+    "Tendré"
+   ],
+   "why": "tener → tendré."
+  },
+  {
+   "id": "p2",
+   "en": "I will come.",
+   "es": [
+    "Vendré"
+   ],
+   "why": "venir → vendré."
+  },
+  {
+   "id": "p3",
+   "en": "We'd come later, but we don't have time.",
+   "es": [
+    "Vendríamos más tarde pero no tenemos tiempo"
+   ],
+   "why": "vendríamos."
+  },
+  {
+   "id": "p4",
+   "en": "I'll put it here.",
+   "es": [
+    "Lo pondré aquí",
+    "Lo pondré acá"
+   ],
+   "why": "pondré."
+  },
+  {
+   "id": "p5",
+   "en": "Will you (informal) go out tonight?",
+   "es": [
+    "Saldrás esta noche",
+    "Sales esta noche"
+   ],
+   "why": "saldrás (or present)."
+  },
+  {
+   "id": "p6",
+   "en": "I will bring.",
+   "es": [
+    "Traeré"
+   ],
+   "why": "traer stays regular."
+  },
+  {
+   "id": "p7",
+   "en": "I will do.",
+   "es": [
+    "Haré"
+   ],
+   "why": "hacer → haré."
+  },
+  {
+   "id": "p8",
+   "en": "We'd do it, but we're busy now.",
+   "es": [
+    "Lo haríamos pero estamos ocupados ahora",
+    "Lo haríamos pero ahora estamos ocupados"
+   ],
+   "why": "haríamos."
+  },
+  {
+   "id": "p9",
+   "en": "They'll do it.",
+   "es": [
+    "Lo harán"
+   ],
+   "why": "harán."
+  },
+  {
+   "id": "p10",
+   "en": "I'll tell you (informal) later.",
+   "es": [
+    "Te diré más tarde",
+    "Te digo más tarde"
+   ],
+   "why": "diré."
+  },
+  {
+   "id": "p11",
+   "en": "We could.",
+   "es": [
+    "Podríamos"
+   ],
+   "why": "poder → podríamos."
+  },
+  {
+   "id": "p12",
+   "en": "We would put.",
+   "es": [
+    "Pondríamos"
+   ],
+   "why": "poner → pondríamos."
+  }
+ ],
+ "duration": 538.72,
+ "scId": 165004819
+}

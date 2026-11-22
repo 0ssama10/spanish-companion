@@ -1,0 +1,179 @@
+{
+ "id": "79",
+ "track": 79,
+ "title": "dejar, decirle que + mood (tell him to…), es esencial que, ojalá",
+ "cards": [
+  {
+   "title": "dejar = to leave (something)",
+   "body": "As in leaving a message, not leaving a place (that's salir). Un mensaje = a message.",
+   "examples": [
+    {
+     "en": "Leave me a message. (formal)",
+     "es": "Déjeme un mensaje."
+    },
+    {
+     "en": "I want you to leave me a message.",
+     "es": "Quiero que me dejes un mensaje."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "decir que + mood = tell someone TO do",
+   "body": "With the mood tense it's an order; without it (deja), it's information: 'that he's leaving me a message'.",
+   "examples": [
+    {
+     "en": "I want to tell him to leave me a message.",
+     "es": "Quiero decirle que me deje un mensaje."
+    }
+   ],
+   "t": 59.3
+  },
+  {
+   "title": "cuando + future + command",
+   "body": "",
+   "examples": [
+    {
+     "en": "When he leaves you the message, call me.",
+     "es": "Cuando te deje el mensaje, llámame."
+    }
+   ],
+   "t": 139.1
+  },
+  {
+   "title": "-tial → -cial; es esencial que",
+   "body": "Like -tion → -ción.",
+   "examples": [
+    {
+     "en": "It's essential that he sees my message.",
+     "es": "Es esencial que vea mi mensaje."
+    }
+   ],
+   "t": 184.4
+  },
+  {
+   "title": "ojalá = hopefully / let's hope",
+   "body": "From Arabic, connected with Allah; one story says it's 'ojo-Allah'. ¡Ojo! = watch out. It's followed by the mood tense.",
+   "examples": [
+    {
+     "en": "Hopefully she leaves a message.",
+     "es": "Ojalá deje un mensaje."
+    },
+    {
+     "en": "Hopefully it'll be soon.",
+     "es": "Ojalá sea pronto."
+    }
+   ],
+   "t": 247.4
+  },
+  {
+   "title": "Optional uses: tone and feeling",
+   "body": "Optional uses of the mood tense can add humour, sarcasm, sincerity or irritation, and they're best explored in real conversation.",
+   "t": 377.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "Leave me a message. (formal)",
+   "es": [
+    "Déjeme un mensaje",
+    "Dejeme un mensaje"
+   ],
+   "why": "deje + me."
+  },
+  {
+   "id": "p2",
+   "en": "Leave me a message. (informal)",
+   "es": [
+    "Déjame un mensaje",
+    "Dejame un mensaje"
+   ],
+   "why": "dejas − s + me."
+  },
+  {
+   "id": "p3",
+   "en": "I want you (informal) to leave me a message.",
+   "es": [
+    "Quiero que me dejes un mensaje"
+   ],
+   "why": "dejes."
+  },
+  {
+   "id": "p4",
+   "en": "I want to tell him to leave me a message.",
+   "es": [
+    "Quiero decirle que me deje un mensaje",
+    "Le quiero decir que me deje un mensaje"
+   ],
+   "why": "deje = order."
+  },
+  {
+   "id": "p5",
+   "en": "When he leaves you the message, call me. (informal)",
+   "es": [
+    "Cuando te deje el mensaje llámame",
+    "Cuando te deje el mensaje llamame"
+   ],
+   "why": "deje + llámame."
+  },
+  {
+   "id": "p6",
+   "en": "essential",
+   "es": [
+    "esencial"
+   ],
+   "why": "-tial → -cial."
+  },
+  {
+   "id": "p7",
+   "en": "It's essential that he sees my message.",
+   "es": [
+    "Es esencial que vea mi mensaje"
+   ],
+   "why": "vea."
+  },
+  {
+   "id": "p8",
+   "en": "Hopefully she leaves a message.",
+   "es": [
+    "Ojalá deje un mensaje"
+   ],
+   "why": "ojalá + mood."
+  },
+  {
+   "id": "p9",
+   "en": "Hopefully it'll be soon.",
+   "es": [
+    "Ojalá sea pronto"
+   ],
+   "why": "sea."
+  },
+  {
+   "id": "p10",
+   "en": "Watch out!",
+   "es": [
+    "Ojo"
+   ],
+   "why": "¡Ojo!"
+  },
+  {
+   "id": "p11",
+   "en": "a message",
+   "es": [
+    "un mensaje"
+   ],
+   "why": "un mensaje."
+  },
+  {
+   "id": "p12",
+   "en": "Hopefully they come.",
+   "es": [
+    "Ojalá vengan"
+   ],
+   "why": "vengan (from vengo)."
+  }
+ ],
+ "duration": 429.61,
+ "scId": 164759822
+}

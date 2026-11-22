@@ -1,0 +1,215 @@
+{
+ "id": "32",
+ "track": 32,
+ "title": "aburrido with ser / estar, de dónde, libre, persona as a safety net",
+ "cards": [
+  {
+   "title": "aburrido: boring or bored",
+   "body": "English has two words; Spanish uses one with ser (boring, a characteristic) or estar (bored, a state).",
+   "examples": [
+    {
+     "en": "It's boring.",
+     "es": "Es aburrido."
+    },
+    {
+     "en": "He's bored.",
+     "es": "Está aburrido."
+    },
+    {
+     "en": "They're boring / bored.",
+     "es": "Son aburridos. / Están aburridos."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "de = from / of",
+   "body": "It appears in English Latin words: de-liver (from freeing; libre = free, liberar = to liberate). De-cipher mixes Latin de with Arabic sifr, 'zero'.",
+   "t": 108.1
+  },
+  {
+   "title": "¿De dónde eres? = Where are you from?",
+   "body": "Where you're from is a characteristic, so it takes ser. Spanish word order: 'from where are you?'. Where you are now is a state, so it takes estar.",
+   "examples": [
+    {
+     "en": "Where are you from?",
+     "es": "¿De dónde eres?"
+    },
+    {
+     "en": "Where are they from?",
+     "es": "¿De dónde son?"
+    },
+    {
+     "en": "Where are they?",
+     "es": "¿Dónde están?"
+    }
+   ],
+   "t": 202.5
+  },
+  {
+   "title": "libre: estoy libre / soy libre",
+   "body": "Free from work right now is a state: estoy libre. Free as a personality trait: soy libre. Libre ends in e, so it doesn't change for gender.",
+   "examples": [
+    {
+     "en": "I'm free (now).",
+     "es": "Estoy libre."
+    },
+    {
+     "en": "I'm a free person.",
+     "es": "Soy una persona libre."
+    }
+   ],
+   "t": 273.9
+  },
+  {
+   "title": "Safety net: soy una persona …",
+   "body": "Not every adjective can switch between ser and estar, and dialects sometimes disagree (casado, 'married', literally 'housed'). Saying 'I am a … person' always uses ser, so it's always safe. Persona is feminine whoever you are.",
+   "examples": [
+    {
+     "en": "I'm a married person.",
+     "es": "Soy una persona casada."
+    }
+   ],
+   "t": 383.5
+  },
+  {
+   "title": "ocupado = busy",
+   "body": "'Soy ocupado' is wrong; use the safety net.",
+   "examples": [
+    {
+     "en": "I'm busy.",
+     "es": "Estoy ocupado. / Estoy ocupada."
+    },
+    {
+     "en": "I'm a busy person.",
+     "es": "Soy una persona ocupada."
+    },
+    {
+     "en": "We're busy people.",
+     "es": "Somos personas ocupadas."
+    }
+   ],
+   "t": 452.9
+  },
+  {
+   "title": "preocupado = worried",
+   "body": "",
+   "examples": [
+    {
+     "en": "He's worried.",
+     "es": "Está preocupado."
+    },
+    {
+     "en": "He's a worrier.",
+     "es": "Es una persona preocupada."
+    }
+   ],
+   "t": 546.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "It's boring.",
+   "es": [
+    "Es aburrido"
+   ],
+   "why": "Characteristic → ser."
+  },
+  {
+   "id": "p2",
+   "en": "He's bored.",
+   "es": [
+    "Está aburrido",
+    "Él está aburrido"
+   ],
+   "why": "State → estar."
+  },
+  {
+   "id": "p3",
+   "en": "She's boring.",
+   "es": [
+    "Es aburrida",
+    "Ella es aburrida"
+   ],
+   "why": "aburrida for feminine."
+  },
+  {
+   "id": "p4",
+   "en": "They're bored.",
+   "es": [
+    "Están aburridos",
+    "Están aburridas"
+   ],
+   "why": "estar + plural."
+  },
+  {
+   "id": "p5",
+   "en": "Where are you (informal) from?",
+   "es": [
+    "De dónde eres"
+   ],
+   "why": "Origin = characteristic."
+  },
+  {
+   "id": "p6",
+   "en": "Where are they from?",
+   "es": [
+    "De dónde son"
+   ],
+   "why": "son."
+  },
+  {
+   "id": "p7",
+   "en": "Where are they?",
+   "es": [
+    "Dónde están"
+   ],
+   "why": "Location = state."
+  },
+  {
+   "id": "p8",
+   "en": "I'm free (from work).",
+   "es": [
+    "Estoy libre"
+   ],
+   "why": "State → estoy."
+  },
+  {
+   "id": "p9",
+   "en": "I'm a free person.",
+   "es": [
+    "Soy una persona libre"
+   ],
+   "why": "Safety net with persona."
+  },
+  {
+   "id": "p10",
+   "en": "I'm busy.",
+   "es": [
+    "Estoy ocupado",
+    "Estoy ocupada"
+   ],
+   "why": "State → estar."
+  },
+  {
+   "id": "p11",
+   "en": "We're busy people.",
+   "es": [
+    "Somos personas ocupadas"
+   ],
+   "why": "personas (feminine) ocupadas."
+  },
+  {
+   "id": "p12",
+   "en": "She's worried.",
+   "es": [
+    "Está preocupada",
+    "Ella está preocupada"
+   ],
+   "why": "preocupada, with estar."
+  }
+ ],
+ "duration": 580.02,
+ "scId": 162790636
+}

@@ -1,0 +1,232 @@
+{
+ "id": "25",
+ "track": 25,
+ "title": "No 'to / for / about', cocinar, times, numbers, quedarse, hasta",
+ "cards": [
+  {
+   "title": "me = me, to me, myself",
+   "body": "Don't translate 'to': me already covers it. It still goes before the changed verb.",
+   "examples": [
+    {
+     "en": "He speaks to me.",
+     "es": "Me habla."
+    },
+    {
+     "en": "They speak to me about it.",
+     "es": "Me lo hablan."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "for me / from me — no extra word",
+   "body": "Me can also mean 'for me' or 'from me'; context makes it clear. 'Shall I…?' is just a question.",
+   "examples": [
+    {
+     "en": "He buys it for me.",
+     "es": "Me lo compra."
+    },
+    {
+     "en": "Shall I buy it for you?",
+     "es": "¿Te lo compro?"
+    }
+   ],
+   "caveat": "¿Te lo compro? can also mean 'shall I buy it from you?'.",
+   "t": 83.8
+  },
+  {
+   "title": "Do you want to do it for me?",
+   "body": "",
+   "examples": [
+    {
+     "en": "Do you want to do it?",
+     "es": "¿Quieres hacerlo?"
+    },
+    {
+     "en": "Do you want to do it for me?",
+     "es": "¿Me lo quieres hacer? / ¿Quieres hacérmelo?"
+    }
+   ],
+   "t": 180.3
+  },
+  {
+   "title": "la cocina, cocinar",
+   "body": "Cocinar (to cook) comes from cocina (kitchen); English 'concoction' is related.",
+   "examples": [
+    {
+     "en": "I cook / you cook / we cook",
+     "es": "cocino / (tú) cocinas / (nosotros) cocinamos"
+    },
+    {
+     "en": "Can you cook something for me?",
+     "es": "¿Me puedes cocinar algo?"
+    }
+   ],
+   "t": 221.1
+  },
+  {
+   "title": "Telling the time: a las…",
+   "body": "Spanish happily uses the 'have' past with a time where English would say 'I cooked'. A las seis = 'at the six (hours)'.",
+   "examples": [
+    {
+     "en": "I cooked at six o'clock.",
+     "es": "He cocinado a las seis."
+    },
+    {
+     "en": "We cooked at eight.",
+     "es": "Hemos cocinado a las ocho."
+    }
+   ],
+   "t": 363.6
+  },
+  {
+   "title": "ocho, nueve, diez",
+   "body": "Links: octagon, octopus, October (the 8th Roman month); November (9th, o → ue); December (10th, e → ie).",
+   "examples": [
+    {
+     "en": "eight / nine / ten",
+     "es": "ocho / nueve / diez"
+    }
+   ],
+   "t": 424.4
+  },
+  {
+   "title": "quedarse = to stay",
+   "body": "Quedar = to remain / be left over. Qu always sounds like k. 'I stay' = 'I remain myself': me quedo. The me is required here, not optional.",
+   "examples": [
+    {
+     "en": "I'm staying.",
+     "es": "Me quedo.",
+     "say": "meh KEH-doh"
+    }
+   ],
+   "t": 500.4
+  },
+  {
+   "title": "hasta = until",
+   "body": "As in hasta la vista, 'until the seeing'.",
+   "examples": [
+    {
+     "en": "I'm staying here until ten.",
+     "es": "Me quedo aquí hasta las diez."
+    },
+    {
+     "en": "We're staying until nine.",
+     "es": "Nos quedamos hasta las nueve."
+    },
+    {
+     "en": "Are you staying here?",
+     "es": "¿Te quedas aquí?"
+    }
+   ],
+   "t": 570.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "He speaks to me.",
+   "es": [
+    "Me habla"
+   ],
+   "why": "me = to me."
+  },
+  {
+   "id": "p2",
+   "en": "He buys it for me.",
+   "es": [
+    "Me lo compra",
+    "Me la compra"
+   ],
+   "why": "No 'for' needed."
+  },
+  {
+   "id": "p3",
+   "en": "Shall I buy it for you (informal)?",
+   "es": [
+    "Te lo compro",
+    "Te la compro"
+   ],
+   "why": "¿Te lo compro?"
+  },
+  {
+   "id": "p4",
+   "en": "Do you (informal) want to do it for me?",
+   "es": [
+    "Me lo quieres hacer",
+    "Quieres hacérmelo"
+   ],
+   "why": "me lo + quieres hacer."
+  },
+  {
+   "id": "p5",
+   "en": "the kitchen",
+   "es": [
+    "la cocina"
+   ],
+   "why": "la cocina."
+  },
+  {
+   "id": "p6",
+   "en": "Can you (informal) cook something for me?",
+   "es": [
+    "Me puedes cocinar algo",
+    "Puedes cocinarme algo"
+   ],
+   "why": "me + puedes cocinar + algo."
+  },
+  {
+   "id": "p7",
+   "en": "I cooked at six o'clock.",
+   "es": [
+    "He cocinado a las seis"
+   ],
+   "why": "a las seis."
+  },
+  {
+   "id": "p8",
+   "en": "We cooked at eight o'clock.",
+   "es": [
+    "Hemos cocinado a las ocho"
+   ],
+   "why": "ocho = eight."
+  },
+  {
+   "id": "p9",
+   "en": "I'm staying.",
+   "es": [
+    "Me quedo",
+    "Yo me quedo"
+   ],
+   "why": "'I remain myself'."
+  },
+  {
+   "id": "p10",
+   "en": "I'm staying here until ten.",
+   "es": [
+    "Me quedo aquí hasta las diez",
+    "Me quedo acá hasta las diez"
+   ],
+   "why": "hasta las diez."
+  },
+  {
+   "id": "p11",
+   "en": "We're staying until nine.",
+   "es": [
+    "Nos quedamos hasta las nueve"
+   ],
+   "why": "quedar is -ar: quedamos."
+  },
+  {
+   "id": "p12",
+   "en": "Are you (informal) staying here?",
+   "es": [
+    "Te quedas aquí",
+    "Te quedas acá"
+   ],
+   "why": "¿Te quedas aquí?"
+  }
+ ],
+ "duration": 727.46,
+ "scId": 162399122
+}

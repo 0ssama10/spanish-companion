@@ -1,0 +1,219 @@
+{
+ "id": "62",
+ "track": 62,
+ "title": "dar in the dot past (di, dio), le lo → se lo, clarifying with a él / a ella",
+ "cards": [
+  {
+   "title": "dar acts like -er/-ir: di, dio, dimos",
+   "body": "The only verb that switches sides like this in the dot past.",
+   "examples": [
+    {
+     "en": "He gave it to me.",
+     "es": "Me lo dio."
+    },
+    {
+     "en": "He didn't give it to us.",
+     "es": "No nos lo dio."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "First thought: who's doing it",
+   "body": "Start with 'I gave' (di); the rest flows from there.",
+   "examples": [
+    {
+     "en": "I gave it to you.",
+     "es": "Te lo di."
+    }
+   ],
+   "t": 85.5
+  },
+  {
+   "title": "le lo → se lo (a sound change)",
+   "body": "Spanish avoids two l-words together: le lo / les lo / le los become se lo / se los. It's purely about sound, not the 'self' se.",
+   "examples": [
+    {
+     "en": "I gave it to him / her / them / you all.",
+     "es": "Se lo di."
+    },
+    {
+     "en": "I gave them to him.",
+     "es": "Se los di."
+    }
+   ],
+   "t": 120.2
+  },
+  {
+   "title": "Clarify by adding a él / a ella",
+   "body": "Keep the whole sentence and add a + person at the end, repeating rather than restructuring.",
+   "examples": [
+    {
+     "en": "I gave him / her something.",
+     "es": "Le di algo a él. / Le di algo a ella."
+    },
+    {
+     "en": "I gave you (formal) something.",
+     "es": "Le di algo a usted."
+    }
+   ],
+   "t": 239.4
+  },
+  {
+   "title": "a repeats; para doesn't",
+   "body": "With a, the little word stays (me lo compra a mí: for me or from me). With para, there's no repetition (lo compra para mí).",
+   "examples": [
+    {
+     "en": "I sold it to him.",
+     "es": "Se lo vendí a él."
+    },
+    {
+     "en": "I sold them (fem.) to them.",
+     "es": "Se las vendí a ellos."
+    }
+   ],
+   "t": 399.1
+  },
+  {
+   "title": "se lo envió + clarifications",
+   "body": "A fixed core (se lo envió) with clarifications around it.",
+   "examples": [
+    {
+     "en": "He sent it to her.",
+     "es": "(Él) se lo envió a ella."
+    },
+    {
+     "en": "He hasn't sent it to you guys yet.",
+     "es": "No se lo envió a ustedes todavía."
+    },
+    {
+     "en": "I don't know if I sent it to him.",
+     "es": "No sé si se lo envié."
+    }
+   ],
+   "t": 509.5
+  },
+  {
+   "title": "Understand, don't memorise",
+   "body": "Fine details like this will come back through active listening and analysis.",
+   "t": 681.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I gave.",
+   "es": [
+    "Di"
+   ],
+   "why": "dar → di."
+  },
+  {
+   "id": "p2",
+   "en": "He gave it to me.",
+   "es": [
+    "Me lo dio",
+    "Me la dio"
+   ],
+   "why": "dio."
+  },
+  {
+   "id": "p3",
+   "en": "I gave it to you (informal).",
+   "es": [
+    "Te lo di",
+    "Te la di"
+   ],
+   "why": "di."
+  },
+  {
+   "id": "p4",
+   "en": "I gave it to him.",
+   "es": [
+    "Se lo di",
+    "Se lo di a él",
+    "Se la di"
+   ],
+   "why": "le lo → se lo."
+  },
+  {
+   "id": "p5",
+   "en": "I gave them to him.",
+   "es": [
+    "Se los di",
+    "Se los di a él",
+    "Se las di"
+   ],
+   "why": "se los."
+  },
+  {
+   "id": "p6",
+   "en": "I gave her something.",
+   "es": [
+    "Le di algo a ella",
+    "Le di algo"
+   ],
+   "why": "Clarify with a ella."
+  },
+  {
+   "id": "p7",
+   "en": "I sold it to him.",
+   "es": [
+    "Se lo vendí a él",
+    "Se lo vendí",
+    "Se la vendí"
+   ],
+   "why": "vendí; se lo."
+  },
+  {
+   "id": "p8",
+   "en": "I sold them (feminine things) to her.",
+   "es": [
+    "Se las vendí a ella",
+    "Se las vendí"
+   ],
+   "why": "se las."
+  },
+  {
+   "id": "p9",
+   "en": "He sent it to us.",
+   "es": [
+    "Nos lo envió",
+    "Nos la envió"
+   ],
+   "why": "nos lo — no change."
+  },
+  {
+   "id": "p10",
+   "en": "He sent it to her.",
+   "es": [
+    "Se lo envió a ella",
+    "Él se lo envió a ella",
+    "Se lo envió",
+    "Se la envió"
+   ],
+   "why": "se lo envió."
+  },
+  {
+   "id": "p11",
+   "en": "He hasn't sent it to you guys yet.",
+   "es": [
+    "No se lo envió a ustedes todavía",
+    "No se lo envió todavía a ustedes",
+    "Todavía no se lo envió a ustedes"
+   ],
+   "why": "a ustedes + todavía."
+  },
+  {
+   "id": "p12",
+   "en": "I don't know if I sent it to him.",
+   "es": [
+    "No sé si se lo envié",
+    "No sé si se lo envié a él"
+   ],
+   "why": "si + se lo envié."
+  }
+ ],
+ "duration": 713.12,
+ "scId": 163961677
+}

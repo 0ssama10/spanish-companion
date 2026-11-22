@@ -1,0 +1,188 @@
+{
+ "id": "73",
+ "track": 73,
+ "title": "esperemos, que + mood (let him…), cuando + future → mood tense, vaya",
+ "cards": [
+  {
+   "title": "Let's: esperemos",
+   "body": "Esperemos is 'let's wait' (an order); ¿esperamos? is more like 'shall we wait?'.",
+   "examples": [
+    {
+     "en": "Wait! (informal)",
+     "es": "¡Espera!"
+    },
+    {
+     "en": "Let's wait. / Let's not wait.",
+     "es": "Esperemos. / No esperemos."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "que + mood = let him / let it …",
+   "body": "",
+   "examples": [
+    {
+     "en": "Let him wait.",
+     "es": "Que espere."
+    },
+    {
+     "en": "Let it finish already!",
+     "es": "¡Que termine ya!"
+    },
+    {
+     "en": "Let him be quiet.",
+     "es": "Que se calle."
+    }
+   ],
+   "t": 65.8
+  },
+  {
+   "title": "cuando + future → mood tense",
+   "body": "When cuando refers to something that hasn't happened yet, Spanish uses the mood tense, as if uneasy about stating the future as fact. Generally / habitually: normal present.",
+   "examples": [
+    {
+     "en": "When we speak (generally)",
+     "es": "cuando hablamos"
+    },
+    {
+     "en": "When we speak (in the future)",
+     "es": "cuando hablemos"
+    }
+   ],
+   "t": 159.2
+  },
+  {
+   "title": "comemos vs comamos",
+   "body": "The other half can stay in the plain present: cuando gives the future context.",
+   "examples": [
+    {
+     "en": "When we eat together, we talk (generally).",
+     "es": "Cuando comemos juntos, hablamos."
+    },
+    {
+     "en": "When we eat together, we'll talk.",
+     "es": "Cuando comamos juntos, hablamos."
+    }
+   ],
+   "t": 246.3
+  },
+  {
+   "title": "ir → vaya",
+   "body": "Mood tense of ir: vaya, vayan, vayamos.",
+   "examples": [
+    {
+     "en": "We see her when we go (generally).",
+     "es": "La vemos cuando vamos."
+    },
+    {
+     "en": "We'll see her when we go.",
+     "es": "La vemos cuando vayamos."
+    }
+   ],
+   "t": 396.1
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "Wait! (informal)",
+   "es": [
+    "Espera"
+   ],
+   "why": "esperas − s."
+  },
+  {
+   "id": "p2",
+   "en": "Let's wait.",
+   "es": [
+    "Esperemos"
+   ],
+   "why": "Mood tense we form."
+  },
+  {
+   "id": "p3",
+   "en": "Let's not wait.",
+   "es": [
+    "No esperemos"
+   ],
+   "why": "no esperemos."
+  },
+  {
+   "id": "p4",
+   "en": "Let him wait.",
+   "es": [
+    "Que espere"
+   ],
+   "why": "que + mood."
+  },
+  {
+   "id": "p5",
+   "en": "Let it finish already!",
+   "es": [
+    "Que termine ya"
+   ],
+   "why": "termine."
+  },
+  {
+   "id": "p6",
+   "en": "Let him shut up.",
+   "es": [
+    "Que se calle"
+   ],
+   "why": "calle (mood)."
+  },
+  {
+   "id": "p7",
+   "en": "when we speak (in the future)",
+   "es": [
+    "cuando hablemos"
+   ],
+   "why": "Future → mood."
+  },
+  {
+   "id": "p8",
+   "en": "When we eat together, we talk (generally).",
+   "es": [
+    "Cuando comemos juntos hablamos",
+    "Cuando comemos juntas hablamos"
+   ],
+   "why": "General → present."
+  },
+  {
+   "id": "p9",
+   "en": "When we eat together, we'll talk.",
+   "es": [
+    "Cuando comamos juntos hablamos",
+    "Cuando comamos juntas hablamos"
+   ],
+   "why": "Future → comamos."
+  },
+  {
+   "id": "p10",
+   "en": "they go → mood tense",
+   "es": [
+    "vayan"
+   ],
+   "why": "vaya + n."
+  },
+  {
+   "id": "p11",
+   "en": "We see her when we go (generally).",
+   "es": [
+    "La vemos cuando vamos"
+   ],
+   "why": "General."
+  },
+  {
+   "id": "p12",
+   "en": "We'll see her when we go.",
+   "es": [
+    "La vemos cuando vayamos"
+   ],
+   "why": "Future → vayamos."
+  }
+ ],
+ "duration": 483.76,
+ "scId": 164759815
+}

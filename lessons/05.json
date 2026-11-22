@@ -1,0 +1,276 @@
+{
+ "id": "05",
+ "track": 5,
+ "title": "yo, te, lo, the rolled r, -ence → -encia",
+ "cards": [
+  {
+   "title": "yo = I (only for emphasis)",
+   "body": "Quiero already means 'I want', so Spanish normally leaves out the word for I. Yo is there for emphasis. In negatives the order is like English: yo no quiero.",
+   "examples": [
+    {
+     "en": "I want (emphatic)",
+     "es": "Yo quiero.",
+     "say": "yoh KYEH-roh"
+    },
+    {
+     "en": "I don't want to cancel.",
+     "es": "Yo no quiero cancelar."
+    }
+   ],
+   "caveat": "Not 'no yo quiero': no sits right before the verb.",
+   "t": 0
+  },
+  {
+   "title": "More -ation verbs",
+   "body": "Keep using the -ation → -ar route. Ilustrar contains luz, 'light' (z = s, or th in much of Spain).",
+   "examples": [
+    {
+     "en": "I want to celebrate.",
+     "es": "Quiero celebrar."
+    },
+    {
+     "en": "I want to illustrate.",
+     "es": "Quiero ilustrar."
+    },
+    {
+     "en": "light",
+     "es": "luz",
+     "say": "loos (or looth in Spain)"
+    }
+   ],
+   "t": 43.6
+  },
+  {
+   "title": "'Find out' = inform myself",
+   "body": "Spanish says 'I want to find out' as 'I want to inform myself': me attaches to the verb.",
+   "examples": [
+    {
+     "en": "I want to find out.",
+     "es": "Quiero informarme."
+    }
+   ],
+   "t": 93.2
+  },
+  {
+   "title": "te = you (informal), block by block",
+   "body": "Te is informal 'you'. Like me, it attaches to the end of the verb. A sentence you think you can't say can often be built block by block: no quiero + obligar + te. Find the verb the long way: obligation → obligación → obligar.",
+   "examples": [
+    {
+     "en": "I don't want to oblige you (make you).",
+     "es": "No quiero obligarte."
+    },
+    {
+     "en": "I don't want to provoke you.",
+     "es": "No quiero provocarte."
+    }
+   ],
+   "caveat": "Obligar is everyday Spanish, closer to 'make (someone do something)'.",
+   "t": 125.9
+  },
+  {
+   "title": "lo = it",
+   "body": "Lo means 'it' and also joins the end of the verb.",
+   "examples": [
+    {
+     "en": "I want to cancel it.",
+     "es": "Quiero cancelarlo."
+    },
+    {
+     "en": "I want to regulate it.",
+     "es": "Quiero regularlo."
+    }
+   ],
+   "t": 208.8
+  },
+  {
+   "title": "The rolled r",
+   "body": "An r at the start of a word, or a double rr, is rolled: a relaxed tongue lifted so the air flaps it. A tense mouth makes it harder. If you can't do it yet, don't force it; it often comes with listening. Some native speakers can't roll it either.",
+   "examples": [
+    {
+     "en": "but",
+     "es": "pero",
+     "say": "PEH-roh (single tap)"
+    },
+    {
+     "en": "dog",
+     "es": "perro",
+     "say": "PEH-rroh (rolled)"
+    },
+    {
+     "en": "rice",
+     "es": "arroz",
+     "say": "ah-RROHS"
+    }
+   ],
+   "t": 230.7
+  },
+  {
+   "title": "lo = him too",
+   "body": "Lo can also mean 'him'.",
+   "examples": [
+    {
+     "en": "to save",
+     "es": "salvar"
+    },
+    {
+     "en": "I want to save him.",
+     "es": "Quiero salvarlo."
+    },
+    {
+     "en": "to situate / to place",
+     "es": "situar"
+    }
+   ],
+   "t": 357.5
+  },
+  {
+   "title": "Take the long route, slowly",
+   "body": "Don't jump straight from the English verb. Go participate → participation → participación → participar, syllable by syllable, so no extra sounds sneak in.",
+   "examples": [
+    {
+     "en": "to participate",
+     "es": "participar"
+    },
+    {
+     "en": "to create",
+     "es": "crear"
+    }
+   ],
+   "t": 403.0
+  },
+  {
+   "title": "experimentar: experiment and experience",
+   "body": "Experimentar means both 'to experiment' and 'to experience'. The nouns differ: experimento (experiment), experiencia (experience).",
+   "examples": [
+    {
+     "en": "to experiment / to experience",
+     "es": "experimentar"
+    }
+   ],
+   "t": 469.4
+  },
+  {
+   "title": "-ence → -encia, -ance → -ancia",
+   "body": "Change -ence to -encia and -ance to -ancia.",
+   "examples": [
+    {
+     "en": "difference",
+     "es": "diferencia"
+    },
+    {
+     "en": "influence",
+     "es": "influencia"
+    },
+    {
+     "en": "existence",
+     "es": "existencia"
+    },
+    {
+     "en": "inconsistency",
+     "es": "inconsistencia"
+    }
+   ],
+   "t": 520.8
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I (emphatic) don't want.",
+   "es": [
+    "Yo no quiero"
+   ],
+   "why": "yo, then no, then quiero."
+  },
+  {
+   "id": "p2",
+   "en": "I want to celebrate.",
+   "es": [
+    "Quiero celebrar"
+   ],
+   "why": "celebración → celebrar."
+  },
+  {
+   "id": "p3",
+   "en": "I want to find out.",
+   "es": [
+    "Quiero informarme"
+   ],
+   "why": "'inform myself': informar + me."
+  },
+  {
+   "id": "p4",
+   "en": "I don't want to oblige you.",
+   "es": [
+    "No quiero obligarte"
+   ],
+   "why": "obligación → obligar, + te (you)."
+  },
+  {
+   "id": "p5",
+   "en": "I don't want to provoke you.",
+   "es": [
+    "No quiero provocarte"
+   ],
+   "why": "provocar + te."
+  },
+  {
+   "id": "p6",
+   "en": "I want to cancel it.",
+   "es": [
+    "Quiero cancelarlo"
+   ],
+   "why": "lo (it) joins the verb."
+  },
+  {
+   "id": "p7",
+   "en": "I want to save him.",
+   "es": [
+    "Quiero salvarlo"
+   ],
+   "why": "lo also means him."
+  },
+  {
+   "id": "p8",
+   "en": "but",
+   "es": [
+    "pero"
+   ],
+   "why": "pero (single r) — perro, with rr, is dog."
+  },
+  {
+   "id": "p9",
+   "en": "dog",
+   "es": [
+    "perro"
+   ],
+   "why": "Double rr, rolled."
+  },
+  {
+   "id": "p10",
+   "en": "I want to participate.",
+   "es": [
+    "Quiero participar"
+   ],
+   "why": "participación → participar."
+  },
+  {
+   "id": "p11",
+   "en": "I want to create.",
+   "es": [
+    "Quiero crear"
+   ],
+   "why": "creación → crear."
+  },
+  {
+   "id": "p12",
+   "en": "difference",
+   "es": [
+    "diferencia"
+   ],
+   "why": "-ence → -encia."
+  }
+ ],
+ "duration": 564.77,
+ "scId": 161024502
+}

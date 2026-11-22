@@ -1,0 +1,293 @@
+{
+ "id": "12",
+ "track": 12,
+ "title": "vender, -er/-ir key sound e, feminine endings, -ity → -idad, me lo / nos lo",
+ "cards": [
+  {
+   "title": "Recap: -ar verbs",
+   "body": "Key vowel a: -a (he/she/it/formal you), -an (they / you all), -as (you informal).",
+   "examples": [
+    {
+     "en": "it contaminates",
+     "es": "contamina"
+    },
+    {
+     "en": "they contaminate",
+     "es": "contaminan"
+    },
+    {
+     "en": "you (informal) contaminate",
+     "es": "contaminas"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "vender = to sell",
+   "body": "Think 'vending machine' or 'street vendor'. -er and -ir verbs use e as their key sound.",
+   "examples": [
+    {
+     "en": "I sell / I'm selling",
+     "es": "vendo"
+    },
+    {
+     "en": "I'm selling it.",
+     "es": "Lo vendo."
+    }
+   ],
+   "t": 57.8
+  },
+  {
+   "title": "Who does what? Two separate thoughts",
+   "body": "First work out the verb (who's doing it: vendo), then the object (them: los). Keeping the two thoughts apart stops you mixing up 'she has them' and 'they have her'.",
+   "examples": [
+    {
+     "en": "I'm selling them.",
+     "es": "Los vendo."
+    },
+    {
+     "en": "I'm selling them (the houses).",
+     "es": "Las vendo."
+    },
+    {
+     "en": "I'm selling the houses.",
+     "es": "Vendo las casas."
+    }
+   ],
+   "caveat": "Use las for feminine things too, not only for women.",
+   "t": 105.8
+  },
+  {
+   "title": "Feminine endings: -a, -ión",
+   "body": "Gender belongs to the word. Words ending in -a are mostly feminine (with a few exceptions). Words ending in -ión are always feminine.",
+   "examples": [
+    {
+     "en": "the administration",
+     "es": "la administración"
+    },
+    {
+     "en": "the opinion",
+     "es": "la opinión"
+    },
+    {
+     "en": "the celebration",
+     "es": "la celebración"
+    }
+   ],
+   "t": 211.2
+  },
+  {
+   "title": "-ity → -idad (feminine)",
+   "body": "English -ity usually becomes -idad, which is always feminine.",
+   "examples": [
+    {
+     "en": "the diversity",
+     "es": "la diversidad"
+    },
+    {
+     "en": "the nationality",
+     "es": "la nacionalidad"
+    },
+    {
+     "en": "the creativity",
+     "es": "la creatividad"
+    },
+    {
+     "en": "the electricity",
+     "es": "la electricidad"
+    }
+   ],
+   "t": 260.0
+  },
+  {
+   "title": "Guess the related word",
+   "body": "From an -idad word you can guess the adjective: drop -idad and make it sound Spanish. Adjectives change for gender and number: generoso, generosa, generosos, generosas.",
+   "examples": [
+    {
+     "en": "electric",
+     "es": "eléctrico"
+    },
+    {
+     "en": "generous",
+     "es": "generoso / generosa"
+    },
+    {
+     "en": "opportune",
+     "es": "oportuno"
+    },
+    {
+     "en": "clear / of course",
+     "es": "claro"
+    }
+   ],
+   "caveat": "Guesses can be off (common is común, not 'comuno'): that feedback is how you learn.",
+   "t": 320.8
+  },
+  {
+   "title": "persona, sincero",
+   "body": "Persona is a feminine word even when it refers to a man. Listening a lot builds the intuition for good guesses.",
+   "examples": [
+    {
+     "en": "person",
+     "es": "persona"
+    },
+    {
+     "en": "sincere",
+     "es": "sincero"
+    }
+   ],
+   "t": 499.9
+  },
+  {
+   "title": "-er/-ir: -e, -en, -es",
+   "body": "Same pattern as -ar verbs, but with e as the key vowel.",
+   "examples": [
+    {
+     "en": "he / she sells",
+     "es": "vende"
+    },
+    {
+     "en": "He's selling something.",
+     "es": "Vende algo."
+    },
+    {
+     "en": "Why aren't they selling it?",
+     "es": "¿Por qué no lo venden?"
+    }
+   ],
+   "t": 580.1
+  },
+  {
+   "title": "me lo: the person comes first",
+   "body": "Spanish says 'they sell me it'. When two little words come together, the one for the person (me, nos) goes first.",
+   "examples": [
+    {
+     "en": "They're selling it to me.",
+     "es": "Me lo venden."
+    },
+    {
+     "en": "Why don't they sell it to me?",
+     "es": "¿Por qué no me lo venden?"
+    }
+   ],
+   "t": 696.0
+  },
+  {
+   "title": "nos = us",
+   "body": "Algo isn't one of the little words, so it comes after the verb.",
+   "examples": [
+    {
+     "en": "They're selling us something.",
+     "es": "Nos venden algo."
+    },
+    {
+     "en": "They're not selling it to us.",
+     "es": "No nos lo venden."
+    }
+   ],
+   "t": 751.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "They contaminate.",
+   "es": [
+    "Contaminan"
+   ],
+   "why": "-ar verb: -an for they."
+  },
+  {
+   "id": "p2",
+   "en": "I'm selling it.",
+   "es": [
+    "Lo vendo",
+    "La vendo"
+   ],
+   "why": "vender → vendo; lo before the verb."
+  },
+  {
+   "id": "p3",
+   "en": "I'm selling the houses.",
+   "es": [
+    "Vendo las casas"
+   ],
+   "why": "las casas = the houses."
+  },
+  {
+   "id": "p4",
+   "en": "I'm selling them (the houses).",
+   "es": [
+    "Las vendo"
+   ],
+   "why": "Feminine things → las."
+  },
+  {
+   "id": "p5",
+   "en": "the diversity",
+   "es": [
+    "la diversidad"
+   ],
+   "why": "-ity → -idad, feminine."
+  },
+  {
+   "id": "p6",
+   "en": "the opportunity",
+   "es": [
+    "la oportunidad"
+   ],
+   "why": "-ity → -idad."
+  },
+  {
+   "id": "p7",
+   "en": "generous (women)",
+   "es": [
+    "generosas"
+   ],
+   "why": "generosa + s."
+  },
+  {
+   "id": "p8",
+   "en": "He sells something.",
+   "es": [
+    "Vende algo"
+   ],
+   "why": "-er verb: -e for he."
+  },
+  {
+   "id": "p9",
+   "en": "They're not selling it.",
+   "es": [
+    "No lo venden"
+   ],
+   "why": "-en for they; no lo before the verb."
+  },
+  {
+   "id": "p10",
+   "en": "They're selling it to me.",
+   "es": [
+    "Me lo venden"
+   ],
+   "why": "Person first: me lo."
+  },
+  {
+   "id": "p11",
+   "en": "Why don't they sell it to us?",
+   "es": [
+    "Por qué no nos lo venden",
+    "Porque no nos lo venden"
+   ],
+   "why": "nos (us) before lo."
+  },
+  {
+   "id": "p12",
+   "en": "They're selling us something.",
+   "es": [
+    "Nos venden algo"
+   ],
+   "why": "nos before the verb; algo after."
+  }
+ ],
+ "duration": 833.78,
+ "scId": 161498053
+}

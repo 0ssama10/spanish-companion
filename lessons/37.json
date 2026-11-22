@@ -1,0 +1,219 @@
+{
+ "id": "37",
+ "track": 37,
+ "title": "Future of dar, me doy cuenta, le / les = to him, to her, to them",
+ "cards": [
+  {
+   "title": "dar in the future",
+   "body": "'Will you give it to me?' here is a literal question about the future, not a polite request (for that, use 'can you').",
+   "examples": [
+    {
+     "en": "I will give",
+     "es": "daré"
+    },
+    {
+     "en": "Will you guys give it to me?",
+     "es": "¿Me lo darán?"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "First: who is doing the verb?",
+   "body": "",
+   "examples": [
+    {
+     "en": "They'll give you something.",
+     "es": "Te darán algo."
+    },
+    {
+     "en": "They won't give it to us.",
+     "es": "No nos lo darán."
+    }
+   ],
+   "t": 100.8
+  },
+  {
+   "title": "darse cuenta = to realise",
+   "body": "'I give myself account.' Realizar means to carry out a project. ¿Te das cuenta? is a very common 'you know what I mean?'.",
+   "examples": [
+    {
+     "en": "I realise.",
+     "es": "Me doy cuenta."
+    },
+    {
+     "en": "Do you realise? / You know?",
+     "es": "¿Te das cuenta?"
+    },
+    {
+     "en": "We realise.",
+     "es": "Nos damos cuenta."
+    }
+   ],
+   "t": 178.7
+  },
+  {
+   "title": "le / les = to him, her, them",
+   "body": "Me, te, nos don't change for 'to/for'. But lo/la become le, and los/las become les, when the meaning is 'to/for' the person.",
+   "examples": [
+    {
+     "en": "I give it.",
+     "es": "Lo doy."
+    },
+    {
+     "en": "I give (to) them.",
+     "es": "Les doy."
+    },
+    {
+     "en": "I'm giving them something.",
+     "es": "Les doy algo."
+    }
+   ],
+   "t": 275.1
+  },
+  {
+   "title": "le with haber",
+   "body": "Le can be to him, to her or to formal you.",
+   "examples": [
+    {
+     "en": "We've spoken to him / her.",
+     "es": "Le hemos hablado."
+    },
+    {
+     "en": "They've talked about it.",
+     "es": "Lo han hablado."
+    },
+    {
+     "en": "They've spoken to them.",
+     "es": "Les han hablado."
+    }
+   ],
+   "t": 417.7
+  },
+  {
+   "title": "Feel it: direct or indirect?",
+   "body": "Ignore whether English uses 'to' (you listen TO him but hear him). Ask: is the person cooked, or cooked for?",
+   "examples": [
+    {
+     "en": "He's cooking something for me / us / you.",
+     "es": "Me / Nos / Te cocina algo."
+    },
+    {
+     "en": "He's cooking him something.",
+     "es": "Le cocina algo."
+    },
+    {
+     "en": "He's cooking them (the tarts).",
+     "es": "Las cocina."
+    },
+    {
+     "en": "He's cooking them for us.",
+     "es": "Nos las cocina."
+    }
+   ],
+   "t": 606.5
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I will give.",
+   "es": [
+    "Daré"
+   ],
+   "why": "dar + é."
+  },
+  {
+   "id": "p2",
+   "en": "Will you guys give it to me?",
+   "es": [
+    "Me lo darán",
+    "Me la darán"
+   ],
+   "why": "¿Me lo darán?"
+  },
+  {
+   "id": "p3",
+   "en": "They'll give you (informal) something.",
+   "es": [
+    "Te darán algo"
+   ],
+   "why": "darán; te before."
+  },
+  {
+   "id": "p4",
+   "en": "They won't give it to us.",
+   "es": [
+    "No nos lo darán",
+    "No nos la darán"
+   ],
+   "why": "no + nos lo + darán."
+  },
+  {
+   "id": "p5",
+   "en": "I realise.",
+   "es": [
+    "Me doy cuenta"
+   ],
+   "why": "'I give myself account'."
+  },
+  {
+   "id": "p6",
+   "en": "Do you (informal) realise?",
+   "es": [
+    "Te das cuenta"
+   ],
+   "why": "¿Te das cuenta?"
+  },
+  {
+   "id": "p7",
+   "en": "I'm giving them something.",
+   "es": [
+    "Les doy algo"
+   ],
+   "why": "to them → les."
+  },
+  {
+   "id": "p8",
+   "en": "I've spoken to him.",
+   "es": [
+    "Le he hablado"
+   ],
+   "why": "to him → le."
+  },
+  {
+   "id": "p9",
+   "en": "They've spoken to them.",
+   "es": [
+    "Les han hablado"
+   ],
+   "why": "les + han hablado."
+  },
+  {
+   "id": "p10",
+   "en": "He's cooking him something.",
+   "es": [
+    "Le cocina algo"
+   ],
+   "why": "for him → le."
+  },
+  {
+   "id": "p11",
+   "en": "He's cooking them (the tarts) for us.",
+   "es": [
+    "Nos las cocina"
+   ],
+   "why": "Person first: nos las."
+  },
+  {
+   "id": "p12",
+   "en": "I'm speaking to them.",
+   "es": [
+    "Les hablo"
+   ],
+   "why": "les hablo."
+  }
+ ],
+ "duration": 799.92,
+ "scId": 162793570
+}

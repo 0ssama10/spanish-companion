@@ -1,0 +1,195 @@
+{
+ "id": "60",
+ "track": 60,
+ "title": "We in the dot past: hablamos, comimos, vivimos; cuando; a menudo",
+ "cards": [
+  {
+   "title": "hablamos = we speak / we spoke",
+   "body": "For -ar verbs, the dot-past we form is the same as the present. Context, like the other half of the sentence, usually makes it clear. Cuando = when.",
+   "examples": [
+    {
+     "en": "When we speak, I understand everything.",
+     "es": "Cuando hablamos, comprendo todo."
+    },
+    {
+     "en": "When we spoke, I understood everything.",
+     "es": "Cuando hablamos, comprendí todo."
+    },
+    {
+     "en": "We spoke yesterday. / We'll speak tomorrow.",
+     "es": "Hablamos ayer. / Hablamos mañana."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "esperamos; Spanglish to avoid",
+   "body": "Desesperado (desperate) comes from desesperar. English 'desperado' and 'no problemo' are mangled Spanish; it's ningún problema.",
+   "examples": [
+    {
+     "en": "We wait a lot.",
+     "es": "Esperamos mucho."
+    },
+    {
+     "en": "We waited a lot yesterday.",
+     "es": "Esperamos mucho ayer."
+    }
+   ],
+   "t": 166.2
+  },
+  {
+   "title": "-er: comemos → comimos; -ir: vivimos = vivimos",
+   "body": "In the past, -er verbs switch to -imos; -ir verbs look the same as the present.",
+   "examples": [
+    {
+     "en": "We didn't eat.",
+     "es": "No comimos."
+    },
+    {
+     "en": "we see / we saw",
+     "es": "vemos / vimos"
+    },
+    {
+     "en": "we lose / we lost",
+     "es": "perdemos / perdimos"
+    }
+   ],
+   "t": 270.6
+  },
+  {
+   "title": "Present vs past in one sentence",
+   "body": "",
+   "examples": [
+    {
+     "en": "We always get lost, but we didn't get lost yesterday.",
+     "es": "Siempre nos perdemos, pero no nos perdimos ayer."
+    }
+   ],
+   "t": 372.4
+  },
+  {
+   "title": "a menudo = often",
+   "body": "Menudo (small, linked to 'minute') is literary, but a menudo is very common.",
+   "examples": [
+    {
+     "en": "We don't go out often, but we went out yesterday.",
+     "es": "No salimos a menudo, pero salimos ayer."
+    }
+   ],
+   "t": 430.1
+  },
+  {
+   "title": "Recap with hook verbs",
+   "body": "",
+   "examples": [
+    {
+     "en": "I / he / we spoke · I / he / we ate",
+     "es": "hablé / habló / hablamos · comí / comió / comimos"
+    }
+   ],
+   "t": 474.4
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "When we spoke, I understood everything.",
+   "es": [
+    "Cuando hablamos comprendí todo",
+    "Cuando hablamos entendí todo"
+   ],
+   "why": "comprendí sets the past."
+  },
+  {
+   "id": "p2",
+   "en": "We spoke yesterday.",
+   "es": [
+    "Hablamos ayer"
+   ],
+   "why": "Same form; ayer gives context."
+  },
+  {
+   "id": "p3",
+   "en": "We'll speak tomorrow.",
+   "es": [
+    "Hablamos mañana"
+   ],
+   "why": "Present + mañana."
+  },
+  {
+   "id": "p4",
+   "en": "We waited a lot yesterday.",
+   "es": [
+    "Esperamos mucho ayer"
+   ],
+   "why": "esperamos."
+  },
+  {
+   "id": "p5",
+   "en": "desperate",
+   "es": [
+    "desesperado"
+   ],
+   "why": "Not 'desperado'."
+  },
+  {
+   "id": "p6",
+   "en": "We ate.",
+   "es": [
+    "Comimos"
+   ],
+   "why": "-er → -imos in the past."
+  },
+  {
+   "id": "p7",
+   "en": "We saw.",
+   "es": [
+    "Vimos"
+   ],
+   "why": "vimos."
+  },
+  {
+   "id": "p8",
+   "en": "We lost.",
+   "es": [
+    "Perdimos"
+   ],
+   "why": "perdimos."
+  },
+  {
+   "id": "p9",
+   "en": "We got lost.",
+   "es": [
+    "Nos perdimos"
+   ],
+   "why": "nos perdimos."
+  },
+  {
+   "id": "p10",
+   "en": "We always get lost, but we didn't get lost yesterday.",
+   "es": [
+    "Siempre nos perdemos pero no nos perdimos ayer",
+    "Nos perdemos siempre pero no nos perdimos ayer"
+   ],
+   "why": "perdemos vs perdimos."
+  },
+  {
+   "id": "p11",
+   "en": "often",
+   "es": [
+    "a menudo"
+   ],
+   "why": "a menudo."
+  },
+  {
+   "id": "p12",
+   "en": "We don't go out often, but we went out yesterday.",
+   "es": [
+    "No salimos a menudo pero salimos ayer"
+   ],
+   "why": "salimos = both."
+  }
+ ],
+ "duration": 506.04,
+ "scId": 163739616
+}

@@ -1,0 +1,207 @@
+{
+ "id": "47",
+ "track": 47,
+ "title": "cenar, quemar, romper, se for 'gets', estos / esos",
+ "cards": [
+  {
+   "title": "la cena, cenar",
+   "body": "Cenar (to dine) isn't formal in Spanish; it just means 'to have dinner'.",
+   "examples": [
+    {
+     "en": "I / he was having dinner.",
+     "es": "Cenaba."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "quemar = to burn",
+   "body": "",
+   "examples": [
+    {
+     "en": "He was burning the dinner.",
+     "es": "(Él) quemaba la cena."
+    },
+    {
+     "en": "You (formal) were burning the dinner.",
+     "es": "Usted quemaba la cena."
+    }
+   ],
+   "t": 70.7
+  },
+  {
+   "title": "The dinner was burning = se quemaba",
+   "body": "'La cena quemaba' sounds incomplete (burning what?). With nobody else involved, use se. Word order is flexible because the grammar carries the meaning.",
+   "examples": [
+    {
+     "en": "The dinner was burning.",
+     "es": "La cena se quemaba. / Se quemaba la cena."
+    }
+   ],
+   "t": 120.4
+  },
+  {
+   "title": "me quemo en el sol",
+   "body": "'Quemo en el sol' would mean you burn something in the sun.",
+   "examples": [
+    {
+     "en": "I get burnt in the sun.",
+     "es": "Me quemo en el sol."
+    },
+    {
+     "en": "The sun burns me.",
+     "es": "El sol me quema."
+    }
+   ],
+   "t": 205.5
+  },
+  {
+   "title": "romper = to break; todo el tiempo",
+   "body": "Think 'rupture'. Check the type (romper: -er) before adding se, so it's se rompe. Todo el tiempo = all the time.",
+   "examples": [
+    {
+     "en": "I break it.",
+     "es": "Lo rompo."
+    },
+    {
+     "en": "It breaks all the time.",
+     "es": "Se rompe todo el tiempo."
+    },
+    {
+     "en": "They break all the time.",
+     "es": "Se rompen todo el tiempo."
+    }
+   ],
+   "t": 278.0
+  },
+  {
+   "title": "estos / esos",
+   "body": "Este has the e of el; estos has the -os of los. Drop the t for 'that / those'.",
+   "examples": [
+    {
+     "en": "these cars / those cars",
+     "es": "estos coches / esos autos"
+    },
+    {
+     "en": "Those ones break all the time.",
+     "es": "Esos se rompen todo el tiempo."
+    }
+   ],
+   "t": 416.2
+  },
+  {
+   "title": "Which verbs need se?",
+   "body": "Some verbs need se when nothing else is affected (se rompe, se transforma); others don't (cambia, from cambiar, 'it changes'). Listening builds the intuition.",
+   "t": 537.6
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "the dinner",
+   "es": [
+    "la cena"
+   ],
+   "why": "la cena."
+  },
+  {
+   "id": "p2",
+   "en": "I was having dinner.",
+   "es": [
+    "Cenaba"
+   ],
+   "why": "cenar → cenaba."
+  },
+  {
+   "id": "p3",
+   "en": "He was burning the dinner.",
+   "es": [
+    "Quemaba la cena",
+    "Él quemaba la cena"
+   ],
+   "why": "quemaba + la cena."
+  },
+  {
+   "id": "p4",
+   "en": "The dinner was burning.",
+   "es": [
+    "La cena se quemaba",
+    "Se quemaba la cena"
+   ],
+   "why": "se: it got burnt."
+  },
+  {
+   "id": "p5",
+   "en": "I get burnt in the sun.",
+   "es": [
+    "Me quemo en el sol",
+    "Me quemo al sol"
+   ],
+   "why": "me quemo."
+  },
+  {
+   "id": "p6",
+   "en": "The sun burns me.",
+   "es": [
+    "El sol me quema",
+    "Me quema el sol"
+   ],
+   "why": "Complete without se."
+  },
+  {
+   "id": "p7",
+   "en": "I break it.",
+   "es": [
+    "Lo rompo",
+    "La rompo"
+   ],
+   "why": "romper → rompo."
+  },
+  {
+   "id": "p8",
+   "en": "It breaks all the time.",
+   "es": [
+    "Se rompe todo el tiempo"
+   ],
+   "why": "-er verb: rompe."
+  },
+  {
+   "id": "p9",
+   "en": "these cars",
+   "es": [
+    "estos coches",
+    "estos autos",
+    "estos carros"
+   ],
+   "why": "estos (not 'estes')."
+  },
+  {
+   "id": "p10",
+   "en": "those cars",
+   "es": [
+    "esos coches",
+    "esos autos",
+    "esos carros"
+   ],
+   "why": "Drop the t."
+  },
+  {
+   "id": "p11",
+   "en": "Those ones break all the time.",
+   "es": [
+    "Esos se rompen todo el tiempo"
+   ],
+   "why": "se rompen."
+  },
+  {
+   "id": "p12",
+   "en": "It changes.",
+   "es": [
+    "Cambia"
+   ],
+   "why": "cambiar doesn't need se here."
+  }
+ ],
+ "duration": 575.45,
+ "scId": 163245522
+}

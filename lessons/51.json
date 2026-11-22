@@ -1,0 +1,215 @@
+{
+ "id": "51",
+ "track": 51,
+ "title": "estoy para ti / por ti, por for exchanges, 'to' form after prepositions, false friends",
+ "cards": [
+  {
+   "title": "Estoy para ti = I'm there for you",
+   "body": "Estar already implies location, so no 'there' is needed. Knocking on a door or messaging: ¿Estás? On the phone: ¿Está Juan?",
+   "examples": [
+    {
+     "en": "I'm there for you.",
+     "es": "Estoy para ti."
+    },
+    {
+     "en": "Is Juan there?",
+     "es": "¿Está Juan?"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "por = because of (not 'porque de')",
+   "body": "",
+   "examples": [
+    {
+     "en": "I'm here because of you.",
+     "es": "Estoy por ti. / Estoy por usted."
+    },
+    {
+     "en": "I've come because of you.",
+     "es": "He venido por ti."
+    },
+    {
+     "en": "It's because of you that we've come.",
+     "es": "Es por ti que hemos venido."
+    }
+   ],
+   "t": 77.8
+  },
+  {
+   "title": "por for exchanges; cambiar",
+   "body": "",
+   "examples": [
+    {
+     "en": "I'd change this one for that one.",
+     "es": "Cambiaría este por ese."
+    },
+    {
+     "en": "Why wouldn't you swap these for those?",
+     "es": "¿Por qué no cambiarías estas por esas?"
+    }
+   ],
+   "t": 151.3
+  },
+  {
+   "title": "x = por",
+   "body": "Por is also 'times' in maths (ocho por ocho), so online you may see x for por: gracias x venir. Careful if you sign off with kisses as x!",
+   "t": 300.8
+  },
+  {
+   "title": "After prepositions: the 'to' form, not -ing",
+   "body": "English says 'thanks for calling'; Spanish uses the 'to' form after para, por, de, en, con, a.",
+   "examples": [
+    {
+     "en": "Thanks for calling me.",
+     "es": "Gracias por llamarme."
+    },
+    {
+     "en": "I'm tired of working.",
+     "es": "Estoy cansada de trabajar."
+    },
+    {
+     "en": "We were tired of working.",
+     "es": "Estábamos cansados de trabajar."
+    },
+    {
+     "en": "It's a way of doing it.",
+     "es": "Es una forma de hacerlo."
+    }
+   ],
+   "t": 348.4
+  },
+  {
+   "title": "creer = to believe; creo (two meanings)",
+   "body": "Creo is both 'I believe' (creer) and 'I create' (crear).",
+   "examples": [
+    {
+     "en": "I don't believe",
+     "es": "no creo"
+    }
+   ],
+   "t": 549.9
+  },
+  {
+   "title": "False friends: discutir, actual",
+   "body": "Discutir usually means 'to argue' (argüir is to argue a point). Actual means 'current' and actualmente 'currently'. Most Latin conversions are reliable, but watch for these.",
+   "examples": [
+    {
+     "en": "I don't believe in arguing like this.",
+     "es": "No creo en discutir de esta forma."
+    },
+    {
+     "en": "my current job",
+     "es": "mi trabajo actual"
+    }
+   ],
+   "t": 604.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I'm there for you (informal).",
+   "es": [
+    "Estoy para ti"
+   ],
+   "why": "estar + para ti."
+  },
+  {
+   "id": "p2",
+   "en": "Is Juan there?",
+   "es": [
+    "Está Juan",
+    "Juan está"
+   ],
+   "why": "¿Está Juan?"
+  },
+  {
+   "id": "p3",
+   "en": "I've come because of you (informal).",
+   "es": [
+    "He venido por ti"
+   ],
+   "why": "por = because of."
+  },
+  {
+   "id": "p4",
+   "en": "It's because of you (informal) that we've come.",
+   "es": [
+    "Es por ti que hemos venido"
+   ],
+   "why": "es por ti + que hemos venido."
+  },
+  {
+   "id": "p5",
+   "en": "I'd change this one for that one.",
+   "es": [
+    "Cambiaría este por ese",
+    "Cambiaría esta por esa"
+   ],
+   "why": "por for exchange."
+  },
+  {
+   "id": "p6",
+   "en": "Thanks for calling.",
+   "es": [
+    "Gracias por llamar"
+   ],
+   "why": "'To' form after por."
+  },
+  {
+   "id": "p7",
+   "en": "Thanks for calling me.",
+   "es": [
+    "Gracias por llamarme"
+   ],
+   "why": "llamarme."
+  },
+  {
+   "id": "p8",
+   "en": "I'm tired of working.",
+   "es": [
+    "Estoy cansado de trabajar",
+    "Estoy cansada de trabajar"
+   ],
+   "why": "de + trabajar."
+  },
+  {
+   "id": "p9",
+   "en": "We were tired of working.",
+   "es": [
+    "Estábamos cansados de trabajar",
+    "Estábamos cansadas de trabajar"
+   ],
+   "why": "estábamos."
+  },
+  {
+   "id": "p10",
+   "en": "It's a way of doing it.",
+   "es": [
+    "Es una forma de hacerlo",
+    "Es una manera de hacerlo"
+   ],
+   "why": "de + hacerlo."
+  },
+  {
+   "id": "p11",
+   "en": "I don't believe in arguing like this.",
+   "es": [
+    "No creo en discutir de esta forma"
+   ],
+   "why": "discutir = to argue."
+  },
+  {
+   "id": "p12",
+   "en": "currently",
+   "es": [
+    "actualmente"
+   ],
+   "why": "False friend: actualmente = currently."
+  }
+ ],
+ "duration": 740.0,
+ "scId": 163669331
+}

@@ -1,0 +1,63 @@
+{
+ "id": "90",
+ "track": 90,
+ "title": "Dialect variations, what to do next, and enjoying the journey",
+ "cards": [
+  {
+   "title": "Spain: le / les for people (leísmo)",
+   "body": "In most of Spain, le / les are used for people even as direct objects: le veo = I see him / her / you (formal); lo veo = I see it. Most of the Spanish-speaking world uses lo / la for people too.",
+   "examples": [
+    {
+     "en": "I see him (Spain / elsewhere)",
+     "es": "le veo / lo veo"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "vosotros; the aspirated s",
+   "body": "Vosotros is the informal plural 'you', used only in (most of) Spain. Many accents soften s to an h sound: 'ehtá' for está, 'ehpero' for espero.",
+   "t": 42.6
+  },
+  {
+   "title": "vos (Río de la Plata and beyond)",
+   "body": "Around Buenos Aires and Montevideo, and in about 30% of the Spanish-speaking world, vos replaces or mixes with tú. The verbs change slightly: the stress moves to the end, so the vowel doesn't split.",
+   "examples": [
+    {
+     "en": "you can / you want (vos)",
+     "es": "podés / querés"
+    }
+   ],
+   "t": 73.9
+  },
+  {
+   "title": "Speak like the people you hear",
+   "body": "The differences are minor. Copying the Spanish you hear most helps you understand it. Mixing with many dialects can give you a 'pan-Hispanic' accent, or have you switching accents, just like native speakers.",
+   "t": 104.4
+  },
+  {
+   "title": "Ahora somos hispanohablantes",
+   "body": "Now we speak Spanish. Practise, get exposure, then consider repeating the course: like rewatching a good film, it frees up attention for what you're still unsure of.",
+   "examples": [
+    {
+     "en": "Now we're Spanish speakers.",
+     "es": "Ahora somos hispanohablantes."
+    }
+   ],
+   "t": 165.2
+  },
+  {
+   "title": "Enjoy the journey; listening is its own skill",
+   "body": "Don't be put off if you understand less than you can say at first. Use music, films (match the subtitles to what you hear) and books, keep breaking down what you hear, and Spanish will seem to slow down.",
+   "t": 225.1
+  },
+  {
+   "title": "Support Language Transfer",
+   "body": "The course is free, independent and unfunded. If it helped you, share it and consider donating at languagetransfer.org.",
+   "t": 333.8
+  }
+ ],
+ "practice": [],
+ "duration": 413.1,
+ "scId": 165051952
+}

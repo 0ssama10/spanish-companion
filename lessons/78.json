@@ -1,0 +1,188 @@
+{
+ "id": "78",
+ "track": 78,
+ "title": "seguir + -ando, es probable que, gratis, empezar a / empezar -ando, terminar de / terminar -ando",
+ "cards": [
+  {
+   "title": "seguir + -ando = keep doing",
+   "body": "'It's probable that he continues' is how Spanish says 'he'll probably carry on'.",
+   "examples": [
+    {
+     "en": "I keep talking.",
+     "es": "Sigo hablando."
+    },
+    {
+     "en": "He'll probably keep talking.",
+     "es": "Es probable que siga hablando."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "gratis = free (of charge)",
+   "body": "Linked to English 'gratuitous'. The -ing of ser is siendo.",
+   "examples": [
+    {
+     "en": "It's essential that it stays free.",
+     "es": "Es imperativo que siga siendo gratis."
+    }
+   ],
+   "t": 83.6
+  },
+  {
+   "title": "empezar / comenzar a + 'to' form",
+   "body": "Apart from movement verbs, a handful of verbs need a preposition to join the next verb.",
+   "examples": [
+    {
+     "en": "It's amazing that they're starting to speak Spanish.",
+     "es": "Es espectacular que comiencen a hablar español."
+    }
+   ],
+   "t": 142.3
+  },
+  {
+   "title": "empezar + -ando = start out doing",
+   "body": "With -ing the meaning shifts to 'start out doing it from the beginning', with no a.",
+   "examples": [
+    {
+     "en": "… that they start out speaking Spanish.",
+     "es": "Es espectacular que comiencen hablando español."
+    }
+   ],
+   "t": 205.9
+  },
+  {
+   "title": "terminar de = finish doing",
+   "body": "Two mood tenses: after quiero que, and after cuando (future).",
+   "examples": [
+    {
+     "en": "I want you to talk to me when you finish selling them.",
+     "es": "Quiero que hablen conmigo cuando terminen de venderlos."
+    }
+   ],
+   "t": 272.5
+  },
+  {
+   "title": "terminar + -ando = end up doing",
+   "body": "A verb that joins with a preposition may also take -ing with a different meaning.",
+   "examples": [
+    {
+     "en": "… when you end up selling them.",
+     "es": "Quiero que hablen conmigo cuando terminen vendiéndolos."
+    }
+   ],
+   "t": 409.8
+  },
+  {
+   "title": "Learn it by noticing",
+   "body": "The vowel changes are hard to hear at first. Chatting online in writing lets you spot each a or e swap and work out why it was used.",
+   "t": 516.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I keep talking.",
+   "es": [
+    "Sigo hablando"
+   ],
+   "why": "seguir + -ando."
+  },
+  {
+   "id": "p2",
+   "en": "He'll probably keep talking.",
+   "es": [
+    "Es probable que siga hablando"
+   ],
+   "why": "siga (mood)."
+  },
+  {
+   "id": "p3",
+   "en": "free (of charge)",
+   "es": [
+    "gratis"
+   ],
+   "why": "gratis."
+  },
+  {
+   "id": "p4",
+   "en": "It's essential that it stays free.",
+   "es": [
+    "Es imperativo que siga siendo gratis",
+    "Es importante que siga siendo gratis"
+   ],
+   "why": "siga siendo."
+  },
+  {
+   "id": "p5",
+   "en": "to start to speak",
+   "es": [
+    "empezar a hablar",
+    "comenzar a hablar"
+   ],
+   "why": "a before the next verb."
+  },
+  {
+   "id": "p6",
+   "en": "It's amazing that they're starting to speak Spanish.",
+   "es": [
+    "Es espectacular que comiencen a hablar español",
+    "Es espectacular que empiecen a hablar español"
+   ],
+   "why": "mood + a."
+  },
+  {
+   "id": "p7",
+   "en": "… that they start out speaking Spanish.",
+   "es": [
+    "Es espectacular que comiencen hablando español",
+    "Es espectacular que empiecen hablando español"
+   ],
+   "why": "-ando, no a."
+  },
+  {
+   "id": "p8",
+   "en": "to finish selling",
+   "es": [
+    "terminar de vender"
+   ],
+   "why": "terminar de."
+  },
+  {
+   "id": "p9",
+   "en": "I want you (all) to talk to me.",
+   "es": [
+    "Quiero que hablen conmigo"
+   ],
+   "why": "hablen."
+  },
+  {
+   "id": "p10",
+   "en": "… when you (all) finish selling them.",
+   "es": [
+    "Cuando terminen de venderlos",
+    "Cuando terminen de venderlas"
+   ],
+   "why": "Future cuando → terminen."
+  },
+  {
+   "id": "p11",
+   "en": "… when you (all) end up selling them.",
+   "es": [
+    "Cuando terminen vendiéndolos",
+    "Cuando terminen vendiendolos"
+   ],
+   "why": "-ando = end up."
+  },
+  {
+   "id": "p12",
+   "en": "She keeps eating.",
+   "es": [
+    "Sigue comiendo"
+   ],
+   "why": "sigue + comiendo."
+  }
+ ],
+ "duration": 563.93,
+ "scId": 164759821
+}

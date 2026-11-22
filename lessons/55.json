@@ -1,0 +1,229 @@
+{
+ "id": "55",
+ "track": 55,
+ "title": "cancelado, complicado, debería haber, podría haber; irregulars: roto, muerto, abierto, dicho, hecho; f ↔ h",
+ "cards": [
+  {
+   "title": "cancelado, la fiesta",
+   "body": "Fiesta is related to festival (e → ie).",
+   "examples": [
+    {
+     "en": "It's cancelled (the party).",
+     "es": "Está cancelada."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "se ha complicado; es / está complicado",
+   "body": "Complicado can take either ser or estar, depending on what you're describing.",
+   "examples": [
+    {
+     "en": "It's got complicated.",
+     "es": "Se ha complicado."
+    },
+    {
+     "en": "It's complicated.",
+     "es": "Es complicado. / Está complicado."
+    }
+   ],
+   "t": 83.5
+  },
+  {
+   "title": "debería haber + -ado = should have",
+   "body": "",
+   "examples": [
+    {
+     "en": "I should have cancelled it.",
+     "es": "Debería haberlo cancelado. / Lo debería haber cancelado."
+    },
+    {
+     "en": "We could have gone.",
+     "es": "Podríamos haber ido."
+    }
+   ],
+   "t": 140.3
+  },
+  {
+   "title": "romper → roto",
+   "body": "There's no 'rompido'.",
+   "examples": [
+    {
+     "en": "I've broken them.",
+     "es": "Los he roto."
+    },
+    {
+     "en": "It has broken.",
+     "es": "Se ha roto."
+    },
+    {
+     "en": "It's broken.",
+     "es": "Está roto. / Está rota."
+    }
+   ],
+   "t": 282.8
+  },
+  {
+   "title": "morir → muerto",
+   "body": "(Se) ha muerto, with or without se. Muerto always goes with estar. Me muero ('I'm dying') is a common reaction to embarrassment, laughter or disbelief.",
+   "examples": [
+    {
+     "en": "He has died.",
+     "es": "(Se) ha muerto."
+    },
+    {
+     "en": "He's dead.",
+     "es": "Está muerto."
+    },
+    {
+     "en": "I'm dying! (of laughter etc.)",
+     "es": "¡Me muero!"
+    }
+   ],
+   "t": 368.6
+  },
+  {
+   "title": "abrir → abierto",
+   "body": "No h in abrir.",
+   "examples": [
+    {
+     "en": "I've opened it.",
+     "es": "Lo he abierto."
+    },
+    {
+     "en": "They're open.",
+     "es": "Están abiertos."
+    }
+   ],
+   "t": 527.7
+  },
+  {
+   "title": "decir → dicho, hacer → hecho",
+   "body": "Un dicho = a saying. Hecho = done / made (hecho en China); un hecho = a fact.",
+   "examples": [
+    {
+     "en": "I've told him.",
+     "es": "Le he dicho."
+    },
+    {
+     "en": "I should have done it.",
+     "es": "Debería haberlo hecho."
+    },
+    {
+     "en": "It's done.",
+     "es": "Está hecho."
+    }
+   ],
+   "t": 577.1
+  },
+  {
+   "title": "f ↔ silent h; w ↔ g",
+   "body": "Many Latin f's became a silent h in Spanish: fact / hecho, fable / hablar, fugitive / huir (to flee), fraternal / hermano, ferro- / hierro (iron), profundo / hondo (deep), fumar / humo (smoke). Also w ↔ g: war / guerra, William / Guillermo.",
+   "t": 763.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "It's cancelled (the party).",
+   "es": [
+    "Está cancelada"
+   ],
+   "why": "la fiesta → cancelada."
+  },
+  {
+   "id": "p2",
+   "en": "It's got complicated.",
+   "es": [
+    "Se ha complicado"
+   ],
+   "why": "se ha complicado."
+  },
+  {
+   "id": "p3",
+   "en": "I should have cancelled it.",
+   "es": [
+    "Debería haberlo cancelado",
+    "Lo debería haber cancelado"
+   ],
+   "why": "debería + haber + cancelado."
+  },
+  {
+   "id": "p4",
+   "en": "We could have gone.",
+   "es": [
+    "Podríamos haber ido"
+   ],
+   "why": "podríamos haber ido."
+  },
+  {
+   "id": "p5",
+   "en": "I've broken it.",
+   "es": [
+    "Lo he roto",
+    "La he roto"
+   ],
+   "why": "romper → roto."
+  },
+  {
+   "id": "p6",
+   "en": "It's broken (feminine thing).",
+   "es": [
+    "Está rota"
+   ],
+   "why": "rota."
+  },
+  {
+   "id": "p7",
+   "en": "He's dead.",
+   "es": [
+    "Está muerto"
+   ],
+   "why": "Always estar."
+  },
+  {
+   "id": "p8",
+   "en": "They're open.",
+   "es": [
+    "Están abiertos",
+    "Están abiertas"
+   ],
+   "why": "abrir → abierto."
+  },
+  {
+   "id": "p9",
+   "en": "I've told him.",
+   "es": [
+    "Le he dicho"
+   ],
+   "why": "decir → dicho; to him = le."
+  },
+  {
+   "id": "p10",
+   "en": "I've done it.",
+   "es": [
+    "Lo he hecho"
+   ],
+   "why": "hacer → hecho."
+  },
+  {
+   "id": "p11",
+   "en": "You (informal) should have done it.",
+   "es": [
+    "Deberías haberlo hecho",
+    "Lo deberías haber hecho"
+   ],
+   "why": "deberías haberlo hecho."
+  },
+  {
+   "id": "p12",
+   "en": "made in Spain",
+   "es": [
+    "hecho en España"
+   ],
+   "why": "hecho = made."
+  }
+ ],
+ "duration": 939.49,
+ "scId": 163737221
+}

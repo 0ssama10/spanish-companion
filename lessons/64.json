@@ -1,0 +1,225 @@
+{
+ "id": "64",
+ "track": 64,
+ "title": "hace = ago, responder, mes; you: -aste / -iste; they: -aron / -ieron; anoche",
+ "cards": [
+  {
+   "title": "hace = ago",
+   "body": "'It makes two weeks' = two weeks ago.",
+   "examples": [
+    {
+     "en": "I saw him two weeks ago.",
+     "es": "Lo vi hace dos semanas."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "responder; 'I answered her (the) mail'",
+   "body": "Spanish uses fewer possessives: 'I answered her it' instead of 'I answered her email'. Mes (month) is masculine.",
+   "examples": [
+    {
+     "en": "I answered her seven weeks ago.",
+     "es": "Le respondí hace siete semanas."
+    },
+    {
+     "en": "I answered it (her email) a month ago.",
+     "es": "Se lo respondí hace un mes."
+    },
+    {
+     "en": "he answered / we answered",
+     "es": "respondió / respondimos"
+    }
+   ],
+   "t": 55.0
+  },
+  {
+   "title": "Recap: discriminé, discriminó, discriminamos",
+   "body": "Read the vowels as written: discriminación has an i.",
+   "t": 238.1
+  },
+  {
+   "title": "you (informal): -aste / -iste",
+   "body": "Anoche = last night. Don't confuse it with esta noche (tonight).",
+   "examples": [
+    {
+     "en": "you spoke / you ate",
+     "es": "hablaste / comiste"
+    },
+    {
+     "en": "Didn't you eat it?",
+     "es": "¿No lo comiste?"
+    },
+    {
+     "en": "Didn't you go out last night?",
+     "es": "¿No saliste anoche?"
+    }
+   ],
+   "t": 290.0
+  },
+  {
+   "title": "viviste vs vivías",
+   "body": "Often both work; the difference is whether you picture a closed period or an ongoing one.",
+   "examples": [
+    {
+     "en": "Where did you live? / Where were you living?",
+     "es": "¿Dónde viviste? / ¿Dónde vivías?"
+    }
+   ],
+   "t": 395.5
+  },
+  {
+   "title": "esperaste, llegaste",
+   "body": "'When did you arrive?' is clearly a point in time.",
+   "examples": [
+    {
+     "en": "Why didn't you wait for me?",
+     "es": "¿Por qué no me esperaste?"
+    },
+    {
+     "en": "When did you arrive?",
+     "es": "¿Cuándo llegaste?"
+    }
+   ],
+   "t": 450.0
+  },
+  {
+   "title": "they: -aron / -ieron",
+   "body": "",
+   "examples": [
+    {
+     "en": "They prepared it.",
+     "es": "Lo prepararon."
+    },
+    {
+     "en": "They ate / they left",
+     "es": "comieron / salieron"
+    },
+    {
+     "en": "They sold them.",
+     "es": "Los vendieron."
+    }
+   ],
+   "t": 514.3
+  },
+  {
+   "title": "The full dot past — and its i",
+   "body": "In the present, -er/-ir verbs are dominated by e (with i only in -imos). In the dot past it's the reverse: i everywhere, e only in -ieron.",
+   "examples": [
+    {
+     "en": "hablar",
+     "es": "hablé, habló, hablamos, hablaste, hablaron"
+    },
+    {
+     "en": "comer",
+     "es": "comí, comió, comimos, comiste, comieron"
+    }
+   ],
+   "t": 570.8
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I saw him two weeks ago.",
+   "es": [
+    "Lo vi hace dos semanas"
+   ],
+   "why": "hace = ago."
+  },
+  {
+   "id": "p2",
+   "en": "I answered her seven weeks ago.",
+   "es": [
+    "Le respondí hace siete semanas"
+   ],
+   "why": "le respondí."
+  },
+  {
+   "id": "p3",
+   "en": "I answered it (her email) a month ago.",
+   "es": [
+    "Se lo respondí hace un mes"
+   ],
+   "why": "le lo → se lo."
+  },
+  {
+   "id": "p4",
+   "en": "You (informal) spoke.",
+   "es": [
+    "Hablaste"
+   ],
+   "why": "-aste."
+  },
+  {
+   "id": "p5",
+   "en": "Didn't you (informal) eat it?",
+   "es": [
+    "No lo comiste",
+    "No la comiste"
+   ],
+   "why": "-iste."
+  },
+  {
+   "id": "p6",
+   "en": "Didn't you (informal) go out last night?",
+   "es": [
+    "No saliste anoche"
+   ],
+   "why": "anoche = last night."
+  },
+  {
+   "id": "p7",
+   "en": "Where did you (informal) live?",
+   "es": [
+    "Dónde viviste",
+    "Dónde vivías"
+   ],
+   "why": "viviste / vivías."
+  },
+  {
+   "id": "p8",
+   "en": "Why didn't you (informal) wait for me?",
+   "es": [
+    "Por qué no me esperaste"
+   ],
+   "why": "esperaste."
+  },
+  {
+   "id": "p9",
+   "en": "When did you (informal) arrive?",
+   "es": [
+    "Cuándo llegaste"
+   ],
+   "why": "llegaste."
+  },
+  {
+   "id": "p10",
+   "en": "They prepared it.",
+   "es": [
+    "Lo prepararon",
+    "La prepararon"
+   ],
+   "why": "-aron."
+  },
+  {
+   "id": "p11",
+   "en": "They ate.",
+   "es": [
+    "Comieron"
+   ],
+   "why": "-ieron."
+  },
+  {
+   "id": "p12",
+   "en": "They sold them.",
+   "es": [
+    "Los vendieron",
+    "Las vendieron"
+   ],
+   "why": "vendieron."
+  }
+ ],
+ "duration": 804.18,
+ "scId": 163964904
+}

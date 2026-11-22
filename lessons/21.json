@@ -1,0 +1,215 @@
+{
+ "id": "21",
+ "track": 21,
+ "title": "The 'have' past: haber + -ado",
+ "cards": [
+  {
+   "title": "Three ways to talk about the past",
+   "body": "English and Spanish both have three main pasts: I ate, I was eating, I have eaten. The first you'll learn is 'I have eaten', built with the present of a 'have' verb.",
+   "t": 0
+  },
+  {
+   "title": "haber, not tener",
+   "body": "Tener is for possession (and tener que). For 'I have eaten / gone' Spanish uses haber (silent h). Haber is very irregular, but easy to remember from its two vowels, a and e.",
+   "t": 71.0
+  },
+  {
+   "title": "he = I have; hemos = we have",
+   "body": "He (silent h) is 'I have', formed like sé from saber. We is the plural of I, so add the we ending -mos: hemos.",
+   "caveat": "Verbs don't make plurals with -s; that's for nouns and adjectives.",
+   "t": 123.2
+  },
+  {
+   "title": "ha, han, has",
+   "body": "Full set: he, hemos (I, we) · ha, han, has (he/she/it/formal you, they, informal you).",
+   "t": 264.1
+  },
+  {
+   "title": "-ar → -ado",
+   "body": "For -ar verbs, drop -ar and add -ado. Put no in front of the haber form.",
+   "examples": [
+    {
+     "en": "I have spoken.",
+     "es": "He hablado."
+    },
+    {
+     "en": "I haven't spoken.",
+     "es": "No he hablado."
+    },
+    {
+     "en": "They have spoken.",
+     "es": "Han hablado."
+    }
+   ],
+   "t": 332.0
+  },
+  {
+   "title": "Used more than in English",
+   "body": "Spanish uses this 'have' past even more than English, so it can often stand in for 'I spoke' or 'did you…?'.",
+   "t": 409.9
+  },
+  {
+   "title": "Little words go before haber",
+   "body": "Anticipado isn't a 'to' form, so lo must go before the changed verb (hemos).",
+   "examples": [
+    {
+     "en": "We have anticipated it.",
+     "es": "Lo hemos anticipado."
+    }
+   ],
+   "t": 442.6
+  },
+  {
+   "title": "por = for (periods of time)",
+   "body": "As in por favor (please, 'for a favour'). 'For a long time' = 'for much time'.",
+   "examples": [
+    {
+     "en": "please",
+     "es": "por favor"
+    },
+    {
+     "en": "We've anticipated it for a long time.",
+     "es": "Lo hemos anticipado por mucho tiempo."
+    }
+   ],
+   "t": 481.9
+  },
+  {
+   "title": "Questions in the 'have' past",
+   "body": "",
+   "examples": [
+    {
+     "en": "Have you celebrated?",
+     "es": "¿Has celebrado?"
+    },
+    {
+     "en": "Why haven't you celebrated?",
+     "es": "¿Por qué no has celebrado?"
+    },
+    {
+     "en": "Where have you celebrated it?",
+     "es": "¿Dónde lo has celebrado?"
+    }
+   ],
+   "t": 557.5
+  },
+  {
+   "title": "Deconstruct before you speak",
+   "body": "Split the sentence into thoughts: she has (ha), taken (tomado), it (lo, before the changed verb). You can be sure and still be wrong; that's fine, but don't guess.",
+   "examples": [
+    {
+     "en": "I have taken.",
+     "es": "He tomado."
+    },
+    {
+     "en": "Has she taken it?",
+     "es": "¿Lo ha tomado?"
+    }
+   ],
+   "t": 645.4
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I have spoken.",
+   "es": [
+    "He hablado"
+   ],
+   "why": "he + hablado."
+  },
+  {
+   "id": "p2",
+   "en": "I haven't spoken.",
+   "es": [
+    "No he hablado"
+   ],
+   "why": "no before he."
+  },
+  {
+   "id": "p3",
+   "en": "We have spoken.",
+   "es": [
+    "Hemos hablado"
+   ],
+   "why": "hemos = we have."
+  },
+  {
+   "id": "p4",
+   "en": "They have spoken.",
+   "es": [
+    "Han hablado"
+   ],
+   "why": "han = they have."
+  },
+  {
+   "id": "p5",
+   "en": "Have you (informal) spoken?",
+   "es": [
+    "Has hablado"
+   ],
+   "why": "¿Has hablado?"
+  },
+  {
+   "id": "p6",
+   "en": "We have anticipated it.",
+   "es": [
+    "Lo hemos anticipado",
+    "La hemos anticipado"
+   ],
+   "why": "lo before hemos."
+  },
+  {
+   "id": "p7",
+   "en": "please",
+   "es": [
+    "por favor"
+   ],
+   "why": "'for a favour'."
+  },
+  {
+   "id": "p8",
+   "en": "We've anticipated it for a long time.",
+   "es": [
+    "Lo hemos anticipado por mucho tiempo"
+   ],
+   "why": "por mucho tiempo = for a long time."
+  },
+  {
+   "id": "p9",
+   "en": "Why haven't you (informal) celebrated?",
+   "es": [
+    "Por qué no has celebrado",
+    "Porque no has celebrado"
+   ],
+   "why": "no has celebrado."
+  },
+  {
+   "id": "p10",
+   "en": "Where have you (informal) celebrated it?",
+   "es": [
+    "Dónde lo has celebrado"
+   ],
+   "why": "dónde + lo has celebrado."
+  },
+  {
+   "id": "p11",
+   "en": "I have taken.",
+   "es": [
+    "He tomado"
+   ],
+   "why": "tomar → tomado."
+  },
+  {
+   "id": "p12",
+   "en": "Has she taken it?",
+   "es": [
+    "Lo ha tomado",
+    "La ha tomado"
+   ],
+   "why": "¿Lo ha tomado?"
+  }
+ ],
+ "duration": 733.23,
+ "scId": 162395829
+}

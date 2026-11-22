@@ -1,0 +1,238 @@
+{
+ "id": "16",
+ "track": 16,
+ "title": "empezar, o → ue stem change, dormir, encontrar, mostrar",
+ "cards": [
+  {
+   "title": "empezar = to start",
+   "body": "Comenzar ('commence') exists, but empezar is more common. Process: go back to the 'to' form (empezar, -ar), make the form (empeza), then let the stressed e split (empieza).",
+   "examples": [
+    {
+     "en": "I start",
+     "es": "empiezo"
+    },
+    {
+     "en": "he / she starts",
+     "es": "empieza"
+    },
+    {
+     "en": "When are you starting?",
+     "es": "¿Cuándo empiezas?"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Stressed o splits into ue",
+   "body": "The present tense stresses the second-to-last syllable, which makes a root e or o vulnerable: e → ie, o → ue. Poder (to be able) → puedo. El poder = the power (el = the, for masculine words).",
+   "examples": [
+    {
+     "en": "I can",
+     "es": "puedo"
+    },
+    {
+     "en": "the power",
+     "es": "el poder"
+    }
+   ],
+   "t": 83.9
+  },
+  {
+   "title": "o → ue between languages",
+   "body": "Spot it in related words. Rico = rich, nice or tasty.",
+   "examples": [
+    {
+     "en": "port",
+     "es": "puerto"
+    },
+    {
+     "en": "force",
+     "es": "fuerza"
+    },
+    {
+     "en": "school",
+     "es": "escuela"
+    },
+    {
+     "en": "body (corp-)",
+     "es": "cuerpo"
+    },
+    {
+     "en": "new (nov-)",
+     "es": "nuevo"
+    },
+    {
+     "en": "village / a people",
+     "es": "pueblo"
+    }
+   ],
+   "t": 165.8
+  },
+  {
+   "title": "muerte / muerto",
+   "body": "Mortgage = 'death pact' (mort = death). A noun is what you can put 'the' in front of: la muerte (death). The describing word is muerto / muerta (dead).",
+   "examples": [
+    {
+     "en": "death",
+     "es": "la muerte"
+    },
+    {
+     "en": "dead",
+     "es": "muerto / muerta"
+    }
+   ],
+   "t": 247.2
+  },
+  {
+   "title": "dormir = to sleep",
+   "body": "Think dormant, dormitory. Me duermo ('I sleep myself') = I fall asleep.",
+   "examples": [
+    {
+     "en": "I sleep",
+     "es": "duermo"
+    },
+    {
+     "en": "I'm falling asleep.",
+     "es": "Me duermo."
+    },
+    {
+     "en": "he sleeps / they sleep",
+     "es": "duerme / duermen"
+    }
+   ],
+   "t": 303.7
+  },
+  {
+   "title": "encontrar = to find (encounter)",
+   "body": "A verb form can also be a noun: un encuentro = an encounter; encuentro = I find.",
+   "examples": [
+    {
+     "en": "I find it.",
+     "es": "Lo encuentro."
+    },
+    {
+     "en": "an encounter",
+     "es": "un encuentro"
+    }
+   ],
+   "t": 351.1
+  },
+  {
+   "title": "mostrar → muestro",
+   "body": "Una muestra = a sample, sharing a form with muestra (he/she shows). One r, so no roll.",
+   "examples": [
+    {
+     "en": "I show",
+     "es": "muestro"
+    },
+    {
+     "en": "he shows / they show",
+     "es": "muestra / muestran"
+    }
+   ],
+   "t": 416.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I start.",
+   "es": [
+    "Empiezo"
+   ],
+   "why": "empezar → empiezo."
+  },
+  {
+   "id": "p2",
+   "en": "She starts.",
+   "es": [
+    "Empieza"
+   ],
+   "why": "-ar verb: empieza (not 'empieze')."
+  },
+  {
+   "id": "p3",
+   "en": "When are you (informal) starting?",
+   "es": [
+    "Cuándo empiezas"
+   ],
+   "why": "¿Cuándo empiezas?"
+  },
+  {
+   "id": "p4",
+   "en": "the power",
+   "es": [
+    "el poder"
+   ],
+   "why": "el + poder used as a noun."
+  },
+  {
+   "id": "p5",
+   "en": "school",
+   "es": [
+    "escuela"
+   ],
+   "why": "o → ue."
+  },
+  {
+   "id": "p6",
+   "en": "new",
+   "es": [
+    "nuevo"
+   ],
+   "why": "nov- → nuevo."
+  },
+  {
+   "id": "p7",
+   "en": "death",
+   "es": [
+    "la muerte",
+    "muerte"
+   ],
+   "why": "Noun: la muerte."
+  },
+  {
+   "id": "p8",
+   "en": "I sleep.",
+   "es": [
+    "Duermo"
+   ],
+   "why": "dormir → duermo."
+  },
+  {
+   "id": "p9",
+   "en": "I'm falling asleep.",
+   "es": [
+    "Me duermo"
+   ],
+   "why": "'I sleep myself'."
+  },
+  {
+   "id": "p10",
+   "en": "They sleep.",
+   "es": [
+    "Duermen"
+   ],
+   "why": "-ir verb: duermen."
+  },
+  {
+   "id": "p11",
+   "en": "I find it.",
+   "es": [
+    "Lo encuentro",
+    "La encuentro"
+   ],
+   "why": "encontrar → encuentro."
+  },
+  {
+   "id": "p12",
+   "en": "He shows.",
+   "es": [
+    "Muestra"
+   ],
+   "why": "mostrar → muestra."
+  }
+ ],
+ "duration": 458.48,
+ "scId": 161633805
+}

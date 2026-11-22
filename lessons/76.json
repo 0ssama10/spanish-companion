@@ -1,0 +1,165 @@
+{
+ "id": "76",
+ "track": 76,
+ "title": "hay / había (there is, there was), alguien, uncertain existence → mood tense, tiene que haber",
+ "cards": [
+  {
+   "title": "hay = there is / there are",
+   "body": "One word, from haber, that never changes. Alguien = somebody.",
+   "examples": [
+    {
+     "en": "There's someone here who wants to talk to you.",
+     "es": "Hay alguien aquí que quiere hablar con usted."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Unknown whether it exists → mood tense",
+   "body": "When asking whether someone or something exists, describe it with the mood tense. When stating what exists, use the normal tense.",
+   "examples": [
+    {
+     "en": "Is there anyone here who speaks Spanish?",
+     "es": "¿Hay alguien aquí que hable español?"
+    },
+    {
+     "en": "There are two people here who speak Spanish.",
+     "es": "Hay dos personas aquí que hablan español."
+    }
+   ],
+   "t": 81.7
+  },
+  {
+   "title": "había = there was / there were",
+   "body": "Never 'habían'. 'Spoke Spanish' here describes them as Spanish speakers (ongoing), so the line past fits; hablaron would mean they spoke it at that moment.",
+   "examples": [
+    {
+     "en": "There were two people here who spoke Spanish.",
+     "es": "Había dos personas aquí que hablaban español."
+    }
+   ],
+   "t": 159.6
+  },
+  {
+   "title": "'There has to be' = tiene que haber",
+   "body": "This 'be' means exist, so it's haber, not ser or estar.",
+   "examples": [
+    {
+     "en": "There must be something you can do.",
+     "es": "Tiene que haber algo que puedas hacer."
+    }
+   ],
+   "t": 290.8
+  },
+  {
+   "title": "The mood tense shows a value system",
+   "body": "What a language makes you express reveals what it values. The mood tense also varies by dialect and by person. Listen, analyse and enjoy it; don't obsess over getting it right.",
+   "t": 388.3
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "there is / there are",
+   "es": [
+    "hay"
+   ],
+   "why": "hay never changes."
+  },
+  {
+   "id": "p2",
+   "en": "somebody",
+   "es": [
+    "alguien"
+   ],
+   "why": "alguien."
+  },
+  {
+   "id": "p3",
+   "en": "There's someone here who wants to talk to you (formal).",
+   "es": [
+    "Hay alguien aquí que quiere hablar con usted",
+    "Hay alguien acá que quiere hablar con usted"
+   ],
+   "why": "Known to exist → quiere."
+  },
+  {
+   "id": "p4",
+   "en": "Is there anyone here who speaks Spanish?",
+   "es": [
+    "Hay alguien aquí que hable español",
+    "Hay alguien acá que hable español"
+   ],
+   "why": "Unknown → hable."
+  },
+  {
+   "id": "p5",
+   "en": "There are two people here who speak Spanish.",
+   "es": [
+    "Hay dos personas aquí que hablan español",
+    "Hay dos personas acá que hablan español"
+   ],
+   "why": "Fact → hablan."
+  },
+  {
+   "id": "p6",
+   "en": "there was / there were",
+   "es": [
+    "había"
+   ],
+   "why": "Never 'habían'."
+  },
+  {
+   "id": "p7",
+   "en": "There were two people here who spoke Spanish.",
+   "es": [
+    "Había dos personas aquí que hablaban español",
+    "Había dos personas acá que hablaban español"
+   ],
+   "why": "Line past: hablaban."
+  },
+  {
+   "id": "p8",
+   "en": "There must be something you (informal) can do.",
+   "es": [
+    "Tiene que haber algo que puedas hacer",
+    "Debe haber algo que puedas hacer"
+   ],
+   "why": "haber + puedas."
+  },
+  {
+   "id": "p9",
+   "en": "There's somebody.",
+   "es": [
+    "Hay alguien"
+   ],
+   "why": "hay alguien."
+  },
+  {
+   "id": "p10",
+   "en": "Is there something you (informal) can eat?",
+   "es": [
+    "Hay algo que puedas comer"
+   ],
+   "why": "Unknown → puedas."
+  },
+  {
+   "id": "p11",
+   "en": "There were problems.",
+   "es": [
+    "Había problemas"
+   ],
+   "why": "había (no plural)."
+  },
+  {
+   "id": "p12",
+   "en": "There are two people.",
+   "es": [
+    "Hay dos personas"
+   ],
+   "why": "hay."
+  }
+ ],
+ "duration": 490.97,
+ "scId": 164759819
+}

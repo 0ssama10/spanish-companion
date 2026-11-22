@@ -1,0 +1,178 @@
+{
+ "id": "61",
+ "track": 61,
+ "title": "Line + dot together, sonar, llegué, me quedé, me gustó / me gustaba, me pareció",
+ "cards": [
+  {
+   "title": "Line and dot together",
+   "body": "'I was cooking' is the line (background); 'the phone rang' is the dot (event). Teléfono is Greek: tele (far) + phone (voice). Sonar = to sound / ring.",
+   "examples": [
+    {
+     "en": "I was cooking when the phone rang.",
+     "es": "Cocinaba cuando sonó el teléfono."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "llegué, llegó; por teléfono",
+   "body": "Por can also mean 'by': por teléfono = on the phone.",
+   "examples": [
+    {
+     "en": "I arrived / he arrived / we arrived",
+     "es": "llegué / llegó / llegamos"
+    },
+    {
+     "en": "I was on the phone when María arrived.",
+     "es": "Hablaba por teléfono cuando llegó María."
+    }
+   ],
+   "t": 123.5
+  },
+  {
+   "title": "quedarse in the dot past",
+   "body": "",
+   "examples": [
+    {
+     "en": "I stayed / she stayed / we stayed",
+     "es": "me quedé / se quedó / nos quedamos"
+    }
+   ],
+   "t": 186.6
+  },
+  {
+   "title": "me gustó vs me gustaba",
+   "body": "'It pleased me' = me gustó (me gusté = I liked myself). Both past forms can work: gustó treats it as a closed event, gustaba as ongoing. English never says 'I wasn't liking it', so don't look for direct translations.",
+   "examples": [
+    {
+     "en": "I liked it.",
+     "es": "Me gustó."
+    },
+    {
+     "en": "I didn't like it.",
+     "es": "No me gustó. / No me gustaba."
+    }
+   ],
+   "t": 257.7
+  },
+  {
+   "title": "me pareció / me parecía",
+   "body": "Related to apparent, aparecer (to appear) and transparent.",
+   "examples": [
+    {
+     "en": "It seemed fine to me.",
+     "es": "Me pareció bien."
+    },
+    {
+     "en": "It seemed fine, but when I saw it I didn't like it.",
+     "es": "Me parecía bien, pero cuando lo vi no me gustó."
+    }
+   ],
+   "t": 345.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I was cooking when the phone rang.",
+   "es": [
+    "Cocinaba cuando sonó el teléfono",
+    "Cocinaba cuando el teléfono sonó"
+   ],
+   "why": "Line (cocinaba) + dot (sonó)."
+  },
+  {
+   "id": "p2",
+   "en": "I arrived.",
+   "es": [
+    "Llegué"
+   ],
+   "why": "llegar → llegué."
+  },
+  {
+   "id": "p3",
+   "en": "We arrived.",
+   "es": [
+    "Llegamos"
+   ],
+   "why": "llegamos."
+  },
+  {
+   "id": "p4",
+   "en": "I was on the phone when María arrived.",
+   "es": [
+    "Hablaba por teléfono cuando llegó María",
+    "Hablaba por teléfono cuando María llegó"
+   ],
+   "why": "por teléfono."
+  },
+  {
+   "id": "p5",
+   "en": "I stayed.",
+   "es": [
+    "Me quedé"
+   ],
+   "why": "me quedé."
+  },
+  {
+   "id": "p6",
+   "en": "She stayed.",
+   "es": [
+    "Se quedó"
+   ],
+   "why": "se quedó."
+  },
+  {
+   "id": "p7",
+   "en": "I liked it.",
+   "es": [
+    "Me gustó"
+   ],
+   "why": "'It pleased me'."
+  },
+  {
+   "id": "p8",
+   "en": "I didn't like it.",
+   "es": [
+    "No me gustó",
+    "No me gustaba"
+   ],
+   "why": "Either past works."
+  },
+  {
+   "id": "p9",
+   "en": "It seems fine to me.",
+   "es": [
+    "Me parece bien"
+   ],
+   "why": "me parece bien."
+  },
+  {
+   "id": "p10",
+   "en": "It seemed fine to me.",
+   "es": [
+    "Me pareció bien",
+    "Me parecía bien"
+   ],
+   "why": "pareció / parecía."
+  },
+  {
+   "id": "p11",
+   "en": "… but when I saw it, I didn't like it.",
+   "es": [
+    "Pero cuando lo vi no me gustó"
+   ],
+   "why": "Dot: vi, gustó."
+  },
+  {
+   "id": "p12",
+   "en": "to appear",
+   "es": [
+    "aparecer"
+   ],
+   "why": "parecer → aparecer."
+  }
+ ],
+ "duration": 479.27,
+ "scId": 163960051
+}

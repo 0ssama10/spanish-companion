@@ -1,0 +1,244 @@
+{
+ "id": "65",
+ "track": 65,
+ "title": "nada más, ver in the past, vez / otra vez, a la vez, possessives (mi, tu, nuestro, su), propio",
+ "cards": [
+  {
+   "title": "más = else",
+   "body": "The s and t in comiste both signal informal 'you', which helps you remember the ending.",
+   "examples": [
+    {
+     "en": "nobody else / nothing else",
+     "es": "nadie más / nada más"
+    },
+    {
+     "en": "Didn't you eat anything else?",
+     "es": "¿No comiste nada más?"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "ver: vi, vio, vimos, viste, vieron",
+   "body": "",
+   "examples": [
+    {
+     "en": "Didn't you see me last night?",
+     "es": "¿No me viste anoche?"
+    }
+   ],
+   "t": 97.2
+  },
+  {
+   "title": "la vez = time (occasion)",
+   "body": "Otra vez = 'other time' (no 'an'), meaning again. Nosotros = nos + otros, 'us others'.",
+   "examples": [
+    {
+     "en": "I saw him once.",
+     "es": "Lo vi una vez."
+    },
+    {
+     "en": "I want to see them one more time.",
+     "es": "Quiero verlos una vez más."
+    },
+    {
+     "en": "Did you go out dancing again?",
+     "es": "¿Saliste a bailar otra vez?"
+    }
+   ],
+   "t": 146.3
+  },
+  {
+   "title": "llegaste / llegó tarde otra vez",
+   "body": "Here Spanish does use -ing: 'wanting to speak with me'.",
+   "examples": [
+    {
+     "en": "Did you arrive late again?",
+     "es": "¿Llegaste tarde otra vez?"
+    },
+    {
+     "en": "He came to my house again, wanting to talk to me.",
+     "es": "Llegó a mi casa otra vez queriendo hablar conmigo."
+    }
+   ],
+   "t": 347.4
+  },
+  {
+   "title": "mi, tu; ¿a qué hora?; a la vez",
+   "body": "Mi casa es tu casa. Todos = everybody (also todo el mundo).",
+   "examples": [
+    {
+     "en": "What time did they arrive at your house?",
+     "es": "¿A qué hora llegaron a tu casa?"
+    },
+    {
+     "en": "Everybody arrived at my house at the same time.",
+     "es": "Todos llegaron a mi casa a la vez."
+    },
+    {
+     "en": "I didn't find anything else in your house.",
+     "es": "No encontré nada más en tu casa."
+    }
+   ],
+   "t": 457.8
+  },
+  {
+   "title": "nuestro = our; agreement",
+   "body": "Possessives agree with the thing owned: mi → mis; nuestro → nuestra / nuestros / nuestras.",
+   "examples": [
+    {
+     "en": "Did you visit our house?",
+     "es": "¿Visitaste nuestra casa?"
+    },
+    {
+     "en": "We're with our friends.",
+     "es": "Estamos con nuestros amigos."
+    },
+    {
+     "en": "I'm with my friends.",
+     "es": "Estoy con mis amigos."
+    }
+   ],
+   "t": 608.9
+  },
+  {
+   "title": "su = his / her / their / your (formal)",
+   "body": "Su(s) agrees with the thing owned, not the owner: their house = su casa; his houses = sus casas.",
+   "examples": [
+    {
+     "en": "I want to go to his / their house.",
+     "es": "Quiero ir a su casa."
+    },
+    {
+     "en": "I want to go to their houses.",
+     "es": "Quiero ir a sus casas."
+    }
+   ],
+   "t": 727.0
+  },
+  {
+   "title": "propio = own; el ojo = eye",
+   "body": "",
+   "examples": [
+    {
+     "en": "my own car",
+     "es": "mi propio auto"
+    },
+    {
+     "en": "I saw it with my own eyes.",
+     "es": "Lo vi con mis propios ojos."
+    },
+    {
+     "en": "I want to live in my own house.",
+     "es": "Quiero vivir en mi propia casa."
+    }
+   ],
+   "t": 816.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "nobody else",
+   "es": [
+    "nadie más"
+   ],
+   "why": "más = else."
+  },
+  {
+   "id": "p2",
+   "en": "Didn't you (informal) eat anything else?",
+   "es": [
+    "No comiste nada más"
+   ],
+   "why": "comiste + nada más."
+  },
+  {
+   "id": "p3",
+   "en": "Didn't you (informal) see me last night?",
+   "es": [
+    "No me viste anoche"
+   ],
+   "why": "viste."
+  },
+  {
+   "id": "p4",
+   "en": "They saw them once.",
+   "es": [
+    "Los vieron una vez",
+    "Las vieron una vez"
+   ],
+   "why": "una vez."
+  },
+  {
+   "id": "p5",
+   "en": "I want to see them again.",
+   "es": [
+    "Quiero verlos otra vez",
+    "Los quiero ver otra vez",
+    "Quiero verlas otra vez"
+   ],
+   "why": "otra vez = again."
+  },
+  {
+   "id": "p6",
+   "en": "Did you (informal) arrive late again?",
+   "es": [
+    "Llegaste tarde otra vez"
+   ],
+   "why": "llegaste."
+  },
+  {
+   "id": "p7",
+   "en": "What time did they arrive at your (informal) house?",
+   "es": [
+    "A qué hora llegaron a tu casa"
+   ],
+   "why": "¿A qué hora…?"
+  },
+  {
+   "id": "p8",
+   "en": "Everybody arrived at the same time.",
+   "es": [
+    "Todos llegaron a la vez",
+    "Todo el mundo llegó a la vez"
+   ],
+   "why": "a la vez."
+  },
+  {
+   "id": "p9",
+   "en": "We're with our friends.",
+   "es": [
+    "Estamos con nuestros amigos",
+    "Estamos con nuestras amigas"
+   ],
+   "why": "nuestros agrees."
+  },
+  {
+   "id": "p10",
+   "en": "I want to go to their house.",
+   "es": [
+    "Quiero ir a su casa"
+   ],
+   "why": "su — one house."
+  },
+  {
+   "id": "p11",
+   "en": "I want to go to his houses.",
+   "es": [
+    "Quiero ir a sus casas"
+   ],
+   "why": "sus — several houses."
+  },
+  {
+   "id": "p12",
+   "en": "I saw it with my own eyes.",
+   "es": [
+    "Lo vi con mis propios ojos"
+   ],
+   "why": "mis propios ojos."
+  }
+ ],
+ "duration": 906.21,
+ "scId": 163967151
+}

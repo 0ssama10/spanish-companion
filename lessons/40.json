@@ -1,0 +1,205 @@
+{
+ "id": "40",
+ "track": 40,
+ "title": "Prepositions differ: enamorarse de, pensar en, soñar con; conmigo, contigo; depender de",
+ "cards": [
+  {
+   "title": "Prepositions change between languages",
+   "body": "English falls in love 'with'; Spanish 'of'. Look at such differences with curiosity, asking what they say about how we see the world, rather than memorising them blindly. That also makes them easier to remember.",
+   "t": 0
+  },
+  {
+   "title": "enamorarse de",
+   "body": "The dictionary lists enamorarse, but it's still an -ar verb with se hooked on.",
+   "examples": [
+    {
+     "en": "I fall in love with you.",
+     "es": "Me enamoro de ti."
+    },
+    {
+     "en": "I'm falling in love with him.",
+     "es": "Me estoy enamorando de él. / Estoy enamorándome de él."
+    }
+   ],
+   "t": 148.9
+  },
+  {
+   "title": "pensar en = to think about",
+   "body": "Literally 'think in', probably from contact with Arabic, which says it the same way.",
+   "examples": [
+    {
+     "en": "I'm thinking about you.",
+     "es": "Pienso en ti."
+    },
+    {
+     "en": "We think about her.",
+     "es": "Pensamos en ella."
+    }
+   ],
+   "t": 238.3
+  },
+  {
+   "title": "soñar con = to dream about",
+   "body": "Ñ sounds like 'ny' (mañana). Soñar splits when stressed: sueño, but soñamos. Spanish dreams 'with' someone.",
+   "examples": [
+    {
+     "en": "I dream about her.",
+     "es": "Sueño con ella.",
+     "say": "SWEH-nyoh"
+    },
+    {
+     "en": "He dreams about him.",
+     "es": "Sueña con él."
+    },
+    {
+     "en": "we dream",
+     "es": "soñamos"
+    }
+   ],
+   "t": 330.6
+  },
+  {
+   "title": "conmigo, contigo",
+   "body": "With me = conmigo, with you (informal) = contigo, each written as one word.",
+   "examples": [
+    {
+     "en": "Why don't you want to come with me?",
+     "es": "¿Por qué no quieres venir conmigo?"
+    },
+    {
+     "en": "Can you come with me?",
+     "es": "¿Puedes venir conmigo?"
+    },
+    {
+     "en": "I dream about you.",
+     "es": "Sueño contigo."
+    },
+    {
+     "en": "I'm going with you.",
+     "es": "Voy contigo."
+    }
+   ],
+   "t": 509.6
+  },
+  {
+   "title": "depender de = to depend on",
+   "body": "Check the verb type first: depender is -er, so depende.",
+   "examples": [
+    {
+     "en": "It depends on her.",
+     "es": "Depende de ella."
+    },
+    {
+     "en": "It depends on whether she wants to go.",
+     "es": "Depende de si quiere ir."
+    }
+   ],
+   "t": 678.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I'm falling in love with you (informal).",
+   "es": [
+    "Me enamoro de ti",
+    "Me estoy enamorando de ti",
+    "Estoy enamorándome de ti"
+   ],
+   "why": "enamorarse de."
+  },
+  {
+   "id": "p2",
+   "en": "I'm falling in love with him.",
+   "es": [
+    "Me enamoro de él",
+    "Me estoy enamorando de él",
+    "Estoy enamorándome de él"
+   ],
+   "why": "de él."
+  },
+  {
+   "id": "p3",
+   "en": "I'm thinking about you (informal).",
+   "es": [
+    "Pienso en ti",
+    "Estoy pensando en ti"
+   ],
+   "why": "pensar en."
+  },
+  {
+   "id": "p4",
+   "en": "We think about her.",
+   "es": [
+    "Pensamos en ella"
+   ],
+   "why": "pensamos en ella."
+  },
+  {
+   "id": "p5",
+   "en": "I dream about her.",
+   "es": [
+    "Sueño con ella"
+   ],
+   "why": "soñar con."
+  },
+  {
+   "id": "p6",
+   "en": "We dream.",
+   "es": [
+    "Soñamos"
+   ],
+   "why": "No split in the we form."
+  },
+  {
+   "id": "p7",
+   "en": "with me",
+   "es": [
+    "conmigo"
+   ],
+   "why": "One word."
+  },
+  {
+   "id": "p8",
+   "en": "Do you (informal) want to come with me?",
+   "es": [
+    "Quieres venir conmigo"
+   ],
+   "why": "¿Quieres venir conmigo?"
+  },
+  {
+   "id": "p9",
+   "en": "You (informal) have to come with me.",
+   "es": [
+    "Tienes que venir conmigo"
+   ],
+   "why": "tienes que + venir conmigo."
+  },
+  {
+   "id": "p10",
+   "en": "I'm going with you (informal).",
+   "es": [
+    "Voy contigo"
+   ],
+   "why": "contigo."
+  },
+  {
+   "id": "p11",
+   "en": "It depends on her.",
+   "es": [
+    "Depende de ella"
+   ],
+   "why": "depender de."
+  },
+  {
+   "id": "p12",
+   "en": "It depends on whether she wants to go.",
+   "es": [
+    "Depende de si quiere ir"
+   ],
+   "why": "de si = on whether."
+  }
+ ],
+ "duration": 759.75,
+ "scId": 162794632
+}

@@ -1,0 +1,220 @@
+{
+ "id": "72",
+ "track": 72,
+ "title": "Commands: mood tense for orders, little words after positive commands, the informal shortcut",
+ "cards": [
+  {
+   "title": "Orders use the mood tense",
+   "body": "'Don't speak' = 'you don't speak' in the mood tense. Ahí / allí = there.",
+   "examples": [
+    {
+     "en": "Don't speak.",
+     "es": "No hables."
+    },
+    {
+     "en": "Don't stay there.",
+     "es": "No te quedes ahí."
+    },
+    {
+     "en": "Don't give it to him.",
+     "es": "No se lo des (a él)."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Positive commands: little words go at the end",
+   "body": "For positive commands, me / lo / se attach after the verb, written as one word. That helps the ear notice it's a command. Negative commands keep them in front.",
+   "examples": [
+    {
+     "en": "Wait (you all)! / Wait for me!",
+     "es": "¡Esperen! / ¡Espérenme!"
+    },
+    {
+     "en": "Don't wait for them.",
+     "es": "No los esperen."
+    },
+    {
+     "en": "Eat it (formal / all) — don't eat it",
+     "es": "Cómalo / Cómanlo — No lo coma / No lo coman"
+    }
+   ],
+   "t": 174.9
+  },
+  {
+   "title": "olvidar(se): a verb that doesn't like being alone",
+   "body": "Linked to 'oblivion'. Say what's forgotten (lo olvido), or add the -self word (me olvido). No te lo olvides puts both in.",
+   "examples": [
+    {
+     "en": "Forget it (formal) / Forget (formal)",
+     "es": "Olvídelo / Olvídese"
+    },
+    {
+     "en": "Don't forget!",
+     "es": "¡No te olvides! / ¡No se olviden!"
+    },
+    {
+     "en": "Let's not forget (it).",
+     "es": "No nos olvidemos. / No lo olvidemos."
+    }
+   ],
+   "t": 311.5
+  },
+  {
+   "title": "Compren lo que falta",
+   "body": "",
+   "examples": [
+    {
+     "en": "Buy what's missing (you all).",
+     "es": "Compren lo que falta."
+    }
+   ],
+   "t": 457.9
+  },
+  {
+   "title": "The shortcut: positive informal = drop the s",
+   "body": "Telling a friend to do something is so common that Spanish takes a shortcut: the tú form minus s (compras → compra). Tone of voice and the attached words make it clear it's an order. Negative informal commands still use the mood tense.",
+   "examples": [
+    {
+     "en": "Buy it for me!",
+     "es": "¡Cómpramelo!"
+    },
+    {
+     "en": "Forget it!",
+     "es": "¡Olvídalo! / ¡Olvídate!"
+    },
+    {
+     "en": "Eat it! — Don't eat it!",
+     "es": "¡Cómelo! — ¡No lo comas!"
+    },
+    {
+     "en": "Sell it! — Don't sell it!",
+     "es": "¡Véndelo! — ¡No lo vendas!"
+    }
+   ],
+   "t": 514.5
+  },
+  {
+   "title": "¡Cállate! = Shut up!",
+   "body": "Callar = to quieten; callarse = to shut up. Not polite!",
+   "examples": [
+    {
+     "en": "Shut up! (one / several people)",
+     "es": "¡Cállate! / ¡Cállense!"
+    }
+   ],
+   "t": 738.4
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "Don't speak! (informal)",
+   "es": [
+    "No hables"
+   ],
+   "why": "Mood tense."
+  },
+  {
+   "id": "p2",
+   "en": "Don't stay here! (informal)",
+   "es": [
+    "No te quedes aquí",
+    "No te quedes acá"
+   ],
+   "why": "quedes."
+  },
+  {
+   "id": "p3",
+   "en": "Don't give it to him! (informal)",
+   "es": [
+    "No se lo des",
+    "No se lo des a él"
+   ],
+   "why": "se lo des."
+  },
+  {
+   "id": "p4",
+   "en": "Wait for me! (you all)",
+   "es": [
+    "Espérenme",
+    "Esperenme"
+   ],
+   "why": "me attached."
+  },
+  {
+   "id": "p5",
+   "en": "Don't wait for them! (you all)",
+   "es": [
+    "No los esperen"
+   ],
+   "why": "Negative: los in front."
+  },
+  {
+   "id": "p6",
+   "en": "Eat it! (formal)",
+   "es": [
+    "Cómalo",
+    "Comalo"
+   ],
+   "why": "coma + lo."
+  },
+  {
+   "id": "p7",
+   "en": "Don't forget! (informal)",
+   "es": [
+    "No te olvides",
+    "No lo olvides",
+    "No te lo olvides"
+   ],
+   "why": "olvides."
+  },
+  {
+   "id": "p8",
+   "en": "Let's not forget it.",
+   "es": [
+    "No lo olvidemos"
+   ],
+   "why": "olvidemos."
+  },
+  {
+   "id": "p9",
+   "en": "Buy it! (informal)",
+   "es": [
+    "Cómpralo",
+    "Compralo"
+   ],
+   "why": "compras − s."
+  },
+  {
+   "id": "p10",
+   "en": "Forget it! (informal)",
+   "es": [
+    "Olvídalo",
+    "Olvidalo",
+    "Olvídate",
+    "Olvidate"
+   ],
+   "why": "olvidas − s."
+  },
+  {
+   "id": "p11",
+   "en": "Don't sell it! (informal)",
+   "es": [
+    "No lo vendas"
+   ],
+   "why": "Negative → mood tense."
+  },
+  {
+   "id": "p12",
+   "en": "Shut up! (informal)",
+   "es": [
+    "Cállate",
+    "Callate"
+   ],
+   "why": "callarse."
+  }
+ ],
+ "duration": 780.62,
+ "scId": 164759814
+}

@@ -1,0 +1,167 @@
+{
+ "id": "89",
+ "track": 89,
+ "title": "Make your own rules: demasiado, el agua, un / algún / ningún",
+ "cards": [
+  {
+   "title": "Make your own rules",
+   "body": "The course hasn't covered every detail, but it has given you the analytical tools to work out new patterns yourself as you practise and listen.",
+   "t": 0
+  },
+  {
+   "title": "demasiado = too (much / many)",
+   "body": "De más ('of more'): tengo cuatro de más = I have four too many. With a noun it agrees (demasiadas casas); with an adjective it doesn't (demasiado agresiva). Identifying the word type explains it.",
+   "examples": [
+    {
+     "en": "too many houses / cars",
+     "es": "demasiadas casas / demasiados coches"
+    },
+    {
+     "en": "too aggressive (any gender)",
+     "es": "demasiado agresivo / agresiva / agresivos"
+    }
+   ],
+   "t": 75.5
+  },
+  {
+   "title": "el agua: feminine but with el",
+   "body": "Two-syllable feminine words that start with a stressed a take el: el ala (wing), el agua (water), el aula (classroom). They stay feminine: el agua fría. Longer ones keep la: la alfombra, la almohada.",
+   "examples": [
+    {
+     "en": "the cold water",
+     "es": "el agua fría"
+    }
+   ],
+   "t": 227.5
+  },
+  {
+   "title": "uno → un, alguno → algún, ninguno → ningún",
+   "body": "Before a masculine noun they lose the final o. Feminine forms don't change: una, alguna, ninguna.",
+   "examples": [
+    {
+     "en": "I want one. / I don't want any.",
+     "es": "Quiero uno. / No quiero ninguno."
+    },
+    {
+     "en": "a car / some car / no car",
+     "es": "un coche / algún coche / ningún coche"
+    },
+    {
+     "en": "a woman / some woman / no woman",
+     "es": "una mujer / alguna mujer / ninguna mujer"
+    }
+   ],
+   "t": 341.0
+  },
+  {
+   "title": "Control the language, then live in it",
+   "body": "Analyse whatever you don't understand so it doesn't control you. Once the technical problems are solved, you can live freely in Spanish and become another version of yourself in it.",
+   "t": 429.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "too many houses",
+   "es": [
+    "demasiadas casas"
+   ],
+   "why": "Agrees with a noun."
+  },
+  {
+   "id": "p2",
+   "en": "too many cars",
+   "es": [
+    "demasiados coches",
+    "demasiados autos",
+    "demasiados carros"
+   ],
+   "why": "demasiados."
+  },
+  {
+   "id": "p3",
+   "en": "too aggressive (she)",
+   "es": [
+    "demasiado agresiva"
+   ],
+   "why": "No change before an adjective."
+  },
+  {
+   "id": "p4",
+   "en": "I have four too many.",
+   "es": [
+    "Tengo cuatro de más"
+   ],
+   "why": "de más."
+  },
+  {
+   "id": "p5",
+   "en": "the water",
+   "es": [
+    "el agua"
+   ],
+   "why": "el before a stressed a-."
+  },
+  {
+   "id": "p6",
+   "en": "the cold water",
+   "es": [
+    "el agua fría"
+   ],
+   "why": "Still feminine: fría."
+  },
+  {
+   "id": "p7",
+   "en": "the classroom",
+   "es": [
+    "el aula"
+   ],
+   "why": "el aula."
+  },
+  {
+   "id": "p8",
+   "en": "I want one.",
+   "es": [
+    "Quiero uno",
+    "Quiero una"
+   ],
+   "why": "uno alone."
+  },
+  {
+   "id": "p9",
+   "en": "I don't want any car.",
+   "es": [
+    "No quiero ningún coche",
+    "No quiero ningún auto",
+    "No quiero ningún carro"
+   ],
+   "why": "ninguno → ningún."
+  },
+  {
+   "id": "p10",
+   "en": "some man",
+   "es": [
+    "algún hombre"
+   ],
+   "why": "alguno → algún."
+  },
+  {
+   "id": "p11",
+   "en": "no woman",
+   "es": [
+    "ninguna mujer"
+   ],
+   "why": "Feminine keeps -a."
+  },
+  {
+   "id": "p12",
+   "en": "a man",
+   "es": [
+    "un hombre"
+   ],
+   "why": "uno → un."
+  }
+ ],
+ "duration": 497.84,
+ "scId": 165004822
+}

@@ -1,0 +1,198 @@
+{
+ "id": "23",
+ "track": 23,
+ "title": "-ma words are masculine, sentir, getting lost (me he perdido)",
+ "cards": [
+  {
+   "title": "Recap: haber",
+   "body": "he, hemos · ha, has, han.",
+   "t": 0
+  },
+  {
+   "title": "-ma words are masculine",
+   "body": "Most -a words are feminine, but a small group ending in -ma are masculine: el problema. A very common learner error is 'la problema'.",
+   "examples": [
+    {
+     "en": "the problem",
+     "es": "el problema"
+    },
+    {
+     "en": "Have you (formal) understood the problem?",
+     "es": "¿Ha entendido el problema?"
+    }
+   ],
+   "t": 38.8
+  },
+  {
+   "title": "Why: they came from Greek",
+   "body": "These words were neuter in Greek, and Greek neuter words look like masculine ones, so they were taken as masculine. If it ends in -ma, it's probably Greek and masculine.",
+   "examples": [
+    {
+     "en": "the system",
+     "es": "el sistema"
+    },
+    {
+     "en": "Have you understood the system?",
+     "es": "¿Has entendido el sistema?"
+    }
+   ],
+   "t": 103.6
+  },
+  {
+   "title": "sentir = to feel (and to smell)",
+   "body": "Related to 'sensation'. It can also mean 'perceive', for example a smell.",
+   "examples": [
+    {
+     "en": "Have you smelt the aroma?",
+     "es": "¿Has sentido el aroma?"
+    },
+    {
+     "en": "the programme / the climate",
+     "es": "el programa / el clima"
+    }
+   ],
+   "t": 172.4
+  },
+  {
+   "title": "Getting lost = losing yourself",
+   "body": "Spanish doesn't say 'get lost / get ready'; it says 'lose myself', 'ready myself'. In speech the two e's of me he blend together.",
+   "examples": [
+    {
+     "en": "I've got lost.",
+     "es": "Me he perdido."
+    },
+    {
+     "en": "I'VE got lost.",
+     "es": "Yo me he perdido."
+    }
+   ],
+   "t": 252.3
+  },
+  {
+   "title": "te = you / yourself; nos = us / ourselves",
+   "body": "",
+   "examples": [
+    {
+     "en": "You've got lost.",
+     "es": "(Tú) te has perdido."
+    },
+    {
+     "en": "We've lost it.",
+     "es": "Lo hemos perdido."
+    },
+    {
+     "en": "We've got lost.",
+     "es": "(Nosotros) nos hemos perdido."
+    }
+   ],
+   "t": 344.1
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "the problem",
+   "es": [
+    "el problema"
+   ],
+   "why": "-ma words are masculine."
+  },
+  {
+   "id": "p2",
+   "en": "Have you (formal) understood the problem?",
+   "es": [
+    "Ha entendido el problema",
+    "Ha comprendido el problema"
+   ],
+   "why": "¿Ha entendido el problema?"
+  },
+  {
+   "id": "p3",
+   "en": "the system",
+   "es": [
+    "el sistema"
+   ],
+   "why": "From Greek: masculine."
+  },
+  {
+   "id": "p4",
+   "en": "Have you (informal) understood the system?",
+   "es": [
+    "Has entendido el sistema",
+    "Has comprendido el sistema"
+   ],
+   "why": "has + entendido."
+  },
+  {
+   "id": "p5",
+   "en": "Have you (informal) smelt the aroma?",
+   "es": [
+    "Has sentido el aroma"
+   ],
+   "why": "sentir → sentido."
+  },
+  {
+   "id": "p6",
+   "en": "the programme",
+   "es": [
+    "el programa"
+   ],
+   "why": "Masculine -ma word."
+  },
+  {
+   "id": "p7",
+   "en": "I've got lost.",
+   "es": [
+    "Me he perdido",
+    "Yo me he perdido"
+   ],
+   "why": "'I have lost myself'."
+  },
+  {
+   "id": "p8",
+   "en": "YOU (informal) have lost.",
+   "es": [
+    "Tú has perdido"
+   ],
+   "why": "tú + has."
+  },
+  {
+   "id": "p9",
+   "en": "You (informal) have got lost.",
+   "es": [
+    "Te has perdido",
+    "Tú te has perdido"
+   ],
+   "why": "te = yourself."
+  },
+  {
+   "id": "p10",
+   "en": "We've lost it.",
+   "es": [
+    "Lo hemos perdido",
+    "La hemos perdido"
+   ],
+   "why": "lo before hemos."
+  },
+  {
+   "id": "p11",
+   "en": "We've got lost.",
+   "es": [
+    "Nos hemos perdido",
+    "Nosotros nos hemos perdido",
+    "Nosotras nos hemos perdido"
+   ],
+   "why": "nos = ourselves."
+  },
+  {
+   "id": "p12",
+   "en": "the climate",
+   "es": [
+    "el clima"
+   ],
+   "why": "Masculine -ma word."
+  }
+ ],
+ "duration": 418.66,
+ "scId": 162399120
+}

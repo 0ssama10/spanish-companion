@@ -1,0 +1,234 @@
+{
+ "id": "36",
+ "track": 36,
+ "title": "con ellos, the future tense: 'to' form + -é, -emos, -á, -án, -ás",
+ "cards": [
+  {
+   "title": "con ellos = with them",
+   "body": "After con, Spanish uses ellos ('with they').",
+   "examples": [
+    {
+     "en": "I'm having breakfast with them tomorrow.",
+     "es": "Desayuno con ellos mañana."
+    },
+    {
+     "en": "I'm going to have breakfast with them.",
+     "es": "Voy a desayunar con ellos."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Recap: haber",
+   "body": "he, hemos · ha, han, has. Little words go before haber.",
+   "examples": [
+    {
+     "en": "I have slept.",
+     "es": "He dormido."
+    },
+    {
+     "en": "They've recommended it.",
+     "es": "Lo han recomendado."
+    }
+   ],
+   "t": 117.5
+  },
+  {
+   "title": "The future: 'to' form + haber endings",
+   "body": "Keep the whole 'to' form (-ar, -er or -ir, it doesn't matter) and add the haber sounds: -é, -emos, -á, -án, -ás. The stress moves onto the ending, 'pushed into the future'.",
+   "examples": [
+    {
+     "en": "I will eat",
+     "es": "comeré"
+    },
+    {
+     "en": "we / he / they / you will eat",
+     "es": "comeremos / comerá / comerán / comerás"
+    }
+   ],
+   "t": 231.6
+  },
+  {
+   "title": "ir in the future is regular",
+   "body": "",
+   "examples": [
+    {
+     "en": "I will go / they will go",
+     "es": "iré / irán"
+    },
+    {
+     "en": "They'll go to Iran.",
+     "es": "Irán a Irán."
+    },
+    {
+     "en": "Why won't you go?",
+     "es": "¿Por qué no irás?"
+    }
+   ],
+   "t": 363.7
+  },
+  {
+   "title": "Who does it, and to whom?",
+   "body": "Treat the doer and the object as separate thoughts.",
+   "examples": [
+    {
+     "en": "We'll find it.",
+     "es": "Lo encontraremos."
+    },
+    {
+     "en": "She'll find them.",
+     "es": "Los encontrará."
+    }
+   ],
+   "t": 415.9
+  },
+  {
+   "title": "Me quedaré",
+   "body": "Keep me for the meaning 'stay'.",
+   "examples": [
+    {
+     "en": "I'll stay here.",
+     "es": "Me quedaré aquí."
+    }
+   ],
+   "t": 510.5
+  },
+  {
+   "title": "Think out the whole verb first",
+   "body": "A common mistake is 'preparé'. Say the full preparar, then add the ending: prepararé.",
+   "examples": [
+    {
+     "en": "I will prepare / wait",
+     "es": "prepararé / esperaré"
+    },
+    {
+     "en": "They will organise.",
+     "es": "Organizarán."
+    }
+   ],
+   "t": 540.4
+  },
+  {
+   "title": "estaré, será",
+   "body": "The future is simple to form, but used less in Spanish than the present or ir a.",
+   "examples": [
+    {
+     "en": "I'll be tired.",
+     "es": "Estaré cansado."
+    },
+    {
+     "en": "Whatever will be, will be.",
+     "es": "Que será, será."
+    }
+   ],
+   "t": 607.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I'm having breakfast with them tomorrow.",
+   "es": [
+    "Desayuno con ellos mañana",
+    "Desayuno con ellas mañana"
+   ],
+   "why": "con ellos."
+  },
+  {
+   "id": "p2",
+   "en": "They've recommended it.",
+   "es": [
+    "Lo han recomendado",
+    "La han recomendado"
+   ],
+   "why": "lo before han."
+  },
+  {
+   "id": "p3",
+   "en": "I will eat.",
+   "es": [
+    "Comeré"
+   ],
+   "why": "comer + é."
+  },
+  {
+   "id": "p4",
+   "en": "We will eat.",
+   "es": [
+    "Comeremos"
+   ],
+   "why": "comer + emos."
+  },
+  {
+   "id": "p5",
+   "en": "I will go.",
+   "es": [
+    "Iré"
+   ],
+   "why": "ir + é."
+  },
+  {
+   "id": "p6",
+   "en": "Why won't you (informal) go?",
+   "es": [
+    "Por qué no irás",
+    "Porque no irás"
+   ],
+   "why": "irás."
+  },
+  {
+   "id": "p7",
+   "en": "We will find it.",
+   "es": [
+    "Lo encontraremos",
+    "La encontraremos"
+   ],
+   "why": "encontrar + emos."
+  },
+  {
+   "id": "p8",
+   "en": "She will find them.",
+   "es": [
+    "Los encontrará",
+    "Las encontrará"
+   ],
+   "why": "encontrará; los for them."
+  },
+  {
+   "id": "p9",
+   "en": "I will stay here.",
+   "es": [
+    "Me quedaré aquí",
+    "Me quedaré acá"
+   ],
+   "why": "me + quedaré."
+  },
+  {
+   "id": "p10",
+   "en": "I will prepare.",
+   "es": [
+    "Prepararé"
+   ],
+   "why": "Whole verb + é (not 'preparé')."
+  },
+  {
+   "id": "p11",
+   "en": "They will organise.",
+   "es": [
+    "Organizarán"
+   ],
+   "why": "organizar + án."
+  },
+  {
+   "id": "p12",
+   "en": "I will be tired.",
+   "es": [
+    "Estaré cansado",
+    "Estaré cansada"
+   ],
+   "why": "estar + é."
+  }
+ ],
+ "duration": 662.99,
+ "scId": 162793151
+}

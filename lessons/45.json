@@ -1,0 +1,224 @@
+{
+ "id": "45",
+ "track": 45,
+ "title": "gustar with le / les, interesar, parecer, me parece bien, ponerle sal",
+ "cards": [
+  {
+   "title": "Start with the verb: nos gusta",
+   "body": "It is pleasing (gusta) to us (nos), so not 'nos gustamos'.",
+   "examples": [
+    {
+     "en": "We like it.",
+     "es": "Nos gusta."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "gustar = to be pleasing TO",
+   "body": "Store it with 'to', because it takes le / les (to him/her/them), not lo / la.",
+   "examples": [
+    {
+     "en": "She likes it.",
+     "es": "Le gusta."
+    },
+    {
+     "en": "They like it.",
+     "es": "Les gusta."
+    },
+    {
+     "en": "They like them.",
+     "es": "Les gustan."
+    }
+   ],
+   "t": 55.0
+  },
+  {
+   "title": "interesar = to be interesting to",
+   "body": "Interesante is the adjective; interesar (ending in -ar) is a verb. It works like gustar.",
+   "examples": [
+    {
+     "en": "Why doesn't it interest you?",
+     "es": "¿Por qué no te interesa?"
+    },
+    {
+     "en": "They're interested in it.",
+     "es": "Les interesa."
+    },
+    {
+     "en": "Is she interested in going out dancing tonight?",
+     "es": "¿Le interesa salir a bailar esta noche?"
+    },
+    {
+     "en": "Would it interest you?",
+     "es": "¿Te interesaría?"
+    }
+   ],
+   "t": 150.6
+  },
+  {
+   "title": "parecer = to seem (to)",
+   "body": "Check the verb type first: parecer is -er, so me parece. Que = that (and qué = what, just as English that → what with a w).",
+   "examples": [
+    {
+     "en": "It seems to me (that) he doesn't want to go out tonight.",
+     "es": "Me parece que no quiere salir esta noche."
+    }
+   ],
+   "t": 365.5
+  },
+  {
+   "title": "que is obligatory",
+   "body": "English can drop 'that'; Spanish can't.",
+   "examples": [
+    {
+     "en": "It seems to me he doesn't like it.",
+     "es": "Me parece que no le gusta."
+    }
+   ],
+   "t": 476.8
+  },
+  {
+   "title": "me parece bien = sounds good to me",
+   "body": "Spanish uses bien (well) where English might say 'good'. You'll pick up the bueno / bien grey area by listening.",
+   "examples": [
+    {
+     "en": "It seems fine to me.",
+     "es": "Me parece bien."
+    },
+    {
+     "en": "Doesn't it seem OK to you (formal)?",
+     "es": "¿No le parece bien?"
+    },
+    {
+     "en": "I'd be interested in seeing it.",
+     "es": "Me interesaría verlo."
+    }
+   ],
+   "t": 511.4
+  },
+  {
+   "title": "poner; 'on it' = le",
+   "body": "'Put salt on it' = 'put it salt', with le (to/on it).",
+   "examples": [
+    {
+     "en": "I want to put it here.",
+     "es": "Quiero ponerlo aquí."
+    },
+    {
+     "en": "I'd like to put a little more salt on it.",
+     "es": "Me gustaría ponerle un poco más (de) sal."
+    },
+    {
+     "en": "… on them (the chips)",
+     "es": "Me gustaría ponerles un poco más (de) sal."
+    }
+   ],
+   "t": 584.6
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "We like it.",
+   "es": [
+    "Nos gusta"
+   ],
+   "why": "'It pleases us': gusta."
+  },
+  {
+   "id": "p2",
+   "en": "She likes it.",
+   "es": [
+    "Le gusta"
+   ],
+   "why": "to her → le."
+  },
+  {
+   "id": "p3",
+   "en": "They like them.",
+   "es": [
+    "Les gustan"
+   ],
+   "why": "'They please them': les gustan."
+  },
+  {
+   "id": "p4",
+   "en": "Why doesn't it interest you (informal)?",
+   "es": [
+    "Por qué no te interesa",
+    "Porque no te interesa"
+   ],
+   "why": "te interesa."
+  },
+  {
+   "id": "p5",
+   "en": "They're interested in it.",
+   "es": [
+    "Les interesa"
+   ],
+   "why": "les interesa."
+  },
+  {
+   "id": "p6",
+   "en": "Would it interest you (informal)?",
+   "es": [
+    "Te interesaría"
+   ],
+   "why": "interesar + ía."
+  },
+  {
+   "id": "p7",
+   "en": "It seems to me.",
+   "es": [
+    "Me parece"
+   ],
+   "why": "parecer is -er: parece."
+  },
+  {
+   "id": "p8",
+   "en": "It seems to me he doesn't want to go out tonight.",
+   "es": [
+    "Me parece que no quiere salir esta noche"
+   ],
+   "why": "que is required."
+  },
+  {
+   "id": "p9",
+   "en": "It seems to me he doesn't like it.",
+   "es": [
+    "Me parece que no le gusta"
+   ],
+   "why": "no le gusta."
+  },
+  {
+   "id": "p10",
+   "en": "Sounds good to me.",
+   "es": [
+    "Me parece bien"
+   ],
+   "why": "bien, not bueno."
+  },
+  {
+   "id": "p11",
+   "en": "I want to put it here.",
+   "es": [
+    "Quiero ponerlo aquí",
+    "Lo quiero poner aquí",
+    "Quiero ponerlo acá"
+   ],
+   "why": "poner + lo."
+  },
+  {
+   "id": "p12",
+   "en": "I'd like to put a little more salt on it.",
+   "es": [
+    "Me gustaría ponerle un poco más sal",
+    "Me gustaría ponerle un poco más de sal"
+   ],
+   "why": "ponerle = put on it."
+  }
+ ],
+ "duration": 771.6,
+ "scId": 163139517
+}

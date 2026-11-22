@@ -1,0 +1,286 @@
+{
+ "id": "17",
+ "track": 17,
+ "title": "Stem changes in all forms, colgar, Arabic words, tomar, we (-amos)",
+ "cards": [
+  {
+   "title": "The split happens in most forms",
+   "body": "Querer: quiero, quiere, quieren, quieres. Perder: pierdo, pierde, pierden, pierdes.",
+   "examples": [
+    {
+     "en": "What do you want?",
+     "es": "¿Qué quieres?"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Not always: experiment",
+   "body": "Comer → como doesn't split. There's no way to know in advance; try it, get feedback, and your intuition develops.",
+   "examples": [
+    {
+     "en": "I eat",
+     "es": "como"
+    }
+   ],
+   "t": 107.6
+  },
+  {
+   "title": "colgar = to hang",
+   "body": "Go back to the 'to' form (colgar, -ar) to avoid 'cuelge'.",
+   "examples": [
+    {
+     "en": "I hang",
+     "es": "cuelgo"
+    },
+    {
+     "en": "he hangs",
+     "es": "cuelga"
+    },
+    {
+     "en": "She hangs them.",
+     "es": "Los cuelga."
+    }
+   ],
+   "t": 135.7
+  },
+  {
+   "title": "al- words come from Arabic",
+   "body": "Al- means 'the' in Arabic and is written as part of the word, so these words came in with it attached: alcohol is literally 'the alcohol'.",
+   "t": 200.8
+  },
+  {
+   "title": "tomar = to take / to drink",
+   "body": "Tomar is 'to take' and is also used for drinking.",
+   "examples": [
+    {
+     "en": "I don't drink alcohol.",
+     "es": "No tomo alcohol."
+    }
+   ],
+   "t": 234.0
+  },
+  {
+   "title": "azúcar, arroz — al- that blended in",
+   "body": "In Arabic, the l of al- blends into many following sounds, giving azúcar (sugar) and arroz (rice, from al-ruz). English took these words without the 'the'. Spanish never writes ss, but rr marks the rolled r.",
+   "examples": [
+    {
+     "en": "I don't take sugar.",
+     "es": "No tomo azúcar.",
+     "say": "ah-SOO-kar"
+    },
+    {
+     "en": "I want rice.",
+     "es": "Quiero arroz."
+    }
+   ],
+   "t": 359.9
+  },
+  {
+   "title": "More Arabic in Spanish",
+   "body": "Southern Spain was part of the Muslim world for about 800 years, so Spanish has many Arabic words English lacks.",
+   "examples": [
+    {
+     "en": "algebra",
+     "es": "álgebra"
+    },
+    {
+     "en": "oil",
+     "es": "aceite"
+    },
+    {
+     "en": "olive",
+     "es": "aceituna"
+    },
+    {
+     "en": "carpet / pillow",
+     "es": "alfombra / almohada"
+    }
+   ],
+   "t": 396.6
+  },
+  {
+   "title": "¿Qué tomas? and beber",
+   "body": "¿Qué tomas? can mean 'what are you having to drink?'. Beber also means to drink; una bebida = a drink.",
+   "examples": [
+    {
+     "en": "What are you having?",
+     "es": "¿Qué tomas?"
+    },
+    {
+     "en": "a drink",
+     "es": "una bebida"
+    }
+   ],
+   "t": 433.9
+  },
+  {
+   "title": "we = -amos",
+   "body": "Take off -ar and add -amos. The stress moves: toMAmos, haBLAmos.",
+   "examples": [
+    {
+     "en": "we take",
+     "es": "tomamos"
+    },
+    {
+     "en": "we speak",
+     "es": "hablamos"
+    }
+   ],
+   "t": 478.9
+  },
+  {
+   "title": "No stress, no split",
+   "body": "In the we form the root vowel isn't stressed, so it doesn't split.",
+   "examples": [
+    {
+     "en": "I find / we find",
+     "es": "encuentro / encontramos"
+    },
+    {
+     "en": "I show / we show",
+     "es": "muestro / mostramos"
+    },
+    {
+     "en": "I think / we think",
+     "es": "pienso / pensamos"
+    }
+   ],
+   "t": 571.7
+  },
+  {
+   "title": "Pienso que sí; ¿qué piensas hacer?",
+   "body": "'I think so' = 'I think that yes'. '¿Qué piensas hacer?' = what do you plan to do?",
+   "examples": [
+    {
+     "en": "I think so.",
+     "es": "Pienso que sí."
+    },
+    {
+     "en": "What do you plan to do?",
+     "es": "¿Qué piensas hacer?"
+    }
+   ],
+   "t": 694.0
+  },
+  {
+   "title": "cerrar = to close",
+   "body": "Stem change only where stressed.",
+   "examples": [
+    {
+     "en": "I close / she closes",
+     "es": "cierro / cierra"
+    },
+    {
+     "en": "we close",
+     "es": "cerramos"
+    }
+   ],
+   "t": 758.9
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "What do you (informal) want?",
+   "es": [
+    "Qué quieres"
+   ],
+   "why": "¿Qué quieres? — quer- splits to quier-."
+  },
+  {
+   "id": "p2",
+   "en": "They lose.",
+   "es": [
+    "Pierden"
+   ],
+   "why": "perder → pierden."
+  },
+  {
+   "id": "p3",
+   "en": "She hangs them.",
+   "es": [
+    "Los cuelga",
+    "Las cuelga"
+   ],
+   "why": "colgar is -ar: cuelga."
+  },
+  {
+   "id": "p4",
+   "en": "I don't drink alcohol.",
+   "es": [
+    "No tomo alcohol",
+    "No bebo alcohol"
+   ],
+   "why": "tomar is used for drinking."
+  },
+  {
+   "id": "p5",
+   "en": "I want rice.",
+   "es": [
+    "Quiero arroz"
+   ],
+   "why": "arroz, from Arabic al-ruz."
+  },
+  {
+   "id": "p6",
+   "en": "What are you (informal) having (to drink)?",
+   "es": [
+    "Qué tomas"
+   ],
+   "why": "¿Qué tomas?"
+  },
+  {
+   "id": "p7",
+   "en": "We speak.",
+   "es": [
+    "Hablamos"
+   ],
+   "why": "-ar → -amos."
+  },
+  {
+   "id": "p8",
+   "en": "We find it.",
+   "es": [
+    "Lo encontramos",
+    "La encontramos"
+   ],
+   "why": "Unstressed o: no split."
+  },
+  {
+   "id": "p9",
+   "en": "We show.",
+   "es": [
+    "Mostramos"
+   ],
+   "why": "No split in the we form."
+  },
+  {
+   "id": "p10",
+   "en": "I think so.",
+   "es": [
+    "Pienso que sí",
+    "Creo que sí"
+   ],
+   "why": "'I think that yes'."
+  },
+  {
+   "id": "p11",
+   "en": "What do you (informal) plan to do?",
+   "es": [
+    "Qué piensas hacer"
+   ],
+   "why": "piensas + hacer."
+  },
+  {
+   "id": "p12",
+   "en": "We close.",
+   "es": [
+    "Cerramos"
+   ],
+   "why": "cerrar → cerramos (no split)."
+  }
+ ],
+ "duration": 802.64,
+ "scId": 161633806
+}

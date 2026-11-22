@@ -1,0 +1,200 @@
+{
+ "id": "46",
+ "track": 46,
+ "title": "Three pasts; the 'line' past for -ar verbs: -aba",
+ "cards": [
+  {
+   "title": "Three pasts: have, line, dot",
+   "body": "All the English ways fit into three Spanish pasts: 'I have eaten' (haber); a line in the past (I was eating, I used to eat, I would eat every week as a child); and a dot in the past (I ate, finished).",
+   "t": 0
+  },
+  {
+   "title": "Recap: haber + -ado / -ido",
+   "body": "The -ado / -ido form never changes; only haber does. Only the futures add onto the full 'to' form.",
+   "examples": [
+    {
+     "en": "I have eaten / danced",
+     "es": "he comido / he bailado"
+    },
+    {
+     "en": "I haven't been able to eat.",
+     "es": "No he podido comer."
+    }
+   ],
+   "t": 88.6
+  },
+  {
+   "title": "habría + -ido",
+   "body": "Divide it up: first habría, then salido. Don't translate it as one block.",
+   "examples": [
+    {
+     "en": "I would have gone out.",
+     "es": "Habría salido."
+    },
+    {
+     "en": "I wouldn't have been able to go out.",
+     "es": "No habría podido salir."
+    }
+   ],
+   "t": 252.4
+  },
+  {
+   "title": "The line past: -ar → -aba",
+   "body": "For ongoing past (was …ing, used to …), take off -ar and add -aba. Like 'would', the I form is the same as he/she/it/formal you. We form: -ábamos (stress stays on the same a).",
+   "examples": [
+    {
+     "en": "I / he was speaking, used to speak",
+     "es": "hablaba"
+    },
+    {
+     "en": "you were / they were / we were speaking",
+     "es": "hablabas / hablaban / hablábamos"
+    }
+   ],
+   "t": 359.6
+  },
+  {
+   "title": "esperaba",
+   "body": "Lo / la also mean formal you.",
+   "examples": [
+    {
+     "en": "I was waiting for you.",
+     "es": "Te esperaba."
+    },
+    {
+     "en": "… (formal)",
+     "es": "Lo esperaba. / La esperaba."
+    },
+    {
+     "en": "We were waiting for you guys.",
+     "es": "Los esperábamos."
+    }
+   ],
+   "t": 461.6
+  },
+  {
+   "title": "intentaba",
+   "body": "Spanish usually avoids the preposition (encontrármelo). Use para mí only to emphasise.",
+   "examples": [
+    {
+     "en": "They were trying to find it.",
+     "es": "Intentaban encontrarlo."
+    },
+    {
+     "en": "They were trying to find it for me.",
+     "es": "Intentaban encontrármelo."
+    },
+    {
+     "en": "… for ME",
+     "es": "Intentaban encontrarlo para mí."
+    }
+   ],
+   "t": 537.4
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I have danced.",
+   "es": [
+    "He bailado"
+   ],
+   "why": "he + bailado."
+  },
+  {
+   "id": "p2",
+   "en": "I haven't been able to eat.",
+   "es": [
+    "No he podido comer"
+   ],
+   "why": "no he podido + comer."
+  },
+  {
+   "id": "p3",
+   "en": "I would have gone out.",
+   "es": [
+    "Habría salido"
+   ],
+   "why": "habría + salido."
+  },
+  {
+   "id": "p4",
+   "en": "I was speaking.",
+   "es": [
+    "Hablaba"
+   ],
+   "why": "-ar → -aba."
+  },
+  {
+   "id": "p5",
+   "en": "They used to speak.",
+   "es": [
+    "Hablaban"
+   ],
+   "why": "-aban."
+  },
+  {
+   "id": "p6",
+   "en": "We were speaking.",
+   "es": [
+    "Hablábamos"
+   ],
+   "why": "-ábamos."
+  },
+  {
+   "id": "p7",
+   "en": "I was waiting for you (informal).",
+   "es": [
+    "Te esperaba"
+   ],
+   "why": "te + esperaba."
+  },
+  {
+   "id": "p8",
+   "en": "We were waiting for you guys.",
+   "es": [
+    "Los esperábamos",
+    "Las esperábamos"
+   ],
+   "why": "los + esperábamos."
+  },
+  {
+   "id": "p9",
+   "en": "I was trying.",
+   "es": [
+    "Intentaba"
+   ],
+   "why": "intentar → intentaba."
+  },
+  {
+   "id": "p10",
+   "en": "They were trying to find it.",
+   "es": [
+    "Intentaban encontrarlo",
+    "Lo intentaban encontrar",
+    "Intentaban encontrarla"
+   ],
+   "why": "intentaban + encontrarlo."
+  },
+  {
+   "id": "p11",
+   "en": "They were trying to find it for me.",
+   "es": [
+    "Intentaban encontrármelo",
+    "Me lo intentaban encontrar",
+    "Intentaban encontrarlo para mí"
+   ],
+   "why": "encontrar + me + lo."
+  },
+  {
+   "id": "p12",
+   "en": "You (informal) used to speak.",
+   "es": [
+    "Hablabas"
+   ],
+   "why": "-abas."
+  }
+ ],
+ "duration": 650.32,
+ "scId": 163245521
+}

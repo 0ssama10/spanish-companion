@@ -1,0 +1,190 @@
+{
+ "id": "68",
+ "track": 68,
+ "title": "este / ese hombre, esto / eso, tan … que, todo el día, cuánto / cuántas veces",
+ "cards": [
+  {
+   "title": "Hook: esta noche",
+   "body": "Use esta noche to rebuild this / that / these / those.",
+   "examples": [
+    {
+     "en": "that night / those nights",
+     "es": "esa noche / esas noches"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "el hombre: este, ese, estos, esos",
+   "body": "Silent h. You'll also hear el hombre este (possibly from Arabic word order, after 800 years of contact).",
+   "examples": [
+    {
+     "en": "this man / that man",
+     "es": "este hombre / ese hombre"
+    },
+    {
+     "en": "these men / those men",
+     "es": "estos hombres / esos hombres"
+    }
+   ],
+   "t": 48.9
+  },
+  {
+   "title": "esto / eso = this / that (general)",
+   "body": "For 'this' or 'that' not referring to a specific noun.",
+   "examples": [
+    {
+     "en": "I don't believe this.",
+     "es": "No creo esto."
+    },
+    {
+     "en": "Nothing pleases me more than this.",
+     "es": "Nada me gusta más que esto."
+    },
+    {
+     "en": "I didn't like anything more than that.",
+     "es": "Nada me gustó más que eso."
+    }
+   ],
+   "t": 147.8
+  },
+  {
+   "title": "tan … que = so … that",
+   "body": "Día is masculine: todo el día = all day. Estábamos sets the past context, so dormimos and llegamos are understood as past.",
+   "examples": [
+    {
+     "en": "I was so tired.",
+     "es": "Estaba tan cansada."
+    },
+    {
+     "en": "We were so tired that we slept all day.",
+     "es": "Estábamos tan cansados que dormimos todo el día."
+    },
+    {
+     "en": "… when we arrived …",
+     "es": "Estábamos tan cansados cuando llegamos que dormimos todo el día."
+    }
+   ],
+   "t": 219.9
+  },
+  {
+   "title": "cuánto = how much; cuántas veces",
+   "body": "Vez is feminine (you know it from otra vez), so cuántas veces.",
+   "examples": [
+    {
+     "en": "I don't know how many times I visited him.",
+     "es": "No sé cuántas veces lo visité."
+    },
+    {
+     "en": "… how many times they visited her.",
+     "es": "No sé cuántas veces la visitaron."
+    }
+   ],
+   "t": 392.0
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "that night",
+   "es": [
+    "esa noche"
+   ],
+   "why": "esta → esa."
+  },
+  {
+   "id": "p2",
+   "en": "this man",
+   "es": [
+    "este hombre",
+    "el hombre este"
+   ],
+   "why": "este (masculine)."
+  },
+  {
+   "id": "p3",
+   "en": "those men",
+   "es": [
+    "esos hombres"
+   ],
+   "why": "esos."
+  },
+  {
+   "id": "p4",
+   "en": "I don't believe this.",
+   "es": [
+    "No creo esto"
+   ],
+   "why": "esto = general 'this'."
+  },
+  {
+   "id": "p5",
+   "en": "Nothing pleases me more than this.",
+   "es": [
+    "Nada me gusta más que esto"
+   ],
+   "why": "más que esto."
+  },
+  {
+   "id": "p6",
+   "en": "I didn't like anything more than that.",
+   "es": [
+    "Nada me gustó más que eso",
+    "No me gustó nada más que eso"
+   ],
+   "why": "gustó + eso."
+  },
+  {
+   "id": "p7",
+   "en": "I was so tired.",
+   "es": [
+    "Estaba tan cansado",
+    "Estaba tan cansada"
+   ],
+   "why": "tan = so."
+  },
+  {
+   "id": "p8",
+   "en": "all day",
+   "es": [
+    "todo el día"
+   ],
+   "why": "el día is masculine."
+  },
+  {
+   "id": "p9",
+   "en": "We were so tired that we slept all day.",
+   "es": [
+    "Estábamos tan cansados que dormimos todo el día",
+    "Estábamos tan cansadas que dormimos todo el día"
+   ],
+   "why": "tan … que."
+  },
+  {
+   "id": "p10",
+   "en": "how many times",
+   "es": [
+    "cuántas veces"
+   ],
+   "why": "la vez → cuántas."
+  },
+  {
+   "id": "p11",
+   "en": "I don't know how many times I visited him.",
+   "es": [
+    "No sé cuántas veces lo visité"
+   ],
+   "why": "lo visité."
+  },
+  {
+   "id": "p12",
+   "en": "I don't know how many times they visited her.",
+   "es": [
+    "No sé cuántas veces la visitaron"
+   ],
+   "why": "la visitaron."
+  }
+ ],
+ "duration": 489.51,
+ "scId": 164200118
+}

@@ -1,0 +1,213 @@
+{
+ "id": "38",
+ "track": 38,
+ "title": "se = himself / herself / themselves; quedarse, darse cuenta",
+ "cards": [
+  {
+   "title": "Recap: me, te, nos also mean -self",
+   "body": "Nos hablamos usually means 'we speak to each other'.",
+   "examples": [
+    {
+     "en": "I speak to myself.",
+     "es": "Me hablo."
+    },
+    {
+     "en": "We speak to each other.",
+     "es": "Nos hablamos."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "se = himself, herself, themselves",
+   "body": "Lo, la, los, las become se for -self / -selves. Think of se as the start of 'self'.",
+   "examples": [
+    {
+     "en": "He speaks to himself.",
+     "es": "(Él) se habla."
+    },
+    {
+     "en": "They speak to themselves.",
+     "es": "Se hablan."
+    },
+    {
+     "en": "They speak to them (another group).",
+     "es": "Les hablan."
+    }
+   ],
+   "t": 86.0
+  },
+  {
+   "title": "quedarse in full",
+   "body": "Before se, there was no way to say 'he stays'.",
+   "examples": [
+    {
+     "en": "Why don't you stay?",
+     "es": "¿Por qué no te quedas?"
+    },
+    {
+     "en": "WE are staying.",
+     "es": "Nosotros nos quedamos."
+    },
+    {
+     "en": "He stays / they stay.",
+     "es": "Se queda. / Se quedan."
+    }
+   ],
+   "t": 159.7
+  },
+  {
+   "title": "quedarse after another verb",
+   "body": "Match the little word to the person.",
+   "examples": [
+    {
+     "en": "I want to stay.",
+     "es": "Quiero quedarme."
+    },
+    {
+     "en": "She wants to stay.",
+     "es": "(Ella) quiere quedarse."
+    },
+    {
+     "en": "You guys want to stay.",
+     "es": "Ustedes quieren quedarse."
+    }
+   ],
+   "t": 317.5
+  },
+  {
+   "title": "Dictionary form: quedarse",
+   "body": "When the '-self' version has its own meaning, dictionaries list it separately with se (oneself): quedar = to remain (also 'to fit / suit': me queda bien); quedarse = to stay. A little word on the end of a 'to' form is written as one word.",
+   "t": 397.3
+  },
+  {
+   "title": "darse cuenta in full",
+   "body": "",
+   "examples": [
+    {
+     "en": "I don't realise.",
+     "es": "No me doy cuenta."
+    },
+    {
+     "en": "She realises.",
+     "es": "(Ella) se da cuenta."
+    },
+    {
+     "en": "They don't realise.",
+     "es": "No se dan cuenta."
+    }
+   ],
+   "t": 461.7
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I speak to myself.",
+   "es": [
+    "Me hablo"
+   ],
+   "why": "me = myself."
+  },
+  {
+   "id": "p2",
+   "en": "He speaks to himself.",
+   "es": [
+    "Se habla",
+    "Él se habla"
+   ],
+   "why": "se = himself."
+  },
+  {
+   "id": "p3",
+   "en": "They speak to themselves.",
+   "es": [
+    "Se hablan",
+    "Ellos se hablan"
+   ],
+   "why": "se hablan."
+  },
+  {
+   "id": "p4",
+   "en": "They speak to them (another group).",
+   "es": [
+    "Les hablan"
+   ],
+   "why": "to them → les."
+  },
+  {
+   "id": "p5",
+   "en": "He's staying.",
+   "es": [
+    "Se queda",
+    "Él se queda"
+   ],
+   "why": "'remains himself'."
+  },
+  {
+   "id": "p6",
+   "en": "They're staying.",
+   "es": [
+    "Se quedan",
+    "Ellos se quedan",
+    "Ellas se quedan"
+   ],
+   "why": "se quedan."
+  },
+  {
+   "id": "p7",
+   "en": "She wants to stay.",
+   "es": [
+    "Quiere quedarse",
+    "Ella quiere quedarse",
+    "Se quiere quedar"
+   ],
+   "why": "quedarse."
+  },
+  {
+   "id": "p8",
+   "en": "You guys want to stay.",
+   "es": [
+    "Quieren quedarse",
+    "Ustedes quieren quedarse",
+    "Se quieren quedar"
+   ],
+   "why": "quieren quedarse."
+  },
+  {
+   "id": "p9",
+   "en": "It suits me well.",
+   "es": [
+    "Me queda bien"
+   ],
+   "why": "quedar can mean 'to fit / suit'."
+  },
+  {
+   "id": "p10",
+   "en": "We don't realise.",
+   "es": [
+    "No nos damos cuenta"
+   ],
+   "why": "nos damos cuenta."
+  },
+  {
+   "id": "p11",
+   "en": "She realises.",
+   "es": [
+    "Se da cuenta",
+    "Ella se da cuenta"
+   ],
+   "why": "se da cuenta."
+  },
+  {
+   "id": "p12",
+   "en": "They don't realise.",
+   "es": [
+    "No se dan cuenta"
+   ],
+   "why": "no se dan cuenta."
+  }
+ ],
+ "duration": 564.82,
+ "scId": 162794025
+}

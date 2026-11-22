@@ -24,9 +24,519 @@
   "practice": 12
  },
  {
+  "id": "05",
+  "track": 5,
+  "title": "yo, te, lo, the rolled r, -ence → -encia",
+  "practice": 12
+ },
+ {
   "id": "06",
   "track": 6,
   "title": "intento, silent h, ahora, voy, v as soft b",
   "practice": 12
+ },
+ {
+  "id": "07",
+  "track": 7,
+  "title": "voy a + verb, los, ver, verbs of movement",
+  "practice": 12
+ },
+ {
+  "id": "08",
+  "track": 8,
+  "title": "la, quiere, questions, venir, debo",
+  "practice": 12
+ },
+ {
+  "id": "09",
+  "track": 9,
+  "title": "saber, sí / si, long sentences, explicar",
+  "practice": 12
+ },
+ {
+  "id": "10",
+  "track": 10,
+  "title": "-ar/-er/-ir, the I form, comer, tener, vengo",
+  "practice": 12
+ },
+ {
+  "id": "11",
+  "track": 11,
+  "title": "-ar verbs: -o, -a, -an, -as; hablar; where lo goes",
+  "practice": 12
+ },
+ {
+  "id": "12",
+  "track": 12,
+  "title": "vender, -er/-ir key sound e, feminine endings, -ity → -idad, me lo / nos lo",
+  "practice": 12
+ },
+ {
+  "id": "13",
+  "track": 13,
+  "title": "hacer, qué, puedo, salgo, esperar, -ary → -ario",
+  "practice": 12
+ },
+ {
+  "id": "14",
+  "track": 14,
+  "title": "sé, él, ella, tengo que, -pose → poner, cuándo",
+  "practice": 12
+ },
+ {
+  "id": "15",
+  "track": 15,
+  "title": "qué pasa, e → ie stem change, pensar, entender, perder",
+  "practice": 12
+ },
+ {
+  "id": "16",
+  "track": 16,
+  "title": "empezar, o → ue stem change, dormir, encontrar, mostrar",
+  "practice": 12
+ },
+ {
+  "id": "17",
+  "track": 17,
+  "title": "Stem changes in all forms, colgar, Arabic words, tomar, we (-amos)",
+  "practice": 12
+ },
+ {
+  "id": "18",
+  "track": 18,
+  "title": "we: -emos / -imos, vivir, aquí, dónde, siempre",
+  "practice": 12
+ },
+ {
+  "id": "19",
+  "track": 19,
+  "title": "bien, bueno, ir: voy/va/vas/van, esta noche, carne, y",
+  "practice": 12
+ },
+ {
+  "id": "20",
+  "track": 20,
+  "title": "pronto, veo, going to + vernos, la semana que viene, nos vemos",
+  "practice": 12
+ },
+ {
+  "id": "21",
+  "track": 21,
+  "title": "The 'have' past: haber + -ado",
+  "practice": 12
+ },
+ {
+  "id": "22",
+  "track": 22,
+  "title": "terminar, -ido, subject pronouns: yo, tú, usted, nosotros, ellos",
+  "practice": 12
+ },
+ {
+  "id": "23",
+  "track": 23,
+  "title": "-ma words are masculine, sentir, getting lost (me he perdido)",
+  "practice": 12
+ },
+ {
+  "id": "24",
+  "track": 24,
+  "title": "dar: doy, da, dan; te lo doy; ustedes",
+  "practice": 12
+ },
+ {
+  "id": "25",
+  "track": 25,
+  "title": "No 'to / for / about', cocinar, times, numbers, quedarse, hasta",
+  "practice": 12
+ },
+ {
+  "id": "26",
+  "track": 26,
+  "title": "quedarse with other verbs, siete, poder, ¿cómo te llamas?",
+  "practice": 12
+ },
+ {
+  "id": "27",
+  "track": 27,
+  "title": "Adjectives after nouns, un / una, words for car, grande, rojo, en",
+  "practice": 12
+ },
+ {
+  "id": "28",
+  "track": 28,
+  "title": "Money words, caro, son, profesor/a, plurals -es, -ive → -ivo, muy",
+  "practice": 12
+ },
+ {
+  "id": "29",
+  "track": 29,
+  "title": "Two verbs for 'to be': ser and estar",
+  "practice": 12
+ },
+ {
+  "id": "30",
+  "track": 30,
+  "title": "¿Cómo estás?, ¿dónde estás?, estar with other verbs, debe = must (probably)",
+  "practice": 12
+ },
+ {
+  "id": "31",
+  "track": 31,
+  "title": "s+consonant → es-, ser: soy, es, son, somos, eres; ¿cómo es?",
+  "practice": 12
+ },
+ {
+  "id": "32",
+  "track": 32,
+  "title": "aburrido with ser / estar, de dónde, libre, persona as a safety net",
+  "practice": 12
+ },
+ {
+  "id": "33",
+  "track": 33,
+  "title": "listo, tan, bueno, feliz: meaning changes with ser / estar",
+  "practice": 12
+ },
+ {
+  "id": "34",
+  "track": 34,
+  "title": "desayunar, the -ing form: estoy + -ando / -iendo",
+  "practice": 12
+ },
+ {
+  "id": "35",
+  "track": 35,
+  "title": "sincero, 'being' = estar siendo, -ing only for right now",
+  "practice": 12
+ },
+ {
+  "id": "36",
+  "track": 36,
+  "title": "con ellos, the future tense: 'to' form + -é, -emos, -á, -án, -ás",
+  "practice": 12
+ },
+ {
+  "id": "37",
+  "track": 37,
+  "title": "Future of dar, me doy cuenta, le / les = to him, to her, to them",
+  "practice": 12
+ },
+ {
+  "id": "38",
+  "track": 38,
+  "title": "se = himself / herself / themselves; quedarse, darse cuenta",
+  "practice": 12
+ },
+ {
+  "id": "39",
+  "track": 39,
+  "title": "Prepositions: con, para, de + él/ella…, mí / ti; hacer un favor; decir",
+  "practice": 12
+ },
+ {
+  "id": "40",
+  "track": 40,
+  "title": "Prepositions differ: enamorarse de, pensar en, soñar con; conmigo, contigo; depender de",
+  "practice": 12
+ },
+ {
+  "id": "41",
+  "track": 41,
+  "title": "bailar, will vs would (-ía), 'gets' = se",
+  "practice": 12
+ },
+ {
+  "id": "42",
+  "track": 42,
+  "title": "gustar = to please (me gusta), me gustaría, podría",
+  "practice": 12
+ },
+ {
+  "id": "43",
+  "track": 43,
+  "title": "habría = would have, me habría gustado, debería = should",
+  "practice": 12
+ },
+ {
+  "id": "44",
+  "track": 44,
+  "title": "More -ma words, este / ese, la mano, manejar, la foto",
+  "practice": 12
+ },
+ {
+  "id": "45",
+  "track": 45,
+  "title": "gustar with le / les, interesar, parecer, me parece bien, ponerle sal",
+  "practice": 12
+ },
+ {
+  "id": "46",
+  "track": 46,
+  "title": "Three pasts; the 'line' past for -ar verbs: -aba",
+  "practice": 12
+ },
+ {
+  "id": "47",
+  "track": 47,
+  "title": "cenar, quemar, romper, se for 'gets', estos / esos",
+  "practice": 12
+ },
+ {
+  "id": "48",
+  "track": 48,
+  "title": "Line past for -er/-ir: -ía; se vende, ¿cómo se dice?, me queda uno",
+  "practice": 12
+ },
+ {
+  "id": "49",
+  "track": 49,
+  "title": "¿Cómo se llamaba?, tenía, tenía que, ayer; irregular: veía, era, iba",
+  "practice": 12
+ },
+ {
+  "id": "50",
+  "track": 50,
+  "title": "para vs por, razón, el día, todos los días, trabajar",
+  "practice": 12
+ },
+ {
+  "id": "51",
+  "track": 51,
+  "title": "estoy para ti / por ti, por for exchanges, 'to' form after prepositions, false friends",
+  "practice": 12
+ },
+ {
+  "id": "52",
+  "track": 52,
+  "title": "para = in order to, -ando in the past, no -ing as a subject, -ante / -iente, days of the week",
+  "practice": 12
+ },
+ {
+  "id": "53",
+  "track": 53,
+  "title": "podía, había + -ido (had done), ya, quería, buscar",
+  "practice": 12
+ },
+ {
+  "id": "54",
+  "track": 54,
+  "title": "haber ido, -ado / -ido as adjectives with estar, cansarse, es una silla mojada",
+  "practice": 12
+ },
+ {
+  "id": "55",
+  "track": 55,
+  "title": "cancelado, complicado, debería haber, podría haber; irregulars: roto, muerto, abierto, dicho, hecho; f ↔ h",
+  "practice": 12
+ },
+ {
+  "id": "56",
+  "track": 56,
+  "title": "No prepositions at the end, working backwards (unir), con que, cuál, quién / quiénes",
+  "practice": 12
+ },
+ {
+  "id": "57",
+  "track": 57,
+  "title": "lo + adjective ('the … thing'), juntos, fácil, así, lo de",
+  "practice": 12
+ },
+ {
+  "id": "58",
+  "track": 58,
+  "title": "The 'dot' past for -ar verbs: -é, -ó; enviar, todavía, olvidar",
+  "practice": 12
+ },
+ {
+  "id": "59",
+  "track": 59,
+  "title": "-er/-ir dot past: -í, -ió; más que yo; nada, nadie; durar, durante, sin parar",
+  "practice": 12
+ },
+ {
+  "id": "60",
+  "track": 60,
+  "title": "We in the dot past: hablamos, comimos, vivimos; cuando; a menudo",
+  "practice": 12
+ },
+ {
+  "id": "61",
+  "track": 61,
+  "title": "Line + dot together, sonar, llegué, me quedé, me gustó / me gustaba, me pareció",
+  "practice": 12
+ },
+ {
+  "id": "62",
+  "track": 62,
+  "title": "dar in the dot past (di, dio), le lo → se lo, clarifying with a él / a ella",
+  "practice": 12
+ },
+ {
+  "id": "63",
+  "track": 63,
+  "title": "acordarse (me acuerdo), clarifying with gustar: le gusta a ella",
+  "practice": 12
+ },
+ {
+  "id": "64",
+  "track": 64,
+  "title": "hace = ago, responder, mes; you: -aste / -iste; they: -aron / -ieron; anoche",
+  "practice": 12
+ },
+ {
+  "id": "65",
+  "track": 65,
+  "title": "nada más, ver in the past, vez / otra vez, a la vez, possessives (mi, tu, nuestro, su), propio",
+  "practice": 12
+ },
+ {
+  "id": "66",
+  "track": 66,
+  "title": "Body parts without 'my' (me duele la pierna), dolor de cabeza, la casa de José, solo",
+  "practice": 12
+ },
+ {
+  "id": "67",
+  "track": 67,
+  "title": "Reading and writing: spelling from convertible words, the stress rule, written accents",
+  "practice": 12
+ },
+ {
+  "id": "68",
+  "track": 68,
+  "title": "este / ese hombre, esto / eso, tan … que, todo el día, cuánto / cuántas veces",
+  "practice": 12
+ },
+ {
+  "id": "69",
+  "track": 69,
+  "title": "The mood tense (subjunctive): swap the endings; quiero que esperes",
+  "practice": 12
+ },
+ {
+  "id": "70",
+  "track": 70,
+  "title": "lo que, necesitar que, faltar / hace falta que, preferir que",
+  "practice": 12
+ },
+ {
+  "id": "71",
+  "track": 71,
+  "title": "contar (cuento), contar con, espero que, vean, the personal a, al",
+  "practice": 12
+ },
+ {
+  "id": "72",
+  "track": 72,
+  "title": "Commands: mood tense for orders, little words after positive commands, the informal shortcut",
+  "practice": 12
+ },
+ {
+  "id": "73",
+  "track": 73,
+  "title": "esperemos, que + mood (let him…), cuando + future → mood tense, vaya",
+  "practice": 12
+ },
+ {
+  "id": "74",
+  "track": 74,
+  "title": "elegir (e → i), por mí, no quiero que se rompa, encontrarse, para que + mood, volver, también",
+  "practice": 12
+ },
+ {
+  "id": "75",
+  "track": 75,
+  "title": "haz (hazlo), wherever / however / whatever with the mood tense, seguir, sea",
+  "practice": 12
+ },
+ {
+  "id": "76",
+  "track": 76,
+  "title": "hay / había (there is, there was), alguien, uncertain existence → mood tense, tiene que haber",
+  "practice": 12
+ },
+ {
+  "id": "77",
+  "track": 77,
+  "title": "debería haber, es + adjective + que + mood, qué fuerte que, está bien que, es necesario que",
+  "practice": 12
+ },
+ {
+  "id": "78",
+  "track": 78,
+  "title": "seguir + -ando, es probable que, gratis, empezar a / empezar -ando, terminar de / terminar -ando",
+  "practice": 12
+ },
+ {
+  "id": "79",
+  "track": 79,
+  "title": "dejar, decirle que + mood (tell him to…), es esencial que, ojalá",
+  "practice": 12
+ },
+ {
+  "id": "80",
+  "track": 80,
+  "title": "The uses of se, and se me … = 'on me' (se me quemó la cena)",
+  "practice": 12
+ },
+ {
+  "id": "81",
+  "track": 81,
+  "title": "volver a = again, the past mood tense (hablara, comiera), quería que, esperaba que",
+  "practice": 12
+ },
+ {
+  "id": "82",
+  "track": 82,
+  "title": "es + adjective + que with past mood, era, avoiding the mood tense with lo + adjective + es que",
+  "practice": 12
+ },
+ {
+  "id": "83",
+  "track": 83,
+  "title": "que + mood = the fact that; si + past mood (if I could…); hubiera; the -ase / -iese form",
+  "practice": 12
+ },
+ {
+  "id": "84",
+  "track": 84,
+  "title": "Tidying irregulars: the '-go' verbs and their mood tense (-ga); venga, dígame, traer",
+  "practice": 12
+ },
+ {
+  "id": "85",
+  "track": 85,
+  "title": "-go verbs in commands: salga, póngalo; informal shortcut drops -go (ten, ven, sal, dime)",
+  "practice": 12
+ },
+ {
+  "id": "86",
+  "track": 86,
+  "title": "-go verbs in the futures: tendré, vendría, pondré, saldrás; haré, diré; podría vs pondría",
+  "practice": 12
+ },
+ {
+  "id": "87",
+  "track": 87,
+  "title": "Irregular line past recap; the irregular dot-past group: tuve, estuve, dije",
+  "practice": 12
+ },
+ {
+  "id": "88",
+  "track": 88,
+  "title": "puse, hice, vine, traje; fui (ser and ir); fueron; past mood from irregulars",
+  "practice": 12
+ },
+ {
+  "id": "89",
+  "track": 89,
+  "title": "Make your own rules: demasiado, el agua, un / algún / ningún",
+  "practice": 12
+ },
+ {
+  "id": "90",
+  "track": 90,
+  "title": "Dialect variations, what to do next, and enjoying the journey",
+  "practice": 0
  }
 ]

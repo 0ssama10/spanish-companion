@@ -120,6 +120,12 @@ function homeView() {
       <div class="row sub" style="margin:0"><span>Streak: <b>${streak()}</b> day${streak() === 1 ? '' : 's'} at goal</span><span class="spacer"></span><span>Counts only time spent listening or practising.</span></div>
       <div class="week">${bars}</div>
     </div>
+    ${(() => {
+      const next = LESSONS.find(l => !S.lessons[l.id]?.finished) || LESSONS[LESSONS.length - 1];
+      const at = S.lessons[next.id]?.position > 10 ? ` · resume at ${mmss(S.lessons[next.id].position)}` : '';
+      return `<div class="panel row" style="margin-top:16px"><span>Next up: <b>Track ${next.track}</b> — ${esc(next.title)}${at}</span>
+        <span class="spacer"></span><a class="btn primary" href="#/lesson/${next.id}">Continue</a></div>`;
+    })()}
     <h2>Lessons</h2>
     <div class="lessons">${rows}</div>
     ${LESSONS.length < 90 ? `<p class="sub" style="margin-top:10px">${LESSONS.length} of 90 tracks prepared so far; more are on the way.</p>` : ''}

@@ -1,0 +1,216 @@
+{
+ "id": "33",
+ "track": 33,
+ "title": "listo, tan, bueno, feliz: meaning changes with ser / estar",
+ "cards": [
+  {
+   "title": "listo: ready (estar) / smart (ser)",
+   "body": "",
+   "examples": [
+    {
+     "en": "I'm ready.",
+     "es": "Estoy listo. / Estoy lista."
+    },
+    {
+     "en": "We're ready.",
+     "es": "(Nosotros) estamos listos. / (Nosotras) estamos listas."
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "ser listo = to be smart",
+   "body": "",
+   "examples": [
+    {
+     "en": "He's smart.",
+     "es": "Es listo."
+    },
+    {
+     "en": "You're very smart (to a woman).",
+     "es": "Eres muy lista."
+    }
+   ],
+   "t": 89.9
+  },
+  {
+   "title": "tan = so",
+   "body": "",
+   "examples": [
+    {
+     "en": "I'm so tired.",
+     "es": "Estoy tan cansado."
+    },
+    {
+     "en": "He's so bored.",
+     "es": "Está tan aburrido."
+    },
+    {
+     "en": "It's so boring.",
+     "es": "Es tan aburrido."
+    }
+   ],
+   "t": 139.0
+  },
+  {
+   "title": "bueno with ser / estar",
+   "body": "For people, ser bueno = to be a good person or good at something; estar bueno usually means attractive or in good shape. With things, the difference is a subtler feeling that varies by dialect.",
+   "examples": [
+    {
+     "en": "They're good (people).",
+     "es": "Son buenos."
+    },
+    {
+     "en": "He's attractive / in good shape.",
+     "es": "Está bueno."
+    }
+   ],
+   "t": 199.5
+  },
+  {
+   "title": "A tool English lacks",
+   "body": "Ser vs estar isn't an obstacle: it's an extra way of expressing reality that you may start missing in English. You learn the nuances by listening.",
+   "t": 278.2
+  },
+  {
+   "title": "cómo está vs cómo es",
+   "body": "",
+   "examples": [
+    {
+     "en": "I want to know how he's doing.",
+     "es": "Quiero saber cómo está."
+    },
+    {
+     "en": "I want to know what he's like.",
+     "es": "Quiero saber cómo es."
+    }
+   ],
+   "t": 351.9
+  },
+  {
+   "title": "feliz = happy",
+   "body": "As in feliz Navidad; felicity → felicidad (happiness). It works with both verbs, but you can't know that from the meaning alone; the persona safety net is always correct.",
+   "examples": [
+    {
+     "en": "I'm happy (now).",
+     "es": "Estoy feliz."
+    },
+    {
+     "en": "I'm a happy person.",
+     "es": "Soy feliz. / Soy una persona feliz."
+    }
+   ],
+   "t": 380.1
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I'm ready.",
+   "es": [
+    "Estoy listo",
+    "Estoy lista"
+   ],
+   "why": "listo + estar = ready."
+  },
+  {
+   "id": "p2",
+   "en": "We're ready (women).",
+   "es": [
+    "Estamos listas",
+    "Nosotras estamos listas"
+   ],
+   "why": "estamos listas."
+  },
+  {
+   "id": "p3",
+   "en": "He's smart.",
+   "es": [
+    "Es listo",
+    "Él es listo"
+   ],
+   "why": "listo + ser = smart."
+  },
+  {
+   "id": "p4",
+   "en": "You're very smart (informal, to a woman).",
+   "es": [
+    "Eres muy lista",
+    "Tú eres muy lista"
+   ],
+   "why": "eres + muy lista."
+  },
+  {
+   "id": "p5",
+   "en": "I'm so tired.",
+   "es": [
+    "Estoy tan cansado",
+    "Estoy tan cansada"
+   ],
+   "why": "tan = so."
+  },
+  {
+   "id": "p6",
+   "en": "It's so boring.",
+   "es": [
+    "Es tan aburrido"
+   ],
+   "why": "Characteristic → es."
+  },
+  {
+   "id": "p7",
+   "en": "He's so bored.",
+   "es": [
+    "Está tan aburrido",
+    "Él está tan aburrido"
+   ],
+   "why": "State → está."
+  },
+  {
+   "id": "p8",
+   "en": "They're good people.",
+   "es": [
+    "Son buenos",
+    "Son buenas",
+    "Son buenas personas"
+   ],
+   "why": "ser bueno = good person."
+  },
+  {
+   "id": "p9",
+   "en": "I want to know how he's doing.",
+   "es": [
+    "Quiero saber cómo está"
+   ],
+   "why": "State → está."
+  },
+  {
+   "id": "p10",
+   "en": "I want to know what he's like.",
+   "es": [
+    "Quiero saber cómo es"
+   ],
+   "why": "Characteristic → es."
+  },
+  {
+   "id": "p11",
+   "en": "happiness",
+   "es": [
+    "felicidad",
+    "la felicidad"
+   ],
+   "why": "felicity → felicidad."
+  },
+  {
+   "id": "p12",
+   "en": "I'm a happy person.",
+   "es": [
+    "Soy una persona feliz",
+    "Soy feliz"
+   ],
+   "why": "Safety net with persona."
+  }
+ ],
+ "duration": 523.62,
+ "scId": 162791390
+}

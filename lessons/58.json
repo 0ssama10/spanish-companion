@@ -1,0 +1,206 @@
+{
+ "id": "58",
+ "track": 58,
+ "title": "The 'dot' past for -ar verbs: -é, -ó; enviar, todavía, olvidar",
+ "cards": [
+  {
+   "title": "The point (dot) in the past",
+   "body": "The 'dot' past (I spoke, I ate: finished events) is messier than the other tenses, but it has its own logic. Use hablar and comer as hooks.",
+   "t": 0
+  },
+  {
+   "title": "-ar dot past: hablé, habló",
+   "body": "Drop -ar: -é for I, -ó for he/she/it/formal you, both stressed. Careful: in this tense 'I' ends in e, not o. HAblo = I speak; haBLÓ = he spoke.",
+   "examples": [
+    {
+     "en": "I spoke / I didn't speak",
+     "es": "hablé / no hablé"
+    },
+    {
+     "en": "he spoke",
+     "es": "habló"
+    }
+   ],
+   "t": 51.8
+  },
+  {
+   "title": "compré, compró",
+   "body": "If an ending feels wrong ('comprir'), try the others; the one you've heard before will stand out.",
+   "examples": [
+    {
+     "en": "I didn't buy it.",
+     "es": "No lo compré."
+    },
+    {
+     "en": "He bought it for me.",
+     "es": "Me lo compró. / Lo compró para mí."
+    }
+   ],
+   "t": 136.4
+  },
+  {
+   "title": "enviar = to send",
+   "body": "Linked to 'envoy'. Free etymology resources (e.g. etymonline.com) are good for curiosity.",
+   "examples": [
+    {
+     "en": "I sent it to you.",
+     "es": "Te lo envié."
+    },
+    {
+     "en": "He sent it yesterday.",
+     "es": "Lo envió ayer."
+    }
+   ],
+   "t": 195.1
+  },
+  {
+   "title": "todavía = still / yet",
+   "body": "Toda + vía, 'all the way'. Splitting long words into parts helps them stick.",
+   "examples": [
+    {
+     "en": "I haven't sent it to you yet.",
+     "es": "No te lo envié todavía."
+    }
+   ],
+   "t": 265.9
+  },
+  {
+   "title": "se envió = it was sent",
+   "body": "'It sent itself.' Work mechanically and you won't add an unwanted lo.",
+   "examples": [
+    {
+     "en": "It was sent yesterday.",
+     "es": "Se envió ayer."
+    }
+   ],
+   "t": 371.5
+  },
+  {
+   "title": "habló conmigo",
+   "body": "",
+   "examples": [
+    {
+     "en": "I don't know why he didn't speak with me.",
+     "es": "No sé por qué no habló conmigo."
+    }
+   ],
+   "t": 445.7
+  },
+  {
+   "title": "olvidar = to forget; el olvido",
+   "body": "El olvido is the experience of forgetting, common in songs (especially tango).",
+   "examples": [
+    {
+     "en": "I was going to do it, but I forgot.",
+     "es": "Lo iba a hacer, pero lo olvidé."
+    }
+   ],
+   "t": 475.8
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I spoke.",
+   "es": [
+    "Hablé"
+   ],
+   "why": "-ar → -é."
+  },
+  {
+   "id": "p2",
+   "en": "He spoke.",
+   "es": [
+    "Habló"
+   ],
+   "why": "-ar → -ó."
+  },
+  {
+   "id": "p3",
+   "en": "I didn't speak.",
+   "es": [
+    "No hablé"
+   ],
+   "why": "I = é, not o."
+  },
+  {
+   "id": "p4",
+   "en": "I bought it.",
+   "es": [
+    "Lo compré",
+    "La compré"
+   ],
+   "why": "compré."
+  },
+  {
+   "id": "p5",
+   "en": "He bought it for me.",
+   "es": [
+    "Me lo compró",
+    "Lo compró para mí"
+   ],
+   "why": "compró."
+  },
+  {
+   "id": "p6",
+   "en": "I sent it to you (informal).",
+   "es": [
+    "Te lo envié"
+   ],
+   "why": "envié."
+  },
+  {
+   "id": "p7",
+   "en": "I haven't sent it to you (informal) yet.",
+   "es": [
+    "No te lo envié todavía",
+    "Todavía no te lo envié"
+   ],
+   "why": "todavía = yet."
+  },
+  {
+   "id": "p8",
+   "en": "She sent it yesterday.",
+   "es": [
+    "Lo envió ayer",
+    "La envió ayer"
+   ],
+   "why": "envió."
+  },
+  {
+   "id": "p9",
+   "en": "It was sent yesterday.",
+   "es": [
+    "Se envió ayer"
+   ],
+   "why": "'It sent itself'."
+  },
+  {
+   "id": "p10",
+   "en": "I don't know why he didn't speak with me.",
+   "es": [
+    "No sé por qué no habló conmigo"
+   ],
+   "why": "habló conmigo."
+  },
+  {
+   "id": "p11",
+   "en": "I forgot.",
+   "es": [
+    "Olvidé"
+   ],
+   "why": "olvidar → olvidé."
+  },
+  {
+   "id": "p12",
+   "en": "I was going to do it, but I forgot.",
+   "es": [
+    "Lo iba a hacer pero lo olvidé",
+    "Iba a hacerlo pero lo olvidé"
+   ],
+   "why": "Line (iba) then dot (olvidé)."
+  }
+ ],
+ "duration": 548.96,
+ "scId": 163737977
+}

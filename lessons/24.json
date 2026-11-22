@@ -1,0 +1,205 @@
+{
+ "id": "24",
+ "track": 24,
+ "title": "dar: doy, da, dan; te lo doy; ustedes",
+ "cards": [
+  {
+   "title": "dar = to give; doy = I give",
+   "body": "Doy rhymes with voy. The rest are regular -ar forms.",
+   "examples": [
+    {
+     "en": "I give it.",
+     "es": "Lo doy."
+    },
+    {
+     "en": "he gives / they give / you give",
+     "es": "da / dan / das"
+    }
+   ],
+   "t": 0
+  },
+  {
+   "title": "Giving something to someone",
+   "body": "",
+   "examples": [
+    {
+     "en": "He's giving me something.",
+     "es": "Él me da algo."
+    },
+    {
+     "en": "They give me something.",
+     "es": "Me dan algo."
+    }
+   ],
+   "t": 69.0
+  },
+  {
+   "title": "me lo dan = they give it to me",
+   "body": "Spanish says 'they give me it': the person word first, then lo, both before the changed verb.",
+   "examples": [
+    {
+     "en": "They give it to me.",
+     "es": "(Ellos) me lo dan."
+    }
+   ],
+   "t": 88.4
+  },
+  {
+   "title": "Te lo doy mañana",
+   "body": "With mañana as future context, the present works: a very natural Spanish sentence.",
+   "examples": [
+    {
+     "en": "I'll give it to you tomorrow.",
+     "es": "Te lo doy mañana."
+    }
+   ],
+   "t": 132.0
+  },
+  {
+   "title": "Work out who does what to whom",
+   "body": "Complicated in English, simple in Spanish: you (formal) give = da; to me = me; it = lo. Usted, yo, él, ella can move around for emphasis; that's best picked up in real conversation.",
+   "examples": [
+    {
+     "en": "Are YOU giving it to me tomorrow?",
+     "es": "¿Usted me lo da mañana? / ¿Me lo da usted mañana?"
+    }
+   ],
+   "t": 160.0
+  },
+  {
+   "title": "ustedes = you all",
+   "body": "Words ending in a consonant add -es for the plural.",
+   "examples": [
+    {
+     "en": "Are you guys giving it to us tomorrow?",
+     "es": "¿(Ustedes) nos lo dan mañana?"
+    }
+   ],
+   "t": 238.4
+  },
+  {
+   "title": "te lo quiero dar",
+   "body": "Work out the verbs first (quiero dar), then 'it' and 'to you'. Person first: te lo.",
+   "examples": [
+    {
+     "en": "I want to give it to you.",
+     "es": "Te lo quiero dar. / Quiero dártelo."
+    }
+   ],
+   "caveat": "The attached form 'dártelo' is standard Spanish too; the lesson uses the version in front.",
+   "t": 303.2
+  }
+ ],
+ "practice": [
+  {
+   "id": "p1",
+   "en": "I give it.",
+   "es": [
+    "Lo doy",
+    "La doy"
+   ],
+   "why": "dar → doy."
+  },
+  {
+   "id": "p2",
+   "en": "She gives.",
+   "es": [
+    "Ella da",
+    "Da"
+   ],
+   "why": "dar → da."
+  },
+  {
+   "id": "p3",
+   "en": "They give.",
+   "es": [
+    "Ellos dan",
+    "Ellas dan",
+    "Dan"
+   ],
+   "why": "dan."
+  },
+  {
+   "id": "p4",
+   "en": "YOU (informal) give.",
+   "es": [
+    "Tú das"
+   ],
+   "why": "tú das."
+  },
+  {
+   "id": "p5",
+   "en": "He's giving me something.",
+   "es": [
+    "Él me da algo",
+    "Me da algo"
+   ],
+   "why": "me before da; algo after."
+  },
+  {
+   "id": "p6",
+   "en": "They give it to me.",
+   "es": [
+    "Me lo dan",
+    "Ellos me lo dan",
+    "Ellas me lo dan"
+   ],
+   "why": "me lo dan."
+  },
+  {
+   "id": "p7",
+   "en": "I'll give it to you (informal) tomorrow.",
+   "es": [
+    "Te lo doy mañana"
+   ],
+   "why": "Present + mañana."
+  },
+  {
+   "id": "p8",
+   "en": "Are you (formal) giving it to me tomorrow?",
+   "es": [
+    "Me lo da mañana",
+    "Usted me lo da mañana",
+    "Me lo da usted mañana"
+   ],
+   "why": "¿Me lo da mañana?"
+  },
+  {
+   "id": "p9",
+   "en": "you guys",
+   "es": [
+    "ustedes"
+   ],
+   "why": "usted + es."
+  },
+  {
+   "id": "p10",
+   "en": "Are you guys giving it to us tomorrow?",
+   "es": [
+    "Nos lo dan mañana",
+    "Ustedes nos lo dan mañana"
+   ],
+   "why": "dan; nos lo."
+  },
+  {
+   "id": "p11",
+   "en": "I want to give.",
+   "es": [
+    "Quiero dar"
+   ],
+   "why": "quiero + dar."
+  },
+  {
+   "id": "p12",
+   "en": "I want to give it to you (informal).",
+   "es": [
+    "Te lo quiero dar",
+    "Quiero dártelo",
+    "Quiero dartelo"
+   ],
+   "why": "te lo + quiero dar."
+  }
+ ],
+ "duration": 344.58,
+ "scId": 162399121
+}
